@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="bein.sports.1.tr"><display-name>beIN Sports 1</display-name></channel>
+<channel id="bein.sports.2.tr"><display-name>beIN Sports 2</display-name></channel>
+<channel id="bein.sports.3.tr"><display-name>beIN Sports 3</display-name></channel>
+<channel id="bein.sports.4.tr"><display-name>beIN Sports 4</display-name></channel>
+<channel id="bein.sports.haber.tr"><display-name>beIN Sports Haber</display-name></channel>
+<programme start="20260102080000 +0300" stop="20260102100000 +0300" channel="bein.sports.2.tr"><title>Ö.Sivasspor - Bandırmaspor</title></programme>
+<programme start="20260102100000 +0300" stop="20260102120000 +0300" channel="bein.sports.2.tr"><title>İ.A.Vanspor FK - A.Hatayspor</title></programme>
+<programme start="20260102120000 +0300" stop="20260102160000 +0300" channel="bein.sports.2.tr"><title>A.G.Pendikspor - E.Erokspor</title></programme>
+<programme start="20260102160000 +0300" stop="20260102180000 +0300" channel="bein.sports.2.tr"><title>Serikspor - Boluspor</title></programme>
+<programme start="20260102180000 +0300" stop="20260102195900 +0300" channel="bein.sports.2.tr"><title>Erzurumspor FK - A.Çorum FK</title></programme>
+<programme start="20260102195900 +0300" stop="20260102215900 +0300" channel="bein.sports.2.tr"><title>Amed S.F. - A.H.Iğdır FK</title></programme>
+<programme start="20260102215900 +0300" stop="20260102235900 +0300" channel="bein.sports.2.tr"><title>AdanaDemirspor - İstanbulspor</title></programme>
+</tv>
