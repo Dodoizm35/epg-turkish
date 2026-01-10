@@ -19,6 +19,7 @@ from typing import Dict, Any, List
 
 import config
 from scrapers import dsmart, beinsports
+from channel_mapping import generate_channel_ids
 
 # Setup logging
 logging.basicConfig(
@@ -41,46 +42,54 @@ def escape_xml(text: str) -> str:
     return escape(text)
 
 
-def generate_xml(channels: List[Dict], programmes: List[Dict]) -> str:
-    """Generate XMLTV format XML"""
+def generate_xml(channels: List[Dict], programmes: List[Dict], channel_aliases: Dict[str, List[str]]) -> str:
+    """Generate XMLTV format XML with multiple channel IDs for compatibility"""
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<!DOCTYPE tv SYSTEM "xmltv.dtd">',
         '<tv generator-info-name="Turkey EPG" generator-info-url="https://github.com/dogukandogan/epg">',
     ]
 
-    # Channel definitions
+    # Channel definitions - create entry for each alias
     for ch in channels:
-        ch_id = escape_xml(ch["id"])
+        primary_id = ch["id"]
         ch_name = escape_xml(ch["name"])
         logo = ch.get("logo", "")
 
-        line = f'  <channel id="{ch_id}">'
-        line += f'<display-name>{ch_name}</display-name>'
-        if logo:
-            line += f'<icon src="{escape_xml(logo)}" />'
-        line += '</channel>'
-        lines.append(line)
+        # Get all aliases for this channel
+        all_ids = channel_aliases.get(primary_id, [primary_id])
 
-    # Programme entries
+        for ch_id in all_ids:
+            line = f'  <channel id="{escape_xml(ch_id)}">'
+            line += f'<display-name>{ch_name}</display-name>'
+            if logo:
+                line += f'<icon src="{escape_xml(logo)}" />'
+            line += '</channel>'
+            lines.append(line)
+
+    # Programme entries - create entry for each alias
     for prog in programmes:
-        ch_id = escape_xml(prog["channel"])
+        primary_id = prog["channel"]
         tz = prog.get("tz", config.TZ_UTC)
         start = xml_time(prog["start"], tz)
         stop = xml_time(prog["stop"], tz)
         title = escape_xml(prog["title"])
 
-        line = f'  <programme start="{start}" stop="{stop}" channel="{ch_id}">'
-        line += f'<title lang="tr">{title}</title>'
+        # Get all aliases for this channel
+        all_ids = channel_aliases.get(primary_id, [primary_id])
 
-        if prog.get("desc"):
-            line += f'<desc lang="tr">{escape_xml(prog["desc"])}</desc>'
+        for ch_id in all_ids:
+            line = f'  <programme start="{start}" stop="{stop}" channel="{escape_xml(ch_id)}">'
+            line += f'<title lang="tr">{title}</title>'
 
-        if prog.get("category"):
-            line += f'<category lang="tr">{escape_xml(prog["category"])}</category>'
+            if prog.get("desc"):
+                line += f'<desc lang="tr">{escape_xml(prog["desc"])}</desc>'
 
-        line += '</programme>'
-        lines.append(line)
+            if prog.get("category"):
+                line += f'<category lang="tr">{escape_xml(prog["category"])}</category>'
+
+            line += '</programme>'
+            lines.append(line)
 
     lines.append('</tv>')
 
@@ -125,8 +134,19 @@ def main():
 
     logger.info(f"Total: {len(merged['channels'])} channels, {len(merged['programmes'])} programmes")
 
+    # Generate channel aliases for universal IPTV compatibility
+    logger.info("Generating channel aliases for IPTV compatibility...")
+    channel_aliases = {}
+    total_aliases = 0
+    for ch in merged["channels"]:
+        aliases = generate_channel_ids(ch["name"], ch["id"])
+        channel_aliases[ch["id"]] = aliases
+        total_aliases += len(aliases)
+
+    logger.info(f"Generated {total_aliases} channel aliases for {len(merged['channels'])} channels")
+
     # Generate XML
-    xml_content = generate_xml(merged["channels"], merged["programmes"])
+    xml_content = generate_xml(merged["channels"], merged["programmes"], channel_aliases)
 
     # Ensure output directory exists
     os.makedirs(config.OUTPUT_DIR, exist_ok=True)
@@ -142,6 +162,7 @@ def main():
     print(f"EPG Generation Complete!")
     print(f"{'='*50}")
     print(f"Channels: {len(merged['channels'])}")
+    print(f"Channel IDs (with aliases): {total_aliases}")
     print(f"Programmes: {len(merged['programmes'])}")
     print(f"Output: {config.OUTPUT_FILE}")
     print(f"{'='*50}\n")
