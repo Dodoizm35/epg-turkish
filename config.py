@@ -4,7 +4,6 @@
 """EPG Configuration"""
 
 import os
-from datetime import datetime
 
 # Output settings
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "epg")
@@ -16,7 +15,8 @@ TZ_UTC = "+0000"
 TZ_TURKEY = "+0300"
 
 # Days to fetch (today + N days)
-DAYS_TO_FETCH = 7
+# 3 days provides buffer if one update fails
+DAYS_TO_FETCH = 3
 
 # Logging
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
