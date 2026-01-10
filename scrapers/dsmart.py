@@ -167,9 +167,10 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                         duration = prog.get("duration", 60)
                         stop_dt = start_dt + timedelta(minutes=duration)
 
-                    # Convert to local time (UTC+3)
-                    start_dt = start_dt + timedelta(hours=3)
-                    stop_dt = stop_dt + timedelta(hours=3)
+                    # Keep as UTC - XMLTV will handle timezone display
+                    # Remove timezone info for naive datetime
+                    start_dt = start_dt.replace(tzinfo=None)
+                    stop_dt = stop_dt.replace(tzinfo=None)
 
                     all_programmes.append({
                         "channel": ch_id,
@@ -178,6 +179,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                         "title": prog_name,
                         "desc": description,
                         "category": genre,
+                        "tz": config.TZ_UTC,  # D-Smart API returns UTC
                     })
                 except (ValueError, TypeError) as e:
                     logger.warning(f"Could not parse programme time: {e}")

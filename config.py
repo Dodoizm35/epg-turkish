@@ -10,8 +10,10 @@ from datetime import datetime
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "epg")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "index.xml")
 
-# Timezone
-TZ = "+0300"
+# Timezone for XMLTV output
+# D-Smart API returns UTC, beIN Sports returns Turkey time
+TZ_UTC = "+0000"
+TZ_TURKEY = "+0300"
 
 # Days to fetch (today + N days)
 DAYS_TO_FETCH = 7

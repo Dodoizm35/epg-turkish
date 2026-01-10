@@ -29,9 +29,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def xml_time(dt: datetime) -> str:
-    """Format datetime for XMLTV"""
-    return dt.strftime("%Y%m%d%H%M%S") + f" {config.TZ}"
+def xml_time(dt: datetime, tz: str) -> str:
+    """Format datetime for XMLTV with timezone"""
+    return dt.strftime("%Y%m%d%H%M%S") + f" {tz}"
 
 
 def escape_xml(text: str) -> str:
@@ -65,8 +65,9 @@ def generate_xml(channels: List[Dict], programmes: List[Dict]) -> str:
     # Programme entries
     for prog in programmes:
         ch_id = escape_xml(prog["channel"])
-        start = xml_time(prog["start"])
-        stop = xml_time(prog["stop"])
+        tz = prog.get("tz", config.TZ_UTC)
+        start = xml_time(prog["start"], tz)
+        stop = xml_time(prog["stop"], tz)
         title = escape_xml(prog["title"])
 
         line = f'  <programme start="{start}" stop="{stop}" channel="{ch_id}">'

@@ -131,6 +131,7 @@ def fetch_all() -> Dict[str, Any]:
                 "title": item["title"],
                 "desc": "",
                 "category": "Sports",
+                "tz": config.TZ_TURKEY,  # beIN Sports returns Turkey time
             })
 
     logger.info(f"beIN Sports: Total {len(channels)} channels, {len(all_programmes)} programmes")
