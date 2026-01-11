@@ -1,0 +1,17 @@
+services:
+  epg:
+    image: ghcr.io/iptv-org/epg:master
+    container_name: tr-epg
+    ports:
+      - "3001:3000"
+    volumes:
+      # Our custom channel list (generated):
+      - ./tr.channels.xml:/epg/channels.xml:ro
+      # Persist generated guide.xml (and optionally guide.xml.gz) on host:
+      - ./public:/epg/public
+    environment:
+      # Every 12 hours (00:00 and 12:00)
+      CRON_SCHEDULE: "0 0,12 * * *"
+      MAX_CONNECTIONS: "10"
+      DAYS: "2"
+      GZIP: "true"
