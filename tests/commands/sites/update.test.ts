@@ -24,5 +24,6 @@ function content(filepath: string) {
     encoding: 'utf8'
   })
 
-  return JSON.stringify(data)
+  // Normalize EOL to avoid platform differences (CRLF vs LF)
+  return JSON.stringify(data.replace(/\r\n/g, '\n'))
 }

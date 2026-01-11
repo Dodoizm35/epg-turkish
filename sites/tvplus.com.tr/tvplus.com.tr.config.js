@@ -36,7 +36,10 @@ module.exports = {
         list
           .filter(i => {
             const starttime = typeof i.starttime === 'number' ? i.starttime : i.starttime
-            return dayjs.utc(starttime).format('YYYY-MM-DD') === date.format('YYYY-MM-DD')
+            return (
+              dayjs.utc(starttime).format('YYYY-MM-DD') === date.format('YYYY-MM-DD') ||
+              dayjs.utc(starttime).add(3, 'hour').format('YYYY-MM-DD') === date.format('YYYY-MM-DD')
+            )
           })
           .forEach(schedule => {
             const [, season, episode] = schedule.seasonInfo?.match(
@@ -65,11 +68,13 @@ module.exports = {
     }
     const channels = []
     const data = await axios
-      .get(`https://tvplus.com.tr/_next/data/${module.exports.buildId}/canli-tv/yayin-akisi.json`)
+      .get(
+        `https://tvplus.com.tr/_next/data/${module.exports.buildId}/tr/canli-tv/yayin-akisi.json`
+      )
       .then(r => r.data)
       .catch(console.error)
 
-    const channels_json = data.pageProps.channelListSsr
+    const channels_json = data.pageProps?.pageData?.channelData || data.pageProps?.channelListSsr || []
 
     channels_json.forEach(channel => {
       channels.push({
