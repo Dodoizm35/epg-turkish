@@ -30,25 +30,28 @@ module.exports = {
     const programs = []
     if (content) {
       const data = JSON.parse(content)
-      if (Array.isArray(data?.pageProps?.allPlaybillList)) {
-        data.pageProps.allPlaybillList
-          .filter(i => i.length && i[0].starttime.startsWith(date.format('YYYY-MM-DD')))
-          .forEach(i => {
-            for (const schedule of i) {
-              const [, season, episode] = schedule.seasonInfo?.match(
-                /(\d+)\. Sezon - (\d+)\. Bölüm/
-              ) || [null, null, null]
-              programs.push({
-                title: schedule.name,
-                description: schedule.introduce,
-                category: schedule.genres,
-                image: schedule.picture,
-                season: season ? parseInt(season) : null,
-                episode: episode ? parseInt(episode) : null,
-                start: dayjs.utc(schedule.starttime),
-                stop: dayjs.utc(schedule.endtime)
-              })
-            }
+      const playbills = data?.pageProps?.pageData?.playbills || data?.pageProps?.allPlaybillList
+      if (Array.isArray(playbills)) {
+        const list = Array.isArray(playbills[0]) ? playbills.flat() : playbills
+        list
+          .filter(i => {
+            const starttime = typeof i.starttime === 'number' ? i.starttime : i.starttime
+            return dayjs.utc(starttime).format('YYYY-MM-DD') === date.format('YYYY-MM-DD')
+          })
+          .forEach(schedule => {
+            const [, season, episode] = schedule.seasonInfo?.match(
+              /(\d+)\. Sezon - (\d+)\. Bölüm/
+            ) || [null, null, null]
+            programs.push({
+              title: schedule.name,
+              description: schedule.introduce,
+              category: schedule.genres,
+              image: schedule.picture?.ad || schedule.picture,
+              season: season ? parseInt(season) : null,
+              episode: episode ? parseInt(episode) : null,
+              start: dayjs.utc(schedule.starttime),
+              stop: dayjs.utc(schedule.endtime)
+            })
           })
       }
     }
