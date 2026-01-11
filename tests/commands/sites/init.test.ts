@@ -31,9 +31,11 @@ it('can create new site config from template', () => {
 })
 
 function content(filepath: string) {
-  return fs.readFileSync(pathToFileURL(filepath), {
+  const data = fs.readFileSync(pathToFileURL(filepath), {
     encoding: 'utf8'
   })
+
+  return data.replace(/\r\n/g, '\n')
 }
 
 function exists(filepath: string) {

@@ -38,7 +38,7 @@ export default [
       '@typescript-eslint/no-require-imports': 'off',
       '@typescript-eslint/no-var-requires': 'off',
       'no-case-declarations': 'off',
-      '@stylistic/linebreak-style': ['error', 'windows'],
+      '@stylistic/linebreak-style': 'off',
 
       quotes: [
         'error',
