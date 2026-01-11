@@ -223,6 +223,8 @@ If you have a question or an idea, you can post it in the [Discussions](https://
 
 Please make sure to read the [Contributing Guide](https://github.com/iptv-org/epg/blob/master/CONTRIBUTING.md) before sending [issue](https://github.com/iptv-org/epg/issues) or a [pull request](https://github.com/iptv-org/epg/pulls).
 
+Using an AI coding assistant? See [AI_ASSISTANT.md](AI_ASSISTANT.md) for a repo-specific workflow and verification checklist.
+
 And thank you to everyone who has already contributed!
 
 ### Backers
