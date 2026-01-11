@@ -11,6 +11,7 @@
     "channels:format": "tsx scripts/commands/channels/format.ts",
     "channels:edit": "tsx scripts/commands/channels/edit.ts",
     "channels:validate": "tsx scripts/commands/channels/validate.ts",
+    "channels:add": "tsx scripts/commands/channels/add.ts",
     "sites:init": "tsx scripts/commands/sites/init.ts",
     "sites:update": "tsx scripts/commands/sites/update.ts",
     "grab": "tsx scripts/commands/epg/grab.ts",

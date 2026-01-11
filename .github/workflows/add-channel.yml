@@ -1,0 +1,128 @@
+name: add-channel
+
+on:
+    workflow_dispatch:
+        inputs:
+            site:
+                description: Site domain (e.g. tvplus.com.tr)
+                required: true
+                type: string
+            site_id:
+                description: Source-specific channel id/slug (site_id)
+                required: true
+                type: string
+            name:
+                description: Channel display name
+                required: true
+                type: string
+            lang:
+                description: Language code (ISO 639-1)
+                required: true
+                type: string
+                default: en
+            xmltv_id:
+                description: Optional xmltv_id (e.g. BBCOne.uk@East). Leave empty if unknown.
+                required: false
+                type: string
+            logo:
+                description: Optional logo URL
+                required: false
+                type: string
+            lcn:
+                description: Optional LCN
+                required: false
+                type: string
+            channels_file:
+                description: Optional explicit target file path (e.g. sites/site/site.channels.xml)
+                required: false
+                type: string
+
+permissions:
+    contents: write
+    pull-requests: write
+
+jobs:
+    main:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v4
+
+            # Use the same GitHub App token mechanism as the existing bot workflows.
+            - uses: tibdex/github-app-token@v1.8.2
+              if: ${{ !env.ACT }}
+              id: create-app-token
+              with:
+                  app_id: ${{ secrets.APP_ID }}
+                  private_key: ${{ secrets.APP_PRIVATE_KEY }}
+
+            - uses: actions/checkout@v4
+              if: ${{ !env.ACT }}
+              with:
+                  token: ${{ steps.create-app-token.outputs.token }}
+
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: 22
+                  cache: npm
+
+            - name: Install dependencies
+              run: SKIP_POSTINSTALL=1 npm install
+
+            - name: Load API data (required for channels:validate)
+              run: npm run postinstall
+
+            - name: Add channel
+              id: add
+              run: |
+                  ARGS=("--site" "${{ inputs.site }}" "--siteId" "${{ inputs.site_id }}" "--name" "${{ inputs.name }}" "--lang" "${{ inputs.lang }}")
+
+                  if [ -n "${{ inputs.xmltv_id }}" ]; then ARGS+=("--xmltvId" "${{ inputs.xmltv_id }}"); fi
+                  if [ -n "${{ inputs.logo }}" ]; then ARGS+=("--logo" "${{ inputs.logo }}"); fi
+                  if [ -n "${{ inputs.lcn }}" ]; then ARGS+=("--lcn" "${{ inputs.lcn }}"); fi
+                  if [ -n "${{ inputs.channels_file }}" ]; then ARGS+=("--file" "${{ inputs.channels_file }}"); fi
+
+                  OUT=$(npm run -s channels:add --- "${ARGS[@]}")
+                  echo "$OUT"
+
+                  FILE=$(echo "$OUT" | sed -n 's/^TARGET_FILE=//p' | head -n 1)
+                  if [ -z "$FILE" ]; then
+                    echo "Failed to detect TARGET_FILE from channels:add output" >&2
+                    exit 1
+                  fi
+                  echo "file=$FILE" >> "$GITHUB_OUTPUT"
+
+            - name: Lint + validate the changed channels file
+              run: |
+                  npm run channels:lint -- "${{ steps.add.outputs.file }}"
+                  npm run channels:validate -- "${{ steps.add.outputs.file }}"
+
+            - name: Create PR
+              env:
+                  GH_TOKEN: ${{ steps.create-app-token.outputs.token }}
+              run: |
+                  # If channels:add was a no-op, there will be nothing to commit.
+                  if git diff --quiet; then
+                    echo "No changes detected; skipping PR creation."
+                    exit 0
+                  fi
+
+                  git config user.name "iptv-bot[bot]"
+                  git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
+
+                  # Simple branch name sanitization.
+                  BRANCH="bot/add-channel-${{ inputs.site }}-${{ inputs.site_id }}"
+                  BRANCH=$(echo "$BRANCH" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9._/-' '-')
+
+                  git checkout -b "$BRANCH"
+                  git add -- "${{ steps.add.outputs.file }}"
+                  git status
+
+                  git commit -m "Add channel: ${{ inputs.name }} (${{ inputs.site }})"
+                  git push -u origin "$BRANCH"
+
+                  gh pr create \
+                    --title "Add channel: ${{ inputs.name }} (${{ inputs.site }})" \
+                    --body "Automated channel add via add-channel workflow.\n\n- site: ${{ inputs.site }}\n- site_id: ${{ inputs.site_id }}\n- lang: ${{ inputs.lang }}\n- xmltv_id: ${{ inputs.xmltv_id }}" \
+                    --base master \
+                    --head "$BRANCH"
