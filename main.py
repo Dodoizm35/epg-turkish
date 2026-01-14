@@ -6,8 +6,8 @@ Turkey EPG Generator
 Generates XMLTV format EPG for Turkish TV channels.
 
 Sources:
-- D-Smart: ~150 channels (general TV)
-- beIN Sports: 5 channels (sports)
+- TV Plus: Turkish TV channels (general TV)
+- beIN Sports: 5 channels (sports) - optional
 """
 
 import os
@@ -18,8 +18,7 @@ from html import escape
 from typing import Dict, Any, List
 
 import config
-from scrapers import dsmart, beinsports
-from channel_mapping import generate_channel_ids
+from scrapers import tvplus, beinsports
 
 # Setup logging
 logging.basicConfig(
@@ -49,58 +48,51 @@ def escape_xml(text: str) -> str:
     return escape(text)
 
 
-def generate_xml(channels: List[Dict], programmes: List[Dict], channel_aliases: Dict[str, List[str]]) -> str:
-    """Generate XMLTV format XML with multiple channel IDs for compatibility"""
+def generate_xml(channels: List[Dict], programmes: List[Dict]) -> str:
+    """Generate XMLTV format XML with proper formatting and single channel IDs"""
     if not isinstance(channels, list):
         raise ValueError(f"channels must be a list, got {type(channels)}")
     if not isinstance(programmes, list):
         raise ValueError(f"programmes must be a list, got {type(programmes)}")
-    if not isinstance(channel_aliases, dict):
-        raise ValueError(f"channel_aliases must be a dict, got {type(channel_aliases)}")
     
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<!DOCTYPE tv SYSTEM "xmltv.dtd">',
-        '<tv generator-info-name="Turkey EPG" generator-info-url="https://github.com/dogukandogan/epg">',
+        '<tv generator-info-name="Turkey EPG">',
     ]
 
-    # Channel definitions - create entry for each alias
+    # Channel definitions - one ID per channel
     for ch in channels:
         if not isinstance(ch, dict):
             logger.warning(f"Skipping invalid channel entry: {ch}")
             continue
         
-        primary_id = ch.get("id")
+        ch_id = ch.get("id")
         ch_name = ch.get("name", "")
         
-        if not primary_id:
+        if not ch_id:
             logger.warning(f"Skipping channel with missing id: {ch}")
             continue
         
         ch_name = escape_xml(ch_name)
         logo = ch.get("logo", "")
 
-        # Get all aliases for this channel
-        all_ids = channel_aliases.get(primary_id, [primary_id])
+        # Format with proper indentation
+        lines.append(f'  <channel id="{escape_xml(ch_id)}">')
+        lines.append(f'    <display-name>{ch_name}</display-name>')
+        if logo:
+            lines.append(f'    <icon src="{escape_xml(logo)}" />')
+        lines.append('  </channel>')
+        lines.append('')  # Empty line for readability
 
-        for ch_id in all_ids:
-            if not ch_id:
-                continue
-            line = f'  <channel id="{escape_xml(ch_id)}">'
-            line += f'<display-name>{ch_name}</display-name>'
-            if logo:
-                line += f'<icon src="{escape_xml(logo)}" />'
-            line += '</channel>'
-            lines.append(line)
-
-    # Programme entries - create entry for each alias
+    # Programme entries - one entry per programme
     for prog in programmes:
         if not isinstance(prog, dict):
             logger.warning(f"Skipping invalid programme entry: {prog}")
             continue
         
-        primary_id = prog.get("channel")
-        if not primary_id:
+        ch_id = prog.get("channel")
+        if not ch_id:
             logger.warning(f"Skipping programme with missing channel: {prog}")
             continue
         
@@ -114,7 +106,7 @@ def generate_xml(channels: List[Dict], programmes: List[Dict], channel_aliases: 
             continue
         
         if not title:
-            logger.debug(f"Programme with empty title on channel {primary_id}")
+            logger.debug(f"Programme with empty title on channel {ch_id}")
             title = "Unknown"
         
         try:
@@ -126,23 +118,17 @@ def generate_xml(channels: List[Dict], programmes: List[Dict], channel_aliases: 
         
         title = escape_xml(title)
 
-        # Get all aliases for this channel
-        all_ids = channel_aliases.get(primary_id, [primary_id])
+        # Format with proper indentation
+        lines.append(f'  <programme start="{start}" stop="{stop}" channel="{escape_xml(ch_id)}">')
+        lines.append(f'    <title lang="tr">{title}</title>')
 
-        for ch_id in all_ids:
-            if not ch_id:
-                continue
-            line = f'  <programme start="{start}" stop="{stop}" channel="{escape_xml(ch_id)}">'
-            line += f'<title lang="tr">{title}</title>'
+        if prog.get("desc"):
+            lines.append(f'    <desc lang="tr">{escape_xml(prog["desc"])}</desc>')
 
-            if prog.get("desc"):
-                line += f'<desc lang="tr">{escape_xml(prog["desc"])}</desc>'
+        if prog.get("category"):
+            lines.append(f'    <category lang="tr">{escape_xml(prog["category"])}</category>')
 
-            if prog.get("category"):
-                line += f'<category lang="tr">{escape_xml(prog["category"])}</category>'
-
-            line += '</programme>'
-            lines.append(line)
+        lines.append('  </programme>')
 
     lines.append('</tv>')
 
@@ -196,12 +182,12 @@ def main():
         logger.info("Starting EPG generation...")
 
         # Fetch from all sources
-        logger.info("Fetching D-Smart EPG...")
+        logger.info("Fetching TV Plus EPG...")
         try:
-            dsmart_data = dsmart.fetch_all()
+            tvplus_data = tvplus.fetch_all()
         except Exception as e:
-            logger.error(f"Failed to fetch D-Smart data: {e}", exc_info=True)
-            dsmart_data = EMPTY_EPG_DATA
+            logger.error(f"Failed to fetch TV Plus data: {e}", exc_info=True)
+            tvplus_data = EMPTY_EPG_DATA
 
         logger.info("Fetching beIN Sports EPG...")
         try:
@@ -211,32 +197,16 @@ def main():
             beinsports_data = EMPTY_EPG_DATA
 
         # Merge all sources
-        merged = merge_data(dsmart_data, beinsports_data)
+        merged = merge_data(tvplus_data, beinsports_data)
 
         logger.info(f"Total: {len(merged['channels'])} channels, {len(merged['programmes'])} programmes")
 
         if len(merged['channels']) == 0:
             logger.warning("No channels found! Generated EPG will be empty.")
 
-        # Generate channel aliases for universal IPTV compatibility
-        logger.info("Generating channel aliases for IPTV compatibility...")
-        channel_aliases = {}
-        total_aliases = 0
-        for ch in merged["channels"]:
-            try:
-                aliases = generate_channel_ids(ch.get("name", ""), ch.get("id", ""))
-                ch_id = ch.get("id")
-                if ch_id:
-                    channel_aliases[ch_id] = aliases
-                    total_aliases += len(aliases)
-            except Exception as e:
-                logger.error(f"Error generating aliases for channel {ch}: {e}")
-
-        logger.info(f"Generated {total_aliases} channel aliases for {len(merged['channels'])} channels")
-
-        # Generate XML
+        # Generate XML with single IDs (no aliases)
         try:
-            xml_content = generate_xml(merged["channels"], merged["programmes"], channel_aliases)
+            xml_content = generate_xml(merged["channels"], merged["programmes"])
         except Exception as e:
             logger.error(f"Failed to generate XML: {e}", exc_info=True)
             return 1
@@ -258,7 +228,6 @@ def main():
         print(f"EPG Generation Complete!")
         print(f"{'='*50}")
         print(f"Channels: {len(merged['channels'])}")
-        print(f"Channel IDs (with aliases): {total_aliases}")
         print(f"Programmes: {len(merged['programmes'])}")
         print(f"Output: {config.OUTPUT_FILE}")
         print(f"{'='*50}\n")

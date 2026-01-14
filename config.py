@@ -15,8 +15,8 @@ TZ_UTC = "+0000"
 TZ_TURKEY = "+0300"
 
 # Days to fetch (today + N days)
-# 3 days provides buffer if one update fails
-DAYS_TO_FETCH = 3
+# Fetch only today's EPG for TiviMate compatibility
+DAYS_TO_FETCH = 1
 
 # Logging
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")

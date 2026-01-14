@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""D-Smart EPG Scraper"""
+"""
+D-Smart EPG Scraper
+
+DEPRECATED: This scraper is no longer used in favor of TV Plus.
+Kept for reference purposes only.
+"""
 
 import requests
 import logging

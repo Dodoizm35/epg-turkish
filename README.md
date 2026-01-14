@@ -4,13 +4,12 @@ IPTV-compatible EPG system for Turkish TV channels with automatic updates.
 
 ## Features
 
-- ✅ **IPTV Compatible**: Generates channel IDs in multiple formats to work with any IPTV player
-- ✅ **Quality Suffix Support**: Supports channel IDs with 4K, HD, FHD, UHD, SD suffixes
+- ✅ **IPTV Compatible**: Simple, clean channel IDs for maximum compatibility
+- ✅ **UTC Timezone**: All times in UTC (+0000) for universal compatibility
 - ✅ **Automatic Updates**: GitHub Actions workflow updates EPG every 6 hours
-- ✅ **Official Logos**: Uses D-Smart's official CDN for channel logos
-- ✅ **Turkey Timezone**: All times displayed in Turkey time (+0300)
-- ✅ **150+ Channels**: Covers major Turkish TV channels from D-Smart and beIN Sports
-- ✅ **3-Day EPG**: Provides program data for today + 2 days
+- ✅ **Official Sources**: Uses TV Plus and beIN Sports official APIs
+- ✅ **150+ Channels**: Covers major Turkish TV channels from TV Plus and beIN Sports
+- ✅ **Today's EPG**: Provides program data for current day
 
 ## Supported Channels
 
@@ -49,21 +48,18 @@ https://dodoizm35.github.io/epg-turkish/epg/index.xml
 
 ## Channel ID Formats
 
-The EPG generates multiple ID formats for each channel to ensure compatibility:
+The EPG uses simple, clean channel IDs for maximum compatibility:
 
-### Example for "Show TV":
-- `Show TV` (with space)
-- `Show TV 4K`, `Show TV HD`, `Show TV FHD`, `Show TV UHD` (with quality suffixes)
-- `ShowTV`, `ShowTV4K`, `ShowTVHD` (CamelCase)
-- `ShowTV.tr`, `showtv.tr` (with .tr domain)
-- `showtv.dsmart.tr` (D-Smart format)
+### Examples:
+- `atv` - ATV
+- `show-tv` - Show TV
+- `kanal-d` - Kanal D
+- `trt1` - TRT 1
+- `fox` - NOW (former FOX)
+- `beinsports1.tr` - beIN Sports 1
+- `beinsports2.tr` - beIN Sports 2
 
-### Example for "Kanal D":
-- `Kanal D` (with space)
-- `Kanal D 4K`, `Kanal D HD` (with quality suffixes)
-- `KanalD`, `KanalD4K`, `KanalDHD` (CamelCase)
-- `KanalD.tr`, `kanald.tr` (with .tr domain)
-- `kanald.dsmart.tr` (D-Smart format)
+Each channel has **one single ID** - no aliases, no quality suffixes.
 
 ## IPTV Player Setup
 
@@ -101,8 +97,8 @@ Output will be written to `epg/index.xml`
 ### Configuration
 
 Edit `config.py` to customize:
-- `DAYS_TO_FETCH`: Number of days to fetch (default: 3)
-- `TZ_TURKEY`: Timezone offset (default: +0300)
+- `DAYS_TO_FETCH`: Number of days to fetch (default: 1)
+- `TZ_UTC`: Timezone offset (always +0000 for UTC)
 - `REQUEST_TIMEOUT`: API timeout in seconds (default: 30)
 
 ## Automatic Updates
@@ -114,8 +110,8 @@ The EPG is automatically updated every 6 hours via GitHub Actions:
 
 ## Data Sources
 
-- **D-Smart**: https://www.dsmart.com.tr/api/v1/public/epg/schedules
-- **beIN Sports**: https://beinsports.com.tr/yayin-akisi
+- **TV Plus**: https://tvplus.com.tr/canli-tv/yayin-akisi (Primary source)
+- **beIN Sports**: https://beinsports.com.tr/yayin-akisi (Sports channels)
 
 ## License
 
@@ -129,14 +125,14 @@ MIT License
 ## Troubleshooting
 
 ### "No Info" in IPTV Player
-Make sure your IPTV playlist channel IDs match the EPG channel IDs. Common formats:
-- `Show TV 4K`, `Kanal D 4K`, `TRT 1 HD`
-- The EPG supports multiple formats automatically
+Make sure your IPTV playlist channel IDs match the EPG channel IDs. Use simple formats:
+- `atv`, `show-tv`, `kanal-d`, `trt1`
+- For beIN Sports: `beinsports1.tr`, `beinsports2.tr`
 
 ### Logos Not Showing
-The EPG uses D-Smart's official CDN. If logos don't appear, check:
+The EPG includes logo URLs from TV Plus. If logos don't appear, check:
 1. Your IPTV player supports icon URLs in EPG
-2. The channel name exactly matches (case-insensitive)
+2. The channel name matches the EPG channel ID
 
 ### Old Program Data
 - EPG updates every 6 hours automatically
