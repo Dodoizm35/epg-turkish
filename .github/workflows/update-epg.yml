@@ -2,16 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    # Run every 6 hours (at 00:00, 06:00, 12:00, and 18:00 UTC)
+    # Her 6 saatte bir çalış (00:00, 06:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual trigger
-  push:
-    branches:
-      - main
-    paths:
-      - '**.py'
-      - 'requirements.txt'
-      - '.github/workflows/update-epg.yml'
+  workflow_dispatch: # Manuel tetikleme
 
 jobs:
   update:
@@ -22,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,5 +37,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add epg/index.xml
           git diff --staged --quiet || git commit -m "Update EPG $(date +'%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
           git push
