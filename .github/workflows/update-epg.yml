@@ -41,4 +41,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add epg/index.xml
           git diff --staged --quiet || git commit -m "Update EPG $(date +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
           git push
