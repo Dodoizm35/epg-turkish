@@ -5,12 +5,16 @@
 
 import requests
 import logging
+import time
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 
 import config
 
 logger = logging.getLogger(__name__)
+
+# Constants
+DEFAULT_PROGRAMME_DURATION_MINUTES = 60
 
 # Channel logo mappings (popular channels)
 CHANNEL_LOGOS = {
@@ -122,20 +126,17 @@ def fetch_day(date: datetime, retry_count: int = 3) -> List[Dict[str, Any]]:
         except requests.Timeout as e:
             logger.warning(f"D-Smart: Timeout for {date_str} (attempt {attempt + 1}/{retry_count}): {e}")
             if attempt < retry_count - 1:
-                import time
                 time.sleep(2 ** attempt)  # Exponential backoff
                 continue
         except requests.HTTPError as e:
             logger.error(f"D-Smart: HTTP error for {date_str} (status {e.response.status_code}): {e}")
             if attempt < retry_count - 1 and e.response.status_code >= 500:
-                import time
                 time.sleep(2 ** attempt)
                 continue
             return []
         except requests.RequestException as e:
             logger.error(f"D-Smart: Request error for {date_str} (attempt {attempt + 1}/{retry_count}): {e}")
             if attempt < retry_count - 1:
-                import time
                 time.sleep(2 ** attempt)
                 continue
         except Exception as e:
@@ -218,10 +219,10 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                     if end_str:
                         stop_dt = datetime.fromisoformat(end_str.replace("Z", "+00:00"))
                     else:
-                        # Default 1 hour if no end time
-                        duration = prog.get("duration", 60)
+                        # Default duration if no end time
+                        duration = prog.get("duration", DEFAULT_PROGRAMME_DURATION_MINUTES)
                         if not isinstance(duration, (int, float)) or duration <= 0:
-                            duration = 60
+                            duration = DEFAULT_PROGRAMME_DURATION_MINUTES
                         stop_dt = start_dt + timedelta(minutes=duration)
 
                     # Keep as UTC - XMLTV will handle timezone display

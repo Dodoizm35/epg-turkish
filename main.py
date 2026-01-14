@@ -29,6 +29,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Constants
+EMPTY_EPG_DATA = {"channels": [], "programmes": []}
+
 
 def xml_time(dt: datetime, tz: str) -> str:
     """Format datetime for XMLTV with timezone"""
@@ -198,14 +201,14 @@ def main():
             dsmart_data = dsmart.fetch_all()
         except Exception as e:
             logger.error(f"Failed to fetch D-Smart data: {e}", exc_info=True)
-            dsmart_data = {"channels": [], "programmes": []}
+            dsmart_data = EMPTY_EPG_DATA
 
         logger.info("Fetching beIN Sports EPG...")
         try:
             beinsports_data = beinsports.fetch_all()
         except Exception as e:
             logger.error(f"Failed to fetch beIN Sports data: {e}", exc_info=True)
-            beinsports_data = {"channels": [], "programmes": []}
+            beinsports_data = EMPTY_EPG_DATA
 
         # Merge all sources
         merged = merge_data(dsmart_data, beinsports_data)

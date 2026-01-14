@@ -7,12 +7,17 @@ import requests
 import re
 import json
 import logging
+import time
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 
 import config
 
 logger = logging.getLogger(__name__)
+
+# Constants
+DEFAULT_LAST_PROGRAMME_DURATION_HOURS = 2
+DEFAULT_FALLBACK_PROGRAMME_DURATION_HOURS = 1
 
 
 def fetch_channel(channel_id: int, url: str, retry_count: int = 3) -> List[Dict[str, Any]]:
@@ -31,7 +36,6 @@ def fetch_channel(channel_id: int, url: str, retry_count: int = 3) -> List[Dict[
             if not html or len(html) < 100:
                 logger.warning(f"beIN Sports: Empty or too short response for channel {channel_id}")
                 if attempt < retry_count - 1:
-                    import time
                     time.sleep(2 ** attempt)
                     continue
                 return []
@@ -46,7 +50,6 @@ def fetch_channel(channel_id: int, url: str, retry_count: int = 3) -> List[Dict[
                 logger.warning(f"beIN Sports: listTvGuides not found for channel {channel_id}")
                 logger.debug(f"beIN Sports: HTML snippet: {html[:500]}")
                 if attempt < retry_count - 1:
-                    import time
                     time.sleep(2 ** attempt)
                     continue
                 return []
@@ -57,7 +60,6 @@ def fetch_channel(channel_id: int, url: str, retry_count: int = 3) -> List[Dict[
                 logger.error(f"beIN Sports: JSON parse error for channel {channel_id}: {e}")
                 logger.debug(f"beIN Sports: Matched content: {match.group(1)[:500]}")
                 if attempt < retry_count - 1:
-                    import time
                     time.sleep(2 ** attempt)
                     continue
                 return []
@@ -72,20 +74,17 @@ def fetch_channel(channel_id: int, url: str, retry_count: int = 3) -> List[Dict[
         except requests.Timeout as e:
             logger.warning(f"beIN Sports: Timeout for channel {channel_id} (attempt {attempt + 1}/{retry_count}): {e}")
             if attempt < retry_count - 1:
-                import time
                 time.sleep(2 ** attempt)
                 continue
         except requests.HTTPError as e:
             logger.error(f"beIN Sports: HTTP error for channel {channel_id} (status {e.response.status_code}): {e}")
             if attempt < retry_count - 1 and e.response.status_code >= 500:
-                import time
                 time.sleep(2 ** attempt)
                 continue
             return []
         except requests.RequestException as e:
             logger.error(f"beIN Sports: Request error for channel {channel_id} (attempt {attempt + 1}/{retry_count}): {e}")
             if attempt < retry_count - 1:
-                import time
                 time.sleep(2 ** attempt)
                 continue
         except Exception as e:
@@ -192,13 +191,13 @@ def fetch_all() -> Dict[str, Any]:
                 # End 1 minute before next programme
                 stop = items[i + 1]["start"] - timedelta(minutes=1)
             else:
-                # Default 2 hours for last programme
-                stop = start + timedelta(hours=2)
+                # Default duration for last programme
+                stop = start + timedelta(hours=DEFAULT_LAST_PROGRAMME_DURATION_HOURS)
             
             # Validate times
             if stop <= start:
                 logger.warning(f"beIN Sports: Invalid programme times for '{item['title']}': stop <= start")
-                stop = start + timedelta(hours=1)  # Fallback to 1 hour
+                stop = start + timedelta(hours=DEFAULT_FALLBACK_PROGRAMME_DURATION_HOURS)  # Fallback duration
 
             all_programmes.append({
                 "channel": xml_id,
