@@ -16,44 +16,46 @@ logger = logging.getLogger(__name__)
 # Constants
 DEFAULT_PROGRAMME_DURATION_MINUTES = 60
 
-# Channel logo mappings (popular channels)
+# Channel logo mappings (official D-Smart CDN)
+# Using D-Smart's official CDN instead of Imgur for better reliability
 CHANNEL_LOGOS = {
-    "kanal d": "https://i.imgur.com/VLwzfXl.png",
-    "show tv": "https://i.imgur.com/M4F2xLv.png",
-    "star": "https://i.imgur.com/Qq1jjVn.png",
-    "atv": "https://i.imgur.com/dCljS6D.png",
-    "trt 1": "https://i.imgur.com/sxNPH7E.png",
-    "kanal 7": "https://i.imgur.com/FoKRxWt.png",
-    "tv8": "https://i.imgur.com/zTVYQ4L.png",
-    "fox": "https://i.imgur.com/qpPRlOE.png",
-    "now": "https://i.imgur.com/OxnVZnP.png",
-    "cnn türk": "https://i.imgur.com/n6evhXW.png",
-    "ntv": "https://i.imgur.com/H7sCQvs.png",
-    "trt haber": "https://i.imgur.com/JxBVWdW.png",
-    "haber türk": "https://i.imgur.com/dSKZZgr.png",
-    "a haber": "https://i.imgur.com/5wAuJHg.png",
-    "haber global": "https://i.imgur.com/FzmYP2l.png",
-    "bloomberg ht": "https://i.imgur.com/Qx5wLHJ.png",
-    "bbc earth": "https://i.imgur.com/0d3rO0V.png",
-    "discovery": "https://i.imgur.com/RkJGLnS.png",
-    "national geographic": "https://i.imgur.com/VhEMz8a.png",
-    "history channel": "https://i.imgur.com/cKF6M3k.png",
-    "trt belgesel": "https://i.imgur.com/7XsJZKl.png",
-    "cartoon network": "https://i.imgur.com/Xj3O3WY.png",
-    "disney channel": "https://i.imgur.com/9G6wBLm.png",
-    "trt çocuk": "https://i.imgur.com/hZpL9Qn.png",
-    "minika go": "https://i.imgur.com/qWLMzLr.png",
-    "minika çocuk": "https://i.imgur.com/m6HN7Ky.png",
-    "eurosport": "https://i.imgur.com/9SMszSC.png",
-    "eurosport 2": "https://i.imgur.com/vpXvPmB.png",
-    "spor smart": "https://i.imgur.com/hLHJFHm.png",
-    "a spor": "https://i.imgur.com/QTkhKjI.png",
-    "trt spor": "https://i.imgur.com/U27aKnE.png",
-    "nba tv": "https://i.imgur.com/aSxJykS.png",
-    "fx": "https://i.imgur.com/LqwxQjN.png",
-    "dmax": "https://i.imgur.com/7MnQxpR.png",
-    "tlc": "https://i.imgur.com/PnspnHV.png",
-    "teve2": "https://i.imgur.com/FrSqFDr.png",
+    "kanal d": "https://dsmart-static-v2.ercdn.net/content/-/EU/11785/Thumbnail.png",
+    "show tv": "https://dsmart-static-v2.ercdn.net/content/E/aM/11889/Thumbnail.png",
+    "star": "https://dsmart-static-v2.ercdn.net/content/E/oG/11875/Thumbnail.png",
+    "atv": "https://dsmart-static-v2.ercdn.net/content/Q/Eq/13351/Thumbnail.png",
+    "trt 1": "https://dsmart-static-v2.ercdn.net/content/Q/ou/11887/Thumbnail.png",
+    "kanal 7": "https://dsmart-static-v2.ercdn.net/content/E/7Y/11821/Thumbnail.png",
+    "tv8": "https://dsmart-static-v2.ercdn.net/content/Q/EJ/11868/Thumbnail.png",
+    "fox": "https://dsmart-static-v2.ercdn.net/content/Q/AK/11882/Thumbnail.png",
+    "now": "https://dsmart-static-v2.ercdn.net/content/Q/AK/11882/Thumbnail.png",  # NOW is former FOX
+    "teve2": "https://dsmart-static-v2.ercdn.net/content/Q/AL/11888/Thumbnail.png",
+    "beyaz tv": "https://dsmart-static-v2.ercdn.net/content/E/ZY/11886/Thumbnail.png",
+    "cnn türk": "https://dsmart-static-v2.ercdn.net/content/E/JA/11897/Thumbnail.png",
+    "ntv": "https://dsmart-static-v2.ercdn.net/content/Q/oN/11852/Thumbnail.png",
+    "trt haber": "https://dsmart-static-v2.ercdn.net/content/E/Kq/11881/Thumbnail.png",
+    "habertürk": "https://dsmart-static-v2.ercdn.net/content/Q/o5/11851/Thumbnail.png",
+    "haber türk": "https://dsmart-static-v2.ercdn.net/content/Q/o5/11851/Thumbnail.png",
+    "a haber": "https://dsmart-static-v2.ercdn.net/content/Q/ou/11886/Thumbnail.png",
+    "haber global": "https://dsmart-static-v2.ercdn.net/content/Q/EG/11849/Thumbnail.png",
+    "bloomberg ht": "https://dsmart-static-v2.ercdn.net/content/Q/ou/11847/Thumbnail.png",
+    "trt spor": "https://dsmart-static-v2.ercdn.net/content/E/aO/11880/Thumbnail.png",
+    "a spor": "https://dsmart-static-v2.ercdn.net/content/Q/E8/11848/Thumbnail.png",
+    "trt belgesel": "https://dsmart-static-v2.ercdn.net/content/E/7I/11879/Thumbnail.png",
+    "trt çocuk": "https://dsmart-static-v2.ercdn.net/content/Q/Es/11878/Thumbnail.png",
+    "cartoon network": "https://dsmart-static-v2.ercdn.net/content/Q/o4/11853/Thumbnail.png",
+    "disney channel": "https://dsmart-static-v2.ercdn.net/content/E/Jw/11855/Thumbnail.png",
+    "minika go": "https://dsmart-static-v2.ercdn.net/content/Q/Em/11856/Thumbnail.png",
+    "minika çocuk": "https://dsmart-static-v2.ercdn.net/content/Q/o2/11857/Thumbnail.png",
+    "national geographic": "https://dsmart-static-v2.ercdn.net/content/Q/o6/11858/Thumbnail.png",
+    "discovery": "https://dsmart-static-v2.ercdn.net/content/Q/Em/11859/Thumbnail.png",
+    "bbc earth": "https://dsmart-static-v2.ercdn.net/content/Q/o3/11860/Thumbnail.png",
+    "eurosport": "https://dsmart-static-v2.ercdn.net/content/E/ae/11861/Thumbnail.png",
+    "eurosport 2": "https://dsmart-static-v2.ercdn.net/content/E/J2/11862/Thumbnail.png",
+    "spor smart": "https://dsmart-static-v2.ercdn.net/content/Q/EF/11863/Thumbnail.png",
+    "nba tv": "https://dsmart-static-v2.ercdn.net/content/Q/ou/11864/Thumbnail.png",
+    "fx": "https://dsmart-static-v2.ercdn.net/content/E/7G/11865/Thumbnail.png",
+    "dmax": "https://dsmart-static-v2.ercdn.net/content/Q/o7/11866/Thumbnail.png",
+    "tlc": "https://dsmart-static-v2.ercdn.net/content/Q/oM/11867/Thumbnail.png",
 }
 
 
@@ -225,7 +227,11 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                             duration = DEFAULT_PROGRAMME_DURATION_MINUTES
                         stop_dt = start_dt + timedelta(minutes=duration)
 
-                    # Keep as UTC - XMLTV will handle timezone display
+                    # Convert UTC to Turkey time (+3 hours)
+                    # D-Smart API returns UTC, but we need to display in Turkey time
+                    start_dt = start_dt + timedelta(hours=3)
+                    stop_dt = stop_dt + timedelta(hours=3)
+                    
                     # Remove timezone info for naive datetime
                     start_dt = start_dt.replace(tzinfo=None)
                     stop_dt = stop_dt.replace(tzinfo=None)
@@ -246,7 +252,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                         "title": prog_name,
                         "desc": description,
                         "category": genre,
-                        "tz": config.TZ_UTC,  # D-Smart API returns UTC
+                        "tz": config.TZ_TURKEY,  # Display in Turkey time
                     })
                 except (ValueError, TypeError) as e:
                     logger.warning(f"D-Smart: Could not parse programme time for '{prog_name}' on {ch_name}: {e}")
