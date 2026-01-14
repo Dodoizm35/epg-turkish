@@ -230,10 +230,14 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                     start_dt = start_dt.replace(tzinfo=None)
                     stop_dt = stop_dt.replace(tzinfo=None)
                     
-                    # Validate times
+                    # Validate times - try to fix invalid times instead of skipping
                     if stop_dt <= start_dt:
-                        logger.warning(f"D-Smart: Invalid programme times for '{prog_name}' on {ch_name}: stop <= start")
-                        continue
+                        # Fix invalid stop time by adding default duration
+                        duration = prog.get("duration", DEFAULT_PROGRAMME_DURATION_MINUTES)
+                        if not isinstance(duration, (int, float)) or duration <= 0:
+                            duration = DEFAULT_PROGRAMME_DURATION_MINUTES
+                        stop_dt = start_dt + timedelta(minutes=duration)
+                        logger.debug(f"D-Smart: Fixed invalid stop time for '{prog_name}' on {ch_name}")
 
                     all_programmes.append({
                         "channel": ch_id,
