@@ -8,7 +8,7 @@ import re
 import json
 import logging
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Any, Optional
 
 import config
@@ -245,7 +245,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
     all_programmes = []
     
     # Get today's date range for filtering (use UTC)
-    today = datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
+    today = datetime.now(tz=timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
     tomorrow = today + timedelta(days=days)
     
     for ch in channels_json:
@@ -290,23 +290,23 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                 continue
             
             try:
-                # Convert timestamp to datetime
+                # Convert timestamp to datetime (use timezone-aware UTC)
                 # TV Plus uses Unix timestamps (could be in seconds or milliseconds)
                 if isinstance(start_time, (int, float)):
                     # If timestamp is larger than threshold, it's in milliseconds
                     if start_time > TIMESTAMP_MILLISECONDS_THRESHOLD:
-                        start_dt = datetime.utcfromtimestamp(start_time / 1000)
+                        start_dt = datetime.fromtimestamp(start_time / 1000, tz=timezone.utc)
                     else:
-                        start_dt = datetime.utcfromtimestamp(start_time)
+                        start_dt = datetime.fromtimestamp(start_time, tz=timezone.utc)
                 else:
                     logger.debug(f"TV Plus: Invalid start_time type for '{title}': {type(start_time)}")
                     continue
                 
                 if end_time is not None and isinstance(end_time, (int, float)):
                     if end_time > TIMESTAMP_MILLISECONDS_THRESHOLD:
-                        stop_dt = datetime.utcfromtimestamp(end_time / 1000)
+                        stop_dt = datetime.fromtimestamp(end_time / 1000, tz=timezone.utc)
                     else:
-                        stop_dt = datetime.utcfromtimestamp(end_time)
+                        stop_dt = datetime.fromtimestamp(end_time, tz=timezone.utc)
                 else:
                     # Default duration if no end time
                     stop_dt = start_dt + timedelta(hours=1)
@@ -318,6 +318,10 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                 # Validate times
                 if stop_dt <= start_dt:
                     stop_dt = start_dt + timedelta(hours=1)
+                
+                # Remove timezone info for naive datetime (for consistency with existing code)
+                start_dt = start_dt.replace(tzinfo=None)
+                stop_dt = stop_dt.replace(tzinfo=None)
                 
                 # Format category
                 category = ""
