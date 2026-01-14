@@ -5,12 +5,16 @@
 
 import requests
 import logging
+import time
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 
 import config
 
 logger = logging.getLogger(__name__)
+
+# Constants
+DEFAULT_PROGRAMME_DURATION_MINUTES = 60
 
 # Channel logo mappings (popular channels)
 CHANNEL_LOGOS = {
@@ -67,8 +71,8 @@ def make_channel_id(channel_name: str, ch_no: int) -> str:
     return f"{slug}.dsmart.tr"
 
 
-def fetch_day(date: datetime) -> List[Dict[str, Any]]:
-    """Fetch EPG data for a specific day"""
+def fetch_day(date: datetime, retry_count: int = 3) -> List[Dict[str, Any]]:
+    """Fetch EPG data for a specific day with retry logic"""
     date_str = date.strftime("%Y-%m-%d")
 
     headers = {
@@ -82,23 +86,65 @@ def fetch_day(date: datetime) -> List[Dict[str, Any]]:
         "limit": config.DSMART_CHANNELS_PER_PAGE,
     }
 
-    try:
-        response = requests.get(
-            config.DSMART_API_URL,
-            headers=headers,
-            params=params,
-            timeout=config.REQUEST_TIMEOUT
-        )
-        response.raise_for_status()
-        data = response.json()
+    for attempt in range(retry_count):
+        try:
+            logger.debug(f"D-Smart: Fetching data for {date_str} (attempt {attempt + 1}/{retry_count})")
+            response = requests.get(
+                config.DSMART_API_URL,
+                headers=headers,
+                params=params,
+                timeout=config.REQUEST_TIMEOUT
+            )
+            response.raise_for_status()
+            
+            # Validate response is JSON
+            try:
+                data = response.json()
+            except ValueError as json_err:
+                logger.error(f"D-Smart: Invalid JSON response for {date_str}: {json_err}")
+                logger.debug(f"D-Smart: Response content: {response.text[:500]}")
+                if attempt < retry_count - 1:
+                    continue
+                return []
 
-        channels = data.get("data", {}).get("channels", [])
-        logger.info(f"D-Smart: Fetched {len(channels)} channels for {date_str}")
-        return channels
+            # Validate response structure
+            if not isinstance(data, dict):
+                logger.error(f"D-Smart: Expected dict response for {date_str}, got {type(data)}")
+                if attempt < retry_count - 1:
+                    continue
+                return []
 
-    except requests.RequestException as e:
-        logger.error(f"D-Smart API error for {date_str}: {e}")
-        return []
+            channels = data.get("data", {}).get("channels", [])
+            
+            if not isinstance(channels, list):
+                logger.error(f"D-Smart: Expected list of channels for {date_str}, got {type(channels)}")
+                return []
+            
+            logger.info(f"D-Smart: Successfully fetched {len(channels)} channels for {date_str}")
+            return channels
+
+        except requests.Timeout as e:
+            logger.warning(f"D-Smart: Timeout for {date_str} (attempt {attempt + 1}/{retry_count}): {e}")
+            if attempt < retry_count - 1:
+                time.sleep(2 ** attempt)  # Exponential backoff
+                continue
+        except requests.HTTPError as e:
+            logger.error(f"D-Smart: HTTP error for {date_str} (status {e.response.status_code}): {e}")
+            if attempt < retry_count - 1 and e.response.status_code >= 500:
+                time.sleep(2 ** attempt)
+                continue
+            return []
+        except requests.RequestException as e:
+            logger.error(f"D-Smart: Request error for {date_str} (attempt {attempt + 1}/{retry_count}): {e}")
+            if attempt < retry_count - 1:
+                time.sleep(2 ** attempt)
+                continue
+        except Exception as e:
+            logger.error(f"D-Smart: Unexpected error for {date_str}: {e}", exc_info=True)
+            return []
+
+    logger.error(f"D-Smart: Failed to fetch data for {date_str} after {retry_count} attempts")
+    return []
 
 
 def fetch_all(days: int = None) -> Dict[str, Any]:
@@ -146,7 +192,16 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
 
             # Parse programmes
             schedule = ch.get("schedule", [])
+            
+            if not isinstance(schedule, list):
+                logger.warning(f"D-Smart: Invalid schedule format for channel {ch_name}")
+                continue
+            
             for prog in schedule:
+                if not isinstance(prog, dict):
+                    logger.debug(f"D-Smart: Invalid programme entry for channel {ch_name}")
+                    continue
+                
                 prog_name = prog.get("program_name", "").strip()
                 start_str = prog.get("start_date")
                 end_str = prog.get("end_date")
@@ -154,6 +209,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                 genre = prog.get("genre", "").strip()
 
                 if not prog_name or not start_str:
+                    logger.debug(f"D-Smart: Missing programme name or start time for channel {ch_name}")
                     continue
 
                 try:
@@ -163,14 +219,21 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                     if end_str:
                         stop_dt = datetime.fromisoformat(end_str.replace("Z", "+00:00"))
                     else:
-                        # Default 1 hour if no end time
-                        duration = prog.get("duration", 60)
+                        # Default duration if no end time
+                        duration = prog.get("duration", DEFAULT_PROGRAMME_DURATION_MINUTES)
+                        if not isinstance(duration, (int, float)) or duration <= 0:
+                            duration = DEFAULT_PROGRAMME_DURATION_MINUTES
                         stop_dt = start_dt + timedelta(minutes=duration)
 
                     # Keep as UTC - XMLTV will handle timezone display
                     # Remove timezone info for naive datetime
                     start_dt = start_dt.replace(tzinfo=None)
                     stop_dt = stop_dt.replace(tzinfo=None)
+                    
+                    # Validate times
+                    if stop_dt <= start_dt:
+                        logger.warning(f"D-Smart: Invalid programme times for '{prog_name}' on {ch_name}: stop <= start")
+                        continue
 
                     all_programmes.append({
                         "channel": ch_id,
@@ -182,7 +245,10 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                         "tz": config.TZ_UTC,  # D-Smart API returns UTC
                     })
                 except (ValueError, TypeError) as e:
-                    logger.warning(f"Could not parse programme time: {e}")
+                    logger.warning(f"D-Smart: Could not parse programme time for '{prog_name}' on {ch_name}: {e}")
+                    continue
+                except Exception as e:
+                    logger.error(f"D-Smart: Unexpected error parsing programme on {ch_name}: {e}", exc_info=True)
                     continue
 
     logger.info(f"D-Smart: Total {len(all_channels)} channels, {len(all_programmes)} programmes")
