@@ -405,6 +405,10 @@
     <display-name>TRT DIYANET COCUK</display-name>
   </channel>
 
+  <channel id="trt-genc">
+    <display-name>TRT GENÇ</display-name>
+  </channel>
+
   <channel id="cnn-international">
     <display-name>CNN International</display-name>
   </channel>
