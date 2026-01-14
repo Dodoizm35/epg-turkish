@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 # Constants
 DEFAULT_LAST_PROGRAMME_DURATION_HOURS = 2
 DEFAULT_FALLBACK_PROGRAMME_DURATION_HOURS = 1
+TURKEY_UTC_OFFSET_HOURS = 3  # Turkey is UTC+3
 
 # Channels that are known to not have EPG data available
 # These will be skipped without warnings to keep logs clean
@@ -240,7 +241,7 @@ def fetch_all() -> Dict[str, Any]:
                 )
                 
                 # beIN Sports returns Turkey time (UTC+3), convert to UTC
-                start_dt = start_dt - timedelta(hours=3)
+                start_dt = start_dt - timedelta(hours=TURKEY_UTC_OFFSET_HOURS)
 
                 programmes_by_channel[ch].append({
                     "start": start_dt,

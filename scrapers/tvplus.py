@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 # Constants
 BASE_URL = "https://tvplus.com.tr/canli-tv/yayin-akisi"
 BUILD_ID_CACHE = None
+TIMESTAMP_MILLISECONDS_THRESHOLD = 10000000000  # Timestamps larger than this are in milliseconds
 
 
 def normalize_slug(name: str) -> str:
@@ -243,8 +244,8 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
     all_channels = {}
     all_programmes = []
     
-    # Get today's date range for filtering
-    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    # Get today's date range for filtering (use UTC)
+    today = datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
     tomorrow = today + timedelta(days=days)
     
     for ch in channels_json:
@@ -292,8 +293,8 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                 # Convert timestamp to datetime
                 # TV Plus uses Unix timestamps (could be in seconds or milliseconds)
                 if isinstance(start_time, (int, float)):
-                    # If timestamp is too large, it's in milliseconds
-                    if start_time > 10000000000:
+                    # If timestamp is larger than threshold, it's in milliseconds
+                    if start_time > TIMESTAMP_MILLISECONDS_THRESHOLD:
                         start_dt = datetime.utcfromtimestamp(start_time / 1000)
                     else:
                         start_dt = datetime.utcfromtimestamp(start_time)
@@ -302,7 +303,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                     continue
                 
                 if end_time is not None and isinstance(end_time, (int, float)):
-                    if end_time > 10000000000:
+                    if end_time > TIMESTAMP_MILLISECONDS_THRESHOLD:
                         stop_dt = datetime.utcfromtimestamp(end_time / 1000)
                     else:
                         stop_dt = datetime.utcfromtimestamp(end_time)
