@@ -277,8 +277,8 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
             if not isinstance(prog, dict):
                 continue
             
-            title = prog.get("name", "").strip()
-            description = prog.get("introduce", "").strip()
+            title = prog.get("name", "").strip() if prog.get("name") else ""
+            description = prog.get("introduce", "").strip() if prog.get("introduce") else ""
             genres = prog.get("genres")
             
             # Parse timestamps (Unix timestamp in milliseconds or seconds)
