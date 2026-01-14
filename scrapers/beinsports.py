@@ -18,7 +18,9 @@ logger = logging.getLogger(__name__)
 # Constants
 DEFAULT_LAST_PROGRAMME_DURATION_HOURS = 2
 DEFAULT_FALLBACK_PROGRAMME_DURATION_HOURS = 1
-TURKEY_UTC_OFFSET_HOURS = 3  # Turkey is UTC+3
+# Turkey is always UTC+3, no DST (Turkey abolished DST in 2016)
+# Simple offset is sufficient and avoids external timezone library dependencies
+TURKEY_UTC_OFFSET_HOURS = 3
 
 # Channels that are known to not have EPG data available
 # These will be skipped without warnings to keep logs clean

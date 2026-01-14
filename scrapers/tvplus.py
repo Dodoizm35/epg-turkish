@@ -17,6 +17,8 @@ logger = logging.getLogger(__name__)
 
 # Constants
 BASE_URL = "https://tvplus.com.tr/canli-tv/yayin-akisi"
+# Simple global cache for buildId - sufficient for single-threaded GitHub Actions runs
+# In a multi-threaded environment, consider using threading.Lock or a class-based approach
 BUILD_ID_CACHE = None
 TIMESTAMP_MILLISECONDS_THRESHOLD = 10000000000  # Timestamps larger than this are in milliseconds
 
@@ -320,6 +322,7 @@ def fetch_all(days: int = None) -> Dict[str, Any]:
                     stop_dt = start_dt + timedelta(hours=1)
                 
                 # Remove timezone info for naive datetime (for consistency with existing code)
+                # The rest of the codebase expects naive UTC datetimes for XMLTV formatting
                 start_dt = start_dt.replace(tzinfo=None)
                 stop_dt = stop_dt.replace(tzinfo=None)
                 
