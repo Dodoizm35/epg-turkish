@@ -30,6 +30,7 @@ DSMART_API_URL = "https://www.dsmart.com.tr/api/v1/public/epg/schedules"
 DSMART_CHANNELS_PER_PAGE = 250
 
 # beIN Sports
+# Note: beIN Sports doesn't provide official CDN logos, using high-quality alternatives
 BEINSPORTS_CHANNELS = {
     1: ("beinsports1.tr", "beIN Sports 1", "https://i.imgur.com/kM9zBTT.png"),
     2: ("beinsports2.tr", "beIN Sports 2", "https://i.imgur.com/BmJOHDc.png"),

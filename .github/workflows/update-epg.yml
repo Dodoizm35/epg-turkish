@@ -35,6 +35,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull --rebase
           git add epg/index.xml
           git diff --staged --quiet || git commit -m "Update EPG $(date +'%Y-%m-%d %H:%M')"
           git push

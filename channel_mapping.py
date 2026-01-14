@@ -215,6 +215,33 @@ def generate_channel_ids(channel_name: str, primary_id: str) -> List[str]:
         for alias in MANUAL_ALIASES[normalized]:
             ids.add(f"{alias}.tr")
 
+    # CRITICAL: Add variants with quality suffixes for IPTV compatibility
+    # Many IPTV providers use formats like "Show TV 4K", "Kanal D HD"
+    quality_suffixes = ["4K", "HD", "FHD", "UHD", "SD"]
+    
+    # Create a clean base name (without .tr suffix) for quality variants
+    base_names = set()
+    
+    # Add CamelCase format with spaces preserved (e.g., "Show TV", "Kanal D")
+    clean_name = channel_name.strip()
+    # Remove existing quality suffixes from the channel name
+    clean_name = re.sub(r'\s*(hd|sd|fhd|uhd|4k)$', '', clean_name, flags=re.IGNORECASE).strip()
+    base_names.add(clean_name)
+    
+    # Add CamelCase without spaces (e.g., "ShowTV", "KanalD")
+    if cc:
+        base_names.add(cc)
+    
+    # Generate IDs with quality suffixes for each base name
+    for base in base_names:
+        for suffix in quality_suffixes:
+            # Format: "Show TV 4K", "Kanal D HD"
+            ids.add(f"{base} {suffix}")
+            # Format: "ShowTV4K", "KanalDHD"
+            no_space = base.replace(" ", "")
+            ids.add(f"{no_space}{suffix}")
+            ids.add(f"{no_space} {suffix}")
+
     # Remove empty strings and duplicates
     ids = {id for id in ids if id}
 
