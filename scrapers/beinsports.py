@@ -238,6 +238,9 @@ def fetch_all() -> Dict[str, Any]:
                 start_dt = event_date.replace(
                     hour=int(h), minute=int(m), second=int(s)
                 )
+                
+                # beIN Sports returns Turkey time (UTC+3), convert to UTC
+                start_dt = start_dt - timedelta(hours=3)
 
                 programmes_by_channel[ch].append({
                     "start": start_dt,
@@ -284,7 +287,7 @@ def fetch_all() -> Dict[str, Any]:
                 "title": item["title"],
                 "desc": "",
                 "category": "Sports",
-                "tz": config.TZ_TURKEY,  # beIN Sports returns Turkey time
+                "tz": config.TZ_UTC,  # All times in UTC
             })
 
     logger.info(f"beIN Sports: Total {len(channels)} channels, {len(all_programmes)} programmes")
