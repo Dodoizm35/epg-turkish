@@ -1599,12 +1599,12 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   </programme>
   <programme start="20260115113000 +0000" stop="20260115120000 +0000" channel="akit-tv">
     <title lang="tr">Ekonomi Ajandası</title>
-    <desc lang="tr">Saatler 14:30&#x27;u gösterdiğinde yurt ve dünya gündeminin piyasalara yansıması, ekonomi bülteni, borsa analizlerinde uzman görüşleri, analitik bakış ve piyasa özetleri hafta içi her gün Ekonomi Ajandası&#x27;nda</desc>
+    <desc lang="tr">Yurt ve dünya gündeminin piyasalara yansıması, ekonomi bülteni, borsa analizlerinde uzman görüşleri, analitik bakış ve piyasa özetleri hafta içi her gün Ekonomi Ajandası&#x27;nda.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260115120000 +0000" stop="20260115130000 +0000" channel="akit-tv">
     <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Gündemi sarsan olaylar, gün içinde olup bitenler, gündeme damgasını vuran siyasiler ve kişiler, yakın plan yansımalarla doğru haberin adresi Akit Haber&#x27;de…</desc>
+    <desc lang="tr">Günün en önemli haberleri ve gelişmeleri Akit TV ekranında izleyicilerle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="akit-tv">
@@ -1614,7 +1614,7 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   </programme>
   <programme start="20260115140000 +0000" stop="20260115143000 +0000" channel="akit-tv">
     <title lang="tr">Akşama Doğru</title>
-    <desc lang="tr">Akit TV&#x27;nin günün ilerleyen saatlerinde yayınlanan Akşama Doğru programı, izleyicilere günün öne çıkan haberlerini ve gelişmelerini detaylı şekilde aktarıyor.</desc>
+    <desc lang="tr">Akit TV&#x27;de yayınlanan Akşama Doğru, günün öne çıkan haberlerini politika, ekonomi ve toplum başlıklarıyla analizler eşliğinde izleyiciye aktarıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260115143000 +0000" stop="20260115153000 +0000" channel="akit-tv">
@@ -1629,7 +1629,7 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   </programme>
   <programme start="20260115173000 +0000" stop="20260115210000 +0000" channel="akit-tv">
     <title lang="tr">Söz Meydanı</title>
-    <desc lang="tr">Türkiye&#x27;nin geleceğini gençlerle masaya yatırıyoruz ! Söz Meydanı Feridun Erdoğral&#x27;ın sunumu ile Pazartesi 20:30&#x27;da Akit TV&#x27;de</desc>
+    <desc lang="tr">Türkiye&#x27;nin geleceği gençlerin bakış açısıyla ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260115000000 +0000" stop="20260115010000 +0000" channel="al-jazeera-arabic">
@@ -14419,15 +14419,10 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">İslam dünyasının en mübarek gecelerinden biri olan Miraç Kandili, Cumhurbaşkanlığı Külliyesi Beştepe Millet Camii’nde çok özel isimlerin eşliğinde karşılanıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260115183000 +0000" stop="20260115204500 +0000" channel="kanal-d">
-    <title lang="tr">Jurassic World: Yıkılmış Krallık</title>
-    <desc lang="tr">Tema parkı ve lüks tatil yeri Jurassic World dinozorlar tarafından yok edileli dört yıl olmuştur. Isla Nublar, hayatta kalan dinozorların ormanlarına sığındığı ve insanlar tarafından terk edilmiş bir yer hâline gelmiştir. Adanın uykuda olan yanardağı harekete geçince, Owen ve Claire adada kalan dinozorların soyunun tükenmesini engellemek için bir kurtarma kampanyası başlatır. Owen, hala ormanın derinliklerinde kayıp olan öncü raptor Blue&#x27;yu bulmak ister, Claire ise bu yaratıklara saygı duyduğunu anlamıştır ve misyonunu yerine getirmeye kararlıdır. Adaya vardıkları sırada lavların da harekete geçmesiyle, bu macera tüm gezegeni, prehistorik çağlardan beri görülmemiş ölümcül bir tuzağa sürükler.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="kanal-d">
-    <title lang="tr">Jurassic World: Yıkılmış Krallık</title>
-    <desc lang="tr">Tema parkı ve lüks tatil yeri Jurassic World dinozorlar tarafından yok edileli dört yıl olmuştur. Isla Nublar, hayatta kalan dinozorların ormanlarına sığındığı ve insanlar tarafından terk edilmiş bir yer hâline gelmiştir. Adanın uykuda olan yanardağı harekete geçince, Owen ve Claire adada kalan dinozorların soyunun tükenmesini engellemek için bir kurtarma kampanyası başlatır. Owen, hala ormanın derinliklerinde kayıp olan öncü raptor Blue&#x27;yu bulmak ister, Claire ise bu yaratıklara saygı duyduğunu anlamıştır ve misyonunu yerine getirmeye kararlıdır. Adaya vardıkları sırada lavların da harekete geçmesiyle, bu macera tüm gezegeni, prehistorik çağlardan beri görülmemiş ölümcül bir tuzağa sürükler.</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260115183000 +0000" stop="20260115210000 +0000" channel="kanal-d">
+    <title lang="tr">Güller ve Günahlar</title>
+    <desc lang="tr">Zeynep ve Serhat&#x27;ın evliliği başta Arif olmak üzere Candan ailesini hayal kırıklığına uğratır. Serhat, Zeynep ve Arif&#x27;in başına gelenlerin sorumlusunu ararken Berrak, yeni taşındığı mahallede Tülay&#x27;ın da yardımı ile komşularına Zeynep&#x27;i ve ailesini kötülemektedir. Otelde çıkan beklenmedik bir olay herkesi derinden sarsacak sonuçlara yol açar.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260115030000 +0000" stop="20260115090000 +0000" channel="kanal-t">
     <title lang="tr">Kanal T</title>
