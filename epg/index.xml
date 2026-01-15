@@ -1399,13 +1399,9 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115135500 +0000" channel="a-para">
+  <programme start="20260115130000 +0000" stop="20260115145500 +0000" channel="a-para">
     <title lang="tr">Piyasa Raporu</title>
     <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260115135500 +0000" stop="20260115145500 +0000" channel="a-para">
-    <title lang="tr">Yatırım Dünyası</title>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260115145500 +0000" stop="20260115150000 +0000" channel="a-para">
     <title lang="tr">Hava Durumu</title>
@@ -3183,207 +3179,199 @@ Kandil özel duası, ilahiler ve kasideler Miraç Kandili Özel programında...<
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260114050000 +0000" stop="20260114065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">AdanaDemirspor - E.Erokspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114070000 +0000" stop="20260114085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sakaryaspor - Bandırmaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114090000 +0000" stop="20260114105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.G.İ.Keçiörengücü-A.Hatayspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114110000 +0000" stop="20260114125900 +0000" channel="beinsports2.tr">
+  <programme start="20260115050000 +0000" stop="20260115065900 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - A.H.Iğdır FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114130000 +0000" stop="20260114145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A.G.Pendikspor - S.Bodrum FK</title>
+  <programme start="20260115070000 +0000" stop="20260115085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.G.İ.Keçiörengücü-A.Hatayspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114150000 +0000" stop="20260114165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - E.Ümraniyespor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114170000 +0000" stop="20260114185900 +0000" channel="beinsports2.tr">
+  <programme start="20260115090000 +0000" stop="20260115105900 +0000" channel="beinsports2.tr">
     <title lang="tr">Ö.Sivasspor - Erzurumspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114190000 +0000" stop="20260114210000 +0000" channel="beinsports2.tr">
+  <programme start="20260115110000 +0000" stop="20260115125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.G.Pendikspor - S.Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115145900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Manisa FK - E.Ümraniyespor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115150000 +0000" stop="20260115165900 +0000" channel="beinsports2.tr">
     <title lang="tr">İ.A.Vanspor FK - Boluspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114044500 +0000" stop="20260114045900 +0000" channel="beinsports3.tr">
+  <programme start="20260115170000 +0000" stop="20260115185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Amed S.F. - A.Çorum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Serikspor - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115044500 +0000" stop="20260115045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114050000 +0000" stop="20260114064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Bournemouth</title>
+  <programme start="20260115050000 +0000" stop="20260115064400 +0000" channel="beinsports3.tr">
+    <title lang="tr">W. Wanderers - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114064500 +0000" stop="20260114065900 +0000" channel="beinsports3.tr">
+  <programme start="20260115064500 +0000" stop="20260115065900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114070000 +0000" stop="20260114084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham United - Fulham</title>
+  <programme start="20260115070000 +0000" stop="20260115085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114084500 +0000" stop="20260114085900 +0000" channel="beinsports3.tr">
+  <programme start="20260115090000 +0000" stop="20260115105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United - Crystal Palace</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115110000 +0000" stop="20260115124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Everton - Arsenal</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260115124500 +0000" stop="20260115125900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Everton</title>
+  <programme start="20260115130000 +0000" stop="20260115144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa-Manchester United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114104500 +0000" stop="20260114105900 +0000" channel="beinsports3.tr">
+  <programme start="20260115144500 +0000" stop="20260115145900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114110000 +0000" stop="20260114124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Chelsea - Aston Villa</title>
+  <programme start="20260115150000 +0000" stop="20260115164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Fulham - Nottingham Forest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114124500 +0000" stop="20260114125900 +0000" channel="beinsports3.tr">
+  <programme start="20260115164500 +0000" stop="20260115165900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114130000 +0000" stop="20260114144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Leeds United</title>
+  <programme start="20260115170000 +0000" stop="20260115172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114144500 +0000" stop="20260114145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260115173000 +0000" stop="20260115175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. City - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114150000 +0000" stop="20260114164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Crystal Palace - Tottenham H.</title>
+  <programme start="20260115180000 +0000" stop="20260115182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton-Hove A. - Sunderland</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114164500 +0000" stop="20260114165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260115183000 +0000" stop="20260115185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Burnley</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114170000 +0000" stop="20260114172900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man. United - Newcastle United</title>
+  <programme start="20260115190000 +0000" stop="20260115192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">W. Wanderers - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114173000 +0000" stop="20260114175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Nottingham F.-Manchester City</title>
+  <programme start="20260115193000 +0000" stop="20260115195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114180000 +0000" stop="20260114182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Brighton-Hove Albion</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114183000 +0000" stop="20260114185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - W. Wanderers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114190000 +0000" stop="20260114192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Bournemouth</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114193000 +0000" stop="20260114195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham United - Fulham</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260114200000 +0000" stop="20260114220000 +0000" channel="beinsports3.tr">
+  <programme start="20260115200000 +0000" stop="20260115220000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114024500 +0000" stop="20260114025900 +0000" channel="beinsports4.tr">
+  <programme start="20260115024500 +0000" stop="20260115025900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114030000 +0000" stop="20260114044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Montpellier - Pau FC</title>
+  <programme start="20260115030000 +0000" stop="20260115044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Stade de Reims - Montpellier</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114044500 +0000" stop="20260114045900 +0000" channel="beinsports4.tr">
+  <programme start="20260115044500 +0000" stop="20260115045900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114050000 +0000" stop="20260114064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Saint-Etienne - Dunkerque</title>
+  <programme start="20260115050000 +0000" stop="20260115064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Saint-Etienne - Nancy</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114064500 +0000" stop="20260114065900 +0000" channel="beinsports4.tr">
+  <programme start="20260115064500 +0000" stop="20260115065900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114070000 +0000" stop="20260114084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nantes - Lens</title>
+  <programme start="20260115070000 +0000" stop="20260115084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M. - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114084500 +0000" stop="20260114085900 +0000" channel="beinsports4.tr">
+  <programme start="20260115084500 +0000" stop="20260115085900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Toulouse - Strasbourg</title>
+  <programme start="20260115090000 +0000" stop="20260115104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Brest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114104500 +0000" stop="20260114105900 +0000" channel="beinsports4.tr">
+  <programme start="20260115104500 +0000" stop="20260115105900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114110000 +0000" stop="20260114124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint-Germain - Rennes</title>
+  <programme start="20260115110000 +0000" stop="20260115124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Havre - Lille</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114124500 +0000" stop="20260114125900 +0000" channel="beinsports4.tr">
+  <programme start="20260115124500 +0000" stop="20260115125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114130000 +0000" stop="20260114144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nice - Angers</title>
+  <programme start="20260115130000 +0000" stop="20260115144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers - Lens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114144500 +0000" stop="20260114145900 +0000" channel="beinsports4.tr">
+  <programme start="20260115144500 +0000" stop="20260115145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114150000 +0000" stop="20260114164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Bayeux-Olympique de Marseille</title>
+  <programme start="20260115150000 +0000" stop="20260115164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Nice</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114164500 +0000" stop="20260114165900 +0000" channel="beinsports4.tr">
+  <programme start="20260115164500 +0000" stop="20260115165900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114170000 +0000" stop="20260114172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Monaco</title>
+  <programme start="20260115170000 +0000" stop="20260115172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique Lyon - Nantes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114173000 +0000" stop="20260114175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nantes - Lens</title>
+  <programme start="20260115173000 +0000" stop="20260115175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Rennes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114180000 +0000" stop="20260114182900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Toulouse - Strasbourg</title>
+  <programme start="20260115180000 +0000" stop="20260115182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Paris Saint-Germain</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114183000 +0000" stop="20260114185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint-Germain - Rennes</title>
+  <programme start="20260115183000 +0000" stop="20260115185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris FC - Auxerre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114190000 +0000" stop="20260114192900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nice - Angers</title>
+  <programme start="20260115190000 +0000" stop="20260115192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M. - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114193000 +0000" stop="20260114195900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Havre - Paris FC</title>
+  <programme start="20260115193000 +0000" stop="20260115195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Brest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114200000 +0000" stop="20260114202900 +0000" channel="beinsports4.tr">
+  <programme start="20260115200000 +0000" stop="20260115202900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260114203000 +0000" stop="20260114223000 +0000" channel="beinsports4.tr">
+  <programme start="20260115203000 +0000" stop="20260115223000 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -14396,14 +14384,9 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Aşkın ve nefretin, dostluğun ve düşmanlığın, iyiliğin ve kötülüğün en uçlarda yaşandığı bir hikaye...</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260115020000 +0000" stop="20260115040000 +0000" channel="kanal-d">
+  <programme start="20260115020000 +0000" stop="20260115060000 +0000" channel="kanal-d">
     <title lang="tr">Üç Kız Kardeş</title>
     <desc lang="tr">Türkan, Dönüş ve Derya... Üç kız kardeş, anne ve babalarıyla mutlu bir hayat sürerken Türkan&#x27;ın yaptığı evlilikle birlikte kara bulutlar ailenin üstünde gezinmeye başlayacak, artık hiçbir şey eskisi gibi olmayacaktır. Türkan, mahsur kaldığı masalsı şatoda mutsuzluğuna kılıflar dikmeye çalışırken Dönüş&#x27;ün hayatı, geçmişten gelen büyük sırla alt üst olacak, Derya da dönüşü olmayan bir yola adım atacaktır.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="kanal-d">
-    <title lang="tr">Yabancı Damat</title>
-    <desc lang="tr">Gaziantep&#x27;in ünlü baklavacısı Kahraman Usta&#x27;nın kızı Nazlı, Ankara da üniversite eğitimini bitirmiş memleketine dönmüştür. Nazlı yakışıklı, yabancı bir gençle tanışır. Bu genç, ailesi İstanbul&#x27;dan Atina&#x27;ya göç etmiş Niko adında bir Yunanlıdır. Nazlı ve Niko birbirlerine deliler gibi aşık olurlar. Ancak Niko&#x27;nun ailesi Türklerden, Nazlı&#x27;nın ailesi de Yunanlılardan pek hoşlanmamaktadır...</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260115060000 +0000" stop="20260115080000 +0000" channel="kanal-d">
@@ -14441,7 +14424,7 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Tema parkı ve lüks tatil yeri Jurassic World dinozorlar tarafından yok edileli dört yıl olmuştur. Isla Nublar, hayatta kalan dinozorların ormanlarına sığındığı ve insanlar tarafından terk edilmiş bir yer hâline gelmiştir. Adanın uykuda olan yanardağı harekete geçince, Owen ve Claire adada kalan dinozorların soyunun tükenmesini engellemek için bir kurtarma kampanyası başlatır. Owen, hala ormanın derinliklerinde kayıp olan öncü raptor Blue&#x27;yu bulmak ister, Claire ise bu yaratıklara saygı duyduğunu anlamıştır ve misyonunu yerine getirmeye kararlıdır. Adaya vardıkları sırada lavların da harekete geçmesiyle, bu macera tüm gezegeni, prehistorik çağlardan beri görülmemiş ölümcül bir tuzağa sürükler.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260115204500 +0000" stop="20260115233000 +0000" channel="kanal-d">
+  <programme start="20260115204500 +0000" stop="20260115230000 +0000" channel="kanal-d">
     <title lang="tr">Jurassic World: Yıkılmış Krallık</title>
     <desc lang="tr">Tema parkı ve lüks tatil yeri Jurassic World dinozorlar tarafından yok edileli dört yıl olmuştur. Isla Nublar, hayatta kalan dinozorların ormanlarına sığındığı ve insanlar tarafından terk edilmiş bir yer hâline gelmiştir. Adanın uykuda olan yanardağı harekete geçince, Owen ve Claire adada kalan dinozorların soyunun tükenmesini engellemek için bir kurtarma kampanyası başlatır. Owen, hala ormanın derinliklerinde kayıp olan öncü raptor Blue&#x27;yu bulmak ister, Claire ise bu yaratıklara saygı duyduğunu anlamıştır ve misyonunu yerine getirmeye kararlıdır. Adaya vardıkları sırada lavların da harekete geçmesiyle, bu macera tüm gezegeni, prehistorik çağlardan beri görülmemiş ölümcül bir tuzağa sürükler.</desc>
     <category lang="tr">Film</category>
@@ -17262,12 +17245,7 @@ Fakat bu her zaman göründüğü kadar kolay farkedilebilecek bir şey değildi
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260115033800 +0000" stop="20260115034000 +0000" channel="nicktoons">
-    <title lang="tr">SpongeBob SquarePants</title>
-    <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260115034000 +0000" stop="20260115040000 +0000" channel="nicktoons">
+  <programme start="20260115033800 +0000" stop="20260115040000 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
@@ -17585,7 +17563,7 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
   </programme>
   <programme start="20260115170000 +0000" stop="20260115210000 +0000" channel="now">
     <title lang="tr">Halef</title>
-    <desc lang="tr">Yelduran ve Kordağlı, Urfa&#x27;daki iki büyük, köklü ailedir. Aralarındaki yıllardır süren husumet, Serhat ve Yıldız&#x27;ın evlenmesi üzerine yapılan bir akitle son bulmuştur. Ancak ailesinden uzak yaşayan ve İstanbul&#x27;da başarılı bir cerrah olan Serhat, bu evliliği hiçbir zaman istememiştir. Üstelik yakın zamanda yurtdışına yerleşme planı yapıyordur. Fakat Serhat&#x27;ın hayatı, Melek&#x27;le tanışınca tamamen değişir. Melek&#x27;e âşık olur ve onunla evlenip İstanbul&#x27;da yeni bir hayat kurmak ister. Ancak Serhat&#x27;ın Urfa&#x27;ya dönüşü, Melek de dahil olmak üzere herkesin hayatını kökten değiştirecektir.</desc>
+    <desc lang="tr">Serhat&#x27;ın gözlerini açması, Akif için her şeyin tersine dönmesi anlamına gelir. Artık sadece konaktaki egemenliğini kaybetmekle kalmayacak, aynı zamanda yaptıklarının da hesabını vermek zorunda kalacaktır. Bu süreçte Yıldız ve Sultan&#x27;ın bildikleri, Akif&#x27;in kaderini belirleyecek en önemli etkenler haline gelir. Öte yandan Serhat&#x27;ın uyanışı, Babahan&#x27;ın himayesinde olan Aşır için de hüküm vaktinin geldiği anlamına gelir. Aşır&#x27;ın sonu yaklaşırken, Ziyan&#x27;ın atacağı adımlar Serhat&#x27;ın vereceği kararda belirleyici olacaktır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260115040000 +0000" stop="20260115060000 +0000" channel="nr1-damar">
@@ -18415,35 +18393,33 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260115040000 +0000" stop="20260115070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115070000 +0000" stop="20260115120000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">En hit müzikler, en güçlü kliplerle Power Hits&#x27;te! Yerli ve yabancı listelerin zirvesindeki şarkılar bu programda.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115120000 +0000" stop="20260115130000 +0000" channel="power-tv">
     <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Güne enerjik bir başlangıç için Power Up! En hareketli klipler ve taze hitler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115130000 +0000" stop="20260115200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">En hit müzikler, en güçlü kliplerle Power Hits&#x27;te! Yerli ve yabancı listelerin zirvesindeki şarkılar bu programda.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115200000 +0000" stop="20260115205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115205900 +0000" stop="20260116040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260115000000 +0000" stop="20260115023000 +0000" channel="s-sport">
     <title lang="tr">Cleveland Cavaliers - Philadelphia 76ers</title>
@@ -19985,6 +19961,49 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
     <title lang="tr">Greenland: Son Sığınak</title>
     <desc lang="tr">Greenland, büyük bir felaketten kurtulmak için mücadele eden bir ailenin hayatına odaklanıyor. Dünya büyük bir tehlike ile karşı karşıyadır. Dünyanın yok olmasına neden olabiliecek bir gök cismi gittikçe dünyaya yaklaşmaktadır. İnsanların kaçabilmesi için önlerinde sadece 48 saat vardır. Hayatta kalmak için zamana karşı yarışan evli bir çift, oğulları ile birlikte felaketten kurtulabilmek için Grönland’daki bir yeraltı sığınağına ulaşmaya çalışır.</desc>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260115063000 +0000" stop="20260115081000 +0000" channel="tabii-spor">
+    <title lang="tr">Basel - Aston Villa</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115081000 +0000" stop="20260115103500 +0000" channel="tabii-spor">
+    <title lang="tr">Everton - Sunderland</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115103500 +0000" stop="20260115130000 +0000" channel="tabii-spor">
+    <title lang="tr">Wrexham - Nottingham Forest</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115130000 +0000" stop="20260115132500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Magazin</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115132500 +0000" stop="20260115150500 +0000" channel="tabii-spor">
+    <title lang="tr">FCSB - Feyenoord</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115150500 +0000" stop="20260115164500 +0000" channel="tabii-spor">
+    <title lang="tr">Celta Vigo - Bologna</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115164500 +0000" stop="20260115183000 +0000" channel="tabii-spor">
+    <title lang="tr">Manchester City - Exheter City</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115183000 +0000" stop="20260115201500 +0000" channel="tabii-spor">
+    <title lang="tr">Tottenham - Aston Villa</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260115201500 +0000" stop="20260115210500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Magazin</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260115013600 +0000" stop="20260115021400 +0000" channel="tabii-tv">
     <title lang="tr">Şaşıfelek Çıkmazı</title>
@@ -24863,7 +24882,7 @@ Bu programda kararı ne uzmanlar ne de sunucu veriyor, son sözü her zaman seyi
   </programme>
   <programme start="20260115170000 +0000" stop="20260115211500 +0000" channel="tv8">
     <title lang="tr">Survivor 2026 Ünlüler - Gönüllüler</title>
-    <desc lang="tr">Heyecan ve mücadelenin hiç dinmediği Survivor 2026 Ünlüler - Gönüllüler rekabet dolu yarışlar ve zorlu ada şartlarıyla ekrana geliyor.</desc>
+    <desc lang="tr">Yarışmada bu akşam ödül oyunu oynayacak. Ödül oyununu hangi takım kazanacak? Oynanacak düellolar izleyenlere heyecan dolu anlar yaşatacak. Gecenin sonunda adaya veda eden isim kim olacak?</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20260115000000 +0000" stop="20260115010000 +0000" channel="tv85">
