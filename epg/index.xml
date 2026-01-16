@@ -2004,7 +2004,11 @@ Yürek burkan kaza ve devamında Behram&#x27;ın vurulması bütün aileyi dehş
   </programme>
   <programme start="20260116053000 +0000" stop="20260116070000 +0000" channel="atv">
     <title lang="tr">Nihat Hatipoğlu Sorularınızı Cevaplıyor</title>
-    <desc lang="tr">Nihat Hatipoğlu, İslam dini ile ilgili kafa karıştıran konular hakkında yorumlar yapıyor ve vatandaşların sorularını yanıtlıyor. Programda her hafta farklı bir konu ele alınıyor.</desc>
+    <desc lang="tr">Bu haftaki programında şu sorular üzerinde duruluyor:
+
+Gelin, kayınvalidesine bakmak zorunda mı? 
+Gelin, kayınvalide ilişkisi nasıl olmalı? 
+Gelin ve kayınvalide birbirlerine nasıl davranmalı?</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260116070000 +0000" stop="20260116100000 +0000" channel="atv">
@@ -3148,35 +3152,35 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260115050000 +0000" stop="20260115065900 +0000" channel="beinsports2.tr">
+  <programme start="20260116050000 +0000" stop="20260116065900 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - A.H.Iğdır FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115070000 +0000" stop="20260115085900 +0000" channel="beinsports2.tr">
+  <programme start="20260116070000 +0000" stop="20260116085900 +0000" channel="beinsports2.tr">
     <title lang="tr">E.G.İ.Keçiörengücü-A.Hatayspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115105900 +0000" channel="beinsports2.tr">
+  <programme start="20260116090000 +0000" stop="20260116105900 +0000" channel="beinsports2.tr">
     <title lang="tr">Ö.Sivasspor - Erzurumspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115110000 +0000" stop="20260115125900 +0000" channel="beinsports2.tr">
+  <programme start="20260116110000 +0000" stop="20260116125900 +0000" channel="beinsports2.tr">
     <title lang="tr">A.G.Pendikspor - S.Bodrum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115145900 +0000" channel="beinsports2.tr">
+  <programme start="20260116130000 +0000" stop="20260116145900 +0000" channel="beinsports2.tr">
     <title lang="tr">Manisa FK - E.Ümraniyespor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115150000 +0000" stop="20260115165900 +0000" channel="beinsports2.tr">
+  <programme start="20260116150000 +0000" stop="20260116165900 +0000" channel="beinsports2.tr">
     <title lang="tr">İ.A.Vanspor FK - Boluspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115170000 +0000" stop="20260115185900 +0000" channel="beinsports2.tr">
+  <programme start="20260116170000 +0000" stop="20260116185900 +0000" channel="beinsports2.tr">
     <title lang="tr">Amed S.F. - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="beinsports2.tr">
+  <programme start="20260116190000 +0000" stop="20260116210000 +0000" channel="beinsports2.tr">
     <title lang="tr">Serikspor - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3256,96 +3260,80 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <title lang="tr">Paris Saint-Germain - Lille</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115024500 +0000" stop="20260115025900 +0000" channel="beinsports4.tr">
+  <programme start="20260116024500 +0000" stop="20260116025900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115030000 +0000" stop="20260115044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Stade de Reims - Montpellier</title>
+  <programme start="20260116030000 +0000" stop="20260116044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Le Mans - Saint-Etienne</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115044500 +0000" stop="20260115045900 +0000" channel="beinsports4.tr">
+  <programme start="20260116044500 +0000" stop="20260116045900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115050000 +0000" stop="20260115064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Saint-Etienne - Nancy</title>
+  <programme start="20260116050000 +0000" stop="20260116064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Montpellier - Dunkerque</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115064500 +0000" stop="20260115065900 +0000" channel="beinsports4.tr">
+  <programme start="20260116064500 +0000" stop="20260116065900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115070000 +0000" stop="20260115084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique de M. - Toulouse</title>
+  <programme start="20260116070000 +0000" stop="20260116084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Rennes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115084500 +0000" stop="20260115085900 +0000" channel="beinsports4.tr">
+  <programme start="20260116084500 +0000" stop="20260116085900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Strasbourg - Brest</title>
+  <programme start="20260116090000 +0000" stop="20260116104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de Marseille-Nantes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115104500 +0000" stop="20260115105900 +0000" channel="beinsports4.tr">
+  <programme start="20260116104500 +0000" stop="20260116105900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115110000 +0000" stop="20260115124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Havre - Lille</title>
+  <programme start="20260116110000 +0000" stop="20260116124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Auxerre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115124500 +0000" stop="20260115125900 +0000" channel="beinsports4.tr">
+  <programme start="20260116124500 +0000" stop="20260116125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115130000 +0000" stop="20260115144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Angers - Lens</title>
+  <programme start="20260116130000 +0000" stop="20260116144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Metz</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115144500 +0000" stop="20260115145900 +0000" channel="beinsports4.tr">
+  <programme start="20260116144500 +0000" stop="20260116145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115150000 +0000" stop="20260115164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Nice</title>
+  <programme start="20260116150000 +0000" stop="20260116164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Havre - Angers</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115164500 +0000" stop="20260115165900 +0000" channel="beinsports4.tr">
+  <programme start="20260116164500 +0000" stop="20260116165900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115170000 +0000" stop="20260115172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique Lyon - Nantes</title>
+  <programme start="20260116170000 +0000" stop="20260116172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115173000 +0000" stop="20260115175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Metz - Rennes</title>
+  <programme start="20260116173000 +0000" stop="20260116175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Preview</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115180000 +0000" stop="20260115182900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Monaco - Paris Saint-Germain</title>
+  <programme start="20260116180000 +0000" stop="20260116195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Lorient</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260115183000 +0000" stop="20260115185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris FC - Auxerre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260115190000 +0000" stop="20260115192900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique de M. - Toulouse</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260115193000 +0000" stop="20260115195900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Strasbourg - Brest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260115200000 +0000" stop="20260115202900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260115203000 +0000" stop="20260115223000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  <programme start="20260116200000 +0000" stop="20260116220000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Coupe de France Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260116020000 +0000" stop="20260116050000 +0000" channel="benguturk">
@@ -4300,12 +4288,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116021000 +0000" stop="20260116022000 +0000" channel="cartoon-network">
-    <title lang="tr">Kral Şakir</title>
-    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260116022000 +0000" stop="20260116023500 +0000" channel="cartoon-network">
+  <programme start="20260116021000 +0000" stop="20260116023500 +0000" channel="cartoon-network">
     <title lang="tr">Kral Şakir</title>
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
@@ -17168,52 +17151,57 @@ Fakat bu her zaman göründüğü kadar kolay farkedilebilecek bir şey değildi
     <desc lang="tr">Andre, Jade&#x27;le bir şarkı üzerinde çalışırken ondan hoşlanmaya başlar. Tori bundan vazgeçmesi için çabalar ama hiçbir şey işe yaramaz. Ve Andre de hislerini sır olarak saklamakta zorlanmaktadır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116001500 +0000" stop="20260116003600 +0000" channel="nicktoons">
+  <programme start="20260116001300 +0000" stop="20260116003500 +0000" channel="nicktoons">
     <title lang="tr">Best and Bester</title>
     <desc lang="tr">Best and Bester are a pair of hilariously individual twins who live in a weird and wonderful alternate reality where your neighbour could be a pair of disgruntled trousers or your best friend a floating cloud of bottom burp. But, unlike their friends and neighbours, Best and Bester have the unique ability to choose a new body every single day and, in doing so, experience life in a completely different way.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116003600 +0000" stop="20260116005700 +0000" channel="nicktoons">
+  <programme start="20260116003500 +0000" stop="20260116005600 +0000" channel="nicktoons">
     <title lang="tr">Best and Bester</title>
     <desc lang="tr">Best and Bester are a pair of hilariously individual twins who live in a weird and wonderful alternate reality where your neighbour could be a pair of disgruntled trousers or your best friend a floating cloud of bottom burp. But, unlike their friends and neighbours, Best and Bester have the unique ability to choose a new body every single day and, in doing so, experience life in a completely different way.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116005700 +0000" stop="20260116011900 +0000" channel="nicktoons">
+  <programme start="20260116005600 +0000" stop="20260116011700 +0000" channel="nicktoons">
     <title lang="tr">Max  and  the Midknights</title>
     <desc lang="tr">As King Gastley searches the kingdom for Max and the others, Max  and  the Midknights learn about a prophecy and devise a plan to escape from Byjovia to find the missing King Conrad.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116011900 +0000" stop="20260116014000 +0000" channel="nicktoons">
+  <programme start="20260116011700 +0000" stop="20260116013800 +0000" channel="nicktoons">
     <title lang="tr">Dora the Explorer</title>
     <desc lang="tr">Dora is an interactive animated series about the cheerful and enterprising young girl Dora who likes to travel through the jungle of South America with her little monkey Boots. Her father and mother live in the jungle. Dora is curious of everything and wants to know about animals, flowers and plants of the forest. When she travels she always take with her a little back with survival equipment and a singing map.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116014000 +0000" stop="20260116020100 +0000" channel="nicktoons">
+  <programme start="20260116013800 +0000" stop="20260116020000 +0000" channel="nicktoons">
     <title lang="tr">The Adventures of Kid Danger</title>
     <desc lang="tr">Join superheroes Kid Danger, Captain Man, and the rest of their crew as they take their sharp wit and amazing crime fighting skills on fun, thrilling adventures like never seen before!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116020100 +0000" stop="20260116022400 +0000" channel="nicktoons">
+  <programme start="20260116020000 +0000" stop="20260116022200 +0000" channel="nicktoons">
     <title lang="tr">Avatar: The Last Airbender</title>
     <desc lang="tr">The animated serie Avatar is about the world&#x27;s power that for long was divided over four nations: Earth, Fire, Water and Air. Only the Avatar was the master of all four elements. Only he could stop the ruthless Fire Nation from conquering the rest of the world. But when the world needed him most, he suddenly disappeared. When eventually the world fell out of balance and was on the edge of total destruction, there was only one Avatar who could save it: the young Aang.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116022400 +0000" stop="20260116024500 +0000" channel="nicktoons">
+  <programme start="20260116022200 +0000" stop="20260116024400 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116024500 +0000" stop="20260116025700 +0000" channel="nicktoons">
+  <programme start="20260116024400 +0000" stop="20260116025500 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116025700 +0000" stop="20260116031800 +0000" channel="nicktoons">
+  <programme start="20260116025500 +0000" stop="20260116031600 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116031800 +0000" stop="20260116034000 +0000" channel="nicktoons">
+  <programme start="20260116031600 +0000" stop="20260116033800 +0000" channel="nicktoons">
+    <title lang="tr">SpongeBob SquarePants</title>
+    <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260116033800 +0000" stop="20260116034000 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
@@ -17248,22 +17236,22 @@ Fakat bu her zaman göründüğü kadar kolay farkedilebilecek bir şey değildi
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116054100 +0000" stop="20260116060300 +0000" channel="nicktoons">
+  <programme start="20260116054100 +0000" stop="20260116060400 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">A young SpongeBob is determined to catch his first jellyfish, so his friends do whatever they can to help him.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116060300 +0000" stop="20260116061500 +0000" channel="nicktoons">
+  <programme start="20260116060400 +0000" stop="20260116061500 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">When SpongeBob and Patrick discover Gary&#x27;s been stealing from other campers, they work all night to right his wrongs.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116061500 +0000" stop="20260116063700 +0000" channel="nicktoons">
+  <programme start="20260116061500 +0000" stop="20260116063800 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">The campers meet two backwoods narwhals named Narlene and Nobby, who treat them to a sweet surprise. // On a rainy day, SpongeBob and his friends entertain themselves indoors with a turbulent game of tag.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116063700 +0000" stop="20260116070000 +0000" channel="nicktoons">
+  <programme start="20260116063800 +0000" stop="20260116070000 +0000" channel="nicktoons">
     <title lang="tr">The Casagrandes</title>
     <desc lang="tr">Hector finally joins his dream soccer team as their good luck charm, but what happens when his luck runs out? // While preparing bao for the Chinese Cultural Fair, Sid and Adelaide face off against time-hopping bandits!</desc>
     <category lang="tr">Çocuk</category>
@@ -17288,97 +17276,97 @@ Fakat bu her zaman göründüğü kadar kolay farkedilebilecek bir şey değildi
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116082800 +0000" stop="20260116085100 +0000" channel="nicktoons">
+  <programme start="20260116082800 +0000" stop="20260116084900 +0000" channel="nicktoons">
     <title lang="tr">Tales of the Teenage Mutant Ninja Turtles</title>
     <desc lang="tr">The Turtles and Mutanimals are caught in the Storm of the Century! But when a new group of SEA MUTANTS threaten the city... Raph will be forced to use his WORDS to save the day.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116085100 +0000" stop="20260116091300 +0000" channel="nicktoons">
+  <programme start="20260116084900 +0000" stop="20260116091100 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick and Squidina report the news around Bikini Bottom. // The Patrick Show presents the epic conclusion to the first half of its first season.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116091300 +0000" stop="20260116092500 +0000" channel="nicktoons">
+  <programme start="20260116091100 +0000" stop="20260116092300 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick devolves back into a baby so he can keep his childhood toys.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116092500 +0000" stop="20260116094700 +0000" channel="nicktoons">
+  <programme start="20260116092300 +0000" stop="20260116094500 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">After a staggering display at the Kamp Science Fair, Plankton takes Sandy under his wing. Her help might become more than he bargained for... // SpongeBob&#x27;s new pal, Camper Bubble Buddy, disappears. Can he solve the case and find justice?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116094700 +0000" stop="20260116100900 +0000" channel="nicktoons">
+  <programme start="20260116094500 +0000" stop="20260116100700 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">The Dinghy cabin campers overnight out of water. Things go awry when they attract the attention of a seagull. // While Paul Grunion, Wilderness Expert, is visiting Kamp Koral, SpongeBob and Patrick&#x27;s mistake causes him to lose all his confidence.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116100900 +0000" stop="20260116103100 +0000" channel="nicktoons">
+  <programme start="20260116100700 +0000" stop="20260116103000 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116103100 +0000" stop="20260116105300 +0000" channel="nicktoons">
+  <programme start="20260116103000 +0000" stop="20260116105200 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116105300 +0000" stop="20260116111600 +0000" channel="nicktoons">
+  <programme start="20260116105200 +0000" stop="20260116111400 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116111600 +0000" stop="20260116112900 +0000" channel="nicktoons">
+  <programme start="20260116111400 +0000" stop="20260116112700 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116112900 +0000" stop="20260116115100 +0000" channel="nicktoons">
+  <programme start="20260116112700 +0000" stop="20260116115000 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116115100 +0000" stop="20260116121400 +0000" channel="nicktoons">
+  <programme start="20260116115000 +0000" stop="20260116121200 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick and Squidina report the news around Bikini Bottom. // The Patrick Show presents the epic conclusion to the first half of its first season.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116121400 +0000" stop="20260116123600 +0000" channel="nicktoons">
+  <programme start="20260116121200 +0000" stop="20260116123400 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">When Cecil&#x27;s boss visits the house, the Stars get trapped in a sitcom. // When Squidina is bedridden, Patrick has to run his show without her.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116123600 +0000" stop="20260116125800 +0000" channel="nicktoons">
+  <programme start="20260116123400 +0000" stop="20260116125600 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116125800 +0000" stop="20260116132100 +0000" channel="nicktoons">
+  <programme start="20260116125600 +0000" stop="20260116131900 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116132100 +0000" stop="20260116133300 +0000" channel="nicktoons">
+  <programme start="20260116131900 +0000" stop="20260116133000 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116133300 +0000" stop="20260116135200 +0000" channel="nicktoons">
+  <programme start="20260116133000 +0000" stop="20260116134800 +0000" channel="nicktoons">
     <title lang="tr">Sonic Prime</title>
     <desc lang="tr">The epic battle continues. Grim Big proves a devastating weapon and Sonic finds himself on the ropes until he receives help from Shadow! Even after Sonic and friends rally, Nine&#x27;s power proves too great. Finally, Sonic cooks up a bold plan and fails.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116135200 +0000" stop="20260116140400 +0000" channel="nicktoons">
+  <programme start="20260116134800 +0000" stop="20260116140300 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">With Sandy&#x27;s guidance, Patrick hosts a science show.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116140400 +0000" stop="20260116142600 +0000" channel="nicktoons">
+  <programme start="20260116140300 +0000" stop="20260116142500 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Cecil shows Patrick his mustache collection. // The Star family brings a mandrake root into their home.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116142600 +0000" stop="20260116144900 +0000" channel="nicktoons">
+  <programme start="20260116142500 +0000" stop="20260116144900 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick hosts an award ceremony. // Captain Doug Quasar meets Pat-Tron&#x27;s robot family.</desc>
     <category lang="tr">Çocuk</category>
@@ -17393,87 +17381,87 @@ Fakat bu her zaman göründüğü kadar kolay farkedilebilecek bir şey değildi
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116152300 +0000" stop="20260116154500 +0000" channel="nicktoons">
+  <programme start="20260116152300 +0000" stop="20260116154600 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents: A New Wish</title>
     <desc lang="tr">Dev&#x27;s dad, tech magnate Dale Dimmadome, creates an app designed to track kids&#x27; wants at the annual Founder&#x27;s Day Festival, but Hazel shows up as an anomaly thanks to Cosmo and Wanda&#x27;s wish granting. Dale programs giant robots to track her down.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116154500 +0000" stop="20260116160900 +0000" channel="nicktoons">
+  <programme start="20260116154600 +0000" stop="20260116160800 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">There is never a dull moment in the Loud house! 11-year-old Lincoln Loud has what it takes to survive in the chaos of a huge household, especially as the only boy with 10 sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116160900 +0000" stop="20260116163100 +0000" channel="nicktoons">
+  <programme start="20260116160800 +0000" stop="20260116163000 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">There is never a dull moment in the Loud house! 11-year-old Lincoln Loud has what it takes to survive in the chaos of a huge household, especially as the only boy with 10 sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116163100 +0000" stop="20260116165200 +0000" channel="nicktoons">
+  <programme start="20260116163000 +0000" stop="20260116164900 +0000" channel="nicktoons">
     <title lang="tr">Sonic Prime</title>
     <desc lang="tr">The epic battle continues. Grim Big proves a devastating weapon and Sonic finds himself on the ropes until he receives help from Shadow! Even after Sonic and friends rally, Nine&#x27;s power proves too great. Finally, Sonic cooks up a bold plan and fails.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116165200 +0000" stop="20260116170700 +0000" channel="nicktoons">
+  <programme start="20260116164900 +0000" stop="20260116170200 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116170700 +0000" stop="20260116172800 +0000" channel="nicktoons">
+  <programme start="20260116170200 +0000" stop="20260116172500 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116172800 +0000" stop="20260116175000 +0000" channel="nicktoons">
+  <programme start="20260116172500 +0000" stop="20260116174800 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116175000 +0000" stop="20260116181200 +0000" channel="nicktoons">
+  <programme start="20260116174800 +0000" stop="20260116181100 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116181200 +0000" stop="20260116183500 +0000" channel="nicktoons">
+  <programme start="20260116181100 +0000" stop="20260116183300 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick and Squidina report the news around Bikini Bottom. // The Patrick Show presents the epic conclusion to the first half of its first season.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116183500 +0000" stop="20260116184700 +0000" channel="nicktoons">
+  <programme start="20260116183300 +0000" stop="20260116184500 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116184700 +0000" stop="20260116190200 +0000" channel="nicktoons">
+  <programme start="20260116184500 +0000" stop="20260116185800 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116190200 +0000" stop="20260116192600 +0000" channel="nicktoons">
+  <programme start="20260116185800 +0000" stop="20260116192200 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">There is never a dull moment in the Loud house! 11-year-old Lincoln Loud has what it takes to survive in the chaos of a huge household, especially as the only boy with 10 sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116192600 +0000" stop="20260116194900 +0000" channel="nicktoons">
+  <programme start="20260116192200 +0000" stop="20260116194500 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents</title>
     <desc lang="tr">The Fairly OddParents tells about the ten year old boy Timmy that lives in the fictional town Dimmsdale where he has a hard time. His life is constantly miserable because his parents are rarely home, he is babysat by Vicky, a 16-year-old torturous babysitter, he is bullied daily, and is tormented by his teacher, Mr. Crocker. But everything changes when he receives two fairy godparents: Cosmo, his wife Wanda, and later their son, Poof. Timmy learns that his fairy godparents are capable of granting him any wish he wants within certain limits. However, Timmy&#x27;s immature nature causes him to sometimes ask for wishes that unintentionally result in disaster.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116194900 +0000" stop="20260116200800 +0000" channel="nicktoons">
+  <programme start="20260116194500 +0000" stop="20260116200700 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents</title>
     <desc lang="tr">The Fairly OddParents tells about the ten year old boy Timmy that lives in the fictional town Dimmsdale where he has a hard time. His life is constantly miserable because his parents are rarely home, he is babysat by Vicky, a 16-year-old torturous babysitter, he is bullied daily, and is tormented by his teacher, Mr. Crocker. But everything changes when he receives two fairy godparents: Cosmo, his wife Wanda, and later their son, Poof. Timmy learns that his fairy godparents are capable of granting him any wish he wants within certain limits. However, Timmy&#x27;s immature nature causes him to sometimes ask for wishes that unintentionally result in disaster.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116200800 +0000" stop="20260116203100 +0000" channel="nicktoons">
+  <programme start="20260116200700 +0000" stop="20260116203000 +0000" channel="nicktoons">
     <title lang="tr">The Penguins of Madagascar</title>
     <desc lang="tr">The Penguins of Madagascar is an animated series in which the penguins Skipper, Kowalski, Private and Rico experience adventure in Central Park Zoo. The series is based on characters from the movie Madagascar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116203100 +0000" stop="20260116205400 +0000" channel="nicktoons">
+  <programme start="20260116203000 +0000" stop="20260116205300 +0000" channel="nicktoons">
     <title lang="tr">The Penguins of Madagascar</title>
     <desc lang="tr">The Penguins of Madagascar is an animated series in which the penguins Skipper, Kowalski, Private and Rico experience adventure in Central Park Zoo. The series is based on characters from the movie Madagascar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260116205400 +0000" stop="20260116211700 +0000" channel="nicktoons">
+  <programme start="20260116205300 +0000" stop="20260116211600 +0000" channel="nicktoons">
     <title lang="tr">Kung Fu Panda: Legends of Awesomeness</title>
     <desc lang="tr">Po the Panda trains, battles, learns, teaches, stumbles, gabs and &#x27;geeks out&#x27; as the newest hero in the Valley of Peace. Now living in his permanent home at the Jade Palace with the rest of the Furious Five, Po will have to take on new responsibilities and face brand-new adversaries (not seen in the movies) in his continuing education as the Dragon Warrior...for being the Dragon Warrior is not a destination, it&#x27;s a journey (unfortunately for Po, that journey is uphill).</desc>
     <category lang="tr">Çocuk</category>
@@ -18381,34 +18369,33 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260116040000 +0000" stop="20260116070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116070000 +0000" stop="20260116120000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">En hit müzikler, en güçlü kliplerle Power Hits&#x27;te! Yerli ve yabancı listelerin zirvesindeki şarkılar bu programda.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116120000 +0000" stop="20260116130000 +0000" channel="power-tv">
     <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Güne enerjik bir başlangıç için Power Up! En hareketli klipler ve taze hitler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116130000 +0000" stop="20260116170000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">En hit müzikler, en güçlü kliplerle Power Hits&#x27;te! Yerli ve yabancı listelerin zirvesindeki şarkılar bu programda.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116170000 +0000" stop="20260116200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116200000 +0000" stop="20260117050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260116000000 +0000" stop="20260116020000 +0000" channel="s-sport">
     <title lang="tr">Euroleague</title>
@@ -19890,6 +19877,65 @@ Kızlarının gönül ilişkilerinin hareketliliğinden habersiz olan Yaşar Ust
     <title lang="tr">Umut Kanatları</title>
     <desc lang="tr">Küçük bir kasabada yaşayan Doug White, eşi ve iki çocuğuyla kısa bir uçuşa çıkar. Ancak uçuş sırasında pilot aniden rahatsızlanarak hayatını kaybeder ve uçak kontrolsüz bir şekilde kalır. Doug, eşi ve çocukları, uçağı kontrol altına almak için tüm çabalarını seferber ederler. Uçuş deneyimi olmamasına rağmen, Doug sahip olduğu sınırlı bilgi ve tecrübeyle uçağı güvenli bir şekilde indirebilecek midir?</desc>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260116063000 +0000" stop="20260116081000 +0000" channel="tabii-spor">
+    <title lang="tr">Ajax - Galatasaray</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116081000 +0000" stop="20260116084000 +0000" channel="tabii-spor">
+    <title lang="tr">Deplasman Lezzetleri Diyarbakır</title>
+    <desc lang="tr">Süper Lig ve 1. Lig&#x27;de yer alan takımların bulunduğu şehirlere giderek o bölgeye özgü hem damak lezzetleri hem de tarihe kısa bir yolculuk tadında, o ilin takımının önemli isimleri olan futbolcu, teknik adam, başkan ile röportajları ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116084000 +0000" stop="20260116091000 +0000" channel="tabii-spor">
+    <title lang="tr">Fenerbahçe Avrupa Ligi Maç Özetleri</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116091000 +0000" stop="20260116093500 +0000" channel="tabii-spor">
+    <title lang="tr">Sormazsam Olmaz</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116093500 +0000" stop="20260116112000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Arsenal - Bayern Münih&#x27;</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116112000 +0000" stop="20260116114500 +0000" channel="tabii-spor">
+    <title lang="tr">Yenilmezler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116114500 +0000" stop="20260116133000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;PSG - Bayern Münih&#x27;</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116133000 +0000" stop="20260116135500 +0000" channel="tabii-spor">
+    <title lang="tr">Tüm Zamanların En İyileri</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116135500 +0000" stop="20260116142500 +0000" channel="tabii-spor">
+    <title lang="tr">Samsunspor Konferans Ligi Maç Özetleri</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116142500 +0000" stop="20260116151500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Magazin</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116151500 +0000" stop="20260116170000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Real Madrid - M.City&#x27;</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116170000 +0000" stop="20260116172500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Magazin</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116172500 +0000" stop="20260116192000 +0000" channel="tabii-spor">
+    <title lang="tr">Al Ittihad - Al Ettifaq</title>
+    <desc lang="tr">Suudi Arabistan Pro Lig Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260116192000 +0000" stop="20260116210500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması &#x27;Fenerbahçe - Stuttgart&#x27;</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260116004100 +0000" stop="20260116012500 +0000" channel="tabii-tv">
     <title lang="tr">Çiçek Taksi</title>
