@@ -635,100 +635,75 @@
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117030000 +0000" stop="20260117033000 +0000" channel="24">
+    <title lang="tr">Bu Ülke</title>
+    <desc lang="tr">Türkiye&#x27;nin gündemindeki merak edilen ve tartışılan sorular, siyaset, ekonomi, toplumsal meseleler ve kültür-eğitim başlıklarıyla ele alınıyor. Uzman konuklar ve sahadan aktarılan bilgilerle olayların arka planı izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260117033000 +0000" stop="20260117050000 +0000" channel="24">
     <title lang="tr">Arafta Sorular</title>
     <desc lang="tr">Esra Elönü, arafta kalmış sorulara Arafta Sorular&#x27;da cevap arıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260117033000 +0000" stop="20260117044000 +0000" channel="24">
-    <title lang="tr">24 Portre</title>
-    <desc lang="tr">Zeynep Türkoğlu; kültür, siyaset ve sanat dünyasından günümüze damgasını vuran seçkin isimleri 24 TV&#x27;ye konuk ediyor. Zeynep Türkoğlu ile 24 Portre, her hafta Pazar günü saat 20.00&#x27;de 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260117044000 +0000" stop="20260117060000 +0000" channel="24">
+  <programme start="20260117050000 +0000" stop="20260117070000 +0000" channel="24">
     <title lang="tr">An Ve Zaman</title>
     <desc lang="tr">An ve Zaman, 24 TV ekranlarında tarih boyunca yaşanmış dönüm noktalarını, göz ardı edilmiş olayları ve kültürel gelişmeleri derinlemesine ele alıyor. Uzman konuklarla yapılan tartışmalar, olayların arka planını, nedenlerini ve günümüze etkilerini izleyiciye aktarıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260117060000 +0000" stop="20260117070000 +0000" channel="24">
-    <title lang="tr">8. Etap</title>
-    <desc lang="tr">Ekranların en uzun soluklu otomotiv ve motor sporları programı 8.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117070000 +0000" stop="20260117090000 +0000" channel="24">
     <title lang="tr">Moderatör Hafta Sonu</title>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260117090000 +0000" stop="20260117092500 +0000" channel="24">
+  <programme start="20260117090000 +0000" stop="20260117091500 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260117092500 +0000" stop="20260117100000 +0000" channel="24">
-    <title lang="tr">Paletin Renkleri</title>
-    <desc lang="tr">Paletin Renkleri, 24 TV&#x27;de yayınlanan; Palet Türk Müziği Okulu öğrencilerinin saz ve sesleriyle ekranlara taşınan özel bir müzik programıdır. Küçük ellerden çıkan melodiler, bayram havası ve samimi sahneyle izleyiciye renkli bir deneyim sunar. Program her Pazar saat 12.25&#x27;te 24 TV&#x27;de izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260117100000 +0000" stop="20260117110000 +0000" channel="24">
-    <title lang="tr">Hafta Sonu Gün Ortası</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260117110000 +0000" stop="20260117111500 +0000" channel="24">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260117111500 +0000" stop="20260117120000 +0000" channel="24">
+  <programme start="20260117091500 +0000" stop="20260117100000 +0000" channel="24">
     <title lang="tr">8. Etap</title>
     <desc lang="tr">Ekranların en uzun soluklu otomotiv ve motor sporları programı 8.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260117120000 +0000" stop="20260117121500 +0000" channel="24">
+  <programme start="20260117100000 +0000" stop="20260117112500 +0000" channel="24">
+    <title lang="tr">Hafta Sonu Gün Ortası</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260117112500 +0000" stop="20260117120000 +0000" channel="24">
+    <title lang="tr">Okur Yazar</title>
+    <desc lang="tr">Okur Yazar, 24 TV ekranlarında yayınlanan; siyaset, ekonomi ve toplumsal gündemi ele alan analiz programıdır. Güncel gelişmeler, alanında uzman konukların yorumlarıyla değerlendirilirken olayların nedenleri, sonuçları ve topluma etkileri ele alınır. Program, haberin ötesine geçerek izleyiciye çok yönlü bir bakış açısı kazandırmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260117120000 +0000" stop="20260117131000 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260117121500 +0000" stop="20260117140000 +0000" channel="24">
-    <title lang="tr">Bu Ülke</title>
-    <desc lang="tr">Türkiye&#x27;nin gündemindeki merak edilen ve tartışılan sorular, siyaset, ekonomi, toplumsal meseleler ve kültür-eğitim başlıklarıyla ele alınıyor. Uzman konuklar ve sahadan aktarılan bilgilerle olayların arka planı izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260117140000 +0000" stop="20260117142500 +0000" channel="24">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260117131000 +0000" stop="20260117142500 +0000" channel="24">
+    <title lang="tr">24 Portre</title>
+    <desc lang="tr">Zeynep Türkoğlu; kültür, siyaset ve sanat dünyasından günümüze damgasını vuran seçkin isimleri 24 TV&#x27;ye konuk ediyor. Zeynep Türkoğlu ile 24 Portre, her hafta Pazar günü saat 20.00&#x27;de 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117142500 +0000" stop="20260117150000 +0000" channel="24">
     <title lang="tr">Kırmızı Halı</title>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260117150000 +0000" stop="20260117170000 +0000" channel="24">
+  <programme start="20260117150000 +0000" stop="20260117160000 +0000" channel="24">
     <title lang="tr">Hafta Sonu Akşam Haberleri</title>
     <desc lang="tr">Türkiye&#x27;nin ve dünyanın yoğun gündemi, günün öne çıkan haber başlıkları ve merak edilen konuların yanıtları, &quot;Akşam Haberleri&quot; programında izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260117170000 +0000" stop="20260117180000 +0000" channel="24">
-    <title lang="tr">24 Portre</title>
-    <desc lang="tr">Zeynep Türkoğlu; kültür, siyaset ve sanat dünyasından günümüze damgasını vuran seçkin isimleri 24 TV&#x27;ye konuk ediyor. Zeynep Türkoğlu ile 24 Portre, her hafta Pazar günü saat 20.00&#x27;de 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260117180000 +0000" stop="20260117181500 +0000" channel="24">
+  <programme start="20260117160000 +0000" stop="20260117181500 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260117181500 +0000" stop="20260117200000 +0000" channel="24">
-    <title lang="tr">Küresel Oyun</title>
-    <desc lang="tr">Ezberin dışına çıkan, gündemden farklı bir bakış açısı sunan bu programda, Çağrı Alkan ve alanında uzman konuklar, yeni Dünya düzeni ve Türkiye&#x27;nin bu düzende aldığı konumu derinlemesine ele alıyor.</desc>
+  <programme start="20260117181500 +0000" stop="20260117201500 +0000" channel="24">
+    <title lang="tr">Doğrusu Ne?</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki en sıcak başlıklar, tartışmalı konular ve kamuoyunun merak ettiği meseleler, &quot;Doğrusu Ne?&quot; programında detaylı bir şekilde ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260117200000 +0000" stop="20260117201500 +0000" channel="24">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117201500 +0000" stop="20260117220000 +0000" channel="24">
-    <title lang="tr">Arafta Sorular</title>
-    <desc lang="tr">Esra Elönü, arafta kalmış sorulara Arafta Sorular&#x27;da cevap arıyor.</desc>
+    <title lang="tr">An Ve Zaman</title>
+    <desc lang="tr">An ve Zaman, 24 TV ekranlarında tarih boyunca yaşanmış dönüm noktalarını, göz ardı edilmiş olayları ve kültürel gelişmeleri derinlemesine ele alıyor. Uzman konuklarla yapılan tartışmalar, olayların arka planını, nedenlerini ve günümüze etkilerini izleyiciye aktarıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117010000 +0000" stop="20260117011500 +0000" channel="360">
@@ -3193,80 +3168,68 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <title lang="tr">Paris Saint-Germain - Lille</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116024500 +0000" stop="20260116025900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  <programme start="20260117020000 +0000" stop="20260117025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Coupe de France Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116030000 +0000" stop="20260116044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Le Mans - Saint-Etienne</title>
+  <programme start="20260117030000 +0000" stop="20260117044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Sochaux - Lens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116044500 +0000" stop="20260116045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  <programme start="20260117044500 +0000" stop="20260117045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116050000 +0000" stop="20260116064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Montpellier - Dunkerque</title>
+  <programme start="20260117050000 +0000" stop="20260117065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nantes - Nice</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116064500 +0000" stop="20260116065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  <programme start="20260117070000 +0000" stop="20260117085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116070000 +0000" stop="20260116084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Rennes</title>
+  <programme start="20260117090000 +0000" stop="20260117104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Bayeux-Olympique de Marseille</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116084500 +0000" stop="20260116085900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  <programme start="20260117104500 +0000" stop="20260117105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116090000 +0000" stop="20260116104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique de Marseille-Nantes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116104500 +0000" stop="20260116105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116110000 +0000" stop="20260116124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Auxerre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116124500 +0000" stop="20260116125900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116130000 +0000" stop="20260116144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Metz</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116144500 +0000" stop="20260116145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116150000 +0000" stop="20260116164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Havre - Angers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116164500 +0000" stop="20260116165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116170000 +0000" stop="20260116172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116173000 +0000" stop="20260116175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Preview</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260116180000 +0000" stop="20260116195900 +0000" channel="beinsports4.tr">
+  <programme start="20260117110000 +0000" stop="20260117124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Monaco - Lorient</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260116200000 +0000" stop="20260116220000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Coupe de France Maç Özetleri</title>
+  <programme start="20260117124500 +0000" stop="20260117125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117130000 +0000" stop="20260117144900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris Saint-Germain - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117145000 +0000" stop="20260117145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117150000 +0000" stop="20260117165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Chelsea - Brentford</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117170000 +0000" stop="20260117172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117173000 +0000" stop="20260117175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris Saint-Germain - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117180000 +0000" stop="20260117200400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Toulouse - Nice</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260117200500 +0000" stop="20260117220500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers-Olympique de Marseille</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260117070000 +0000" stop="20260117090000 +0000" channel="benguturk">
@@ -3330,8 +3293,8 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117090000 +0000" stop="20260117100000 +0000" channel="beyaz-tv">
-    <title lang="tr">Elif Melek&#x27;le Her Şeyi Konuşalım</title>
-    <desc lang="tr">Elif Melek&#x27;le Her Şeyi Konuşalım&quot;, hayatın içinden konuların samimi bir dille ele alındığı, bilgilendirici ve keyifli program Beyaz TV ekranlarında</desc>
+    <title lang="tr">Dr. Kürşat Gül ile Güne Sağlıkla Başla</title>
+    <desc lang="tr">Dr. Kürşat Gül&#x27;ün önerileriyle sabah rutininizi güçlendirin: hafif egzersiz, sağlıklı kahvaltı ve pozitif düşüncelerle günü enerjik karşılayın. Kendinize iyi bakın, sağlığınızı önceliğiniz yapın!</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117100000 +0000" stop="20260117110000 +0000" channel="beyaz-tv">
@@ -11693,46 +11656,47 @@ Usta sanatkârların sanat serüvenlerini ve ömür safahatından gönüllerinde
   </programme>
   <programme start="20260117120000 +0000" stop="20260117130000 +0000" channel="fb-tv">
     <title lang="tr">Fenerin Maçı Var</title>
+    <desc lang="tr">Fenerin Maçı Var, Fenerbahçe&#x27;nin maçları öncesinde ve sırasında yaşanan gelişmeleri, maç atmosferini ve önemli detayları izleyiciyle buluşturuyor. Taraftar heyecanı ve maç coşkusu programın merkezinde yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="fb-tv">
     <title lang="tr">Maç Başlıyor</title>
-    <desc lang="tr">Futbol dünyanın en önemli yan çizgisidir. Bugünkü maçı kaçırmayın. Futbol maçının yayını birazdan başlayacak. Fenerbahçe Tv&#x27;de heyecan dolu maçları hep sizlerle..</desc>
+    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11&#x27;ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117160000 +0000" channel="fb-tv">
     <title lang="tr">Maç Havası</title>
-    <desc lang="tr">FB tv&#x27;de yayımlanan bir program. İki sunucu maç yorumu yapıyorlar eş zamanlı ve maçı anlatıyorlar. Maç Havası, Maç Günü, yeni şampiyonlar ligi Futbol topları gelmiştir, maç sonrası ikramlarımız ile maçlarımız devam ediyor...</desc>
+    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117160000 +0000" stop="20260117173000 +0000" channel="fb-tv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Futbol dünyasının en önemli yan çizgisidir. En son spor haberleri kaçırmayın. Maçın Ardından ile ilgili haber sonuçları ekranlarda. Maçla ilgili en önemli yorumları ve olayları ekranlarınızda sunarız.</desc>
+    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117173000 +0000" stop="20260117174500 +0000" channel="fb-tv">
     <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber FB TV&#x27;de.</desc>
+    <desc lang="tr">Ana Haber, iç ve dış gündemde öne çıkan başlıkları, son dakika gelişmelerini ve önemli olayları kapsamlı bir bakış açısıyla ekrana taşıyor. Güvenilir bilgi ve net anlatım ön planda yer alıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117174500 +0000" stop="20260117191500 +0000" channel="fb-tv">
     <title lang="tr">Maçın Ardından</title>
-    <desc lang="tr">Futbol dünyasının en önemli yan çizgisidir. En son spor haberleri kaçırmayın. Maçın Ardından ile ilgili haber sonuçları ekranlarda. Maçla ilgili en önemli yorumları ve olayları ekranlarınızda sunarız.</desc>
+    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117191500 +0000" stop="20260117194500 +0000" channel="fb-tv">
     <title lang="tr">Sarı Lacivert Hayatlar</title>
-    <desc lang="tr">Futbol dünyanın en önemli yan çizgisidir. En son spor haberlerini kaçırmayın. Programda röportajlar, oyuncu profillerinin sunumları ve Fenerbahçe ile ilgili değerli konuklara yer veriyor.</desc>
+    <desc lang="tr">Sarı Lacivert Hayatlar, Fenerbahçe&#x27;ye gönül veren isimlerin günlük yaşamlarını, kulüple kurdukları bağı ve özel anlarını izleyiciyle buluşturuyor. Taraftar kültürü ve camia ruhu programın merkezinde yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117194500 +0000" stop="20260117204500 +0000" channel="fb-tv">
     <title lang="tr">Yıldız Takımı</title>
-    <desc lang="tr">Yıldız Takımı TV programda her bölümde sizin en sevdiğiniz yıldızlardan bir tanesini sizinle buluşturuyoruz...</desc>
+    <desc lang="tr">Yıldız Takımı, Fenerbahçe&#x27;de forma giyen yıldız isimlerin maçlardaki performanslarını, başarı hikâyelerini ve sahadaki etkilerini ele alıyor. Öne çıkan anlar ve özel detaylar programda yer alıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260117204500 +0000" stop="20260117210000 +0000" channel="fb-tv">
     <title lang="tr">Gece Haberi</title>
-    <desc lang="tr">FB TV&#x27;de Gece Haberi Türkiye&#x27;nin ve dünyadaki en önemli haberleri ekranlarınıza taşınıyor...</desc>
+    <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117000000 +0000" stop="20260117004000 +0000" channel="flash-haber">
@@ -17822,37 +17786,38 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
   </programme>
   <programme start="20260117050000 +0000" stop="20260117080000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117080000 +0000" stop="20260117084000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117084000 +0000" stop="20260117130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117130000 +0000" stop="20260117150000 +0000" channel="power-tv">
     <title lang="tr">Power 40</title>
-    <desc lang="tr">Türkiye&#x27;de en iyi, en yeni yabancı müziğin nabzını tutan Power Fm&#x27;de en çok çalınan 40 parça, hafta sonları geri sayımla Power TV&#x27;de...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Haftanın en hit 40 şarkısı Power 40&#x27;da! Liste başı parçalar ve en çok konuşulan klipler burada.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117150000 +0000" stop="20260117160000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117160000 +0000" stop="20260117200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117200000 +0000" stop="20260117230000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117000000 +0000" stop="20260117023000 +0000" channel="s-sport">
     <title lang="tr">Cleveland Cavaliers - Philadelphia 76ers</title>
@@ -19330,7 +19295,8 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
   </programme>
   <programme start="20260117110000 +0000" stop="20260117123000 +0000" channel="star-tv">
     <title lang="tr">Bir Şansım Olsa</title>
-    <desc lang="tr">Bir Şansım Olsa, izleyicilere pişmanlıklarla dolu gerçek yaşam hikayeleri sunuyor. Geçmişte aldıkları kararların yanlış olduğunu fark eden ve ikinci bir şans arayan kişilerin hikayeleri ekrana geliyor. Her bölümde, hayatlarındaki pişmanlıklarla yüzleşen bu insanların içsel çatışmalarına, umutlarına ve hayal kırıklıklarına yer veriliyor.</desc>
+    <desc lang="tr">Bir Şansım Olsa&#x27;nın bu hafta cumartesi günü yayınlanacak bölümüne, 40 gün önce babasını kaybeden yoğun bakım hemşiresi Pelin Hanım başvuruyor ve yardım istiyor.
+Bir yanda, hayatı boyunca babası sandığı kişinin aslında amcası olduğunu öğrenen ve hiç tanımadığı bir kardeşin varlığıyla yüzleşen Pelin Hanım; diğer yanda ise annesiyle birlikte zorlu bir hayat mücadelesi vermiş, geçmişiyle yüzleşmek istemeyen Nalan Hanım...</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260117123000 +0000" stop="20260117160000 +0000" channel="star-tv">
@@ -19354,7 +19320,8 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117063000 +0000" stop="20260117081500 +0000" channel="tabii-spor">
-    <title lang="tr">İtalya Süper Kupa Finali Futbol Karşılaşması &#x27;Napoli - Bologna&#x27;</title>
+    <title lang="tr">Napoli - Bologna</title>
+    <desc lang="tr">İtalya Süper Kupa Finali Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117081500 +0000" stop="20260117090000 +0000" channel="tabii-spor">
@@ -19363,10 +19330,12 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
   </programme>
   <programme start="20260117090000 +0000" stop="20260117103000 +0000" channel="tabii-spor">
     <title lang="tr">Avrupa Sahnesi</title>
+    <desc lang="tr">Şampiyonlar Ligi, Avrupa Ligi ve Konferans Ligi&#x27;nde oynanan maçlar, konukların katılımıyla ele alınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117103000 +0000" stop="20260117121000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Barcelona - E. Frankfurt&#x27;</title>
+    <title lang="tr">Barcelona - E. Frankfurt</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117121000 +0000" stop="20260117123500 +0000" channel="tabii-spor">
@@ -19374,7 +19343,8 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117123500 +0000" stop="20260117142000 +0000" channel="tabii-spor">
-    <title lang="tr">FA Cup Futbol Karşılaşması &#x27;Manchester United - Brighton&#x27;</title>
+    <title lang="tr">Manchester United - Brighton</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117142000 +0000" stop="20260117145000 +0000" channel="tabii-spor">
@@ -19382,7 +19352,8 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117145000 +0000" stop="20260117171500 +0000" channel="tabii-spor">
-    <title lang="tr">FA Cup Futbol Karşılaşması &#x27;Everton - Sunderland&#x27;</title>
+    <title lang="tr">Everton - Sunderland</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117171500 +0000" stop="20260117172500 +0000" channel="tabii-spor">
@@ -19395,7 +19366,8 @@ Bu okulda Müdür Şerif Bey&#x27;in meslek etiğine uymayan hareketleri ve öğ
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117192000 +0000" stop="20260117210500 +0000" channel="tabii-spor">
-    <title lang="tr">FA Cup Futbol Karşılaşması &#x27;Tottenham - Aston Villa&#x27;</title>
+    <title lang="tr">Tottenham - Aston Villa</title>
+    <desc lang="tr">FA Cup Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117001000 +0000" stop="20260117021100 +0000" channel="tabii-tv">
@@ -24368,12 +24340,12 @@ Bu programda kararı ne uzmanlar ne de sunucu veriyor, son sözü her zaman seyi
     <desc lang="tr">Ülkenin önde gelen iş adamlarından Demir Gümüşay tam da kariyerinin zirvesine çıktığı İş Adamları Derneği’nin başkanlık seçimlerinde, kaynağı belirsiz bir şantajla karşı karşıya kalır. Eline tutuşturulan usb’de tüm itibarını ve muhafazakâr iş adamı imajını yerle bir edecek bir skandalın kaydı mevcuttur. Demir Gümüşay, hayatta en güvendiği insanı, kızı Ceren Gümüşay’ı , bütün aileyi mahvedebilecek bu skandalı önlemesi için görevlendirir. Hayatı boyunca babasının takdirini aramış olan Ceren, büyük bir gizlilikle üstü kapatılması gereken bu zorlu meseleyi üstlenir ve ‘‘kirli avukat’’ olarak nam salmış Çınar Yılmaz’ı arar. Bundan böyle Ceren için hiçbir şey eskisi gibi olmayacaktır!</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260117050000 +0000" stop="20260117054500 +0000" channel="tv8">
+  <programme start="20260117050000 +0000" stop="20260117053000 +0000" channel="tv8">
     <title lang="tr">Oynat Bakalım</title>
     <desc lang="tr">Furkan Dede’nin sunduğu programda birbirinden ilginç, komik ve sosyal medyada tıklanma rekoru kıran videolar ekrana geliyor. İzlemesi keyifli ve bol bol güleceğiniz videoları hem izleyip hem de bilmediğiniz şeyleri öğrenmek isterseniz bu programı kaçırmayın...</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260117054500 +0000" stop="20260117070000 +0000" channel="tv8">
+  <programme start="20260117053000 +0000" stop="20260117070000 +0000" channel="tv8">
     <title lang="tr">Gençlik Rüzgarı</title>
     <desc lang="tr">Yılların ve hayatın zor şartlarının yorduğu kendisini ihmal etmiş kadınlar, her bölümde uzman doktor ve alanında deneyimli isimlerle birlikte değişim yolculuğuna çıkıyor.</desc>
     <category lang="tr">Yaşam</category>
