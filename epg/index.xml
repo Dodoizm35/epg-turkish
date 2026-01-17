@@ -655,7 +655,7 @@
   </programme>
   <programme start="20260117090000 +0000" stop="20260117091500 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Haber Bülteni, yerel ve küresel ölçekte yaşanan gelişmeleri titizlikle derleyen, doğrulanmış bilgiye dayalı bir news-info programıdır. Günün önemli başlıklarını net ve anlaşılır bir dille sunarken, izleyicinin gündemi doğru okumasını amaçlar. Tarafsızlık, hız ve güvenilirlik programın temelini oluşturur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117091500 +0000" stop="20260117100000 +0000" channel="24">
@@ -665,6 +665,7 @@
   </programme>
   <programme start="20260117100000 +0000" stop="20260117112500 +0000" channel="24">
     <title lang="tr">Hafta Sonu Gün Ortası</title>
+    <desc lang="tr">Hafta Sonu Gün Ortası, hafta sonu gündemini günün ortasında toparlayan, izleyiciye hızlı, net ve güvenilir bilgi sunan bir news-info programıdır.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117112500 +0000" stop="20260117120000 +0000" channel="24">
@@ -674,7 +675,7 @@
   </programme>
   <programme start="20260117120000 +0000" stop="20260117131000 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Haber Bülteni, yerel ve küresel ölçekte yaşanan gelişmeleri titizlikle derleyen, doğrulanmış bilgiye dayalı bir news-info programıdır. Günün önemli başlıklarını net ve anlaşılır bir dille sunarken, izleyicinin gündemi doğru okumasını amaçlar. Tarafsızlık, hız ve güvenilirlik programın temelini oluşturur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117131000 +0000" stop="20260117142500 +0000" channel="24">
@@ -684,21 +685,22 @@
   </programme>
   <programme start="20260117142500 +0000" stop="20260117150000 +0000" channel="24">
     <title lang="tr">Kırmızı Halı</title>
+    <desc lang="tr">Kırmızı Halı, magazin dünyasının en parlak anlarını, ünlülerin stilini, özel davetleri ve perde arkasını ekrana taşıyan eğlenceli ve dinamik bir infotainment programıdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117150000 +0000" stop="20260117160000 +0000" channel="24">
     <title lang="tr">Hafta Sonu Akşam Haberleri</title>
-    <desc lang="tr">Türkiye&#x27;nin ve dünyanın yoğun gündemi, günün öne çıkan haber başlıkları ve merak edilen konuların yanıtları, &quot;Akşam Haberleri&quot; programında izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Hafta Sonu Akşam Haberleri, gün boyunca yaşanan önemli gelişmeleri akşam saatlerinde toparlayan, doğru ve tarafsız bilgi sunan bir news-info programıdır. Siyaset, ekonomi, toplum ve dünya gündeminden öne çıkan başlıklar net ve anlaşılır bir dille aktarılır. Program, hafta sonu gündemini yakından takip etmek isteyen izleyiciler için güvenilir bir akşam bülteni niteliğindedir.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117160000 +0000" stop="20260117181500 +0000" channel="24">
     <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Tüm branşlarda en hızlı, en güncel ve en doğru haberler, alanında uzman sunucuların anlatımıyla hafta boyunca 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Haber Bülteni, yerel ve küresel ölçekte yaşanan gelişmeleri titizlikle derleyen, doğrulanmış bilgiye dayalı bir news-info programıdır. Günün önemli başlıklarını net ve anlaşılır bir dille sunarken, izleyicinin gündemi doğru okumasını amaçlar. Tarafsızlık, hız ve güvenilirlik programın temelini oluşturur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117181500 +0000" stop="20260117201500 +0000" channel="24">
     <title lang="tr">Doğrusu Ne?</title>
-    <desc lang="tr">Türkiye ve dünya gündemindeki en sıcak başlıklar, tartışmalı konular ve kamuoyunun merak ettiği meseleler, &quot;Doğrusu Ne?&quot; programında detaylı bir şekilde ele alınıyor.</desc>
+    <desc lang="tr">Doğrusu Ne?, gündelik hayatta sıkça karşılaşılan bilgi kirliliğini mercek altına alan, doğru ile yanlış arasındaki farkı sade ve anlaşılır bir dille ortaya koyan bir info-magazine programıdır. Merak edilen konular uzman görüşleri ve güvenilir kaynaklarla ele alınır; izleyicinin kafasındaki soru işaretlerine netlik kazandırılır. Program, doğru bilgiye ulaşmak isteyenler için pratik ve güvenilir bir rehber niteliği taşır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117201500 +0000" stop="20260117220000 +0000" channel="24">
@@ -3389,10 +3391,6 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <desc lang="tr">TFF 3. Lig maç özetleri ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260117203000 +0000" stop="20260117220000 +0000" channel="bi-kanal">
-    <title lang="tr">Ölüler Akvaryumu</title>
-    <category lang="tr">Film</category>
-  </programme>
   <programme start="20260117003000 +0000" stop="20260117005000 +0000" channel="bizim-ev-tv">
     <title lang="tr">Pelin ile Lezzetler</title>
     <desc lang="tr">Pelin ile Lezzetler, Pelin Bozkurt Bilgiç&#x27;in rehberliğinde, birbirinden lezzetli ve pratik tariflerin paylaşıldığı enfes bir yemek programı.</desc>
@@ -5969,37 +5967,37 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
   </programme>
   <programme start="20260117145000 +0000" stop="20260117154000 +0000" channel="cnbc-e">
     <title lang="tr">Serda ile Masadaki Sırlar</title>
-    <desc lang="tr">&quot;Sır dolu sorularım ve cevaplarım var.</desc>
+    <desc lang="tr">Gündemin perde arkasında kalan yönlerini, insan hikâyelerini ve merak uyandıran detayları bir araya getiren bu program, izleyiciye farklı bir bakış açısı sunuyor. Samimi sohbetler, çarpıcı açıklamalar ve beklenmedik paylaşımlar sayesinde her bölüm, izleyiciyi hem düşündürüyor hem de ekrana bağlıyor. Sıcak üslubu ve akıcı anlatımıyla, sohbetin gücünü hissettiren bir atmosfer yaratıyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117154000 +0000" stop="20260117161000 +0000" channel="cnbc-e">
     <title lang="tr">İş&#x27;ten Sohbetler</title>
-    <desc lang="tr">İş dünyasının nabzı, samimi sohbetlerle ekranda! Gündemin öne çıkan isimleri &quot;İşten Sohbetler&quot;de buluşuyor.</desc>
+    <desc lang="tr">İş dünyasının perde arkasını, girişimcilik hikâyelerini ve liderlerin deneyimlerini bir araya getiren bu program, samimi sohbetlerle izleyiciye ilham veriyor. Stratejiler, hatalardan çıkarılan dersler ve geleceğe dair öngörüler anlaşılır bir dille ele alınıyor. Her bölüm, kariyerine yön vermek isteyenler için yol gösterici fikirler sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260117161000 +0000" stop="20260117165000 +0000" channel="cnbc-e">
     <title lang="tr">The Tonight Show with Jimmy Fallon</title>
-    <desc lang="tr">Gece olunca esprinin dozu artıyor, efsane Jimmy Fallon, dünyaca ünlü konuklarıyla talk-show&#x27;un dibine vuruyor. Kahkahalar, süprizler, ve absürt yarışmalar.</desc>
+    <desc lang="tr">Ünlü konuklar, eğlenceli oyunlar, yaratıcı skeçler ve canlı müzik performanslarıyla şekillenen bu late-night şov, izleyicilere tempolu ve kahkaha dolu bir gece deneyimi sunuyor. Samimi sohbetler, beklenmedik anlar ve spontane eğlence, her bölümü sürprizlerle dolu hale getiriyor. Enerjik sunumu ve popüler kültüre dokunan içeriğiyle, günün yorgunluğunu unutturan keyifli bir kaçış vadediyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117165000 +0000" stop="20260117174500 +0000" channel="cnbc-e">
     <title lang="tr">Saba Tümer&#x27;le</title>
-    <desc lang="tr">CNBC-e, sizi sevdiklerinizle buluşturmaya ve keyifli anlar yaşatmaya devam ediyor.</desc>
+    <desc lang="tr">Saba Tümer&#x27;le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show. Sanat, magazin, gündem ve hayata dair renkli başlıklar; kahkaha, duygu ve merak uyandıran anlarla buluşuyor. Saba Tümer&#x27;in enerjisi ve doğal üslubu, her bölümü sıcak bir sohbet havasına dönüştürüyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117174500 +0000" stop="20260117193000 +0000" channel="cnbc-e">
     <title lang="tr">Bir Zamanlar Sinema</title>
-    <desc lang="tr">9 yaşındaki Samay, ailesiyle birlikte Hindistan&#x27;ın ıssız bir köyünde yaşıyan küçük bir çocuktur. Babası onu ilk defa sinemaya götürdüğünde Samay, tam anlamıyla büyülenir. O andan itibaren sinemayla ilgilenmeye başlayan Samay, film makinisti olan bir arkadaşının yardımıyla dünyayı 35 mm&#x27;de keşfetme yolculuğuna başlar.</desc>
+    <desc lang="tr">Küçük bir çocuğun sinemayla tanışıp hayallerinin peşinden gitmesini anlatan bu film, dostluk, merak ve yaratıcılık temalarıyla sıcacık bir yolculuk sunuyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117193000 +0000" stop="20260117204000 +0000" channel="cnbc-e">
     <title lang="tr">The Tonight Show with Jimmy Fallon</title>
-    <desc lang="tr">Gece olunca esprinin dozu artıyor, efsane Jimmy Fallon, dünyaca ünlü konuklarıyla talk-show&#x27;un dibine vuruyor. Kahkahalar, süprizler, ve absürt yarışmalar.</desc>
+    <desc lang="tr">Ünlü konuklar, eğlenceli oyunlar, yaratıcı skeçler ve canlı müzik performanslarıyla şekillenen bu late-night şov, izleyicilere tempolu ve kahkaha dolu bir gece deneyimi sunuyor. Samimi sohbetler, beklenmedik anlar ve spontane eğlence, her bölümü sürprizlerle dolu hale getiriyor. Enerjik sunumu ve popüler kültüre dokunan içeriğiyle, günün yorgunluğunu unutturan keyifli bir kaçış vadediyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260117204000 +0000" stop="20260117211000 +0000" channel="cnbc-e">
     <title lang="tr">Ana Sahne: David Garrett</title>
-    <desc lang="tr">Heyecan verici bir müzikal serüvene hazır mısınız? Dünya çapında ünlü sanatçıların muhteşem performanslarıyla dolu bir konser serisi sizi bekliyor! Andrea Bocelli&#x27;nin duygusal sesi, Lang Lang&#x27;in piyano ustalığı, Two Cellos&#x27;un tutkulu performansı, David Garrett&#x27;ın eşsiz yorumuyla ve daha bir çok benzersiz sanatçıyla unutulmaz anlar yaşamaya hazır olun.</desc>
+    <desc lang="tr">Sahne sanatlarının büyülü dünyasını ekrana taşıyan bu program, tiyatrodan müziğe, danstan performans sanatlarına uzanan zengin içerikleriyle izleyiciye ilham veriyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260117000000 +0000" stop="20260117010000 +0000" channel="cnn-international">
@@ -13686,7 +13684,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <programme start="20260117180000 +0000" stop="20260117195000 +0000" channel="kadirga-tv">
     <title lang="tr">Sinema</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve keyifli vakit geçireceksiniz. Filmler hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117195000 +0000" stop="20260117200000 +0000" channel="kadirga-tv">
@@ -13893,7 +13891,7 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <programme start="20260117130000 +0000" stop="20260117140000 +0000" channel="kanal-33">
     <title lang="tr">Belgesel</title>
-    <desc lang="tr">Belgesel kuşağı, doğa, tarih, kültür, bilim ve insan hikâyelerini ekrana taşıyarak izleyicilere keşif dolu bir yolculuk sunar. Özenle seçilmiş yapımlar sayesinde hem öğretici hem de ilham verici bir izleme deneyimi yaşatır.</desc>
+    <desc lang="tr">Belgesel, doğa, tarih, kültür veya bilim gibi konuları izleyiciye detaylı ve anlaşılır bir şekilde sunan bir program türüdür. Program, gerçek olaylar, doğal yaşam, insan hikâyeleri ve toplumsal gelişmeler gibi çeşitli temaları ele alarak izleyiciyi bilgilendirir ve düşündürür. Görsel anlatımlar ve uzman yorumlarıyla desteklenen belgesel, izleyiciye hem öğretici hem de etkileyici bir deneyim sağlar.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117144500 +0000" channel="kanal-33">
@@ -14179,22 +14177,22 @@ Ali ise intikam uğruna çıktığı yolda arkadaşlarını korumak uğruna kend
   </programme>
   <programme start="20260117133000 +0000" stop="20260117140000 +0000" channel="kanal-v">
     <title lang="tr">Sinema</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve keyifli vakit geçireceksiniz. Filmler hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117140000 +0000" stop="20260117143000 +0000" channel="kanal-v">
     <title lang="tr">Sinema</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve keyifli vakit geçireceksiniz. Filmler hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117143000 +0000" stop="20260117150000 +0000" channel="kanal-v">
     <title lang="tr">Sinema</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve keyifli vakit geçireceksiniz. Filmler hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117150000 +0000" stop="20260117153000 +0000" channel="kanal-v">
     <title lang="tr">Sinema</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve keyifli vakit geçireceksiniz. Filmler hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Sinema kuşağı, film tutkunlarını Türk ve dünya sinemasından özenle seçilmiş yapımlarla buluşturuyor. Dramdan komediye, aksiyondan romantik filmlere kadar geniş bir yelpazede sunulan içerikler, izleyicilere hem eğlenceli hem de unutulmaz bir sinema deneyimi yaşatıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260117153000 +0000" stop="20260117160000 +0000" channel="kanal-v">
@@ -14219,17 +14217,17 @@ Ali ise intikam uğruna çıktığı yolda arkadaşlarını korumak uğruna kend
   </programme>
   <programme start="20260117173000 +0000" stop="20260117180000 +0000" channel="kanal-v">
     <title lang="tr">Ara Haber</title>
-    <desc lang="tr">Kanal V&#x27;nin gün ortasında izleyiciyle buluşan &quot;Ara Haber&quot; bülteni, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşıyor.</desc>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117180000 +0000" stop="20260117183000 +0000" channel="kanal-v">
     <title lang="tr">Ata Sporu</title>
-    <desc lang="tr">Kanal V&#x27;nin geleneksel kültür ve spor mirasını yaşatan programı &quot;Ata Sporu&quot;, Türk milletinin köklü geçmişinden günümüze uzanan ata sporlarını izleyiciyle buluşturuyor.</desc>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Ata Sporu, güreşten okçuluğa, ciritten biniciliğe kadar birçok geleneksel spor dalını izleyiciyle buluşturuyor. Bu sporların tarihi kökenleri, kuralları ve günümüzdeki temsilcileri detaylı şekilde ele alınıyor. Program, kültürel mirasın yaşatılmasına katkı sağlarken izleyicilere anlamlı bir yolculuk sunuyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117183000 +0000" stop="20260117190000 +0000" channel="kanal-v">
     <title lang="tr">Ata Sporu</title>
-    <desc lang="tr">Kanal V&#x27;nin geleneksel kültür ve spor mirasını yaşatan programı &quot;Ata Sporu&quot;, Türk milletinin köklü geçmişinden günümüze uzanan ata sporlarını izleyiciyle buluşturuyor.</desc>
+    <desc lang="tr">Kanal V ekranlarında yayınlanan Ata Sporu, güreşten okçuluğa, ciritten biniciliğe kadar birçok geleneksel spor dalını izleyiciyle buluşturuyor. Bu sporların tarihi kökenleri, kuralları ve günümüzdeki temsilcileri detaylı şekilde ele alınıyor. Program, kültürel mirasın yaşatılmasına katkı sağlarken izleyicilere anlamlı bir yolculuk sunuyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260117190000 +0000" stop="20260117193000 +0000" channel="kanal-v">
@@ -14239,7 +14237,7 @@ Ali ise intikam uğruna çıktığı yolda arkadaşlarını korumak uğruna kend
   </programme>
   <programme start="20260117193000 +0000" stop="20260117200000 +0000" channel="kanal-v">
     <title lang="tr">Ara Haber</title>
-    <desc lang="tr">Kanal V&#x27;nin gün ortasında izleyiciyle buluşan &quot;Ara Haber&quot; bülteni, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşıyor.</desc>
+    <desc lang="tr">Ara Haber, sabah saatlerinden itibaren yaşanan en önemli gelişmeleri hızlı ve tarafsız bir şekilde ekrana taşır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar özenle derlenir. Canlı bağlantılar ve son dakika bilgileriyle zenginleşen bülten, gündemi yakından takip etmek isteyenler için güvenilir bir durak olur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260117200000 +0000" stop="20260117203000 +0000" channel="kanal-v">
