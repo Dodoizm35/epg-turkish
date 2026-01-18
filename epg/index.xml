@@ -3306,7 +3306,7 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
   </programme>
   <programme start="20260118110000 +0000" stop="20260118120000 +0000" channel="beyaz-tv">
     <title lang="tr">Ebru ve Burak ile Yurt Dışında Eğitim</title>
-    <desc lang="tr">Ebru ve Burak Hoca, en çok merak ettiğiniz soruları yanıtlıyor! Yurt dışında eğitim fırsatları, kariyer yönetimi ve geleceğinizi şekillendirme konularında merak ettiklerinizi öğrenmek için canlı yayını kaçırmayın!</desc>
+    <desc lang="tr">Ebru ve Burak ile Yurt Dışında Eğitim, farklı ülkelerdeki eğitim fırsatlarını, başvuru süreçlerini ve yaşam koşullarını ele alan bilgilendirici bir programdır. Üniversite, dil okulu ve sertifika programları; burs imkânları, vize prosedürleri ve konaklama seçenekleriyle birlikte değerlendirilir. Program, yurt dışında eğitim planlayanlara yol gösterici bir perspektif sunar.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118120000 +0000" stop="20260118130000 +0000" channel="beyaz-tv">
@@ -3316,7 +3316,7 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
   </programme>
   <programme start="20260118130000 +0000" stop="20260118135000 +0000" channel="beyaz-tv">
     <title lang="tr">Hayatta Her Şey Var</title>
-    <desc lang="tr">&quot;Hayatta Her Şey Var&quot;, yaşamın renkli ve çeşitli yönlerini anlatan, her bölüm farklı hikayeler ve konuklarla dolu samimi bir program.</desc>
+    <desc lang="tr">Belma Belen&#x27;le Geziyoruz, izleyicileri Türkiye&#x27;nin ve dünyanın farklı rotalarına taşıyan keyifli bir gezi programıdır. Tarihi yapılar, yerel lezzetler ve kültürel zenginlikler her bölümde detaylı biçimde ele alınır. Samimi anlatımıyla program, izleyiciye hem bilgi sunar hem de yeni yerler keşfetme isteği uyandırır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118135000 +0000" stop="20260118153000 +0000" channel="beyaz-tv">
@@ -3326,7 +3326,7 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
   </programme>
   <programme start="20260118153000 +0000" stop="20260118163000 +0000" channel="beyaz-tv">
     <title lang="tr">Beyaz Ana Haber</title>
-    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini; yerel ve uluslararası haberler, ekonomi, siyaset ve sağlık başlıklarıyla ekrana taşır. Doğru, tarafsız ve hızlı habercilik anlayışıyla hazırlanan bültende; uzman yorumları, özel dosyalar ve canlı bağlantılarla izleyiciler gündemin merkezine davet edilir.</desc>
+    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini yerel ve uluslararası haberler, ekonomi, siyaset ve sağlık başlıklarıyla izleyiciye aktarır. Tarafsız ve hızlı habercilik anlayışıyla hazırlanan bültende; uzman yorumları, özel dosyalar ve canlı bağlantılar yer alır. Program, gündemi doğru ve anlaşılır bir biçimde takip etmek isteyenler için güvenilir bir kaynak sunar.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118163000 +0000" stop="20260118184500 +0000" channel="beyaz-tv">
@@ -6567,7 +6567,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260118133000 +0000" stop="20260118140000 +0000" channel="da-vinci">
     <title lang="tr">Görevimiz: İnsan Vücudu: Buruşuk Deri</title>
-    <desc lang="tr">Dr. Chris ve Dr. Xand cildin banyoda neden buruştuğunu çözmeye çalışıyorlar.Dr. Chris kalp araştırmasında yer alan bir hastayla tanışıyor. Acil serviste kafasını çarpmış ve çenesi çıkmış iki hasta var.</desc>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118140000 +0000" stop="20260118141800 +0000" channel="da-vinci">
@@ -6597,7 +6597,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260118154800 +0000" stop="20260118161800 +0000" channel="da-vinci">
     <title lang="tr">Görevimiz: İnsan Vücudu: Hayat Kurtaran Kan Bağışları</title>
-    <desc lang="tr">Doktorlar, farklı şeyler yemenin gaitaları nasıl etkilediğini gösteren bir deney yapıyorlar. Dr. Xand kan bağışı yapıyor ve bunun diğer insanların hayatlarını kurtarmada ne kadar önemli olduğunu anlatıyor. Acil serviste, eli kesilmiş ve kaşı açılmış iki hasta var.</desc>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118161800 +0000" stop="20260118162400 +0000" channel="da-vinci">
@@ -12213,131 +12213,132 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
   </programme>
   <programme start="20260118133000 +0000" stop="20260118134500 +0000" channel="flash-haber">
     <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, Türkiye ve dünyadan güncel spor gelişmelerini, maç özetlerini, transferleri ve uzman yorumlarıyla izleyicilere aktarıyor; sporseverlere kapsamlı bir gündem sunuyor.</desc>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor. Program, tempolu anlatımıyla sporseverlere günün en önemli başlıklarını hızlı ve keyifli bir biçimde sunuyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260118134500 +0000" stop="20260118135500 +0000" channel="flash-haber">
     <title lang="tr">Flash Vizyon</title>
-    <desc lang="tr">Flash Vizyon, Flash TV ekranlarında gündem, kültür ve magazini bir araya getiren enerjik, bilgilendirici ve eğlenceli bir televizyon programıdır.</desc>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor. Program, eğlenceli anlatımı ve tempolu yapısıyla izleyicilere keyifli, dinamik ve dopdolu bir kültür-sanat yolculuğu sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118135500 +0000" stop="20260118140000 +0000" channel="flash-haber">
     <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam ve dünyamızın güzelliklerini benzersiz bir perspektifle ekrana taşıyor. Doğa, şehirler ve kültürler, kuş gözüyle izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Kuş Bakışı, dünyayı ve yaşamı benzersiz bir perspektiften izleyiciyle buluşturan etkileyici bir belgesel serisidir. Doğal yaşam alanları, şehirler ve kültürel zenginlikler kuş gözüyle keşfedilirken, izleyiciler hem görsel bir şölenin hem de bilgi dolu bir yolculuğun parçası olur. Program, farklı coğrafyaları ve yaşam biçimlerini akıcı bir anlatımla tanıtıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118140000 +0000" stop="20260118143000 +0000" channel="flash-haber">
     <title lang="tr">Haber</title>
-    <desc lang="tr">Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylara dair son dakika haberleri</desc>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor. Program, anlık gelişmeleri derinlemesine analizlerle harmanlayarak halkın doğru ve tarafsız bilgiye ulaşmasını hedefliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118143000 +0000" stop="20260118144500 +0000" channel="flash-haber">
     <title lang="tr">Oto Flash</title>
-    <desc lang="tr">Otomotiv dünyasındaki yenilikleri, araç incelemelerini ve teknik detayları izleyiciye sunan program</desc>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor. Program, sade anlatımı ve pratik bilgileriyle otomobil meraklılarına hem keyifli hem de yol gösterici bir izleme deneyimi sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118144500 +0000" stop="20260118150000 +0000" channel="flash-haber">
     <title lang="tr">Ekonomi Hattı</title>
-    <desc lang="tr">Tüm ekonomi haberleri her gün Flash Haber TV&#x27;de gösterilen &#x27;Ekonomi Hattı&#x27; programında.</desc>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. Program, girişimcilikten finansal planlamaya kadar pek çok başlığı kapsayarak izleyiciye ekonomik gündemi çok yönlü değerlendirme imkânı sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118150000 +0000" stop="20260118151500 +0000" channel="flash-haber">
     <title lang="tr">Haber</title>
-    <desc lang="tr">Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylara dair son dakika haberleri</desc>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor. Program, anlık gelişmeleri derinlemesine analizlerle harmanlayarak halkın doğru ve tarafsız bilgiye ulaşmasını hedefliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118151500 +0000" stop="20260118154500 +0000" channel="flash-haber">
     <title lang="tr">Donanım Günlüğü</title>
+    <desc lang="tr">Donanım Günlüğü, teknoloji dünyasındaki en yeni donanımları, performans testlerini ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Ekran kartlarından işlemcilere, oyun ekipmanlarından aksesuar incelemelerine kadar pek çok başlık sade ve anlaşılır bir dille ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118154500 +0000" stop="20260118155600 +0000" channel="flash-haber">
     <title lang="tr">Arktik Raporu</title>
-    <desc lang="tr">Arktik Raporu, Kuzey Kutbu&#x27;nda yaşanan hızlı iklim değişikliklerini, eriyen buzulları ve bu sürecin dünya üzerindeki etkilerini bilimsel verilerle ele alıyor.</desc>
+    <desc lang="tr">Arktik Raporu, Kuzey Kutbu&#x27;nda son yıllarda yaşanan dramatik çevresel değişimleri mercek altına alıyor. Küresel ısınmanın etkisiyle hızla eriyen buzullar, dönüşen ekosistemler ve tehdit altındaki canlı türleri bilim insanlarının gözlemleriyle aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118155600 +0000" stop="20260118160000 +0000" channel="flash-haber">
     <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam ve dünyamızın güzelliklerini benzersiz bir perspektifle ekrana taşıyor. Doğa, şehirler ve kültürler, kuş gözüyle izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Kuş Bakışı, dünyayı ve yaşamı benzersiz bir perspektiften izleyiciyle buluşturan etkileyici bir belgesel serisidir. Doğal yaşam alanları, şehirler ve kültürel zenginlikler kuş gözüyle keşfedilirken, izleyiciler hem görsel bir şölenin hem de bilgi dolu bir yolculuğun parçası olur. Program, farklı coğrafyaları ve yaşam biçimlerini akıcı bir anlatımla tanıtıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118160000 +0000" stop="20260118164500 +0000" channel="flash-haber">
     <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün öne çıkan gelişmelerini canlı yayınla sunan, tarafsız ve hızlı habercilik anlayışına sahip bir haber programı</desc>
+    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini Türkiye ve dünyadan başlıklarla izleyiciye aktaran kapsamlı bir haber programıdır. Siyaset, ekonomi, güvenlik ve toplumsal olaylar detaylı biçimde ele alınırken, canlı bağlantılar, uzman yorumları ve özel röportajlarla içerik zenginleştirilir.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118164500 +0000" stop="20260118170000 +0000" channel="flash-haber">
     <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, Türkiye ve dünyadan güncel spor gelişmelerini, maç özetlerini, transferleri ve uzman yorumlarıyla izleyicilere aktarıyor; sporseverlere kapsamlı bir gündem sunuyor.</desc>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260118170000 +0000" stop="20260118173000 +0000" channel="flash-haber">
     <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan sıcak gelişmeleri, siyaset, ekonomi, spor ve kültür başlıklarıyla tarafsız ve güvenilir şekilde izleyicilere sunuyor.</desc>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118173000 +0000" stop="20260118175900 +0000" channel="flash-haber">
     <title lang="tr">Yeşil Hat</title>
-    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı programıyla sürdürülebilir yaşamı ve çevre bilincini ekranlara taşıyor. İklim, geri dönüşüm ve doğa dostu projeler izleyiciye ilham veriyor.</desc>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118175900 +0000" stop="20260118180000 +0000" channel="flash-haber">
     <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam ve dünyamızın güzelliklerini benzersiz bir perspektifle ekrana taşıyor. Doğa, şehirler ve kültürler, kuş gözüyle izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Kuş Bakışı, dünyayı ve yaşamı benzersiz bir perspektiften izleyiciyle buluşturan etkileyici bir belgesel serisidir. Doğal yaşam alanları, şehirler ve kültürel zenginlikler kuş gözüyle keşfedilirken, izleyiciler hem görsel bir şölenin hem de bilgi dolu bir yolculuğun parçası olur. Program, farklı coğrafyaları ve yaşam biçimlerini akıcı bir anlatımla tanıtıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118180000 +0000" stop="20260118183000 +0000" channel="flash-haber">
     <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan sıcak gelişmeleri, siyaset, ekonomi, spor ve kültür başlıklarıyla tarafsız ve güvenilir şekilde izleyicilere sunuyor.</desc>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118183000 +0000" stop="20260118185900 +0000" channel="flash-haber">
     <title lang="tr">Bilim Hattı</title>
-    <desc lang="tr">Bilim dünyasındaki en son gelişmeler, yenilikçi teknolojiler ve merak uyandıran keşifler &quot;Bilim Hattı&quot;nda!</desc>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler sunan program, konuları sade ve ilgi çekici bir dille anlatıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118185900 +0000" stop="20260118190000 +0000" channel="flash-haber">
     <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam ve dünyamızın güzelliklerini benzersiz bir perspektifle ekrana taşıyor. Doğa, şehirler ve kültürler, kuş gözüyle izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Kuş Bakışı, dünyayı ve yaşamı benzersiz bir perspektiften izleyiciyle buluşturan etkileyici bir belgesel serisidir. Doğal yaşam alanları, şehirler ve kültürel zenginlikler kuş gözüyle keşfedilirken, izleyiciler hem görsel bir şölenin hem de bilgi dolu bir yolculuğun parçası olur. Program, farklı coğrafyaları ve yaşam biçimlerini akıcı bir anlatımla tanıtıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118190000 +0000" stop="20260118193000 +0000" channel="flash-haber">
     <title lang="tr">Haber</title>
-    <desc lang="tr">Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylara dair son dakika haberleri</desc>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor. Program, anlık gelişmeleri derinlemesine analizlerle harmanlayarak halkın doğru ve tarafsız bilgiye ulaşmasını hedefliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118193000 +0000" stop="20260118194500 +0000" channel="flash-haber">
     <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, Türkiye ve dünyadan güncel spor gelişmelerini, maç özetlerini, transferleri ve uzman yorumlarıyla izleyicilere aktarıyor; sporseverlere kapsamlı bir gündem sunuyor.</desc>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260118194500 +0000" stop="20260118200000 +0000" channel="flash-haber">
     <title lang="tr">Ekonomi Hattı</title>
-    <desc lang="tr">Tüm ekonomi haberleri her gün Flash Haber TV&#x27;de gösterilen &#x27;Ekonomi Hattı&#x27; programında.</desc>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. Program, girişimcilikten finansal planlamaya kadar pek çok başlığı kapsayarak izleyiciye ekonomik gündemi çok yönlü değerlendirme imkânı sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118200000 +0000" stop="20260118203000 +0000" channel="flash-haber">
     <title lang="tr">Haber</title>
-    <desc lang="tr">Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylara dair son dakika haberleri</desc>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor. Program, anlık gelişmeleri derinlemesine analizlerle harmanlayarak halkın doğru ve tarafsız bilgiye ulaşmasını hedefliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118203000 +0000" stop="20260118204400 +0000" channel="flash-haber">
     <title lang="tr">Bushcraft Baycan</title>
-    <desc lang="tr">Doğada hayatta kalma becerilerini ve doğa ile uyumlu yaşam tarzını öğrettiği bir YouTube programıdır.</desc>
+    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118204400 +0000" stop="20260118205300 +0000" channel="flash-haber">
     <title lang="tr">Flash Vizyon</title>
-    <desc lang="tr">Flash Vizyon, Flash TV ekranlarında gündem, kültür ve magazini bir araya getiren enerjik, bilgilendirici ve eğlenceli bir televizyon programıdır.</desc>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor. Program, eğlenceli anlatımı ve tempolu yapısıyla izleyicilere keyifli, dinamik ve dopdolu bir kültür-sanat yolculuğu sunuyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118205300 +0000" stop="20260118205500 +0000" channel="flash-haber">
     <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">&quot;Hava Durumu&quot; programı, Türkiye&#x27;nin dört bir yanından en güncel meteorolojik verileri izleyicilere aktarıyor. Günlük ve haftalık hava tahminleri, sıcaklık değerleri, yağış ihtimalleri ve bölgesel hava değişiklikleri anlaşılır bir dille ekrana taşınıyor.</desc>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor. Program, günlük planlarını yaparken izleyiciye yol gösteren, pratik ve güvenilir bir hava rehberi sunuyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
   <programme start="20260118205500 +0000" stop="20260118210000 +0000" channel="flash-haber">
     <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam ve dünyamızın güzelliklerini benzersiz bir perspektifle ekrana taşıyor. Doğa, şehirler ve kültürler, kuş gözüyle izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Kuş Bakışı, dünyayı ve yaşamı benzersiz bir perspektiften izleyiciyle buluşturan etkileyici bir belgesel serisidir. Doğal yaşam alanları, şehirler ve kültürel zenginlikler kuş gözüyle keşfedilirken, izleyiciler hem görsel bir şölenin hem de bilgi dolu bir yolculuğun parçası olur. Program, farklı coğrafyaları ve yaşam biçimlerini akıcı bir anlatımla tanıtıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260118030000 +0000" stop="20260118050000 +0000" channel="fm-tv">
@@ -14354,37 +14355,37 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   </programme>
   <programme start="20260118121000 +0000" stop="20260118123000 +0000" channel="kanal-7">
     <title lang="tr">Gezelim</title>
-    <desc lang="tr">Gezelim, ülkemizin ilk ve tek seyahat programı olarak izleyicileri dünyanın dört bir yanına taşıyor.</desc>
+    <desc lang="tr">Gezelim, ülkemizin ilk ve tek seyahat programı olarak izleyicileri dünyanın dört bir yanına taşıyor. Son dakika seyahat haberleriyle ekrana geliyor. Yeni destinasyonlar, keşfedilmeyi bekleyen rotalar ve yerel kültürlerden bilgiler, uzman rehberler eşliğinde izleyicilere sunuluyor. Hem bilgi hem eğlence dolu bu program, seyahat tutkunları için unutulmaz anlar vaat ediyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118123000 +0000" stop="20260118132000 +0000" channel="kanal-7">
     <title lang="tr">Dünyayı Geziyorum</title>
-    <desc lang="tr">Milyarlarca insanın oluşturduğu farklı kültürler, farklı yaşamlar Dünyayı Geziyorum ile meraklılarıyla buluşuyor. Gezmeye görmeye fırsat bulamayanlar için dünyanın dört bir yanını ekrana taşıyan Özlem Tunca ve minik oğlu Yakupcan izleyicilerini dünya turuna çıkarıyor.</desc>
+    <desc lang="tr">Dünyayı Geziyorum, Özlem Tunca ve minik oğlu Yakupcan ile izleyiciyi dünyanın dört bir yanına taşıyor. Program, farklı kültürleri, tarihi eserleri ve göz alıcı manzaraları gezerek meraklılara sunuyor. Yeni rotalar keşfediliyor, dağlar, tepeler ve tarihi yapılar ziyaret ediliyor. Her bölümde seyahat deneyimleri ve konaklama önerileri izleyiciyle paylaşılıyor.</desc>
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260118132000 +0000" stop="20260118150000 +0000" channel="kanal-7">
     <title lang="tr">Memleket Gibisi Yok</title>
-    <desc lang="tr">Sıcak sohbetler, nostaljik hikâyeler ve yerel renklerle dolu bir yolculukla şehrin ruhunu izleyiciye taşıyor.</desc>
+    <desc lang="tr">Memleket Gibisi Yok bir şehrin ruhunu ve oradan çıkan insanların gözünden anlatıyor. Sıcacık sohbetler, tanıdık mahalleler ve nostaljik hikâyelerle dolu bu yolculuk izleyiciye hem duygusal hem kültürel bir deneyim sunuyor. Yerel renkler ve anılar ekran başındakileri kendine çekiyor, her bölümde keşfedilecek yeni sürprizler ve unutulmaz anlar vaat ediyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118150000 +0000" stop="20260118160000 +0000" channel="kanal-7">
     <title lang="tr">Kanal 7 Hafta Sonu Haberleri</title>
-    <desc lang="tr">Haftasonu Haberleri&#x27;nde, bir haftada, Türkiye ve dünyada yaşanan gelişmeler, son dakika haberleri, özel dosyalar ve birbirinden ilginç haberler yer alıyor. Türkiye ve dünya gündeminde yaşananları ve haftaya damgasını vuran olayları uzman konukların da bakış açısıyla görmek istiyorsanız Haftasonu Haberleri&#x27;ni sakın kaçırmayın.</desc>
+    <desc lang="tr">Haftasonu Haberleri, Türkiye ve dünyada geçen haftanın önemli gelişmelerini, son dakika haberlerini, özel dosyaları ve dikkat çekici konuları izleyiciyle buluşturuyor. Haftanın öne çıkan olaylarını ve gündeme damga vuran konuları, uzman konukların yorumlarıyla değerlendirmek için Haftasonu Haberleri ekran başında olmanız gereken program.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260118160000 +0000" stop="20260118181500 +0000" channel="kanal-7">
     <title lang="tr">Gelin</title>
-    <desc lang="tr">Başrollerini Talya Çelebi&#x27;nin paylaştığı Gelin, sürprizlerle dolu üçüncü sezonuyla Kanal 7 ekranlarında. Develioğlu ailesini sarsacak sırlar, Hançer ve Cihan&#x27;ın aşkı ve bebek heyecanı izleyiciyi sürükleyici bir hikâyeye davet ediyor.</desc>
+    <desc lang="tr">Kanal 7&#x27;nin sevilen dizisi Gelin, Talya Çelebi&#x27;nin başrolünde, heyecan dolu üçüncü sezonuyla izleyiciyle buluşuyor. Develioğlu ailesini alt üst edecek sırlar, Hançer ile Cihan&#x27;ın aşkı ve bebek heyecanı, beklenmedik gelişmelerle ekrana taşınıyor. Dizinin yeni sezonu, sürprizlerle dolu olaylar ve aile dramıyla izleyiciyi ekran başına kilitlemeye hazırlanıyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260118181500 +0000" stop="20260118202000 +0000" channel="kanal-7">
     <title lang="tr">Gündüz Gece</title>
-    <desc lang="tr">Gündüz Gece, Kürşat&#x27;ın Anadolu&#x27;yu gezip köylerdeki hasat telaşlarını, imece usulü ürün üretimini ve köylülerin samimi sohbetlerini ekrana taşıdığı eğlenceli bir programdır. Programda yöresel türküler, maniler ve halk oyunlarıyla Anadolu&#x27;nun sıcak kültürü izleyiciyle buluşuyor.</desc>
+    <desc lang="tr">Gündüz Gece, Kürşat&#x27;ın Anadolu&#x27;yu dolaşarak kültürel zenginlikleri ekrana taşıdığı bir yapım. Köylerde hasat yapan köylülere yardım eder, yöresel türküler ve maniler seslendirir, halk oyunları ve samimi sohbetlerle imece usulü üretim sürecindeki eğlenceli anları izleyiciye sunar. Köylülerin hikâyeleri, anadolu&#x27;nun sıcak insanlarını ve kültürel mirasını ekrana taşır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260118202000 +0000" stop="20260118222000 +0000" channel="kanal-7">
     <title lang="tr">TV Filmi</title>
-    <desc lang="tr">Çeşitli film türleri veya dizileri aracılığıyla önümüzdeki dakikalarda eğlenecek ve rahatlayacaksınız. Filmler ve diziler, hem genç hem de yaşlı izleyiciler için, hepimiz için gösterilir.</desc>
+    <desc lang="tr">Çeşitli film ve dizi türlerinden oluşan yayın kuşağı, izleyicilere eğlenceli ve dinlendirici anlar yaşatmayı amaçlıyor. Önümüzdeki dakikalarda ekrana gelecek yapımlar, keyifli hikâyeleri ve farklı anlatımlarıyla izleyiciyi günlük hayatın temposundan uzaklaştırıyor. Gençlerden yetişkinlere kadar her yaştan izleyici için uygun içerikler sunuluyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260118010000 +0000" stop="20260118020000 +0000" channel="kanal-d">
@@ -15006,7 +15007,7 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
   </programme>
   <programme start="20260118193000 +0000" stop="20260118210000 +0000" channel="kontv">
     <title lang="tr">Türk Filmi</title>
-    <desc lang="tr">Türk Filmi, izleyiciye duygusal, dramatik veya komik temaları işleyen, Türk sinemasının zengin örneklerini sunan bir film programıdır. Film boyunca karakterlerin yaşamları, ilişkileri ve çatışmaları izleyiciye detaylı bir şekilde aktarılır. Türk Filmi, hem eğlenceli hem de düşündürücü içerikleriyle izleyiciye keyifli ve duygusal bir deneyim sunar, Türk sinemasının farklı yönlerini tanıtmayı amaçlar.</desc>
+    <desc lang="tr">Türk Filmi, duygusal, dramatik ve komik temaları bir araya getirerek Türk sinemasının zengin örneklerini izleyiciyle buluşturuyor. Film boyunca karakterlerin yaşamları, ilişkileri ve çatışmaları etkileyici bir anlatımla ekrana taşınıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260118050000 +0000" stop="20260118090000 +0000" channel="krt-tv">
