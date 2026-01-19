@@ -3184,23 +3184,23 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119050000 +0000" stop="20260119112900 +0000" channel="beinsports2.tr">
+  <programme start="20260119050000 +0000" stop="20260119112400 +0000" channel="beinsports2.tr">
     <title lang="tr">Erzurumspor FK - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260119113000 +0000" stop="20260119133900 +0000" channel="beinsports2.tr">
+  <programme start="20260119112500 +0000" stop="20260119133400 +0000" channel="beinsports2.tr">
     <title lang="tr">A.H.Iğdır FK - Sakaryaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260119134000 +0000" stop="20260119135900 +0000" channel="beinsports2.tr">
+  <programme start="20260119133500 +0000" stop="20260119135400 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260119140000 +0000" stop="20260119165900 +0000" channel="beinsports2.tr">
+  <programme start="20260119135500 +0000" stop="20260119165400 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig 21.Hafta / Canl</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="beinsports2.tr">
+  <programme start="20260119165500 +0000" stop="20260119185500 +0000" channel="beinsports2.tr">
     <title lang="tr">Göztepe - Ç.Rizespor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -13023,11 +13023,6 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Farklı ülkeleri gezip deneyimliyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
   </programme>
-  <programme start="20260119204900 +0000" stop="20260120205900 +0000" channel="gzt-tv">
-    <title lang="tr">Tarih 101</title>
-    <desc lang="tr">Tarih 101, tarih olaylarını akademik ve derinlemesine anlatan, çeşitli formatlarda içerikler sunuyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
   <programme start="20260119030000 +0000" stop="20260119050000 +0000" channel="haber-global">
     <title lang="tr">Türkiye&#x27;de Sabah</title>
     <desc lang="tr">Türkiye&#x27;de Sabah programı, günün ilk saatlerinde Türkiye ve dünyada yaşanan önemli gelişmeleri kapsamlı biçimde ele alır. Siyaset, ekonomi, güvenlik ve toplumsal hayata dair öne çıkan başlıklar; canlı bağlantılar ve güncel bilgiler eşliğinde izleyiciye aktarılır. Program, güne hızlı ve doğru bir haber akışıyla başlamak isteyenler için güvenilir bir içerik sunar.</desc>
@@ -14169,19 +14164,19 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119174000 +0000" stop="20260119183000 +0000" channel="kontv">
-    <title lang="tr">Sora Sora Yarışma</title>
-    <desc lang="tr">Sora Sora Yarışma, izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları, yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken, izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder. Sora Sora Yarışma, hem eğlenceli hem de düşündürücü içerikleriyle izleyiciyi ekran başına çeken bir programdır.</desc>
+    <title lang="tr">İyilikle Sevindir</title>
+    <desc lang="tr">İyilikle Sevindir&quot;, iyilik ve dayanışma hikayeleriyle Kon TV&#x27;de. Küçük iyiliklerin büyük mutluluklara dönüştüğü programı kaçırmayın!</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119183000 +0000" stop="20260119200000 +0000" channel="kontv">
-    <title lang="tr">Spor Gündemi</title>
-    <desc lang="tr">&quot;Spor Gündemi&quot;, güncel spor haberleri, maç analizleri ve özel yorumlarla sporseverlere dinamik ve kapsamlı bir yayın sunuyor.</desc>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Tarihin Kadrajından</title>
+    <desc lang="tr">Tarihin Kadrajından&quot;, geçmişe farklı bir objektiften bakıyor. Fotoğraflar, belgeler ve anlatımlarla tarih gözler önüne seriliyor. Kaçırmayın!</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260119200000 +0000" stop="20260119210000 +0000" channel="kontv">
-    <title lang="tr">Spor Gündemi</title>
-    <desc lang="tr">&quot;Spor Gündemi&quot;, güncel spor haberleri, maç analizleri ve özel yorumlarla sporseverlere dinamik ve kapsamlı bir yayın sunuyor.</desc>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Türkü Filmi</title>
+    <desc lang="tr">Aşk, hüzün ve umut dolu bir hikâyeyi ekrana taşıyor. Karakterlerin iç dünyasını ve yaşadıkları olayları türkülerin rehberliğinde anlatırken izleyiciye hem nostalji hem de duygu dolu anlar yaşatıyor. Türk kültürünün sıcaklığını yansıtan film, müzik severler için kaçırılmayacak bir deneyim sunuyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260119050000 +0000" stop="20260119080000 +0000" channel="krt-tv">
     <title lang="tr">Enerjide Bilgi Net</title>
@@ -14203,19 +14198,33 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Toplumun içinden gelen hikâyeler, sosyal konular ve gündelik hayatın nabzı bu programda ele alınıyor. Hayata dair meseleler sade ve samimi bir anlatımla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119164500 +0000" channel="krt-tv">
+  <programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="krt-tv">
     <title lang="tr">Gizem Çetin ile KRT Ana Haber</title>
     <desc lang="tr">Türkiye ve dünyadan günün öne çıkan haberleri, sıcak gelişmeler ve gündemin belirleyici başlıkları izleyiciyle buluşuyor. Güvenilir ve net haber sunumuyla günün özeti ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119164500 +0000" stop="20260119170000 +0000" channel="krt-tv">
-    <title lang="tr">KRT Spor</title>
-    <desc lang="tr">Futboldan basketbola, voleyboldan diğer branşlara kadar spor dünyasındaki güncel gelişmeler bu programda izleyiciyle buluşuyor. Maç sonuçları, analizler ve öne çıkan detaylar ekrana taşınıyor.</desc>
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="krt-tv">
+    <title lang="tr">Enerjide Bilgi Net</title>
+    <desc lang="tr">Enerji dünyasındaki güncel gelişmeler, piyasaları etkileyen kararlar ve sektörel trendler bu programda ele alınıyor. Uzman analizleriyle enerjiye dair merak edilen konular anlaşılır bir dille izleyiciye aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260119170000 +0000" stop="20260120050000 +0000" channel="krt-tv">
-    <title lang="tr">Panorama</title>
-    <desc lang="tr">Seçil Özer ile Panorama salı, çarşamba ve perşembe saat 20:00&#x27;de KRT&#x27;de.</desc>
+  <programme start="20260119170000 +0000" stop="20260119180000 +0000" channel="krt-tv">
+    <title lang="tr">Hafıza</title>
+    <desc lang="tr">Hafıza her pazar KRT&#x27;de.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="krt-tv">
+    <title lang="tr">Zaman Dışı</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260119190000 +0000" stop="20260119200000 +0000" channel="krt-tv">
+    <title lang="tr">Yaşamın Sırları</title>
+    <desc lang="tr">Dr. Didem Gülmez ile Kaliteli Yaşamın Sırları pazar saat 12.00&#x27;de KRT&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260119200000 +0000" stop="20260119210000 +0000" channel="krt-tv">
+    <title lang="tr">Yaşamını Tasarla</title>
+    <desc lang="tr">Kişisel gelişim, yaşam kalitesi ve farkındalık odaklı konular bu programda ele alınıyor. Günlük hayatı daha bilinçli ve dengeli yaşamak isteyenler için ilham veren içerikler sunuluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119002500 +0000" stop="20260119012000 +0000" channel="love-nature">
@@ -15222,119 +15231,134 @@ macera başlar.</desc>
     <desc lang="tr">Rob The Robot - Bir Oyun Gösterisi, Sarılmış ve Galaksi Golfü!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119070500 +0000" stop="20260119074300 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Taklitçi, Diş ve Bir Maymun!</title>
-    <desc lang="tr">Rob The Robot - Taklitçi, Diş ve Bir Maymun!</desc>
+  <programme start="20260119073000 +0000" stop="20260119080200 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">CoComelon - JJ’in Favori Oyunları ve Araçları!</title>
+    <desc lang="tr">CoComelon - JJ’in Favori Oyunları ve Araçları!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119074300 +0000" stop="20260119082200 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Bir Mumya, Bir Dilek ve Not Alma Başarısı!</title>
-    <desc lang="tr">Rob The Robot - Bir Mumya, Bir Dilek ve Not Alma Başarısı!</desc>
+  <programme start="20260119080200 +0000" stop="20260119082400 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Gecko&#x27;s Garage - Garajda Yoğun Bir Gün!</title>
+    <desc lang="tr">Gecko&#x27;s Garage - Garajda Yoğun Bir Gün!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119082200 +0000" stop="20260119090100 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Bir Yazar, Görgü Kuralları ve Eğlenceli Bir Adam!</title>
-    <desc lang="tr">Rob The Robot - Bir Yazar, Görgü Kuralları ve Eğlenceli Bir Adam!</desc>
+  <programme start="20260119082400 +0000" stop="20260119085900 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Gecko&#x27;s Garage - Muhteşem Kurtarışlar ve Weasel’ın Hataları!</title>
+    <desc lang="tr">Gecko&#x27;s Garage - Muhteşem Kurtarışlar ve Weasel’ın Hataları!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119090100 +0000" stop="20260119093900 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Peynirli Bir Görev, Kandırmaca ve Eğlence!</title>
-    <desc lang="tr">Rob The Robot - Peynirli Bir Görev, Kandırmaca ve Eğlence!</desc>
+  <programme start="20260119085900 +0000" stop="20260119092800 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Digley - Dazey - Yarışlar, Oyunlar ve Yardımsever Arkadaşlar!</title>
+    <desc lang="tr">Digley - Dazey - Yarışlar, Oyunlar ve Yardımsever Arkadaşlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119093900 +0000" stop="20260119101800 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Bir Şövalye, Bir Lord ve Kayıp Bir Dinozor!</title>
-    <desc lang="tr">Rob The Robot - Bir Şövalye, Bir Lord ve Kayıp Bir Dinozor!</desc>
+  <programme start="20260119092800 +0000" stop="20260119100200 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Digley - Dazey - İnşaat Kaosu ve Zekice Çözümler!</title>
+    <desc lang="tr">Digley - Dazey - İnşaat Kaosu ve Zekice Çözümler!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119101800 +0000" stop="20260119105600 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Zorlu Bir Piknik, Kayıp ve Bulunan Şeyler!</title>
-    <desc lang="tr">Rob The Robot - Zorlu Bir Piknik, Kayıp ve Bulunan Şeyler!</desc>
+  <programme start="20260119100200 +0000" stop="20260119104100 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Rob The Robot - Uzay Kampı, Uykular ve Uzun Bir Hikâye!</title>
+    <desc lang="tr">Rob The Robot - Uzay Kampı, Uykular ve Uzun Bir Hikâye!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119105600 +0000" stop="20260119113600 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">ARPO - Çılgın Yarışmalar ve Robot Arızaları!</title>
-    <desc lang="tr">ARPO - Çılgın Yarışmalar ve Robot Arızaları!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119113600 +0000" stop="20260119120400 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">ARPO - Sıfır Yerçekimi, Küçültme Işınları ve Daha Fazla Kaos!</title>
-    <desc lang="tr">ARPO - Sıfır Yerçekimi, Küçültme Işınları ve Daha Fazla Kaos!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119120400 +0000" stop="20260119124300 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Spor Günü, Bir Roket Grubu ve Bir Kemik!</title>
-    <desc lang="tr">Rob The Robot - Spor Günü, Bir Roket Grubu ve Bir Kemik!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119124300 +0000" stop="20260119132200 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Uzay Kedileri, Origami ve Kesin Bir İşaret!</title>
-    <desc lang="tr">Rob The Robot - Uzay Kedileri, Origami ve Kesin Bir İşaret!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119132200 +0000" stop="20260119140000 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Uçurtmalar, Ciyaklar ve Ağaç Evi Sorunu!</title>
-    <desc lang="tr">Rob The Robot - Uçurtmalar, Ciyaklar ve Ağaç Evi Sorunu!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119140000 +0000" stop="20260119143900 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Hazine, Peynir ve Bir Gizem!</title>
-    <desc lang="tr">Rob The Robot - Hazine, Peynir ve Bir Gizem!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119143900 +0000" stop="20260119151700 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Çok Hızlı, Bir İnşa Yarışı ve Bir Sis!</title>
-    <desc lang="tr">Rob The Robot - Çok Hızlı, Bir İnşa Yarışı ve Bir Sis!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119151700 +0000" stop="20260119155600 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Göster ve Paylaş, Titreme ve Bir Çatlak!</title>
-    <desc lang="tr">Rob The Robot - Göster ve Paylaş, Titreme ve Bir Çatlak!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119155600 +0000" stop="20260119163000 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Bir Tavşan, Bir Şerif ve Kaplumbağa Kabuğu!</title>
-    <desc lang="tr">Rob The Robot - Bir Tavşan, Bir Şerif ve Kaplumbağa Kabuğu!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260119163000 +0000" stop="20260119170900 +0000" channel="moonbug-kids-tv">
+  <programme start="20260119104100 +0000" stop="20260119113000 +0000" channel="moonbug-kids-tv">
     <title lang="tr">Rob The Robot - Dans, Uzay Ördeği ve Renkli Eğlence!</title>
     <desc lang="tr">Rob The Robot - Dans, Uzay Ördeği ve Renkli Eğlence!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119170900 +0000" stop="20260119174700 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Takım Ruhu, Kozmik Bir Gün ve Bowling!</title>
-    <desc lang="tr">Rob The Robot - Takım Ruhu, Kozmik Bir Gün ve Bowling!</desc>
+  <programme start="20260119113000 +0000" stop="20260119120400 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">CoComelon - Hadi JJ ile Oynayalım, Keşfedelim ve Öğrenelim!</title>
+    <desc lang="tr">CoComelon - Hadi JJ ile Oynayalım, Keşfedelim ve Öğrenelim!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119174700 +0000" stop="20260119182300 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">ARPO - Annemin Çılgın İcatları Kontrolden Çıkıyor!</title>
-    <desc lang="tr">ARPO - Annemin Çılgın İcatları Kontrolden Çıkıyor!</desc>
+  <programme start="20260119120400 +0000" stop="20260119123700 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">CoComelon - JJ ile Bir Gün: Gündüz ve Gece!</title>
+    <desc lang="tr">CoComelon - JJ ile Bir Gün: Gündüz ve Gece!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119182300 +0000" stop="20260119185500 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">ARPO - Sincap Sorunu ve Diğer Tuhaf Dertler!</title>
-    <desc lang="tr">ARPO - Sincap Sorunu ve Diğer Tuhaf Dertler!</desc>
+  <programme start="20260119123700 +0000" stop="20260119130800 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Little Angel - Hayal Gücü ve Sorun Çözme Eğlencesi!</title>
+    <desc lang="tr">Little Angel - Hayal Gücü ve Sorun Çözme Eğlencesi!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119185500 +0000" stop="20260119193400 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Peynirli Bir Görev, Kandırmaca ve Eğlence!</title>
-    <desc lang="tr">Rob The Robot - Peynirli Bir Görev, Kandırmaca ve Eğlence!</desc>
+  <programme start="20260119130800 +0000" stop="20260119133100 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Little Angel - Bebek John’la Önemli Dersler!</title>
+    <desc lang="tr">Little Angel - Bebek John’la Önemli Dersler!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119193400 +0000" stop="20260119201200 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Fare Evi, Uzay Virüsü ve Bir Robot!</title>
-    <desc lang="tr">Rob The Robot - Fare Evi, Uzay Virüsü ve Bir Robot!</desc>
+  <programme start="20260119133100 +0000" stop="20260119135300 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Blippi - Blippi’nin Muhteşem Akvaryum Günü!</title>
+    <desc lang="tr">Blippi - Blippi’nin Muhteşem Akvaryum Günü!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119201200 +0000" stop="20260119205100 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Rob The Robot - Taklitçi, Diş ve Bir Maymun!</title>
-    <desc lang="tr">Rob The Robot - Taklitçi, Diş ve Bir Maymun!</desc>
+  <programme start="20260119135300 +0000" stop="20260119142800 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Blippi - Şekiller, Renkler ve Daha Fazlası – Blippi Tarzıyla!</title>
+    <desc lang="tr">Blippi - Şekiller, Renkler ve Daha Fazlası – Blippi Tarzıyla!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119205100 +0000" stop="20260119213300 +0000" channel="moonbug-kids-tv">
-    <title lang="tr">Cico ile Moco - Bölüm 10</title>
-    <desc lang="tr">Cico ile Moco - Bölüm 10</desc>
+  <programme start="20260119142800 +0000" stop="20260119145300 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Supa Strikas - Ayak Cambazlığı</title>
+    <desc lang="tr">Supa Strikas - Ayak Cambazlığı</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119145300 +0000" stop="20260119151400 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Supa Strikas - Havalı Joe Sırrını Kaybediyor Bölüm 2</title>
+    <desc lang="tr">Supa Strikas - Havalı Joe Sırrını Kaybediyor Bölüm 2</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119151400 +0000" stop="20260119153900 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Supa Strikas - Denizler Altında Bir Süper Lig</title>
+    <desc lang="tr">Supa Strikas - Denizler Altında Bir Süper Lig</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119153900 +0000" stop="20260119160000 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Oddbods - Kıvılcım Tuzakları, Şekerleme Yapan Hırsız ve Köpük Fiyaskosu</title>
+    <desc lang="tr">Oddbods - Kıvılcım Tuzakları, Şekerleme Yapan Hırsız ve Köpük Fiyaskosu</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119160000 +0000" stop="20260119163200 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Oddbods - Denizkızı Kuyruğu, Kötü Yolculuk ve Mükemmel Hediye!</title>
+    <desc lang="tr">Oddbods - Denizkızı Kuyruğu, Kötü Yolculuk ve Mükemmel Hediye!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119163200 +0000" stop="20260119165700 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">ARPO - Şehrin Her Yerinde Kaos!</title>
+    <desc lang="tr">ARPO - Şehrin Her Yerinde Kaos!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119165700 +0000" stop="20260119173700 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">ARPO - Çılgın Yarışmalar ve Robot Arızaları!</title>
+    <desc lang="tr">ARPO - Çılgın Yarışmalar ve Robot Arızaları!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119173700 +0000" stop="20260119181500 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Rob The Robot - Çok Hızlı, Bir İnşa Yarışı ve Bir Sis!</title>
+    <desc lang="tr">Rob The Robot - Çok Hızlı, Bir İnşa Yarışı ve Bir Sis!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119181500 +0000" stop="20260119190500 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Rob The Robot - Sıçra, Serinle ve Eğlen!</title>
+    <desc lang="tr">Rob The Robot - Sıçra, Serinle ve Eğlen!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119190500 +0000" stop="20260119193800 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">CoComelon - JJ’in Büyük Hayvan Macerası!</title>
+    <desc lang="tr">CoComelon - JJ’in Büyük Hayvan Macerası!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119193800 +0000" stop="20260119201100 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">CoComelon - Hadi JJ ile Oynayıp Öğrenelim!</title>
+    <desc lang="tr">CoComelon - Hadi JJ ile Oynayıp Öğrenelim!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119201100 +0000" stop="20260119203700 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Little Angel - Bebek John’un Eğlenceli Hayvan Oyun Zamanı!</title>
+    <desc lang="tr">Little Angel - Bebek John’un Eğlenceli Hayvan Oyun Zamanı!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260119203700 +0000" stop="20260119211100 +0000" channel="moonbug-kids-tv">
+    <title lang="tr">Little Angel - Bebek John Büyüyor!</title>
+    <desc lang="tr">Little Angel - Bebek John Büyüyor!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260119001000 +0000" stop="20260119005500 +0000" channel="national-geographic">
@@ -16950,14 +16974,19 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119150000 +0000" stop="20260119153500 +0000" channel="ntv">
+  <programme start="20260119150000 +0000" stop="20260119150500 +0000" channel="ntv">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119153500 +0000" stop="20260119154000 +0000" channel="ntv">
+  <programme start="20260119150500 +0000" stop="20260119151000 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260119151000 +0000" stop="20260119154000 +0000" channel="ntv">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+    <desc lang="tr">Günün getirdikleri ve günün geride bıraktıklari Oyuncu Ceyda Düvenci, Bambaşka Sohbetler için, NTV&#x27;de izleyici karşısına çıkıyor. Programa bugün Yonca Evcimik konuk oluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119154000 +0000" stop="20260119154500 +0000" channel="ntv">
@@ -16977,19 +17006,14 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119161000 +0000" channel="ntv">
+  <programme start="20260119160000 +0000" stop="20260119164500 +0000" channel="ntv">
     <title lang="tr">Akşam Haberleri</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki önemli ve sıcak gelişmeler, yorumlar, sorulması gereken sorular, gündem belirleyen konuklar, gözden kaçan önemli ayrıntılar ve günden geriye kalanlar her akşam Akşam Haberleri kuşağında...</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119161000 +0000" stop="20260119161500 +0000" channel="ntv">
+  <programme start="20260119164500 +0000" stop="20260119165000 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260119161500 +0000" stop="20260119165000 +0000" channel="ntv">
-    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
-    <desc lang="tr">Günün getirdikleri ve günün geride bıraktıklari Oyuncu Ceyda Düvenci, Bambaşka Sohbetler için, NTV&#x27;de izleyici karşısına çıkıyor. Programa bugün Yonca Evcimik konuk oluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119165000 +0000" stop="20260119165500 +0000" channel="ntv">
@@ -17539,7 +17563,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="s-sport">
-    <title lang="tr">Oklahoma - Cleveland</title>
+    <title lang="tr">Oklahoma City Thunder - Cleveland Cavaliers</title>
     <desc lang="tr">NBA</desc>
     <category lang="tr">Spor</category>
   </programme>
@@ -17597,12 +17621,17 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260119173000 +0000" stop="20260119193000 +0000" channel="s-sport-2">
     <title lang="tr">Cremonese - Verona</title>
-    <desc lang="tr">21. hafta maçı.</desc>
+    <desc lang="tr">Serie A 21. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119194500 +0000" channel="s-sport-2">
     <title lang="tr">Özetler</title>
     <desc lang="tr">Maç Özeti</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260119194500 +0000" stop="20260119214500 +0000" channel="s-sport-2">
+    <title lang="tr">Lazio - Como</title>
+    <desc lang="tr">Serie A 21. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119030000 +0000" stop="20260119040000 +0000" channel="semerkand">
@@ -17726,7 +17755,7 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119170000 +0000" stop="20260119193000 +0000" channel="show-tv">
-    <title lang="tr">Eyvah Eyvah 2</title>
+    <title lang="tr">Eyyvah Eyvah 2</title>
     <desc lang="tr">Babası Ali Rıza Şeker&#x27;i İstanbul&#x27;da bulan Hüseyin&#x27;in artık tek bir amacı vardır: Sevdiği kıza, Müjgan&#x27;ına kavuşmak... Firuzan&#x27;ı, terzi Ramiz&#x27;i ve babasını da yayına alıp, memleketi Geyikli&#x27;ye dönen Hüseyin, Müjgan&#x27;ın kalbini kazanmak için elinden geleni yapar. 
 
 Hüseyin’in memlekette torunlarının yolunu gözleyen dedesi ve ninesinin de dahil olduğu yeni macerada, bol bol kahkaha ve birçok sürpriz yer alıyor.</desc>
@@ -18573,7 +18602,7 @@ yaşayan biriyken, Hannah doğru kişiyi beklemiştir. Tom, Hannah ile bir iliş
     <desc lang="tr">Ekrem Açıkel, memleketin nabzını, duygusunu ve gerçeğini en yalın haliyle ortaya koyuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119213000 +0000" channel="sozcu-tv">
+  <programme start="20260119190000 +0000" stop="20260119210000 +0000" channel="sozcu-tv">
     <title lang="tr">Öncesi Sonrası Gece</title>
     <desc lang="tr">Gündemdeki gelişmeler hafta içi her gün Senem Toluay Ilgaz&#x27;ın sunumu ile ekrana getiriliyor.</desc>
     <category lang="tr">Haber</category>
@@ -18978,34 +19007,42 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
   </programme>
   <programme start="20260119102500 +0000" stop="20260119115000 +0000" channel="tabii-spor">
     <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
+    <desc lang="tr">UEFA Şampiyonlar Lig karşılaşmalarından özet görüntüler ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119115000 +0000" stop="20260119122500 +0000" channel="tabii-spor">
     <title lang="tr">Deplasman Lezzetleri</title>
+    <desc lang="tr">Süper Lig ve 1. Lig&#x27;de yer alan takımların bulunduğu şehirlere giderek o bölgeye özgü hem damak lezzetleri hem de tarihe kısa bir yolculuk tadında, o ilin takımının önemli isimleri olan futbolcu, teknik adam, başkan ile röportajları ekranlarınıza geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119122500 +0000" stop="20260119140500 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Benfica - Napoli&#x27;</title>
+    <title lang="tr">Benfica - Napoli</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119140500 +0000" stop="20260119154500 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Villareal - Kopenhag&#x27;</title>
+    <title lang="tr">Villareal - Kopenhag</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119154500 +0000" stop="20260119161000 +0000" channel="tabii-spor">
     <title lang="tr">Tüm Zamanların En İyileri</title>
+    <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119161000 +0000" stop="20260119175000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması &#x27;Dinamo Zagreb - Real Betis&#x27;</title>
+    <title lang="tr">Dinamo Zagreb - Real Betis</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119175000 +0000" stop="20260119193000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Club Brugge - Arsenal&#x27;</title>
+    <title lang="tr">Club Brugge - Arsenal</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119193000 +0000" stop="20260119211000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Bayern Münih - Sporting&#x27;</title>
+    <title lang="tr">Bayern Münih - Sporting</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119001700 +0000" stop="20260119021200 +0000" channel="tabii-tv">
@@ -22408,14 +22445,14 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <desc lang="tr">Trendyol 1. Lig: İstanbulspor - Emre Gökdemir İnşaat Keçiörengücü / 21. Hafta</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260119160000 +0000" stop="20260119180000 +0000" channel="trt-spor">
-    <title lang="tr">S. Bodrum - Ö. Sivasspor</title>
-    <desc lang="tr">Trendyol 1. Lig: Sipay Bodrum - Özbelsan Sivasspor / 21. Hafta</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="trt-spor">
+  <programme start="20260119160000 +0000" stop="20260119170000 +0000" channel="trt-spor">
     <title lang="tr">Gündem Futbol Transfer</title>
     <desc lang="tr">Öne çıkan haberler, canlı bağlantılar, son dakika haberleri, gündemi sarsan analizler. Transfer dönemine ait bütün gelişmeler Gündem Futbol Transfer&#x27;de.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="trt-spor">
+    <title lang="tr">S. Bodrum - Ö. Sivasspor</title>
+    <desc lang="tr">Trendyol 1. Lig: Sipay Bodrum - Özbelsan Sivasspor / 21. Hafta</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119190000 +0000" stop="20260119203000 +0000" channel="trt-spor">
