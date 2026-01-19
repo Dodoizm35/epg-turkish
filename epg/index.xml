@@ -1497,9 +1497,14 @@ Geleneklerin ve törenin günün değerleriyle çatışmasını konu eden dizini
     <desc lang="tr">Spor dünyasında yaşanan tüm gelişmeler, Ana Haber&#x27;de ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119170000 +0000" stop="20260119180000 +0000" channel="a-spor">
+  <programme start="20260119170000 +0000" stop="20260119174500 +0000" channel="a-spor">
     <title lang="tr">Skorbord</title>
     <desc lang="tr">Maçlara ilişkin tüm detaylar ve maçlardan skorlar ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260119174500 +0000" stop="20260119180000 +0000" channel="a-spor">
+    <title lang="tr">Devre Arası</title>
+    <desc lang="tr">Devre Arası&#x27;nda, maçın ilk yarısı değerlendiriliyor. Spor yazarlarının ve antrenörlerin görüşleri izleyiciye aktarılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119180000 +0000" stop="20260119190000 +0000" channel="a-spor">
@@ -3179,100 +3184,88 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260118050000 +0000" stop="20260118065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A.Hatayspor - Manisa FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118070000 +0000" stop="20260118084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Erokspor - İ.A.Vanspor FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118084500 +0000" stop="20260118112900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bandırmaspor - A.G.Pendikspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118113000 +0000" stop="20260118135900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Kasımpaşa - H.Antalyaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118140000 +0000" stop="20260118190000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Gençlerbirliği - Samsunspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118190100 +0000" stop="20260118210100 +0000" channel="beinsports2.tr">
+  <programme start="20260119050000 +0000" stop="20260119112900 +0000" channel="beinsports2.tr">
     <title lang="tr">Erzurumspor FK - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118044500 +0000" stop="20260118045900 +0000" channel="beinsports3.tr">
+  <programme start="20260119113000 +0000" stop="20260119133900 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.H.Iğdır FK - Sakaryaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119134000 +0000" stop="20260119135900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119140000 +0000" stop="20260119165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig 21.Hafta / Canl</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119170000 +0000" stop="20260119190000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Göztepe - Ç.Rizespor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119044500 +0000" stop="20260119045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118050000 +0000" stop="20260118064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham Hotspur - West Ham</title>
+  <programme start="20260119050000 +0000" stop="20260119065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham H. - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118064500 +0000" stop="20260118065900 +0000" channel="beinsports3.tr">
+  <programme start="20260119070000 +0000" stop="20260119084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Crystal Palace</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119084500 +0000" stop="20260119085900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118070000 +0000" stop="20260118084400 +0000" channel="beinsports3.tr">
+  <programme start="20260119090000 +0000" stop="20260119104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119104500 +0000" stop="20260119105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260119110000 +0000" stop="20260119124400 +0000" channel="beinsports3.tr">
     <title lang="tr">Nottingham Forest - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118084500 +0000" stop="20260118085900 +0000" channel="beinsports3.tr">
+  <programme start="20260119124500 +0000" stop="20260119125900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118090000 +0000" stop="20260118104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Burnley</title>
+  <programme start="20260119130000 +0000" stop="20260119144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. United - Manchester City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118104500 +0000" stop="20260118105900 +0000" channel="beinsports3.tr">
+  <programme start="20260119144500 +0000" stop="20260119145900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118110000 +0000" stop="20260118124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man.United - Manchester City</title>
+  <programme start="20260119150000 +0000" stop="20260119164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">W. Wanderers-Newcastle United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118124500 +0000" stop="20260118125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Under the Skin</title>
+  <programme start="20260119164500 +0000" stop="20260119165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118130000 +0000" stop="20260118134900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118135000 +0000" stop="20260118135900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Maç Önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118140000 +0000" stop="20260118155900 +0000" channel="beinsports3.tr">
-    <title lang="tr">W.Wanderers - Newcastle United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118160000 +0000" stop="20260118161900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118162000 +0000" stop="20260118162900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Maç Önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260118163000 +0000" stop="20260118182900 +0000" channel="beinsports3.tr">
+  <programme start="20260119170000 +0000" stop="20260119184400 +0000" channel="beinsports3.tr">
     <title lang="tr">Aston Villa - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118183000 +0000" stop="20260118185900 +0000" channel="beinsports3.tr">
+  <programme start="20260119184500 +0000" stop="20260119194900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118190000 +0000" stop="20260118204400 +0000" channel="beinsports3.tr">
-    <title lang="tr">W.Wanderers - Newcastle United</title>
+  <programme start="20260119195000 +0000" stop="20260119195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260118204500 +0000" stop="20260118224500 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20260119200000 +0000" stop="20260119220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton-Hove A. - Bournemouth</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260119020000 +0000" stop="20260119025900 +0000" channel="beinsports4.tr">
@@ -3412,19 +3405,19 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <desc lang="tr">Oğlu öldürülen bir adam, intikam için karlarla kaplı bir kasabada suç dünyasına adım atar. Film, gerilim ve kara mizah unsurlarını bir araya getiriyor, Liam Neeson&#x27;un etkileyici performansıyla dikkat çekiyor.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260119043000 +0000" stop="20260119054500 +0000" channel="beyaz-tv">
+  <programme start="20260119042000 +0000" stop="20260119052000 +0000" channel="beyaz-tv">
     <title lang="tr">Bircan Bali ile Sabah Kahvesi</title>
-    <desc lang="tr">Bircan Bali ile Sabah Kahvesi, günün ilk saatlerinde sıcak sohbetler, güncel haberler ve pozitif enerjiyle ekranlarda!</desc>
+    <desc lang="tr">Bircan Bali ile Sabah Kahvesi, her sabah izleyicilerle buluşan, sıcak sohbetler, güncel haberler, kültür-sanat ve yaşam konularını kahve eşliğinde aktaran keyifli bir programdır. Pozitif enerji ve bilgi dolu buluşmalarla güne güzel başlamak isteyenler için ideal.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260119054500 +0000" stop="20260119063000 +0000" channel="beyaz-tv">
-    <title lang="tr">Geçmişe Yürüyen Adam</title>
-    <desc lang="tr">Geçmişe Yürüyen Adam, Beyaz TV ekranlarında izleyicileri tarih ve kültür dolu bir yolculuğa çıkaran özel bir programdır. Geçmişten günümüze uzanan önemli olaylar, unutulmaz şahsiyetler ve kültürel değerler ele alınırken; izleyicilere tarih bilinci kazandırmayı amaçlayan zengin bir içerik sunulur.</desc>
-    <category lang="tr">Röportaj</category>
+  <programme start="20260119052000 +0000" stop="20260119054500 +0000" channel="beyaz-tv">
+    <title lang="tr">Sakın Kaçırma Türkiye</title>
+    <desc lang="tr">Sakın Kaçırma Türkiye, Türkiye&#x27;nin gündemini sabah saatlerinde Beyaz TV ekranlarına taşıyan kapsamlı bir programdır. Güncel haberler, sosyal medyanın en çok konuşulan başlıkları ve magazin dünyasından öne çıkan konular Erhan Çelik ve Evrim Keklik&#x27;in sunumuyla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260119063000 +0000" stop="20260119080000 +0000" channel="beyaz-tv">
-    <title lang="tr">Belma Belen&#x27;le Geziyoruz</title>
-    <desc lang="tr">Belma Belen&#x27;le Geziyoruz, izleyicileri Türkiye&#x27;nin ve dünyanın farklı köşelerine götüren keyifli bir gezi programıdır. Tarihi mekânlar, yerel tatlar ve kültürel zenginlikler; samimi anlatımıyla ekrana taşınır. Program, keşfetmeyi sevenler için ilham dolu bir yolculuk sunar.</desc>
+  <programme start="20260119054500 +0000" stop="20260119080000 +0000" channel="beyaz-tv">
+    <title lang="tr">Sakın Kaçırma Türkiye</title>
+    <desc lang="tr">Sakın Kaçırma Türkiye, Türkiye&#x27;nin gündemini sabah saatlerinde Beyaz TV ekranlarına taşıyan kapsamlı bir programdır. Güncel haberler, sosyal medyanın en çok konuşulan başlıkları ve magazin dünyasından öne çıkan konular Erhan Çelik ve Evrim Keklik&#x27;in sunumuyla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119080000 +0000" stop="20260119100000 +0000" channel="beyaz-tv">
@@ -3434,23 +3427,38 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
   </programme>
   <programme start="20260119100000 +0000" stop="20260119120000 +0000" channel="beyaz-tv">
     <title lang="tr">Esra Ezmeci İle Yeni Baştan</title>
-    <desc lang="tr">&quot;Esra Ezmeci ile Yeni Baştan&quot;, hayatına yön vermek isteyenlere yol gösteren, iyileştirici ve umut dolu bir dönüşüm yolculuğu sunuyor.</desc>
+    <desc lang="tr">Esra Ezmeci ile Yeni Baştan, yeniden başlamak isteyenler için umut ve rehberlik sunuyor. Psikolog Esra Ezmeci, ilişkiler, aile, özgüven ve kişisel gelişim konularını samimi sohbetlerle ele alıyor. Gerçek hikâyeler ve içten paylaşımlarla izleyiciye farkındalık kazandırıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119120000 +0000" stop="20260119133000 +0000" channel="beyaz-tv">
     <title lang="tr">Nermin&#x27;in Enfes Mutfağı</title>
-    <desc lang="tr">&quot;Nermin&#x27;in Enfes Mutfağı&quot;, her gün birbirinden lezzetli tariflerle mutfaklara ilham veriyor. Nermin Gül&#x27;ün enerjisi, pratik tarifleri ve samimi sunumuyla sofralar artık daha enfes, daha keyifli!</desc>
+    <desc lang="tr">Beyaz TV&#x27;de Nermin&#x27;in Enfes Mutfağı, Nermin Gül&#x27;ün sıcacık sunumuyla lezzet tutkunlarını mutfağa davet ediyor. Pratik tarifler, püf noktaları ve hem geleneksel hem modern lezzetlerle izleyicilere ilham veriyor, yemek yapmak keyifli ve kolay hale geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260119133000 +0000" stop="20260119153000 +0000" channel="beyaz-tv">
-    <title lang="tr">Kurtlar Vadisi</title>
-    <desc lang="tr">Kurtlar Vadisi, siyasi entrikalar, mafya dünyası ve Polat Alemdar&#x27;ın adalet arayışı etrafında şekillenen çarpıcı bir hikâye sunar. Osman Sınav&#x27;ın yönetmenliğinde hazırlanan dizi, güçlü karakterleri, sürükleyici anlatımı ve aksiyon dolu sahneleriyle izleyiciler üzerinde kalıcı bir etki bırakmıştır. İzleyiciyi her bölümde merak duygusuyla ekrana bağlar.</desc>
+    <title lang="tr">Kurtlar Vadisi Pusu</title>
+    <desc lang="tr">Kurtlar Vadisi Pusu, Polat Alemdar ve ekibinin Türkiye&#x27;nin güvenliğini tehdit eden güç odaklarına karşı verdiği mücadeleyi konu alır. Devletin derin yapıları, uluslararası örgütler ve çıkar çatışmaları hikâyeyi şekillendirir. Aksiyon, ihanet ve sadakat temaları dizinin dramatik yapısını güçlendirir.</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260119153000 +0000" stop="20260119163000 +0000" channel="beyaz-tv">
+    <title lang="tr">Beyaz Ana Haber</title>
+    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini yerel ve uluslararası haberler, ekonomi, siyaset ve sağlık başlıklarıyla izleyiciye aktarır. Tarafsız ve hızlı habercilik anlayışıyla hazırlanan bültende; uzman yorumları, özel dosyalar ve canlı bağlantılar yer alır. Program, gündemi doğru ve anlaşılır bir biçimde takip etmek isteyenler için güvenilir bir kaynak sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260119163000 +0000" stop="20260119174500 +0000" channel="beyaz-tv">
+    <title lang="tr">Sürmanşet</title>
+    <desc lang="tr">Sürmanşet, günün en önemli haberlerini, analizlerini ve özel dosyalarını izleyiciyle buluşturuyor. Canlı röportajlar ve detaylı araştırmalarla gündemin perde arkasını aydınlatıyor. İzleyiciyi sadece bilgilendirmekle kalmayıp, olayları daha iyi anlamaya davet eden Sürmanşet, gündemi yakından takip etmek isteyenlerin ilk adresi.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260119174500 +0000" stop="20260119203000 +0000" channel="beyaz-tv">
     <title lang="tr">Casus Oyunu</title>
     <desc lang="tr">CIA ajanı Nathan Muir, eski öğrencisi Tom Bishop&#x27;un Çin&#x27;de yakalanıp idama mahkûm edilmesi üzerine emekliliğinin son gününde gizli bir kurtarma operasyonu planlar. Zaman daralırken hem kurum içi oyunlarla hem de geçmişin tehlikeleriyle mücadele eder.</desc>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260119203000 +0000" stop="20260119220000 +0000" channel="beyaz-tv">
+    <title lang="tr">Derin Futbol</title>
+    <desc lang="tr">Türk futbolunun perde arkasındaki gelişmeleri, transfer haberlerini, hakem kararlarını ve derbi analizlerini izleyiciye aktarıyor. Usta yorumcuların samimi ve zaman zaman hararetli tartışmalarıyla futbol gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119001500 +0000" stop="20260119010000 +0000" channel="bi-kanal">
     <title lang="tr">Bi Hafta Sonu</title>
@@ -4729,12 +4737,12 @@ gelişmeler...</desc>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119043000 +0000" stop="20260119043500 +0000" channel="cartoonito">
+  <programme start="20260119043000 +0000" stop="20260119044000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119043500 +0000" stop="20260119044500 +0000" channel="cartoonito">
+  <programme start="20260119044000 +0000" stop="20260119044500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4824,17 +4832,17 @@ gelişmeler...</desc>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119081000 +0000" stop="20260119083000 +0000" channel="cartoonito">
+  <programme start="20260119081000 +0000" stop="20260119082500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119083000 +0000" stop="20260119084000 +0000" channel="cartoonito">
+  <programme start="20260119082500 +0000" stop="20260119083500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119084000 +0000" stop="20260119085500 +0000" channel="cartoonito">
+  <programme start="20260119083500 +0000" stop="20260119085500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
@@ -4884,12 +4892,12 @@ gelişmeler...</desc>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119110000 +0000" stop="20260119110500 +0000" channel="cartoonito">
+  <programme start="20260119110000 +0000" stop="20260119111000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119110500 +0000" stop="20260119112000 +0000" channel="cartoonito">
+  <programme start="20260119111000 +0000" stop="20260119112000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4904,12 +4912,12 @@ gelişmeler...</desc>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119113500 +0000" stop="20260119114000 +0000" channel="cartoonito">
+  <programme start="20260119113500 +0000" stop="20260119114500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119114000 +0000" stop="20260119120000 +0000" channel="cartoonito">
+  <programme start="20260119114500 +0000" stop="20260119120000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4924,12 +4932,12 @@ gelişmeler...</desc>
     <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri&#x27;ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119122500 +0000" stop="20260119123500 +0000" channel="cartoonito">
+  <programme start="20260119122500 +0000" stop="20260119124000 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119123500 +0000" stop="20260119125500 +0000" channel="cartoonito">
+  <programme start="20260119124000 +0000" stop="20260119125500 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -5094,12 +5102,12 @@ gelişmeler...</desc>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119185500 +0000" stop="20260119190000 +0000" channel="cartoonito">
+  <programme start="20260119185500 +0000" stop="20260119190500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119190000 +0000" stop="20260119191000 +0000" channel="cartoonito">
+  <programme start="20260119190500 +0000" stop="20260119191000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5169,12 +5177,12 @@ gelişmeler...</desc>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119204000 +0000" stop="20260119205000 +0000" channel="cartoonito">
+  <programme start="20260119204000 +0000" stop="20260119204500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260119205000 +0000" stop="20260119205500 +0000" channel="cartoonito">
+  <programme start="20260119204500 +0000" stop="20260119205500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -6017,22 +6025,17 @@ gelişmeler...</desc>
   </programme>
   <programme start="20260119153000 +0000" stop="20260119154500 +0000" channel="cnbc-e">
     <title lang="tr">Dünyadan Haberler</title>
-    <desc lang="tr">Dünyada neler oluyor? Türkiye&#x27;nin yoğun gündemine ara verip bakmaya ne dersiniz? Dünyadan Haberler hafta içi her gün 18.30&#x27;da...</desc>
+    <desc lang="tr">Dünyanın dört bir yanından gelen önemli gelişmeleri derleyen bu program, siyaset, ekonomi, diplomasi ve toplumsal olayları sade bir dille ele alır. Farklı ülkelerden yansıyan haberler, arka planlarıyla birlikte değerlendirilir. İzleyici, küresel gündemi tek ekranda takip ederken olayları daha geniş bir perspektiften okuma imkânı bulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119154500 +0000" stop="20260119161500 +0000" channel="cnbc-e">
     <title lang="tr">Nasıl Başardık?</title>
-    <desc lang="tr">İş dünyası büyük bir dönüşümden geçiyor. 
-Yapay zekâ ve sürdürülebilirlik gibi makro dinamikler,organizasyon yapılarını ve iş modellerini değiştiriyor.
-Bu dönüşümü nasıl okumalı, nasıl yönetmeli? 
-Değişimi hayata geçirirken nelere dikkat edilmeli? 
-İlham verici başarı hikayelerine odaklanan &quot;Nasıl Başardık? 
-Serdar Turan&#x27;ın sunumuyla her Pazartesi 18.45&#x27;de CNBC-e&#x27;de!</desc>
+    <desc lang="tr">İş dünyasındaki büyük dönüşümü, yapay zekâ ve sürdürülebilirlik ekseninde ele alan bu program, ilham verici başarı hikâyeleriyle bu ekranda.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260119161500 +0000" stop="20260119162500 +0000" channel="cnbc-e">
     <title lang="tr">Tech</title>
-    <desc lang="tr">Yapay zekâdan robotlara, teknolojinin geleceğine yolculuk yapan Tech programı ile yenilikler ekranda!</desc>
+    <desc lang="tr">Teknoloji dünyasındaki hızlı dönüşümü mercek altına alan bu program, yapay zekâdan siber güvenliğe, girişimcilikten yeni nesil cihazlara kadar öne çıkan başlıkları anlaşılır bir dille ele alır. Uzman yorumları ve güncel örneklerle trendlerin iş hayatına ve günlük yaşama etkisi değerlendirilir, izleyici geleceği bugünden okur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119162500 +0000" stop="20260119170000 +0000" channel="cnbc-e">
@@ -6042,7 +6045,7 @@ Serdar Turan&#x27;ın sunumuyla her Pazartesi 18.45&#x27;de CNBC-e&#x27;de!</des
   </programme>
   <programme start="20260119170000 +0000" stop="20260119173000 +0000" channel="cnbc-e">
     <title lang="tr">Yapay Zeka ve Ötesi</title>
-    <desc lang="tr">İş dünyasından sanata, sağlıktan eğitime… Yapay zekânın ötesine bakıyoruz. Dost mu, düşman mı? Fırsat mı, risk mi? Destek mi, rakip mi? Yüce Zerey soruyor, farklı alanlardan uzman konuklar yanıtlıyor. Yapay Zekâ ve Ötesi, her Pazartesi 20:00&#x27;de CNBC-e ekranlarında!</desc>
+    <desc lang="tr">Yapay zekâ, otomasyon ve yeni nesil teknolojilerin dünyayı nasıl dönüştürdüğünü ele alan bu program, dijital çağın sunduğu fırsatları ve beraberinde getirdiği riskleri mercek altına alır. Uzman görüşleri ve güncel örneklerle, teknolojinin iş dünyasına, üretime ve günlük yaşama etkileri değerlendirilir. İzleyici, geleceği bugünden okuma imkânı bulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260119173000 +0000" stop="20260119183000 +0000" channel="cnbc-e">
@@ -6060,7 +6063,7 @@ Serdar Turan&#x27;ın sunumuyla her Pazartesi 18.45&#x27;de CNBC-e&#x27;de!</des
     <desc lang="tr">Ünlü konuklar, eğlenceli oyunlar, yaratıcı skeçler ve canlı müzik performanslarıyla şekillenen bu late-night şov, izleyicilere tempolu ve kahkaha dolu bir gece deneyimi sunuyor. Samimi sohbetler, beklenmedik anlar ve spontane eğlence, her bölümü sürprizlerle dolu hale getiriyor. Enerjik sunumu ve popüler kültüre dokunan içeriğiyle, günün yorgunluğunu unutturan keyifli bir kaçış vadediyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260119204000 +0000" stop="20260119211000 +0000" channel="cnbc-e">
+  <programme start="20260119204000 +0000" stop="20260119213000 +0000" channel="cnbc-e">
     <title lang="tr">Saba Tümer&#x27;le</title>
     <desc lang="tr">Saba Tümer&#x27;le, samimi sohbetleri, içten soruları ve sürpriz konuklarıyla izleyiciyi ekran başına davet eden keyifli bir talk show. Sanat, magazin, gündem ve hayata dair renkli başlıklar; kahkaha, duygu ve merak uyandıran anlarla buluşuyor. Saba Tümer&#x27;in enerjisi ve doğal üslubu, her bölümü sıcak bir sohbet havasına dönüştürüyor.</desc>
     <category lang="tr">Eğlence</category>
@@ -13652,12 +13655,12 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Yorumlarıyla fark yaratan Hakan Ural ve Ferda Yıldırım, gündeme ve insana dair her konuya değiniyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260119080000 +0000" stop="20260119110000 +0000" channel="kanal-d">
+  <programme start="20260119080000 +0000" stop="20260119104500 +0000" channel="kanal-d">
     <title lang="tr">Yaprak Dökümü</title>
     <desc lang="tr">Bütün hayatını beş çocuğuna iyi bir ahlak vermeye adayan Ali Rıza Bey, bir haksızlığa göz yumması istenince kaymakamlık görevinden istifa eder. Kızları Necla&#x27;nın da üniversiteyi kazanmasıyla Ali Rıza Bey ve ailesi İstanbul&#x27;a yerleşmeye karar verir. Fakat Ali Rıza Bey, doğup büyüdüğü şehri çok değişmiş bulur. Bu farklı çevrede çocukların istekleri de değişmeye başlamıştır. Büyük şehir hayatının getirdiği ekonomik krizler kaçınılmazdır. Ali Rıza Bey, ekonomik gücüyle birlikte otoritesini de kaybetmiştir. Darbeler ardarda gelir. Rüzgar sert esmekte, ağacın yaprakları birer birer dökülmektedir...</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260119110000 +0000" stop="20260119134500 +0000" channel="kanal-d">
+  <programme start="20260119104500 +0000" stop="20260119134500 +0000" channel="kanal-d">
     <title lang="tr">Gelinim Mutfakta</title>
     <desc lang="tr">Aslı Hünel&#x27;in sunumuyla ekrana gelen Gelinim Mutfakta, yine çok kazandırmaya devam ediyor. Gelinler her gün 1 çeyrek altın kazanırken, haftanın en başarılı gelini ise 10 altın bileziğin sahibi oluyor.</desc>
     <category lang="tr">Yarışma</category>
@@ -16669,14 +16672,14 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
     <desc lang="tr">Her şarkı bir sır, her söz bir acı, Damar Kutusu&#x27;nda buluşuyor. Arabeskin en özel parçaları, duyguların kutusundan size geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260119000000 +0000" stop="20260119001500 +0000" channel="ntv">
+  <programme start="20260119000000 +0000" stop="20260119003000 +0000" channel="ntv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Türkiye&#x27;den ve dünyadan önemli gelişmeler, Haber Bülteni ile ekrana geliyor. Önemli gelişmeler, gündemde öne çıkan konular ve son dakika gelişmeleri izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119001500 +0000" stop="20260119005500 +0000" channel="ntv">
-    <title lang="tr">Mete Çubukçu İle Pasaport</title>
-    <desc lang="tr">Mete Çubukçu, Pasaport&#x27;ta Ortadoğu&#x27;dan Avrupa&#x27;ya, Kafkasya&#x27;dan Amerika&#x27;ya uzanan geniş bir coğrafyada siyasi, sosyal, toplumsal gelişmeleri ve hayatları ekrana getiriyor. Çubukçu aynı zamanda dünya liderleriyle röportajlar yaparak programı renklendiriyor.</desc>
+  <programme start="20260119003000 +0000" stop="20260119005500 +0000" channel="ntv">
+    <title lang="tr">Yakın Plan</title>
+    <desc lang="tr">Siyasetteki gelişmeler, dünyanın sıcak başlıkları ve Türkiye&#x27;nin bölgedeki rolü konusunda uzman konuklar tarafından değerlendiriliyor. Bugünün gündemi, yarına yansıyacak şekilde detaylıca inceleniyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119005500 +0000" stop="20260119010000 +0000" channel="ntv">
@@ -16686,15 +16689,15 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119010000 +0000" stop="20260119011500 +0000" channel="ntv">
+  <programme start="20260119010000 +0000" stop="20260119013000 +0000" channel="ntv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Türkiye&#x27;den ve dünyadan önemli gelişmeler, Haber Bülteni ile ekrana geliyor. Önemli gelişmeler, gündemde öne çıkan konular ve son dakika gelişmeleri izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119011500 +0000" stop="20260119015500 +0000" channel="ntv">
-    <title lang="tr">Anadoludakiler</title>
-    <desc lang="tr">Toprağında bereketin, mutfağında birikimin, usta ellerdeki becerinin diyarı Anadolu, artık geçmişi geleceğe taşıyacak yeni bir nesil yetiştiriyor. &#x27;İhtiyacımız olan her şey Anadolu’da&#x27; diyen, özünü koruyarak sahip olduğu potansiyeli hayata geçiren çalışkan bir nesil sahneye çıkıyor.</desc>
-    <category lang="tr">Belgesel</category>
+  <programme start="20260119013000 +0000" stop="20260119015500 +0000" channel="ntv">
+    <title lang="tr">Yakın Plan</title>
+    <desc lang="tr">Siyasetteki gelişmeler, dünyanın sıcak başlıkları ve Türkiye&#x27;nin bölgedeki rolü konusunda uzman konuklar tarafından değerlendiriliyor. Bugünün gündemi, yarına yansıyacak şekilde detaylıca inceleniyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119015500 +0000" stop="20260119020000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -16715,20 +16718,15 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119030000 +0000" stop="20260119034500 +0000" channel="ntv">
+  <programme start="20260119030000 +0000" stop="20260119035000 +0000" channel="ntv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Türkiye&#x27;den ve dünyadan önemli gelişmeler, Haber Bülteni ile ekrana geliyor. Önemli gelişmeler, gündemde öne çıkan konular ve son dakika gelişmeleri izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119034500 +0000" stop="20260119035000 +0000" channel="ntv">
+  <programme start="20260119035000 +0000" stop="20260119035500 +0000" channel="ntv">
     <title lang="tr">Paranın Nabzı</title>
     <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260119035000 +0000" stop="20260119035500 +0000" channel="ntv">
-    <title lang="tr">Laf Aramızda</title>
-    <desc lang="tr">Konuşma, insanın aklını kullanma sanatıdır. Oyuncu, diksiyon eğitmeni, seslendirme sanatçısı ve spiker Levent Dönmez, ne söylediğimizden çok nasıl söylememiz gerektiğini Laf Aramızda programında anlatıyor.</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260119035500 +0000" stop="20260119040000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -16756,14 +16754,18 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119070000 +0000" stop="20260119075000 +0000" channel="ntv">
+  <programme start="20260119070000 +0000" stop="20260119074000 +0000" channel="ntv">
     <title lang="tr">Haber Merkezi</title>
     <desc lang="tr">Siyaset dünyasının gündemi, son dakika bilgileri, bildiğiniz haberlerin bilmediğiniz ayrıntıları... Haber Merkezi, sıcak noktalarda olup biteni anında ekranlara taşıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119075000 +0000" stop="20260119075500 +0000" channel="ntv">
+  <programme start="20260119074000 +0000" stop="20260119074500 +0000" channel="ntv">
     <title lang="tr">Paranın Nabzı</title>
     <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260119074500 +0000" stop="20260119075500 +0000" channel="ntv">
+    <title lang="tr">Yeşil Ekran</title>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119075500 +0000" stop="20260119080000 +0000" channel="ntv">
@@ -16773,18 +16775,14 @@ Güne Başlarken, sabah saatlerinde ev, trafik, iş arasında süren koşuşturm
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260119080000 +0000" stop="20260119082500 +0000" channel="ntv">
+  <programme start="20260119080000 +0000" stop="20260119084000 +0000" channel="ntv">
     <title lang="tr">Haber Merkezi</title>
     <desc lang="tr">Siyaset dünyasının gündemi, son dakika bilgileri, bildiğiniz haberlerin bilmediğiniz ayrıntıları... Haber Merkezi, sıcak noktalarda olup biteni anında ekranlara taşıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260119082500 +0000" stop="20260119083000 +0000" channel="ntv">
+  <programme start="20260119084000 +0000" stop="20260119084500 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260119083000 +0000" stop="20260119084500 +0000" channel="ntv">
-    <title lang="tr">Yeşil Ekran</title>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119084500 +0000" stop="20260119085500 +0000" channel="ntv">
@@ -17512,7 +17510,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260119120000 +0000" stop="20260119140000 +0000" channel="s-sport">
     <title lang="tr">Arizona State - Houston</title>
-    <desc lang="tr">Ncaa</desc>
+    <desc lang="tr">NCAA</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119140000 +0000" stop="20260119160000 +0000" channel="s-sport">
@@ -17538,6 +17536,11 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   <programme start="20260119190000 +0000" stop="20260119193000 +0000" channel="s-sport">
     <title lang="tr">NBA Özetler</title>
     <desc lang="tr">NBA maçlarından özet görüntüler ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260119193000 +0000" stop="20260119220000 +0000" channel="s-sport">
+    <title lang="tr">Oklahoma - Cleveland</title>
+    <desc lang="tr">NBA</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260119000000 +0000" stop="20260119020000 +0000" channel="s-sport-2">
@@ -24550,7 +24553,7 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
   </programme>
   <programme start="20260119160000 +0000" stop="20260119200000 +0000" channel="ulusal-kanal">
     <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Haberi kaynağından ve hayatın içinden bulup, izleyici ile buluşturan Ulusal Kanal&#x27;da artık Ana Haber Bülteni, Serkan Aksarı&#x27;nın sunumu ile hafta içi her gün yayınlanacak.</desc>
+    <desc lang="tr">Haberi kaynağından ve hayatın içinden bulan Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı&#x27;nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye&#x27;den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260119200000 +0000" stop="20260119210000 +0000" channel="ulusal-kanal">
