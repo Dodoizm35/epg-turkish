@@ -6795,20 +6795,10 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <desc lang="tr">Greenland should become part of the United States — at least, that&#x27;s the opinion of US President Donald Trump. Talk of the US acquiring, or perhaps even seizing, the world&#x27;s largest island with its vast mineral wealth has been causing concern not only among Greenlanders.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260120094500 +0000" stop="20260120100000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Reporter: On Location</title>
-    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260120100000 +0000" stop="20260120101500 +0000" channel="deutsche-welle-english">
+  <programme start="20260120094500 +0000" stop="20260120103000 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
     <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260120101500 +0000" stop="20260120103000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Asia 2050</title>
-    <desc lang="tr">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
-    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260120103000 +0000" stop="20260120110000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Tomorrow Today</title>
@@ -12936,10 +12926,6 @@ Ankara Mevlevihanesi&#x27;nden ekranlara gelen programda, Dr. Ömer Demirbağ ve
     <title lang="tr">Outdoor Builder</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260120202600 +0000" stop="20260121205900 +0000" channel="gzt-tv">
-    <title lang="tr">Halil Çin&#x27;de</title>
-    <category lang="tr">Belgesel</category>
-  </programme>
   <programme start="20260120010000 +0000" stop="20260120030000 +0000" channel="haber-global">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Haber Global haber bülteni gece saatlerinde gün boyunca yaşanan önemli gelişmeleri izleyiciyle buluşturuyor. Türkiye ve dünya gündemindeki son dakika haberleri, siyaset, ekonomi ve toplumsal olaylar sade bir anlatımla ele alınıyor. İzleyici günün öne çıkan başlıklarını bu bültende toplu halde takip ediyor.</desc>
@@ -17405,23 +17391,23 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
   </programme>
   <programme start="20260120120000 +0000" stop="20260120130000 +0000" channel="power-tv">
     <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Güne enerjik bir başlangıç için Power Up! En hareketli klipler ve taze hitler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260120130000 +0000" stop="20260120200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260120200000 +0000" stop="20260120205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260120205900 +0000" stop="20260121040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260120003000 +0000" stop="20260120010000 +0000" channel="s-sport">
     <title lang="tr">NBA Action</title>
@@ -18549,20 +18535,20 @@ Heyecan ve gerilim dolu bir maceraya atılırlar. Gargamel&#x27;den önce kayıp
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları ekrana geliyor. Haberlerde gündem olan başlıklar ve gözden kaçan detaylar, canlı bağlantılar ile ön plana çıkarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120180000 +0000" channel="sozcu-tv">
-    <title lang="tr">Günün Dosyası</title>
-    <desc lang="tr">Diplomasi koridorlarından insan hikayelerine uzanan gündemin nabzını, her akşam Günün Dosyası&#x27;nda tutuyoruz.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260120180000 +0000" stop="20260120190000 +0000" channel="sozcu-tv">
+  <programme start="20260120170000 +0000" stop="20260120183000 +0000" channel="sozcu-tv">
     <title lang="tr">Kırmızı Beyaz</title>
     <desc lang="tr">Ünlü gazeteci Yılmaz Özdil, ezber bozan yorumları ve çarpıcı analizleriyle gündemin nabzını tutarak izleyiciyle buluşuyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260120190000 +0000" stop="20260120213000 +0000" channel="sozcu-tv">
+  <programme start="20260120183000 +0000" stop="20260120203000 +0000" channel="sozcu-tv">
     <title lang="tr">Karşı Karşıya</title>
     <desc lang="tr">Gündemin öne çıkan gelişmeleri Karşı Karşıya&#x27;da masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260120203000 +0000" stop="20260120210000 +0000" channel="sozcu-tv">
+    <title lang="tr">S Raporu</title>
+    <desc lang="tr">24 saatin tüm gelişmeleri S Raporu’nda ekrana getiriliyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260120000000 +0000" stop="20260120003000 +0000" channel="spacetoon">
     <title lang="tr">Zatonya</title>
@@ -19333,10 +19319,10 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
     <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260120200000 +0000" stop="20260120210000 +0000" channel="tele1">
-    <title lang="tr">Kayıt Dışı</title>
-    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260120200000 +0000" stop="20260121040000 +0000" channel="tele1">
+    <title lang="tr">Başrol</title>
+    <desc lang="tr">Tele1&#x27;de belgesel kuşağı… Hayatın başrolündeki isimlerin bilinmeyen hikâyeleri… Türk müziği, sineması, edebiyatı ve futbolunun en güçlü isimleri… Onların yaşam öyküleri ve Türkiye&#x27;nin geçirdiği büyük dönüşümler… Başrol, hafta içi her gün 07.00, 18.00 ve 23.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260120013000 +0000" stop="20260120020000 +0000" channel="tgrt-haber">
     <title lang="tr">Gecenin İçinden</title>
@@ -20602,14 +20588,14 @@ seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.
     <desc lang="tr">Çuf çuf çuf!Arkadaşlar, hep birlikte eğlenceli ve neşeli bir trene binip yeni bir maceraya doğru yola çıkıyoruz.Ekin abla, muzip kuklamız Mutlu ve tren ÇufÇuf, eğlence istasyonunda sizleri bekliyor!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260120063000 +0000" stop="20260120064500 +0000" channel="trt-cocuk">
-    <title lang="tr">Yade Yade</title>
-    <desc lang="tr">Yade&#x27;nin rengarenk hayal dünyasına girmaya hazır mısın? Akıllı, yardımsever ve tatlı mı tatlı Yade, sevimli dostları mat matlar ile beraber birbirinden eğlenceli maceralara çıkıyor. Kimi zaman sevimli arkadaşları mat matlar minik sakarlıklarıyla durumu biraz daha zorlaştırsalar da işbirliği, yardımlaşma ve matematiğin gücü her zaman kazanıyor...</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260120064500 +0000" stop="20260120070500 +0000" channel="trt-cocuk">
+  <programme start="20260120063000 +0000" stop="20260120065000 +0000" channel="trt-cocuk">
     <title lang="tr">Ege ile Gaga</title>
     <desc lang="tr">Gizemlerin peşini bırakmayan bir çocuk ve maceracı bir karga. Doğa dedektifleri işbaşında. Bu meraklı ikilinin heyecan dolu serüvenine katılmaya hazır olun!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260120065000 +0000" stop="20260120070500 +0000" channel="trt-cocuk">
+    <title lang="tr">Katuri</title>
+    <desc lang="tr">Dört sevimli yavru sülünün, ormanı neşeyle keşiflerinin anlatıldığı cıvıl cıvıl yepyeni bir serüvene hazır mısın?Eğlenceli olaylar, rengarenk maceralar ve sevimli kardeşlerin gülücükleri ormanda sizi bekliyor!&#x27;Katuri&#x27;, senin kanalın TRT Çocuk&#x27;ta!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120070500 +0000" stop="20260120072000 +0000" channel="trt-cocuk">
@@ -20670,8 +20656,8 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120105500 +0000" stop="20260120111000 +0000" channel="trt-cocuk">
-    <title lang="tr">Anadolu Rock</title>
-    <desc lang="tr">Ülkeyi karış karış, dolaşan Grup Anadolu Rock sıradan bir müzik grubu değildir. Ülkede yolunda gitmeyen bir şey olduğunda menajerlerinin ayarladığı bir konser organizasyonu; onlar için çözülmesi gereken yeni bir görev kodudur.</desc>
+    <title lang="tr">Trafik Tayfa</title>
+    <desc lang="tr">Çok sevdiğin Rafadan Tayfa&#x27;nın sana yaya olarak trafikteki sorumluluklarını ; motorlu taşıtlara binip inerken veya yolculuk sırasında nelere dikkat etmen gerektiğini öğretmesine hazır mısın? Trafik Tayfa senin kanalında...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120111000 +0000" stop="20260120113500 +0000" channel="trt-cocuk">
@@ -20680,13 +20666,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120113500 +0000" stop="20260120114500 +0000" channel="trt-cocuk">
-    <title lang="tr">Aslan</title>
-    <desc lang="tr">Farklı sorunlar için yeni araçlar hayal etmeden duramayan Aslan, merak ettiği konuları dedesinin yardımıyla çözüyor. Aslan ve arkadaşları, yeni ve ilginç icatlarla keşif ve eğlencenin tadını çıkarıyor.</desc>
+    <title lang="tr">Sagun</title>
+    <desc lang="tr">Sagun, Umay, Ateş ve Ayaz Amca ile tanışmaya hazır mısınız? Ailesini arayan Sagun, bir yandan zorluklarla mücadele ederken bir yandan da arkadaşlarıyla maceradan maceraya atılıyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120114500 +0000" stop="20260120120000 +0000" channel="trt-cocuk">
-    <title lang="tr">Kaptan Pengu Ve Arkadaşları</title>
-    <desc lang="tr">Kaptan Pengu, arkadaşları Misket, Pelik ve Mandalina.. Suya bayılıyorlar ve doğal kaynakları korumak için çalışıyorlar çünkü onlar Su Elçileri.. Neşeliler, çok komikler ve bir o kadar da çevreyi korumakta kararlılar.. Onlarla maceradan maceraya koşup eğlenmeye hazır olun.</desc>
+    <title lang="tr">Anadolu Rock</title>
+    <desc lang="tr">Ülkeyi karış karış, dolaşan Grup Anadolu Rock sıradan bir müzik grubu değildir. Ülkede yolunda gitmeyen bir şey olduğunda menajerlerinin ayarladığı bir konser organizasyonu; onlar için çözülmesi gereken yeni bir görev kodudur.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120120000 +0000" stop="20260120121500 +0000" channel="trt-cocuk">
@@ -20709,14 +20695,9 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <desc lang="tr">13. yüzyılda Konya&#x27;da yaşayan Hoca Nasreddin ve eşeği Küheylan, günümüzde yaşayan Zehra ve arkadaşlarının yanlışlıkla zamanlar arası geçiş koridoru açması sonucu, eski bir çınar ağacının gövdesindeniçeri düşer ve kendilerini 21. yüzyılda bulurlar.Nasreddin Hoca günümüze uyum sağlamaya çalışır, günümüz insanının yüzleştiği problemlere kendince çözümler üretir. Nasreddin Hoca&#x27;nın kadim bilgeliği ve keskin zekası ile bugünü mizahi bir dille yorumladığı eğlence kaçmaz!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260120132500 +0000" stop="20260120133500 +0000" channel="trt-cocuk">
+  <programme start="20260120132500 +0000" stop="20260120135000 +0000" channel="trt-cocuk">
     <title lang="tr">Kehribar İle Boncuk</title>
     <desc lang="tr">Ormanya&#x27;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&#x27;un okuldan mezun olup Uzay Akademisi&#x27;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersenKehribar ile Boncuk, senin kanalın TRT Çocuk&#x27;ta.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260120133500 +0000" stop="20260120135000 +0000" channel="trt-cocuk">
-    <title lang="tr">Anadolu Rock</title>
-    <desc lang="tr">Ülkeyi karış karış, dolaşan Grup Anadolu Rock sıradan bir müzik grubu değildir. Ülkede yolunda gitmeyen bir şey olduğunda menajerlerinin ayarladığı bir konser organizasyonu; onlar için çözülmesi gereken yeni bir görev kodudur.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120135000 +0000" stop="20260120141500 +0000" channel="trt-cocuk">
@@ -20756,26 +20737,19 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120165000 +0000" stop="20260120170500 +0000" channel="trt-cocuk">
-    <title lang="tr">Haberin Olsun</title>
-    <desc lang="tr">Çocukların tek haber programı Haberin Olsun, tüm çocukları spordan eğlenceye, dünyanın dört bir yanındaki gelişmeler ve mekânlardan haberdar ediyor. Sadece çocuklar için yazıyor, çiziyor, çekiyor ve yayına hazırlıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260120170500 +0000" stop="20260120172000 +0000" channel="trt-cocuk">
     <title lang="tr">Anadolu Rock</title>
     <desc lang="tr">Ülkeyi karış karış, dolaşan Grup Anadolu Rock sıradan bir müzik grubu değildir. Ülkede yolunda gitmeyen bir şey olduğunda menajerlerinin ayarladığı bir konser organizasyonu; onlar için çözülmesi gereken yeni bir görev kodudur.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260120172000 +0000" stop="20260120173000 +0000" channel="trt-cocuk">
+  <programme start="20260120170500 +0000" stop="20260120173000 +0000" channel="trt-cocuk">
     <title lang="tr">Belle Ve Sebastian</title>
     <desc lang="tr">Alplerden gelen cesur bir çocuk, devasa boyutta bir köpekle arkadaş olduğunda, kimse onları vadinin her bir zirvesini birlikte keşfetmekten alıkoyamaz!
 Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına koşacak. Vadi, onların kahkahaları ve başarılarının sesiyle yankılanacak.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120173000 +0000" stop="20260120175500 +0000" channel="trt-cocuk">
-    <title lang="tr">Tuhaf İşler Takımı</title>
-    <desc lang="tr">Tüm sıfırlar da nereye gitti?
-Kardan adamların yarısına ne oldu?
-Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</desc>
+    <title lang="tr">Dennis ve Gnasher</title>
+    <desc lang="tr">Fantastik, çılgın ve bir o kadar neşeli yepyeni bir serüven başlıyor!Muzip kahramanımız Dennis ve köpeği Gnasher ile her gün birbirinden ilginç olayların yaşandığı eğlenceli bir kasabaya gidiyoruz!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120175500 +0000" stop="20260120182000 +0000" channel="trt-cocuk">
@@ -20814,14 +20788,14 @@ Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</d
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120202500 +0000" stop="20260120205000 +0000" channel="trt-cocuk">
-    <title lang="tr">Nasreddin Hoca Zaman Yolcusu</title>
-    <desc lang="tr">13. yüzyılda Konya&#x27;da yaşayan Hoca Nasreddin ve eşeği Küheylan, günümüzde yaşayan Zehra ve arkadaşlarının yanlışlıkla zamanlar arası geçiş koridoru açması sonucu, eski bir çınar ağacının gövdesindeniçeri düşer ve kendilerini 21. yüzyılda bulurlar.Nasreddin Hoca günümüze uyum sağlamaya çalışır, günümüz insanının yüzleştiği problemlere kendince çözümler üretir. Nasreddin Hoca&#x27;nın kadim bilgeliği ve keskin zekası ile bugünü mizahi bir dille yorumladığı eğlence kaçmaz!</desc>
+    <title lang="tr">Kehribar İle Boncuk</title>
+    <desc lang="tr">Ormanya&#x27;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&#x27;un okuldan mezun olup Uzay Akademisi&#x27;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersenKehribar ile Boncuk, senin kanalın TRT Çocuk&#x27;ta.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120205000 +0000" stop="20260120211500 +0000" channel="trt-cocuk">
-    <title lang="tr">Variloto</title>
-    <desc lang="tr">Geri dönüşüm ve temiz enerji temasıyla özel olarak tasarlanan elektrikli bir yarış arabası, iki hızlı takım ve eğlence dolu parkurlara hazır mısınız? Stüdyoda eğlenceli yarışmalar ile pistteki heyecan dolurekabetin kazananı kim olacak?Variloto, senin kanalın TRT Çocuk&#x27;ta.</desc>
-    <category lang="tr">Yarışma</category>
+    <title lang="tr">Sagun</title>
+    <desc lang="tr">Sagun, Umay, Ateş ve Ayaz Amca ile tanışmaya hazır mısınız? Ailesini arayan Sagun, bir yandan zorluklarla mücadele ederken bir yandan da arkadaşlarıyla maceradan maceraya atılıyor.</desc>
+    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260120000500 +0000" stop="20260120001500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Duyarlı Tilki</title>
@@ -24121,7 +24095,7 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
 Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında gelişir. Diğer karakterlerden bazıları ise şunlardır: Mücver Abla, Feriştah, Asuman, Füreyya...</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260120170000 +0000" stop="20260120211500 +0000" channel="tv85">
+  <programme start="20260120190000 +0000" stop="20260120211500 +0000" channel="tv85">
     <title lang="tr">Jet Sosyete</title>
     <desc lang="tr">Özpamuk Tekstil&#x27;in getir-götür sorumlusu Yaşar Yüksel, karısı Safiye, kızı Yıldız, baldızı Melike ve kayınbiraderi Gündüz ile İstanbul&#x27;un bir gecekondu semtinde kıt kanaat yaşayan bir aile babasıdır. Çalıştığı şirketin sahibi Cengiz Özpamuk çapkın oğlu Ozan’ı karıştığı bir skandal sonrası genel müdürlükten alır ve inadına yerine Yaşar’ı getirir. Üstelik Yaşar ailesi ile birlikte Jetset Konakları’ndaki genel müdür villasına taşınabilecektir.</desc>
     <category lang="tr">Dizi</category>
@@ -24263,7 +24237,7 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
   </programme>
   <programme start="20260120173000 +0000" stop="20260120174500 +0000" channel="tvnet">
     <title lang="tr">Editör Anlatıyor</title>
-    <desc lang="tr">Türkiye ve dünyadaki gelişmeleri editör yorumuyla analiz ediyoruz. Gazeteciler gündemi takip ediyor ve size olayların iç yüzünü anlatıyor.</desc>
+    <desc lang="tr">Editör Anlatıyor, Türkiye ve dünyada yaşanan gelişmeleri deneyimli gazetecilerin yorumlarıyla ele alıyor. Programda gündemin öne çıkan başlıkları analiz edilirken olayların perde arkası sade ve anlaşılır bir dille aktarılıyor. İzleyici, haberin yalnızca sonucunu değil nedenlerini de görerek gündemi daha bilinçli takip etme imkanı buluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260120174500 +0000" stop="20260120183000 +0000" channel="tvnet">
