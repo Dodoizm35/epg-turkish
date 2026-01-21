@@ -7099,9 +7099,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260121171500 +0000" stop="20260121173000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Transforming Business: Investigating palm oil</title>
-    <desc lang="tr">An European biotech company is developing a lab-grown alternative to one of the world&#x27;s most ubiquitous and controversial ingredients: palm oil. But this oil is made from fermented yeast -- and doesn&#x27;t drive deforestation and loss of wildlife. Does this small company have the potential to disrupt a growing, $70 billion industry?</desc>
-    <category lang="tr">Röportaj</category>
+    <title lang="tr">Interview</title>
+    <desc lang="tr">A possible new trade war is a key topic at the World Economic Forum in Davos, Switzerland. DW reporter Ashutosh Pandey talks to Rebeca Grynspan, Secretary General of the UN trade organisation UNCTAD.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260121173000 +0000" stop="20260121180000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Close up: The Current Affairs Documentary</title>
@@ -14445,16 +14445,17 @@ Eşref&#x27;in tahta geçme töreni yeraltı dünyasında büyük yankı uyandı
   </programme>
   <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="krt-tv">
     <title lang="tr">Hafıza</title>
-    <desc lang="tr">Hafıza her pazar KRT&#x27;de.</desc>
+    <desc lang="tr">Hafıza programı, geçmişten günümüze iz bırakan olayları, yaşam öykülerini ve tarihî kesitleri konuklar ve anlatımlarla ele alıyor. Programda farklı dönemlerden anekdotlar, önemli kişilerin deneyimleri ve geçmişin günümüze yansıyan etkileri sade ve akıcı bir anlatımla izleyiciye aktarılıyor, izleyiciyi geçmişle bugünü düşünmeye davet ediyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="krt-tv">
     <title lang="tr">Zaman Dışı</title>
+    <desc lang="tr">Zaman Dışı programı gündemdeki sıradan tartışma kalıplarının ötesine çıkarak farklı fikirleri, merak uyandıran meseleleri ve sınırların ötesine geçen analizleri izleyiciyle buluşturuyor. Her bölümde zamana, topluma ve bilinenden başka bakış açılarına odaklanan konular sade ve akıcı bir anlatımla ele alınıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="krt-tv">
     <title lang="tr">Yaşamın Sırları</title>
-    <desc lang="tr">Dr. Didem Gülmez ile Kaliteli Yaşamın Sırları pazar saat 12.00&#x27;de KRT&#x27;de.</desc>
+    <desc lang="tr">Yaşamın Sırları programı, yaşam kalitesi, sağlık, farkındalık ve günlük alışkanlıkların yaşam üzerindeki etkilerini izleyiciye anlatıyor. Sağlıklı seçimler, bilinçli yaşam ipuçları ve sürdürülebilir alışkanlıklar sade ve akıcı bir anlatımla ekrana taşınarak izleyiciyi daha dengeli bir yaşam tarzı için düşünmeye davet ediyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260121200000 +0000" stop="20260121210000 +0000" channel="krt-tv">
@@ -18050,15 +18051,10 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <desc lang="tr">Türkiye&#x27;den ve dünyadan önemli gelişmeler ekrana taşınıyor. Ana Haber Bülteni&#x27;nde, canlı bağlantılar ve program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260121170000 +0000" stop="20260121191500 +0000" channel="show-tv">
-    <title lang="tr">Organize İşler</title>
-    <desc lang="tr">Süpermen kostümüyle stand up gösterisi yapan Samet, işlerinin iyi gitmemesinden dolayı intihara kalkışır. Ancak bu sırada karşısına çıkan uyanık dolandırıcı Asım&#x27;la tanışması hayatının tamamen değişmesine yol açacaktır.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260121191500 +0000" stop="20260121213000 +0000" channel="show-tv">
-    <title lang="tr">Kod Adı: Olympus</title>
-    <desc lang="tr">Mike Banning, özel kuvvetler biriminde görevli bir gizli güvenlik ajandır. Bir akşam Başkan ve eşi bir davete giderlerken yolda trajik bir kaza meydana gelir. Banning&#x27;in tek bir kişiyi kurtarma şansı vardır, o da tercihini eşini feda ederek Başkan&#x27;dan yana kullanır. Olay sonrası büroda herkes doğru yaptığını söyleyerek Mike&#x27;ı desteklese de saha görevinden alınarak masa başı bir işe atanır. Fakat ABD&#x27;yi hiç hesapta olmayan büyük bir saldırı beklemektedir...</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260121170000 +0000" stop="20260121211500 +0000" channel="show-tv">
+    <title lang="tr">Güldür Güldür Show</title>
+    <desc lang="tr">Günlük hayatta yaşanan olaylara farklı bir bakış açısı ile yaklaşan Güldür Güldür Show&#x27;da, kahkaha tufanına hazır olun!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260121010000 +0000" stop="20260121030000 +0000" channel="sinema-1002">
     <title lang="tr">Ebedi Yol</title>
@@ -19274,7 +19270,7 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
   </programme>
   <programme start="20260121170000 +0000" stop="20260121211500 +0000" channel="star-tv">
     <title lang="tr">Sahipsizler</title>
-    <desc lang="tr">Bala ve Rıfat, altı çocuklarıyla birlikte bir ormanda küçük ama mutlu bir hayat kurmuştur. Her şey yolunda gidiyor derken geçmişten çıkıp gelen acımasız bir düşman, bu güzel ailenin mutluluğunu paramparça eder. Azize, Zeliha, Cemo, Fidan, Samet ve Balım Anne ve babalarını kaybeden çocuklar, peşlerindeki adamlardan kaçarken kendilerini bir kamyonun kasasında İstanbul&#x27;a doğru giderken bulurlar. Fakat tüm hayatlarını ormanda geçiren çocuklar için İstanbul büyük, bilinmez ve çok tehlikelidir.</desc>
+    <desc lang="tr">Tufan&#x27;ın Aysel&#x27;i geri almak için Azize&#x27;yi kaçırmasıyla büyük bir kaos patlak verir. Azize&#x27;nin hamile olduğunu öğrenen Devran, hayatının en mutlu haberini aldığı anda büyük bir yıkım yaşar; karısını ve doğmamış bebeğini kurtarmak için zamana karşı amansız bir yarışa girer. Çocuklarıyla birlikte Yavuz&#x27;un çiftliğine sığınan Bala, Cemo&#x27;yu kurtarabilmek için Yavuz&#x27;un getirdiği avukata umut bağlar. Annesinin çiftlikte kaldığını öğrenen Azize ile Bala arasında ise geçmişin tüm hesaplarının açıldığı büyük bir yüzleşme yaşanır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260121063000 +0000" stop="20260121081500 +0000" channel="tabii-spor">
@@ -22785,7 +22781,7 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <desc lang="tr">Spora dair flaş gelişmeler, son dakika haberleri ve canlı bağlantılar Spor Bülteni&#x27;nde.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260121194500 +0000" stop="20260121220000 +0000" channel="trt-spor">
+  <programme start="20260121194500 +0000" stop="20260121223000 +0000" channel="trt-spor">
     <title lang="tr">Maç Özel</title>
     <desc lang="tr">Temsilcilerimizin Avrupa maçlarının heyecanı TRT ekranları ve TABİİ&#x27;de yaşanıyor. Maç özetleri, özel röportajlar, analizler ve yorumlar, Maç Özel programında izleyicilerle buluşuyor.</desc>
     <category lang="tr">Spor</category>
