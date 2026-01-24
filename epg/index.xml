@@ -3347,8 +3347,7 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260124100000 +0000" stop="20260124120000 +0000" channel="bi-kanal">
-    <title lang="tr">Kepez Spor - Şanlıurfaspor</title>
-    <desc lang="tr">3. Lig karşılaşması</desc>
+    <title lang="tr">Bucaspor-Kastamonuspor</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260124120000 +0000" stop="20260124140000 +0000" channel="bi-kanal">
@@ -3371,10 +3370,15 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <desc lang="tr">Mahinur Aydın ve Aras Yılmazer’in hayatları, birkaç yıl önce yaşanan dramatik bir hastane hatasıyla derin bir şekilde bağlanmıştır. Şu anda zor bir hayat süren Mahinur, kontrolcü kocası Kenan ve kızları Bade ile sürekli dış zorluklarla yüzleşmektedir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260124200000 +0000" stop="20260124220000 +0000" channel="bi-kanal">
+  <programme start="20260124200000 +0000" stop="20260124203000 +0000" channel="bi-kanal">
     <title lang="tr">3. Lig Özetleri</title>
     <desc lang="tr">TFF 3. Lig maç özetleri ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260124203000 +0000" stop="20260124220000 +0000" channel="bi-kanal">
+    <title lang="tr">Top Gunner: Tehlike Bölgesi</title>
+    <desc lang="tr">ABD savaş uçakları, gizemli savaş uçaklarından oluşan bir filo tarafından saldırıya uğrar. Hem havada hem de karada süren tehdit dolu ölümcül bir savaş başlar…</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260124003000 +0000" stop="20260124005000 +0000" channel="bizim-ev-tv">
     <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
@@ -3907,6 +3911,126 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
     <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
     <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260124035500 +0000" stop="20260124040000 +0000" channel="brt-1">
+    <title lang="tr">İstiklal Marşı</title>
+    <desc lang="tr">İstiklal Marşı, Türk milletinin bağımsızlık mücadelesini, vatan sevgisini ve milli birliği anlatan önemli bir eserdir. Program, marşın sözlerini, anlamını ve tarihsel önemini izleyiciye aktararak milli bilinç ve değerleri hatırlatmayı amaçlıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124040000 +0000" stop="20260124050000 +0000" channel="brt-1">
+    <title lang="tr">Kökler Ve Kanatlar</title>
+    <desc lang="tr">Kökler ve Kanatlar, geçmişten gelen mirasımızı ve kişisel hikâyeleri günümüzle buluşturan etkileyici bir programdır. Her bölümde izleyiciler kültürel değerleri, tarihî olayları ve insanların yaşam yolculuklarını keşfeder. Program, izleyiciye hem ilham hem de farkındalık sağlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124050000 +0000" stop="20260124060000 +0000" channel="brt-1">
+    <title lang="tr">Sabah Haber</title>
+    <desc lang="tr">Güne başlarken öne çıkan gelişmeler bu içerikte kapsamlı şekilde ele alınıyor. Ekonomi, siyaset ve toplumsal konular sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye günün gündemini doğru ve dengeli biçimde takip etme imkânı sunuluyor. Bilgilendirici içerik, güncel olaylara geniş bir bakış açısı kazandırıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124060000 +0000" stop="20260124061000 +0000" channel="brt-1">
+    <title lang="tr">Bir Dünya Masal</title>
+    <desc lang="tr">Çocuklara yönelik masallar ve eğlenceli anlatılar bu içerikte bir araya geliyor. Hayal gücünü geliştiren öyküler, değerler içeren mesajlar ve renkli anlatım dili sade ve anlaşılır biçimde sunulurken, çocukların keyifli vakit geçirmesi ve öğrenmesi amaçlanıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260124061000 +0000" stop="20260124070000 +0000" channel="brt-1">
+    <title lang="tr">Uçurtma</title>
+    <desc lang="tr">Uçurtma, hayata dair umut ve ilham dolu insan hikâyelerini ekrana taşıyan özel bir programdır. Her bölümde sıradan insanların sıra dışı deneyimleri, yaşam mücadeleleri ve hayallerine ulaşma süreçleri anlatılır. Program, izleyiciye duygusal ve düşündürücü bir yolculuk sunarak hayatın anlamlı yanlarını gösterir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260124070000 +0000" stop="20260124080000 +0000" channel="brt-1">
+    <title lang="tr">Çarpışan Lezzetler</title>
+    <desc lang="tr">Çarpışan Lezzetler, farklı mutfak kültürlerini eğlenceli bir rekabet içinde buluşturuyor. Şefler kendi tariflerini hazırlarken lezzet, sunum ve teknik açısından karşılaştırmalar yapılıyor. Program, yemek kültürüne ilgi duyan izleyicilere bilgi verirken keyifli anlar yaşatmayı ve mutfağın eğlenceli yönünü ön plana çıkarmayı hedefliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124080000 +0000" stop="20260124083500 +0000" channel="brt-1">
+    <title lang="tr">Sesler ve Görüntüler</title>
+    <desc lang="tr">Sesler ve Görüntüler, insanlık tarihine yön veren seslerin ve görüntülerin anlamını keşfe çıkan bir belgeseldir. Günlük yaşamdan sanata, doğadan toplumsal hafızaya uzanan anlatımıyla işitsel ve görsel unsurların insan üzerindeki etkisini ele alır. Belgesel, izleyiciye farkındalık kazandıran, düşündüren ve dikkatle izlenen bir deneyim sunmayı amaçlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260124083500 +0000" stop="20260124090000 +0000" channel="brt-1">
+    <title lang="tr">Gelenekle Dans</title>
+    <desc lang="tr">Merkez Kort, spor gündemini merkezine alan, karşılaşmaların perde arkasını ve sahadaki performansları detaylı biçimde ele alan bir spor programıdır. Takımların hazırlık süreçleri, sporcuların form durumları ve maçlara dair kritik analizler uzman yorumlarla izleyiciye aktarılır. Program, sporseverlere güncel, dengeli ve bilgilendirici bir bakış sunmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124090000 +0000" stop="20260124093000 +0000" channel="brt-1">
+    <title lang="tr">Merkez Kort</title>
+    <desc lang="tr">Merkez Kort, spor gündemini merkezine alan, karşılaşmaların perde arkasını ve sahadaki performansları detaylı biçimde ele alan bir spor programıdır. Takımların hazırlık süreçleri, sporcuların form durumları ve maçlara dair kritik analizler uzman yorumlarla izleyiciye aktarılır. Program, sporseverlere güncel, dengeli ve bilgilendirici bir bakış sunmayı amaçlar.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260124093000 +0000" stop="20260124100000 +0000" channel="brt-1">
+    <title lang="tr">Endorfin</title>
+    <desc lang="tr">Endorfin, fiziksel aktivite, sağlıklı yaşam ve motivasyonu bir araya getiren bir programdır. Spor rutinleri, beslenme ipuçları ve motivasyon artırıcı içeriklerle izleyiciye enerji ve pozitif hisler sunar. Program, hem bedensel hem de zihinsel sağlığı destekleyen pratik bilgiler içerir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124100000 +0000" stop="20260124102000 +0000" channel="brt-1">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Gün ortasında yaşanan önemli gelişmeler bu içerikte ele alınıyor. Siyaset, ekonomi ve toplumsal konular sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye günün akışını doğru biçimde takip etme ve gündemi kaçırmadan değerlendirme imkânı sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124102000 +0000" stop="20260124103000 +0000" channel="brt-1">
+    <title lang="tr">Engelsiz Bülten</title>
+    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler bu içerikte ele alınıyor. Öne çıkan başlıklar, toplumsal olaylar ve yapılan açıklamalar erişilebilir ve anlaşılır bir anlatımla aktarılırken, izleyiciye gündemi doğru ve eşit biçimde takip etme imkânı sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124103000 +0000" stop="20260124110000 +0000" channel="brt-1">
+    <title lang="tr">News Round Up</title>
+    <desc lang="tr">Günün önemli gelişmeleri, öne çıkan başlıklar ve yapılan açıklamalar bu programda ele alınıyor. Siyaset, ekonomi ve toplumsal olaylar sade ve anlaşılır biçimde aktarılırken, izleyiciye gündemi doğru ve dengeli şekilde takip etme imkânı sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124110000 +0000" stop="20260124120000 +0000" channel="brt-1">
+    <title lang="tr">Doğanın Sesi</title>
+    <desc lang="tr">Doğanın sesleri ve görüntüleri, çeşitli ekosistemlerdeki yaşamı ve doğal olayları bu belgeselde ele alıyor. Sade ve anlaşılır anlatımıyla izleyiciye doğayı keşfetme ve ekosistemleri anlamaya yönelik eşsiz bir deneyim sunuluyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260124120000 +0000" stop="20260124130000 +0000" channel="brt-1">
+    <title lang="tr">Eğitime Dair Herşey</title>
+    <desc lang="tr">Eğitim alanına dair öne çıkan konular bu içerikte ele alınıyor. Öğretim yöntemleri, öğrenme süreçleri ve eğitimde yaşanan güncel gelişmeler sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye bilinçli ve bütüncül bir bakış açısı kazandırılıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124130000 +0000" stop="20260124140000 +0000" channel="brt-1">
+    <title lang="tr">Top 10</title>
+    <desc lang="tr">Program, güncel trendler ve ilgi çekici konular üzerinden hazırlanan en iyi 10 listesini izleyiciye sunuyor. Sade ve anlaşılır anlatımıyla hem bilgi veriyor hem de eğlenceli bir izleme deneyimi yaratıyor, her bölüm farklı bir tema ile dikkat çekiyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124140000 +0000" stop="20260124144000 +0000" channel="brt-1">
+    <title lang="tr">Çiftçinin Saati</title>
+    <desc lang="tr">Çiftçinin Saati, tarım sektöründeki son gelişmeleri, üreticilerin sorunlarını ve çözüm önerilerini ele alıyor. Tarım uzmanları, ziraat mühendisleri ve üreticilerle yapılan röportajlarla izleyiciye hem bilimsel hem de pratik bilgiler aktarılıyor. Bitkisel üretimden hayvancılığa kadar geniş içerik sunuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124144000 +0000" stop="20260124153000 +0000" channel="brt-1">
+    <title lang="tr">Yaşamdan Konuklar</title>
+    <desc lang="tr">Yaşamdan Konuklar, farklı hayat deneyimlerine sahip konukların öykülerini ve başarılarını ekrana taşıyan özel bir programdır. Samimi sohbetlerle hayatın çeşitli yönleri ve değerli deneyimler izleyiciye sunulur. Program, izleyicilere ders çıkarma ve motivasyon kazanma fırsatı verir.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124153000 +0000" stop="20260124160000 +0000" channel="brt-1">
+    <title lang="tr">Çalışma Masam</title>
+    <desc lang="tr">Çalışma düzeni, zaman yönetimi ve verimliliği artıran yöntemler bu içerikte ele alınıyor. Düzenli bir masa ortamının odaklanma üzerindeki etkisi sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye daha planlı, üretken ve dengeli bir çalışma alışkanlığı kazanma konusunda yol gösteriliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124160000 +0000" stop="20260124170000 +0000" channel="brt-1">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Gün boyunca yaşanan önemli gelişmeler bu içerikte kapsamlı biçimde ele alınıyor. Siyaset, ekonomi ve toplumsal konular sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye gündemi doğru, dengeli ve bütüncül şekilde takip etme imkânı sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260124170000 +0000" stop="20260124173000 +0000" channel="brt-1">
+    <title lang="tr">Bilinmeyen Hayatlar</title>
+    <desc lang="tr">Program, sıradışı yaşam öykülerini ve farklı insanların bilinmeyen yönlerini izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla hem bilgilendiriyor hem de insanların yaşam deneyimlerini anlamaya yönelik ilgi çekici bir bakış sunuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124173000 +0000" stop="20260124180000 +0000" channel="brt-1">
+    <title lang="tr">İşte Kadın</title>
+    <desc lang="tr">Kadınların sosyal hayattan iş dünyasına uzanan yaşam öyküleri bu içerikte ele alınıyor. Emek, üretim ve başarı hikâyeleri sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye kadınların toplumsal hayattaki rolü ve gücü hakkında farkındalık kazandıran bir bakış sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260124180000 +0000" stop="20260124190000 +0000" channel="brt-1">
+    <title lang="tr">Şarkı Söylemek Lazım</title>
+    <desc lang="tr">Müzik ve sahne performanslarının ön planda olduğu bu içerikte, farklı yorumlar ve şarkılar izleyiciyle buluşuyor. Sade ve akıcı anlatım eşliğinde sunulan performanslar, izleyiciye keyifli anlar yaşatırken müziğin birleştirici gücünü ön plana çıkarıyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260124190000 +0000" stop="20260125035500 +0000" channel="brt-1">
+    <title lang="tr">60+</title>
+    <desc lang="tr">Program, 60 yaş ve üzeri bireylerin yaşam kalitesini artıracak konuları ele alıyor. Sağlık, hobiler ve sosyal yaşam gibi başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye günlük yaşamda uygulanabilir bilgiler sunuyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260124050000 +0000" stop="20260124060000 +0000" channel="brt-2">
     <title lang="tr">Konser Saati</title>
@@ -13114,71 +13238,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Bizim Memleket</title>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260124043000 +0000" stop="20260124060000 +0000" channel="kanal-26">
-    <title lang="tr">Çizgi Film</title>
-    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260124060000 +0000" stop="20260124070000 +0000" channel="kanal-26">
-    <title lang="tr">Ana Haber Bülteni</title>
-    <desc lang="tr">Ana Haber Bülteni, gün boyunca yaşananları başlıklar halinde sıralamakla yetinmez; olup bitenin ardındaki nedenleri, etkileri ve insanlara yansıyan yönlerini birlikte düşünmeye davet eder. Şehirde, ülkede ve dünyada neler değişiyor, kim nasıl etkileniyor, yarın bizi ne bekliyor? Bu bülten, izleyiciye yalnızca bilgi değil, bakış açısı da sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260124070000 +0000" stop="20260124084500 +0000" channel="kanal-26">
-    <title lang="tr">Çizgi Film</title>
-    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260124084500 +0000" stop="20260124111500 +0000" channel="kanal-26">
-    <title lang="tr">Kült Film</title>
-    <desc lang="tr">Kanal 26&#x27;nın sinema severler için hazırladığı &quot;Kült Film&quot; kuşağı, dünya sinemasında iz bırakmış, zamanın ötesine geçen yapımları izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260124111500 +0000" stop="20260124120000 +0000" channel="kanal-26">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260124120000 +0000" stop="20260124140000 +0000" channel="kanal-26">
-    <title lang="tr">Müzik Saati</title>
-    <desc lang="tr">Kanal 26&#x27;nın keyifli programı &quot;Müzik Saati&quot;, farklı müzik türlerinden seçilen parçalarla izleyicilere müzik dolu bir yolculuk sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260124140000 +0000" stop="20260124151500 +0000" channel="kanal-26">
-    <title lang="tr">Kırmızı Koltuk</title>
-    <desc lang="tr">Her hafta Türkiye&#x27;nin tanınmış ve önemli isimlerini ağırlayan &#x27;Kırmızı Koltuk&#x27; programımızda, ilham verici hayat hikayelerini, başarı sırlarını ve gündemdeki konulara dair samimi sohbetleri izleyebilirsiniz. Ünlü konuklarımızın deneyimlerinden faydalanmak ve merak ettiğiniz sorulara yanıt bulmak için bizi takip edin!</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260124151500 +0000" stop="20260124160000 +0000" channel="kanal-26">
-    <title lang="tr">Haftalık Gündem</title>
-    <desc lang="tr">&quot;Haftalık Gündem&quot; programı, geride kalan haftanın en önemli gelişmelerini kapsamlı bir şekilde değerlendiriyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260124160000 +0000" stop="20260124172000 +0000" channel="kanal-26">
-    <title lang="tr">Ara Haber Bülteni</title>
-    <desc lang="tr">Kanal 26&#x27;nın Ara Haber Bülteni, günün tam ortasında Eskişehir&#x27;den ve Türkiye&#x27;nin dört bir yanından öne çıkan haberleri ekrana taşır. Siyaset, ekonomi, kültür-sanat ve spordan son dakika gelişmeleriyle izleyiciye hızlı ve tarafsız bir haber akışı sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260124172000 +0000" stop="20260124173000 +0000" channel="kanal-26">
-    <title lang="tr">Spor Haberleri</title>
-    <desc lang="tr">Kanal 26 Spor Haberleri, spor dünyasında yaşanan tüm gelişmeleri anbean izleyiciye aktarıyor. Eskişehir&#x27;in yerel takımlarından ulusal ve uluslararası müsabakalara kadar geniş bir yelpazede hazırlanan bülten; maç özetleri, transfer haberleri ve öne çıkan performanslarla zenginleşiyor. Program, sporseverlere günü yakalama fırsatı sunuyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260124173000 +0000" stop="20260124184500 +0000" channel="kanal-26">
-    <title lang="tr">Söz Bizde</title>
-    <desc lang="tr">Söz Bizde, siyasetin güncel konularını farklı perspektiflerden tartışan bir programdır. Leyla Çam, Leman Çelik Sivri, Nuray Akçasoy ve Pınar Turhanoğlu Gücüyener gibi çeşitli konuklar, yerel ve ulusal meseleleri kadın bakış açısıyla yorumlar. Program, izleyiciye gündemi derinlemesine düşünme ve farklı sesleri duyma fırsatı sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260124184500 +0000" stop="20260124200000 +0000" channel="kanal-26">
-    <title lang="tr">Farklı Farklı</title>
-    <desc lang="tr">Kanal 26&#x27;nın renkli programı &quot;Farklı Farklı&quot;, izleyicilere gündelik yaşamdan eğlenceye, kültürden sanata kadar geniş bir yelpazede içerik sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260124200000 +0000" stop="20260124210000 +0000" channel="kanal-26">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
   <programme start="20260124043000 +0000" stop="20260124053000 +0000" channel="kanal-33">
     <title lang="tr">Haber TEKRAR</title>
     <desc lang="tr">Kanal 33&#x27;ün &quot;Haber&quot; bülteni, Mersin&#x27;den Türkiye&#x27;ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
@@ -21916,6 +21975,151 @@ Ji bo hûn hemû geşedanan bi zimanê xwe bişopînin, her roj di saet 19:00&#x
     <desc lang="tr">Kendisine dayatılan hayatı kabul etmeyip, evinden kaçan genç bir kızın hikayesi konu ediliyor.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260124001500 +0000" stop="20260124004500 +0000" channel="trt-muzik">
+    <title lang="tr">Türkistan&#x27;dan Rumeli&#x27;ye</title>
+    <desc lang="tr">Sanatçı Orhan Çakmak&#x27;ın sunumuyla ekrana gelen programda, izleyicilere kültür ve müzik dolu bir içerik sunuluyor. Türkistan&#x27;dan, Azerbaycan&#x27;a; Kazakistan&#x27;dan, Özbekistan&#x27;a kadar geniş bir rotada Türk dünyası coğrafyası ve müziği keşfedildiyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124004500 +0000" stop="20260124011500 +0000" channel="trt-muzik">
+    <title lang="tr">Sahnemiz Sokak</title>
+    <desc lang="tr">Sahnemiz Sokak, sokağın sesini ve müziğini sokak müzisyenlerinin icralarıyla ekranlara taşıyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124011500 +0000" stop="20260124023000 +0000" channel="trt-muzik">
+    <title lang="tr">Aşk Özünden</title>
+    <desc lang="tr">Geleneksel müzik kültürümüzün yaşatılması ve gelecek kuşaklara aktarılması amacıyla hazırlanan, Erol Parlak ve Deniz Toprak&#x27;ın Türk halk müziği eserlerini icra edeceği bir programdır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124023000 +0000" stop="20260124030000 +0000" channel="trt-muzik">
+    <title lang="tr">Semavi Hisler</title>
+    <desc lang="tr">TRT İstanbul Radyosu ney sanatçımız Furkan Necipoğlu ve ona eşlik eden saz sanatçılarıyla tasavvuf musikisinin seçkin eserleri ekranda...</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124030000 +0000" stop="20260124040000 +0000" channel="trt-muzik">
+    <title lang="tr">Ezgiler</title>
+    <desc lang="tr">Türk halk müziği programlarımızdan derlenen solo ve düet performansları içeren Ezgiler programı, halk müziğinin en sevilen eserlerini izleyicilerle buluşturuyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124040000 +0000" stop="20260124040500 +0000" channel="trt-muzik">
+    <title lang="tr">İstiklal Marşı</title>
+    <desc lang="tr">İstiklal Marşı</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124040500 +0000" stop="20260124050000 +0000" channel="trt-muzik">
+    <title lang="tr">Klipark</title>
+    <desc lang="tr">Pop müziğin en çok izlenen ve sevilen klipleri, Klipark programıyla ekranlara geliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124050000 +0000" stop="20260124054500 +0000" channel="trt-muzik">
+    <title lang="tr">Nağmeler</title>
+    <desc lang="tr">Türk sanat müziği programlarımızdan derlenen solo ve düet performansları içeren Nağmeler programı, izleyicilere musiki keyfi yaşatıyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124054500 +0000" stop="20260124063000 +0000" channel="trt-muzik">
+    <title lang="tr">Ezgiler</title>
+    <desc lang="tr">Türk halk müziği programlarımızdan derlenen solo ve düet performansları içeren Ezgiler programı, halk müziğinin en sevilen eserlerini izleyicilerle buluşturuyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124063000 +0000" stop="20260124071500 +0000" channel="trt-muzik">
+    <title lang="tr">90&#x27;lar Akustik</title>
+    <desc lang="tr">Müzisyen Metin Özülkü, 90&#x27;ların unutulmaz şarkılarını ünlü konuklarıyla birlikte icra ediyor. Her bölümde farklı konukların yer aldığı programda, 90&#x27;ların en sevilen şarkılarına ve sanatçıların hayat hikâyelerine dair sohbet ediliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124071500 +0000" stop="20260124073000 +0000" channel="trt-muzik">
+    <title lang="tr">Diskografi</title>
+    <desc lang="tr">En sevilen sanatçıların, şarkıları ve albümleriyle ilgili merak edilen her şey Diskografi&#x27;de izleyicileri bekliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124073000 +0000" stop="20260124074500 +0000" channel="trt-muzik">
+    <title lang="tr">Tatlı Notalar</title>
+    <desc lang="tr">12 - 13 yaş aralığındaki çocuklarımızın kalbinden kopan şarkıları ekrana taşıyoruz...</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124074500 +0000" stop="20260124081500 +0000" channel="trt-muzik">
+    <title lang="tr">Türkünün Doğduğu Yer</title>
+    <desc lang="tr">Programın her bölümünde, birbirinden farklı kültürel mekânlarda, yöre insanımızın icrasına yer veriliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124081500 +0000" stop="20260124090000 +0000" channel="trt-muzik">
+    <title lang="tr">Melike İle Müziğin Ritmi</title>
+    <desc lang="tr">Melike Öcalan&#x27;ın sunduğu programda, müzik dünyasının önde gelen isimleriyle sevilen şarkılar eşliğinde müziğe dair keyifli bir sohbet yapılıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124090000 +0000" stop="20260124100000 +0000" channel="trt-muzik">
+    <title lang="tr">Gönülde Bir</title>
+    <desc lang="tr">Elif Avcı ve Cumali Özkaya&#x27;nın sunumuyla seçkin bir halk müziği repertuvarı ekrana geliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124100000 +0000" stop="20260124103000 +0000" channel="trt-muzik">
+    <title lang="tr">Sümer Ezgü İle Anadolu&#x27;dan Geldik</title>
+    <desc lang="tr">Programda, Sümer Ezgü&#x27;nün sunumuyla Türk halk müziğine kaynaklık eden müzik ustalarının icralarına yer veriliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124103000 +0000" stop="20260124114500 +0000" channel="trt-muzik">
+    <title lang="tr">Senin Şarkın</title>
+    <desc lang="tr">Esra İçöz ve İhsan Güvenç, müzik tarihimizde iz bırakmış eserleri icra ediyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124114500 +0000" stop="20260124123000 +0000" channel="trt-muzik">
+    <title lang="tr">Rotamız Müzik</title>
+    <desc lang="tr">Programda, bir grup müzisyen Türkiye&#x27;yi dolaşarak müzik icra ediyor. Şehri izleyicilere tanıtmak amacıyla belirli rotalarda belli görevleri yerine getiriyor. Program, Türkiye&#x27;nin farklı bölgelerinin tarihî ve doğal güzelliklerini gösteren görüntüler eşliğinde ekrana geliyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124123000 +0000" stop="20260124133000 +0000" channel="trt-muzik">
+    <title lang="tr">Ümitli Şarkılar</title>
+    <desc lang="tr">Ümit Sayın, konuklarıyla yaptığı keyifli sohbetler ve enstrümanların tınısı eşliğinde geçmişten günümüze en sevilen şarkıları yorumluyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124133000 +0000" stop="20260124140000 +0000" channel="trt-muzik">
+    <title lang="tr">Arşivden</title>
+    <desc lang="tr">TRT&#x27;nin zengin arşivinden derlenen 1970&#x27;li, 80&#x27;li ve 90&#x27;lı yıllarda büyük ilgi gören müzik programları, kısa sohbetler ve sevilen şarkılarla ekrana geliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124140000 +0000" stop="20260124141500 +0000" channel="trt-muzik">
+    <title lang="tr">3 Ses</title>
+    <desc lang="tr">Programda, geçmişten günümüze klasikleşmiş eserler; klasik kemençe, çello ve kanundan oluşan farklı tarzdaki enstrümanlarla icra ediliyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124141500 +0000" stop="20260124151500 +0000" channel="trt-muzik">
+    <title lang="tr">Sandıktaki Türküler</title>
+    <desc lang="tr">Ercan Polat ve konuklarıyla Türk halk müziği mirasımızı geleceğe taşıyoruz...</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124151500 +0000" stop="20260124161500 +0000" channel="trt-muzik">
+    <title lang="tr">Müzik Yolcuları</title>
+    <desc lang="tr">Ahmet Baran ve Mine Geçili&#x27;yle seçkin bir repertuvar, TRT Müzik izleyicilerini bekliyor.Programda, en sevilen eserleri Mine Geçili seslendiriyor. Ahmet Baran ise kanunuyla bu eserlere eşlik ediyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124161500 +0000" stop="20260124170000 +0000" channel="trt-muzik">
+    <title lang="tr">Neydi O Şarkı</title>
+    <desc lang="tr">Sezen Kiremit&#x27;in yorumuyla 90&#x27;ların birbirinden güzel şarkıları ve döneme dair anekdotlar karışık kaset havasında ekrana geliyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124170000 +0000" stop="20260124180000 +0000" channel="trt-muzik">
+    <title lang="tr">Ahenk</title>
+    <desc lang="tr">Çiğdem Gürdal ve Şennur Dinleyen&#x27;in sesi, Göksel Baktagir&#x27;in kanun icrasıyla hazırlanan programda, Türk sanat müziğinin en nadide eserleriyle bir müzik ziyafeti sunuluyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124180000 +0000" stop="20260124190000 +0000" channel="trt-muzik">
+    <title lang="tr">Türkü Deryası</title>
+    <desc lang="tr">Türk halk müziğinin usta sanatçısı Selahattin Alpay&#x27;ın sunduğu programda, Türk halk müziği eserleri seçkin bir repertuvarla ekrana taşınıyor. Konuk sanatçıların, kendilerine has yorumlarıyla yorumladığı eserler izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124190000 +0000" stop="20260124194500 +0000" channel="trt-muzik">
+    <title lang="tr">Rüzgar Gibi Geçti</title>
+    <desc lang="tr">Elif Nun ve Ayhan Digili&#x27;nin sunumuyla ekrana gelen program, dekoru ve konseptiyle izleyiciye 70&#x27;li yılların nostaljisini yaşatıyor. O yıllara damga vuran şarkılar, farklı bir yorumla ekrana geliyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260124194500 +0000" stop="20260124204500 +0000" channel="trt-muzik">
+    <title lang="tr">Sade</title>
+    <desc lang="tr">Şükriye Tutkun ve Ali Osman Erbaşı&#x27;yla türkülerin en yalın hâli TRT Müzik ekranlarında izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
+  <programme start="20260124204500 +0000" stop="20260124211500 +0000" channel="trt-muzik">
+    <title lang="tr">Türkülerle Turan</title>
+    <desc lang="tr">Prof. Dr. Erdem Özdemir&#x27;in sunumuyla Kırım&#x27;dan Makedonya&#x27;ya, Azerbaycan&#x27;dan Türkmenistan&#x27;a müziğin izini sürüyoruz.</desc>
+    <category lang="tr">Müzik</category>
+  </programme>
   <programme start="20260124004500 +0000" stop="20260124023000 +0000" channel="trt-spor">
     <title lang="tr">Damac - Al Nassr</title>
     <desc lang="tr">Suudi Arabistan Pro Lig Futbol Karşılaşması: Damac - Al Nassr</desc>
@@ -22891,6 +23095,11 @@ Sefer, kasabada gece vakti etkinlikler yapmaya karar verir. Etkinlikler sırası
   <programme start="20260124204500 +0000" stop="20260124223000 +0000" channel="tv-4">
     <title lang="tr">Savulun Battal Gazi Geliyor</title>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260124140000 +0000" stop="20260124210000 +0000" channel="tv-ekstra-ufc">
+    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
+    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260124000000 +0000" stop="20260124030000 +0000" channel="tv-info">
     <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
