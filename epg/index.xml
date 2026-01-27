@@ -3174,23 +3174,23 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">İ.A.Vanspor FK - A.H.Iğdır FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127110000 +0000" stop="20260127125900 +0000" channel="beinsports2.tr">
+  <programme start="20260127110000 +0000" stop="20260127130100 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127130000 +0000" stop="20260127145900 +0000" channel="beinsports2.tr">
+  <programme start="20260127130200 +0000" stop="20260127150300 +0000" channel="beinsports2.tr">
     <title lang="tr">A.Hatayspor - E.Ümraniyespor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127150000 +0000" stop="20260127165900 +0000" channel="beinsports2.tr">
+  <programme start="20260127150400 +0000" stop="20260127170600 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - S.Bodrum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127170000 +0000" stop="20260127185900 +0000" channel="beinsports2.tr">
+  <programme start="20260127170700 +0000" stop="20260127190800 +0000" channel="beinsports2.tr">
     <title lang="tr">Ö.Sivasspor - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127190000 +0000" stop="20260127210000 +0000" channel="beinsports2.tr">
+  <programme start="20260127190900 +0000" stop="20260127210900 +0000" channel="beinsports2.tr">
     <title lang="tr">Manisa FK - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -13758,17 +13758,17 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260127100000 +0000" stop="20260127130000 +0000" channel="halk-tv">
     <title lang="tr">Remziye Demirkol ile Haber Masası</title>
-    <desc lang="tr">Remziye Demirkol ile Haber Masası, güncel haberler, politika ve toplumsal gelişmeleri ele alan bilgilendirici bir programdır. Remziye Demirkol&#x27;un sunumuyla ekranlara gelen programda, uzman yorumları ve detaylı analizler izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Program, gündemi anlaşılır ve tarafsız bir şekilde aktararak izleyiciye doğru ve güvenilir bilgi sağlamayı amaçlar.</desc>
+    <desc lang="tr">Remziye Demirkol ile Haber Masası, güncel haberler, politika ve toplumsal gelişmeleri ele alan bilgilendirici bir programdır. Remziye Demirkol&#x27;un sunumuyla ekrana gelen programda uzman yorumları ve analizlerle gündem ele alınır, olaylar tarafsız, açık ve anlaşılır bir dille izleyiciye doğru biçimde aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127150000 +0000" channel="halk-tv">
     <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Gizem Çetin ile Parantez, güncel haberler, toplumsal ve siyasi gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir perspektif sunulur. İzleyici, gündemi anlaşılır ve objektif bir şekilde takip ederek olayları daha iyi değerlendirme imkânı bulur.</desc>
+    <desc lang="tr">Gizem Çetin ile Parantez, güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127150000 +0000" stop="20260127170000 +0000" channel="halk-tv">
     <title lang="tr">Ece Üner ile Halk Ana Haber</title>
-    <desc lang="tr">Ece Üner ile Halk Ana Haber, güncel haberler, politika ve toplumsal gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Programda uzman yorumları ve analizler izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Gündem, tarafsız ve anlaşılır bir şekilde aktarılır, izleyici doğru ve güvenilir bilgilerle bilgilendirilir.</desc>
+    <desc lang="tr">Ece Üner ile Halk Ana Haber, güncel haberler, politika ve toplumsal gelişmeleri ele alan tarafsız bir haber programıdır. Uzman yorumları ve analizlerle olaylar ayrıntılı biçimde incelenir, gündem açık, anlaşılır ve güvenilir bir dille izleyiciye aktarılır. Program, doğru bilgiye ulaşmak isteyenler için hazır.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127000000 +0000" stop="20260127010000 +0000" channel="ht-spor">
@@ -14189,27 +14189,27 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260127130000 +0000" stop="20260127150000 +0000" channel="kanal-7">
     <title lang="tr">Gönül Sözüm</title>
-    <desc lang="tr">Kanal 7 izleyicisini sürükleyici bir hikayeyle buluşturuyor. Gönül Sözümde Pari ve Neeti birbirinden ayrılmaz dostlardır. Rajeev&#x27;in gelişi her şeyi değiştirir. Neeti&#x27;ye gönlünü kaptıran Rajeev ailesinin isteğiyle Pari ile evlenir ve bu evlilik gizli yalanlara yol açar. Gerçekler ortaya çıktıkça dostluk yerini ihanete bırakır.</desc>
+    <desc lang="tr">İzleyicisini sürükleyici bir hikayeyle buluşturuyor. Gönül Sözümde Pari ve Neeti birbirinden ayrılmaz dostlardır. Rajeev&#x27;in gelişi her şeyi değiştirir. Neeti&#x27;ye gönlünü kaptıran Rajeev ailesinin isteğiyle Pari ile evlenir evlilik gizli yalanlara yol açar. Gerçekler ortaya çıktıkça dostluk yerini ihanete bırakır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260127150000 +0000" stop="20260127160000 +0000" channel="kanal-7">
     <title lang="tr">Kanal 7 Haber Saati</title>
-    <desc lang="tr">Kanal 7 Haber Saati, Türkiye ve dünyadan güncel gelişmeleri, önemli haber başlıklarını ve son dakika gelişmelerini izleyiciye aktaran güvenilir bir haber bültenidir. Programda siyasetten ekonomiye, spordan kültüre tüm önemli olaylar sade, anlaşılır ve hızlı bir biçimde izleyiciye sunulur, her gelişme doğru şekilde aktarılır.</desc>
+    <desc lang="tr">Türkiye ve dünyadan güncel gelişmeleri, önemli haber başlıklarını ve son dakika gelişmelerini izleyiciye aktaran güvenilir bir haber bültenidir. Programda siyasetten ekonomiye, spordan kültüre tüm önemli olaylar sade, anlaşılır ve hızlı bir biçimde izleyiciye sunulur, her gelişme doğru şekilde aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127160000 +0000" stop="20260127181500 +0000" channel="kanal-7">
     <title lang="tr">Gelin</title>
-    <desc lang="tr">Gelin, Talya Çelebi&#x27;nin başrolünde, heyecan dolu üçüncü sezonuyla izleyiciyle buluşuyor. Develioğlu ailesini alt üst edecek sırlar, Hançer ile Cihan&#x27;ın aşkı ve bebek heyecanı, beklenmedik gelişmelerle ekrana taşınıyor. Sürprizlerle dolu olaylar ve aile dramıyla izleyiciyi ekran başına kilitlemeye hazırlanıyor.</desc>
+    <desc lang="tr">Gelin Talya Çelebi&#x27;nin başrolünde, heyecan dolu üçüncü sezonuyla izleyiciyle buluşuyor. Develioğlu ailesini alt üst edecek sırlar, Hançer ile Cihan&#x27;ın aşkı ve bebek heyecanı, beklenmedik gelişmelerle ekrana taşınıyor. Sürprizlerle dolu olaylar ve aile dramıyla izleyiciyi ekran başına kilitlemeye hazırlanıyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260127181500 +0000" stop="20260127193000 +0000" channel="kanal-7">
     <title lang="tr">Arafta</title>
-    <desc lang="tr">Gizemli milyarder Ateş Karahan, ailesinin borçlarını ödemesi karşılığında Mercan Yıldırım ile 187 günlük bir evlilik yapmak zorunda kalır. Bu zoraki birliktelik, yıllar önce yaşanan acılar, intikam planları ve eski sırlarla dolu bir hesaplaşmaya dönüşür.</desc>
+    <desc lang="tr">Gizemli milyarder Ateş Karahan, ailesinin borçlarını ödemek için Mercan Yıldırım ile 187 günlük bir evlilik yapmak zorunda kalır. Bu zoraki birliktelik, yıllar önceki hesaplaşmaları yeniden gündeme getirir. Ateş, Mercan ve çevresindekilerin sırları yavaş yavaş ortaya çıkarken nefret ve arzu arasında kalır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260127193000 +0000" stop="20260127210000 +0000" channel="kanal-7">
     <title lang="tr">TV Filmi</title>
-    <desc lang="tr">Çeşitli film ve dizi türlerinden oluşan yayın kuşağı, izleyicilere eğlenceli ve dinlendirici anlar yaşatmayı amaçlıyor. Önümüzdeki dakikalarda ekrana gelecek yapımlar, keyifli hikâyeleri ve farklı anlatımlarıyla izleyiciyi günlük hayatın temposundan uzaklaştırıyor. Her yaştan izleyici için uygun içerikler sunuluyor.</desc>
+    <desc lang="tr">Çeşitli film ve dizi türlerinden oluşan yayın kuşağı izleyicilere eğlenceli ve dinlendirici anlar yaşatmayı amaçlıyor. Önümüzdeki dakikalarda ekrana gelecek yapımlar keyifli hikâyeleri ve farklı anlatımlarıyla izleyiciyi günlük hayatın temposundan uzaklaştırıyor. Her yaştan izleyiciye uygun içerikler sunuyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260127000000 +0000" stop="20260127020000 +0000" channel="kanal-d">
@@ -14768,12 +14768,12 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260127173400 +0000" stop="20260127173600 +0000" channel="kontv">
     <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, ülke genelindeki ve bölgesel hava koşullarını izleyiciye detaylı ve anlaşılır bir şekilde sunan bir haber programıdır. Programda sıcaklık, yağış, rüzgâr ve diğer hava olayları hakkında güncel bilgiler aktarılırken, mevsimsel tahminler ve olası uyarılar da izleyiciye iletilir. Hava Durumu, günlük yaşamı planlamak ve hava şartlarını güvenli bir şekilde takip etmek isteyen izleyiciler için kapsamlı ve güvenilir bir rehber niteliği taşır.</desc>
+    <desc lang="tr">Hava Durumu, ülke genelindeki ve bölgesel hava koşullarını detaylı ve anlaşılır şekilde izleyiciye sunar. Sıcaklık, yağış, rüzgâr ve diğer hava olayları hakkında güncel bilgiler verilir. Mevsimsel tahminler ve olası uyarılar da aktarılır, günlük yaşam için güvenilir bir rehberdir.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
   <programme start="20260127173600 +0000" stop="20260127174000 +0000" channel="kontv">
     <title lang="tr">Spor Haber</title>
-    <desc lang="tr">Spor Haber, futbol ve diğer spor dallarındaki güncel gelişmeleri, maç sonuçlarını ve öne çıkan haberleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir spor programıdır. Program, izleyiciyi spor dünyasındaki önemli gelişmelerden haberdar ederken, takım ve oyuncu performanslarını da analiz ederek spor gündemini kapsamlı bir şekilde takip etmelerini sağlar.</desc>
+    <desc lang="tr">Futbol ve diğer spor dallarındaki güncel gelişmeleri, maç sonuçlarını, öne çıkan haberleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir spor programıdır. Program izleyiciyi spor dünyasındaki önemli gelişmelerden haberdar ederken, spor gündemini kapsamlı bir şekilde izleyicinin takip etmesini sağlar.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127174000 +0000" stop="20260127184000 +0000" channel="kontv">
@@ -18155,31 +18155,6 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <desc lang="tr">PowerTürk TV&#x27;nin en sevilen müzik kuşağı &quot;%100 Hit&quot;, Türk pop müziğinin en çok dinlenen ve dillerden düşmeyen şarkılarını arka arkaya izleyicilerle buluşturuyor! Her biri listelerde zirveye yerleşmiş, milyonlarca kez dinlenmiş parçalar bu programda bir araya geliyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260127040000 +0000" stop="20260127070000 +0000" channel="power-tv">
-    <title lang="tr">Power Morning</title>
-    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260127070000 +0000" stop="20260127130000 +0000" channel="power-tv">
-    <title lang="tr">Power Hits</title>
-    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260127130000 +0000" stop="20260127200000 +0000" channel="power-tv">
-    <title lang="tr">Power Hits</title>
-    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260127200000 +0000" stop="20260127205900 +0000" channel="power-tv">
-    <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260127205900 +0000" stop="20260128040000 +0000" channel="power-tv">
-    <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
   <programme start="20260127000000 +0000" stop="20260127023000 +0000" channel="s-sport">
     <title lang="tr">Orlando Magic - Cleveland Cavaliers</title>
     <desc lang="tr">NBA</desc>
@@ -18691,6 +18666,61 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <desc lang="tr">kamını alıp, motosikletiyle Amerika´nın batısına kaçan bir Kızılderilidir. Ancak bu adaletin bir maliyeti vardır.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260127000000 +0000" stop="20260127014500 +0000" channel="sinema-komedi">
+    <title lang="tr">Çılgın Banka Soygunu</title>
+    <desc lang="tr">Wolfgang Petersen&#x27;in başyapıtı Das Boot&#x27;tan beri çektiği ilk Almanca film… Boksör Chris, reklamcı Max ve aktör Peter, kendi emekliliklerini dertsiz geçirmek için bir kenara para koymuşlardır. Fakat paralarını biriktirdikleri bankanın müdürü Schumacher&#x27;in farklı planları vardır. Bu üç adam banka tarafından ihanete uğrayınca birleşip intikam almaya karar verirler.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127014500 +0000" stop="20260127040000 +0000" channel="sinema-komedi">
+    <title lang="tr">Annıe</title>
+    <desc lang="tr">New York&#x27;un kaotik sokaklarında hayatta kalabilmeyi başaracak kadar güçlü ve sert bir koruyucu anneyle birlikte yaşayan Annie, iyimser ve mutlu bir kızdır. Ancak hayatı, New York belediye başkanı adayı olan Will Stacks&#x27;ın bir kampanya çerçevesinde onu himayesine almasıyla tamamen değişecektir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127054500 +0000" channel="sinema-komedi">
+    <title lang="tr">Evim Tatlı Evim!</title>
+    <desc lang="tr">Kırklı yaşlarının başında bir mimar olan Stephanie, işini kaybedince annesinin evine dönmek zorunda kalır. Yıllardır yalnız yaşamaya alışmış olan Stephanie için, çatışma dolu yeni bir düzen, onu bir hayli zorlayacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127054500 +0000" stop="20260127073000 +0000" channel="sinema-komedi">
+    <title lang="tr">Süper Baba</title>
+    <desc lang="tr">Sonny Koufax, 32 yaşında hukuk mezunu bir adamdır. Manhattan&#x27;da güzel bir dairede yaşayan Sonny, kız arkadaşı tarafından terkedilir. Kız arkadaşını etkilemek için 5 yaşında bir çocuğu evlat edinen Sonny beklediğini bulamayınca, farklı yollar denemeye karar verir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127073000 +0000" stop="20260127093000 +0000" channel="sinema-komedi">
+    <title lang="tr">Kiracının Böylesi</title>
+    <desc lang="tr">Constance, baskıcı babasından uzakklaşmaya çalışan bir öğrencidir. Beş parasız ve kalacak yeri olmayan Constance, Henri&#x27;nin ilginç teklifini kabul eder. Constance, Henri&#x27;nin oğlu Paul ve nişanlısı Valerie&#x27;nin arasını bozmak için elinden geleni yapacak ve karşılığında Henri&#x27;nin evinde bulunan bir odada para ödemeden kalabilecektir. Constance, tüm çekiciliğini kullanarak 40&#x27;larındaki Paul&#x27;ü baştan çıkarmayı başarır. Ancak Paul, genç kızı etkileyebilmek için yaşına pek de uygun olmayan davranışlar sergilemeye başlar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127093000 +0000" stop="20260127113000 +0000" channel="sinema-komedi">
+    <title lang="tr">Tai Chi Hero</title>
+    <desc lang="tr">Tai Chi Zero&#x27;dan sonra, soluk kesen dövüş sanatları serisinin ikinci filmi… Lu Chan (Yuan Xiaochao), herkesin kung fu ustası olduğu Chen Köyü&#x27;nde kalmaya devam etmektedir. Köyü korkunç bir saldırıdan kurtarmış ve köy halkı tarafından kahraman ilan edilmiştir. Köyün en kıdemli üstadı, Lu Chan&#x27;dan kızı Yuniang ile evlenmesini ister. Bu, formalite usulü bir evlilik olacak, Yuniang öğretmen, Lu Chan ise onun öğrencisi olacaktır. Lu Chan her geçen gün kung fu konusunda daha da fazla deneyim kazanmaktadır. Ancak köy bir kez daha tehlikenin eşiğindedir ve herkesin kaderi Lu Chan&#x27;in ellerindedir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127140000 +0000" channel="sinema-komedi">
+    <title lang="tr">Yeniden Yirmi</title>
+    <desc lang="tr">Bayan Dai, 70 yaşında bir büyükannedir. Ailesi ile problemler yaşayan yaşlı kadın, bir gün fotoğraf çektirirken, tekrar 20 yaşındaki görüntüsüne geri döner. Davranışları toplumda biraz garip karşılanır. Ancak onun için en büyük sorun tabi ki aşk hayatıdır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127140000 +0000" stop="20260127163000 +0000" channel="sinema-komedi">
+    <title lang="tr">Yeni Nesil Aşklar</title>
+    <desc lang="tr">Karşılaştıkları her sefer kedi köpek gibi kavga eden bir senarist ve oyuncu, yeni arkadaşlık kurmaya başlayan, evde kalmış bir hostes ve bir şef ve üstün zekalı bir yapımcıya gizli hayranlık duyan bir bestekar ekseninde dönen romantik komedi, bu çiftlerin arasında zamanla doğan yakınlaşmayı konu alıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127163000 +0000" stop="20260127183000 +0000" channel="sinema-komedi">
+    <title lang="tr">Siyah Giyen Adamlar 3</title>
+    <desc lang="tr">Ajan J, 1969&#x27;ya, M.I.B.&#x27;nin ilk günlerine, bir uzaylının Ajan K&#x27;ye suikast yapmasını engellemek ve tarihi değiştirmekten alıkoymak için seyahat eder. Bu olay aynı zamanda dünyanın sonunu getirebilecek bir seri olayın fişeğini de ateşlemiştir. Ancak genç K, durumun ciddiyetini anlamakta güçlük çekmektedir. Ajan J hem K&#x27;yı ikna etmek, hem de arkadaşını kurtarmak zorundadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127203000 +0000" channel="sinema-komedi">
+    <title lang="tr">En İyi Arkadaşım Evleniyor</title>
+    <desc lang="tr">Julianne, en yakın arkadaşı Michael&#x27;in evleneceğini öğrenir öğrenmez ona yardım etmek üzere Chicago&#x27;ya gider. Ancak içinden bir ses, bu düğünü durdurması ve Michael ile beraber olmasını söylemektedir. Düğüne üç gün kala, Michael&#x27;ı nişanlısından ayırmak için elinden geleni yapar. Sonunda damadı öper ve ona kendisinin aşık olduğunu itiraf eder. Şimdi Michael, en yakın arkadaşı ve nişanlısı arasında bir seçim yapmak zorundadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127221500 +0000" channel="sinema-komedi">
+    <title lang="tr">Tanışma Ve New York</title>
+    <desc lang="tr">Wendy ve Milo, New York&#x27;ta yaşayan iki gençtir. Bu büyük şehirde her gün hayatta kalmaya çalışan Wendy ve Milo, ağır duygusal yüklerine rağmen ruh eşlerini bulmaya çalışırlar. Bir flört uygulaması aracılığıyla tanışan Wendy ve Milo, aradıkları aşkı birbirlerinde bulabilecek midir?</desc>
+    <category lang="tr">Film</category>
+  </programme>
   <programme start="20260127001500 +0000" stop="20260127024500 +0000" channel="sinema-tv">
     <title lang="tr">Memorıa</title>
     <desc lang="tr">Memoria, hastalanan kardeşini ziyaret etmek için Kolombiya&#x27;ya giden genç bir kadına odaklanıyor. Orkide çiftliğinde çalışan genç bir kadın, kardeşi rahatsızlanınca Kolombiya&#x27;ya gitmek zorunda kalır. Genç kadın, burada başına geleceklerden bihaber Kolombiya&#x27;ya doğru yola koyulur. Burada inşaat firmasında çalışan Fransız bir arkeologla ve genç bir müzisyenle yolları kesişir. Şehre alışmakta zorluk çeken kadın, her gece duyduğu güçlü patlama seslerinden oldukça muzdariptir. Uyumasını engelleyen seslere artık tahammül edemeyen kadın, bu sırada tanıştığı bir balıkçıdan kafasının karışmasına neden olacak şeyler öğrenir. Kendisini asırlardır yaşayan bir uzaylı olarak tanıtan balıkçı, sesleri sadece kadının duyduğunu ve uykusuzluğunu yalnızca kendisinin çözebileceğini söyler.</desc>
@@ -18794,6 +18824,61 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
   <programme start="20260127190000 +0000" stop="20260127210000 +0000" channel="sinema-tv-1001">
     <title lang="tr">Dönüş</title>
     <desc lang="tr">Film, iki kardeşin 12 sene sonra ansızın eve dönen babaları ile yaşadıkları yolculuğu konu almıştır. Zvyagintsev, Rus toplumundaki görünmeyen sorunları estetize ederken toplumun içinde bulunduğu mevcut durumu politik yönüyle eleştiren ve umutsuzluğu yansıtan bir yaklaşımla sergilemiştir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127001500 +0000" stop="20260127020000 +0000" channel="sinema-tv-2">
+    <title lang="tr">Bataklık</title>
+    <desc lang="tr">Quicksand, Akdeniz&#x27;de rüya gibi bir hayat yaşayan İngiliz bir çifte odaklanıyor. Çiftin bu güzel hayatı kendilerini ziyaret eden oğulları bölgenin yerlisi bir genç tarafından öldürüldüğünde birdenbire sona erer. Tehlikeli bir yabancı, ailenin babasına intikam alabileceği bir teklifte bulunur ve hayır cevabını kabul etmez. İntikamın bedeli ise başka bir cinayet olacaktır. Mark Brozel&#x27;ın yönetmen koltuğunda oturduğu filmin başrollerini İki Oscar adaylığı bulunan başarılı aktris Emily Watson ve Doctor Who, Broadchurch ve Jessica Jones gibi dizilerden tanıdığımız David Tennant üstleniyor. Filmin senaryosunu Steve Lewis ve Tony Owen birlikte kaleme alıyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127043000 +0000" channel="sinema-tv-2">
+    <title lang="tr">Memorıa</title>
+    <desc lang="tr">Memoria, hastalanan kardeşini ziyaret etmek için Kolombiya&#x27;ya giden genç bir kadına odaklanıyor. Orkide çiftliğinde çalışan genç bir kadın, kardeşi rahatsızlanınca Kolombiya&#x27;ya gitmek zorunda kalır. Genç kadın, burada başına geleceklerden bihaber Kolombiya&#x27;ya doğru yola koyulur. Burada inşaat firmasında çalışan Fransız bir arkeologla ve genç bir müzisyenle yolları kesişir. Şehre alışmakta zorluk çeken kadın, her gece duyduğu güçlü patlama seslerinden oldukça muzdariptir. Uyumasını engelleyen seslere artık tahammül edemeyen kadın, bu sırada tanıştığı bir balıkçıdan kafasının karışmasına neden olacak şeyler öğrenir. Kendisini asırlardır yaşayan bir uzaylı olarak tanıtan balıkçı, sesleri sadece kadının duyduğunu ve uykusuzluğunu yalnızca kendisinin çözebileceğini söyler.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127043000 +0000" stop="20260127061500 +0000" channel="sinema-tv-2">
+    <title lang="tr">Para Tuzağı</title>
+    <desc lang="tr">Televizyon programından borsa tüyoları veren televizyon yıldızı ve bir Wall Street simsarı olan Lee Gates, bir programı esnasında sahip olduğu her şeyi Gates&#x27;in tavsiyeleri yüzünden kaybeden genç adam Kyle Budwell tarafından rehin alınır. Bu büyük olay, canlı yayınla milyonlarca insan tarafından izlenirken Gates ve programın yapımcısı Patty, büyük bir ölüm kalım pazarlığı yapmaya çalışacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127061500 +0000" stop="20260127080000 +0000" channel="sinema-tv-2">
+    <title lang="tr">Jazz Fest: Bir New Orleans Hikayesi</title>
+    <desc lang="tr">Tüm güzelliği ve görkemiyle Amerika&#x27;nın en büyük müzik ve kültür festivali olarak anılan ‘Jazz Fest&#x27;in zengin kültürünü derinlemesine araştıran film, ikonik festivalin 50. yıldönümünde müzik endüstrisinin en büyük isimlerini sahnede ağırlıyor. Müzisyenlerin canlı performansları ve röportajları, yarım yüzyıla ait arşiv görüntüleriyle zengin bir belgesel sunuyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127080000 +0000" stop="20260127100000 +0000" channel="sinema-tv-2">
+    <title lang="tr">Banyo Duvarındaki Kelimeler</title>
+    <desc lang="tr">Lisenin son senesinde zihinsel bir hastalığı olduğunu öğrenen Adam, bu rahatsızlığından dolayı birtakım halüsinasyonlar görmektedir. Adam, bu rahatsızlığını bir yandan okulundaki arkadaşlarına belli etmemeye çalışırken diğer yandan sınıf arkadaşına olan aşkı ile mücadele etmektedir. Deneysel bir ilaç kullanmaya başlayan Adam, aşkı sayesinde hastalığının ona egemen olamayacağı konusunda umudunu kaybetmemeye çalışır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127100000 +0000" stop="20260127114500 +0000" channel="sinema-tv-2">
+    <title lang="tr">Ana Vadi</title>
+    <desc lang="tr">Layla, uzak bir Hristiyan dağlarında yazı geçiren genç bir anne ve model bir eş. Bir gün yanlışlıkla bir Fransız adamla karşılaşır ve bu, Layla&#x27;nın patriarkal bir toplumda yaşayan bir kadın olarak koşullarına gözlerini açar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127114500 +0000" stop="20260127141500 +0000" channel="sinema-tv-2">
+    <title lang="tr">Transformers: Canavarların Yükselişi</title>
+    <desc lang="tr">Transformers: Canavarların Yükselişi, Otobotlarla Decepticon&#x27;lar arasındaki savaşa yeni dahil olan Predacon, Terrorconlar ve Maximal&#x27;ın maceralarını konu ediyor. Brooklyn&#x27;li kurnaz genç bir adam olan Noah ve gelecek vadeden arkeolog Elena, onları dünyanın dört bir yanına götürecek bir maceraya atılır. Onlar, Optimus Prime ve Otobotlar ile birlikte, Scourge adında evreni yok etmeye kararlı korkunç yeni bir düşmanla karşı karşıya kalırken çatışmanın içine çekilirler. Otobotlarla Decepticon&#x27;lar arasındaki savaşa bu kez Transformers dünyasına dahil olan Predacon, Maximal ve Terrorconlar da katılır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127141500 +0000" stop="20260127161500 +0000" channel="sinema-tv-2">
+    <title lang="tr">&#x27;72 Yazı, Tuscaloosa</title>
+    <desc lang="tr">Üniversiteden yeni mezun olan Billy Mitchel, yaz tatilini psikiyatr olan babası tarafından yönetilen kurumunda çalışarak geçirir. Genç adamın hayatı, birden fazla kişiliğe sahip bir hasta olan Virginia ile tanılması ile bambaşka bir hal alır. Genç kadına aşık olan Billy, onunla zaman geçirdikçe babası ve kurumdan kaçmayı planlayan Virginia arasında bir seçim yapmak zorunda kalır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127161500 +0000" stop="20260127181500 +0000" channel="sinema-tv-2">
+    <title lang="tr">Ninja Kaplumbağalar: Mutant Kargaşası</title>
+    <desc lang="tr">Yıllarca insanların dünyasından korunan Kaplumbağa kardeşler, kahramanca davranışlarla New Yorkluların kalbini kazanmak ve normal gençler olarak kabul edilmek için yola çıkarlar. Yeni arkadaşları April O&#x27;Neil, gizemli bir suç örgütünü alt etmelerine yardım eder, ancak çok geçmeden üzerlerine bir mutant ordusu salındığında başlarından büyük işlere kalkışırlar...</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127181500 +0000" stop="20260127201500 +0000" channel="sinema-tv-2">
+    <title lang="tr">Şah Mat</title>
+    <desc lang="tr">Gerçek hikayeden beyaz perdeye uyarlanan yapım, Rus şampiyon Boris Spassky ve genç satranç oyuncusu Bobby Fischer&#x27;ın haftalar süren mücadelesini merkezine alıyor. 1972 Dünya Satranç Turnuvası&#x27;nda Fischer ve Spassky karşı karşıya gelir. İlk kez Amerika&#x27;nın satraçta Rusya&#x27;yı yenme ihtimali olunca maç medyanın etkisiyle büyük ilgi görür. Bu sırada Fischer, tüm dünyanın kendisine karşı bir komplo girişiminde bulunacağı paranoyasını yaşamaya başlar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127201500 +0000" stop="20260127223000 +0000" channel="sinema-tv-2">
+    <title lang="tr">Armand</title>
+    <desc lang="tr">Armand, ortalığın karışmasına neden olan bir suçlama ile karşı karşıya kalan iki çocuk ve ebeveynlerinin hikayesini konu ediyor. Okul tatiline kısa bir süre kala okulda meydana gelen bir olayın ardından, genç Armand ve Jon&#x27;un ebeveynleri yönetim tarafından çağrılır. İki çocuk hakkında ortaya atılan suçlama ortalığın karışmasına neden olur ancak gerçekte ne olduğunu kimse bilmemektedir. Ebeveynler ve okul personeli ne olabileceğine dair tartışmaya girer ve toplantı kısa sürede kontrolden çıkar. çok geçmeden kaos oluşur. Geçmişim sırları ortaya döküldükçe ve ebeveynler hakkındaki gerçekler ortaya çıktıkça olay daha da karmaşık bir hal alır.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260127010000 +0000" stop="20260127024400 +0000" channel="sinema-tv-aksiyon">
@@ -19200,7 +19285,7 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <desc lang="tr">Gündemin öne çıkan gelişmeleri Karşı Karşıya&#x27;da masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260127203000 +0000" stop="20260127213000 +0000" channel="sozcu-tv">
+  <programme start="20260127203000 +0000" stop="20260127210000 +0000" channel="sozcu-tv">
     <title lang="tr">S Raporu</title>
     <desc lang="tr">24 saatin tüm gelişmeleri S Raporu’nda ekrana getiriliyor.</desc>
     <category lang="tr">Haber</category>
@@ -23224,9 +23309,9 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127154000 +0000" stop="20260127155500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Ultra</title>
-    <desc lang="tr">Türkiye&#x27;nin farklı bölgelerinde yapılan koşular ekrana taşınıyor.</desc>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Spor Her Yerde</title>
+    <desc lang="tr">Gençlik ve Spor Bakanlığı bünyesinde yer alan ve futbol dışında kalan federasyonların, üniversitelerin, kamu kurumlarının spor etkinliklerini, ulusal ve uluslararası müsabakaları konu alarak ilgili konu ve konuklar Spor Her Yerde programında...</desc>
+    <category lang="tr">Söyleşi</category>
   </programme>
   <programme start="20260127155500 +0000" stop="20260127173000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Türk Telekom - Lietkabelis</title>
@@ -23857,6 +23942,34 @@ Bosna&#x27;da Stefan ve Vlad&#x27;ın aldığı karar bölgeyi ateşe sürükler
     <title lang="tr">Ataman&#x27;la Devri Alem</title>
     <desc lang="tr">Ataman&#x27;la Devri Alem, farklı ülkeleri ve kültürleri keşfe çıkarak gezdiği yerlerin tarihini, doğasını ve insan hikâyelerini ekranlara taşıyor.</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127000000 +0000" stop="20260127030000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127060000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127090000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127120000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127120000 +0000" stop="20260127150000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127150000 +0000" stop="20260127180000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127180000 +0000" stop="20260128000000 +0000" channel="tv-info">
+    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260127010000 +0000" stop="20260127021500 +0000" channel="tv100">
     <title lang="tr">Kale Arkası</title>
@@ -25108,12 +25221,12 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
   </programme>
   <programme start="20260127173000 +0000" stop="20260127200000 +0000" channel="ulusal-kanal">
     <title lang="tr">Çıkış Yolu</title>
-    <desc lang="tr">Çıkış Yolu ile Türkiye&#x27;nin önündeki engelleri ve kurtuluş yollarını masaya yatırın. Doğu Perinçek&#x27;in liderliğinde konuklarla yapılan tartışmalarda emperyalist baskılar, ekonomik bağımlılık, kültürel yozlaşma, millî üretim hamlesi, vatan savunması detaylıca ele alınıyor. Yurtsever bakış açısıyla çözüm önerileri, tarihsel dersler, güncel gelişmelerin derin analizi samimi bir üslupla sunuluyor.</desc>
+    <desc lang="tr">Çıkış Yolu ile Türkiye&#x27;nin önündeki engelleri ve kurtuluş yollarını masaya yatırın. Doğu Perinçek&#x27;in liderliğinde konuklarla yapılan tartışmalarda emperyalist baskılar, ekonomik bağımlılık, kültürel yozlaşma, millî üretim hamlesi, vatan savunması detaylıca ele alınıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260127200000 +0000" stop="20260127210000 +0000" channel="ulusal-kanal">
     <title lang="tr">Yurdumuzun Türküleri</title>
-    <desc lang="tr">Yurdumuzun Türküleri ile yurdun dört bir yanındaki türkülerin köklerine inin. Karadeniz&#x27;in horon türküleri, Ege&#x27;nin zeybekleri, Doğu&#x27;nun bozlakları, İç Anadolu&#x27;nun bozlakları, Trakya&#x27;nın kıvrak ezgileri detaylıca ele alınıyor. Türkünün doğduğu köy, dağ, ova, yaşanmış acılar, sevinçler, aşk ve gurbet hikayeleri samimi anlatımla sunuluyor. Bu program hem nostalji uyandırsın hem de millî ruhu canlandırsın, türkülerin vatanla bağını hissettirsin.</desc>
+    <desc lang="tr">Karadeniz&#x27;in horon türküleri, Ege&#x27;nin zeybekleri, Doğu&#x27;nun bozlakları, İç Anadolu&#x27;nun bozlakları, Trakya&#x27;nın kıvrak ezgileri detaylıca ele alınıyor. Türkünün doğduğu köy, dağ, ova, yaşanmış acılar, sevinçler, aşk ve gurbet hikayeleri samimi anlatımla sunuluyor.</desc>
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127000000 +0000" stop="20260127014500 +0000" channel="vav-tv">
