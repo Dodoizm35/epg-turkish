@@ -1463,9 +1463,9 @@ Geleneklerin ve törenin günün değerleriyle çatışmasını konu eden dizini
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="a-spor">
-    <title lang="tr">Spor Gündemi</title>
-    <desc lang="tr">Gündeme ilişkin haberler ve gelişen spor olayları ekrana yansıyor.</desc>
-    <category lang="tr">Haber</category>
+    <title lang="tr">Artı Futbol</title>
+    <desc lang="tr">Artı Futbol, Süper Lig ve 1. Lig maçlarının yanı sıra, dünya futbolunun her unsurunu gündemine alıyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127050000 +0000" channel="a-spor">
     <title lang="tr">Avrupa&#x27;da Türk Takımları</title>
@@ -1497,17 +1497,18 @@ Geleneklerin ve törenin günün değerleriyle çatışmasını konu eden dizini
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127170000 +0000" stop="20260127180000 +0000" channel="a-spor">
-    <title lang="tr">Avrupa&#x27;da Türk Takımları</title>
+    <title lang="tr">Avrupa&#x27;dan Futbol</title>
+    <desc lang="tr">Avrupa&#x27;dan Futbol&#x27;da, Avrupa liglerinde oynanan maçlardan görüntüler, takımların son durumları ve oyuncuların performansları değerlendiriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127180000 +0000" stop="20260127200000 +0000" channel="a-spor">
-    <title lang="tr">Süper Lig Analiz</title>
-    <desc lang="tr">Süper Lig&#x27;de oynanacak maçlar ve haftanın öne çıkan karşılaşmaları değerlendiriliyor.</desc>
+    <title lang="tr">Transfer Raporu</title>
+    <desc lang="tr">Takımların gündemindeki futbolcular, dedikodular ve biten transferler, Transfer Raporu&#x27;nda konuşuluyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127200000 +0000" stop="20260127230000 +0000" channel="a-spor">
-    <title lang="tr">Süper Lig Analiz</title>
-    <desc lang="tr">Süper Lig&#x27;de oynanacak maçlar ve haftanın öne çıkan karşılaşmaları değerlendiriliyor.</desc>
+    <title lang="tr">Son Sayfa</title>
+    <desc lang="tr">Futboldan basketbola, voleyboldan tenise kadar gündemi meşgul eden gelişmeler izleyenlere aktarılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260127020000 +0000" stop="20260127040000 +0000" channel="a2">
@@ -1999,7 +2000,7 @@ Sürekli didişme halinde olan çiftin anlaştığı tek konu ise kızlar ve ara
     <title lang="tr">Gün Sonu</title>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260127000000 +0000" stop="20260127023000 +0000" channel="atv">
+  <programme start="20260127004000 +0000" stop="20260127023000 +0000" channel="atv">
     <title lang="tr">Bir Gece Masalı</title>
     <desc lang="tr">Komiser Mahir ile Yörük kızı Canfeza&#x27;nın Pamukkale&#x27;nin büyülü atmosferinde başlayıp İstanbul&#x27;da Asaf Bey konağına uzanan imkansız aşkları konu ediliyor.</desc>
     <category lang="tr">Dizi</category>
@@ -2047,16 +2048,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   </programme>
   <programme start="20260127170000 +0000" stop="20260127202000 +0000" channel="atv">
     <title lang="tr">A.B.İ.</title>
-    <desc lang="tr">İzmir&#x27;de başarılı bir cerrah olan Doğan, acil serviste verdiği mücadelelerin ardından, yıllardır uzak durduğu ailesinin yanına dönmek zorunda kalır. Kız kardeşinin düğünü için İstanbul&#x27;a gelen Doğan, geçmişte ardında bıraktığını sandığı hesaplarla yüzleşirken, Hancıoğlu ailesinin içindeki güç savaşlarının tam ortasında kalır. Bir yanda otoriter baba Tahir, diğer yanda hırslarıyla sınır tanımayan abisi Sinan...
-
-Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyla hareket eden genç ve güzel avukat Çağla, çok sevdiği Behram abisi nedeniyle istemeden de olsa bu kaosun içine sürüklenir. İkilinin yolları geri dönüşü olmayan bir biçimde kesişirken, kaderleri yeniden yazılmaya başlar.</desc>
+    <desc lang="tr">Hancıoğlu ailesi, Tahir&#x27;in başına gelenlerle sarsılırken Melek&#x27;in cinayet suçlamasıyla tutuklanması aileyi derinden yaralar. Kaçırıldığını ve masum olduğunu haykıran Melek, sahte pasaportun ortaya çıkmasıyla cezaevine gönderilirken Doğan, kardeşini demir parmaklıklar ardında bırakmanın çaresizliğiyle adalet duygusu ve öfke arasında sıkışır. Aile içinde dengeler altüst olurken Tahir&#x27;in vasiyetiyle Doğan&#x27;ın aile reisi olma ihtimali yeni çatışmaların fitilini ateşler.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260127202000 +0000" stop="20260127230000 +0000" channel="atv">
     <title lang="tr">A.B.İ.</title>
-    <desc lang="tr">İzmir&#x27;de başarılı bir cerrah olan Doğan, acil serviste verdiği mücadelelerin ardından, yıllardır uzak durduğu ailesinin yanına dönmek zorunda kalır. Kız kardeşinin düğünü için İstanbul&#x27;a gelen Doğan, geçmişte ardında bıraktığını sandığı hesaplarla yüzleşirken, Hancıoğlu ailesinin içindeki güç savaşlarının tam ortasında kalır. Bir yanda otoriter baba Tahir, diğer yanda hırslarıyla sınır tanımayan abisi Sinan...
-
-Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyla hareket eden genç ve güzel avukat Çağla, çok sevdiği Behram abisi nedeniyle istemeden de olsa bu kaosun içine sürüklenir. İkilinin yolları geri dönüşü olmayan bir biçimde kesişirken, kaderleri yeniden yazılmaya başlar.</desc>
+    <desc lang="tr">Hancıoğlu ailesi, Tahir&#x27;in başına gelenlerle sarsılırken Melek&#x27;in cinayet suçlamasıyla tutuklanması aileyi derinden yaralar. Kaçırıldığını ve masum olduğunu haykıran Melek, sahte pasaportun ortaya çıkmasıyla cezaevine gönderilirken Doğan, kardeşini demir parmaklıklar ardında bırakmanın çaresizliğiyle adalet duygusu ve öfke arasında sıkışır. Aile içinde dengeler altüst olurken Tahir&#x27;in vasiyetiyle Doğan&#x27;ın aile reisi olma ihtimali yeni çatışmaların fitilini ateşler.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260127000000 +0000" stop="20260127001200 +0000" channel="azoomee">
@@ -3169,36 +3166,32 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260126050000 +0000" stop="20260126085900 +0000" channel="beinsports2.tr">
+  <programme start="20260127050000 +0000" stop="20260127065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">22. Hafta / Tekrar</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127105900 +0000" channel="beinsports2.tr">
     <title lang="tr">İ.A.Vanspor FK - A.H.Iğdır FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126090000 +0000" stop="20260126105900 +0000" channel="beinsports2.tr">
+  <programme start="20260127110000 +0000" stop="20260127125900 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126110000 +0000" stop="20260126125900 +0000" channel="beinsports2.tr">
+  <programme start="20260127130000 +0000" stop="20260127145900 +0000" channel="beinsports2.tr">
     <title lang="tr">A.Hatayspor - E.Ümraniyespor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126130000 +0000" stop="20260126144400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - İstanbulspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126144500 +0000" stop="20260126144700 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ö.Sivasspor - Amed S.F.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126144800 +0000" stop="20260126163900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ö.Sivasspor - Amed S.F.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126164000 +0000" stop="20260126165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126170000 +0000" stop="20260126190000 +0000" channel="beinsports2.tr">
+  <programme start="20260127150000 +0000" stop="20260127165900 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - S.Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Ö.Sivasspor - Amed S.F.</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127210000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Manisa FK - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260126044500 +0000" stop="20260126045900 +0000" channel="beinsports3.tr">
@@ -3269,95 +3262,95 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <title lang="tr">Everton - Leeds United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126020000 +0000" stop="20260126025900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Coupe de France Maç Özetleri</title>
+  <programme start="20260127024500 +0000" stop="20260127025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126030000 +0000" stop="20260126044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Stade de Reims - Saint-Etienne</title>
+  <programme start="20260127030000 +0000" stop="20260127044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Guingamp - Troyes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126044500 +0000" stop="20260126045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Iconic Players</title>
+  <programme start="20260127044500 +0000" stop="20260127045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126050000 +0000" stop="20260126064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris FC - Angers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126064500 +0000" stop="20260126065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Iconic Players</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126070000 +0000" stop="20260126084400 +0000" channel="beinsports4.tr">
+  <programme start="20260127050000 +0000" stop="20260127064400 +0000" channel="beinsports4.tr">
     <title lang="tr">Brest - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126084500 +0000" stop="20260126085900 +0000" channel="beinsports4.tr">
+  <programme start="20260127064500 +0000" stop="20260127065900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126090000 +0000" stop="20260126104400 +0000" channel="beinsports4.tr">
+  <programme start="20260127070000 +0000" stop="20260127084400 +0000" channel="beinsports4.tr">
     <title lang="tr">Lille - Strasbourg</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126104500 +0000" stop="20260126105900 +0000" channel="beinsports4.tr">
+  <programme start="20260127084500 +0000" stop="20260127085900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126110000 +0000" stop="20260126124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nantes - Nice</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126124500 +0000" stop="20260126125900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126130000 +0000" stop="20260126144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Metz - Olympique Lyon</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126144500 +0000" stop="20260126145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126150000 +0000" stop="20260126164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris FC - Angers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126164500 +0000" stop="20260126165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126170000 +0000" stop="20260126172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">This is Paris</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126173000 +0000" stop="20260126175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Toulouse</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126180000 +0000" stop="20260126182900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Strasbourg</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260126183000 +0000" stop="20260126185900 +0000" channel="beinsports4.tr">
+  <programme start="20260127090000 +0000" stop="20260127104400 +0000" channel="beinsports4.tr">
     <title lang="tr">Auxerre - Paris Saint-Germain</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126190000 +0000" stop="20260126192900 +0000" channel="beinsports4.tr">
+  <programme start="20260127104500 +0000" stop="20260127105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127110000 +0000" stop="20260127124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Rennes - Lorient</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126193000 +0000" stop="20260126195900 +0000" channel="beinsports4.tr">
+  <programme start="20260127124500 +0000" stop="20260127125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127130000 +0000" stop="20260127144400 +0000" channel="beinsports4.tr">
     <title lang="tr">Havre - Monaco</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126200000 +0000" stop="20260126202900 +0000" channel="beinsports4.tr">
+  <programme start="20260127144500 +0000" stop="20260127145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127150000 +0000" stop="20260127164400 +0000" channel="beinsports4.tr">
     <title lang="tr">Olympique de Marseille - Lens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260126203000 +0000" stop="20260126223000 +0000" channel="beinsports4.tr">
+  <programme start="20260127164500 +0000" stop="20260127165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nantes - Nice</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127173000 +0000" stop="20260127175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127180000 +0000" stop="20260127182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris FC - Angers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Toulouse</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Strasbourg</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260127203000 +0000" stop="20260127223000 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3480,6 +3473,64 @@ Doğan’ın gelişi, aile içindeki dengeleri altüst ederken; adalet duygusuyl
     <title lang="tr">Ne Var Ne Yok</title>
     <desc lang="tr">Türker Akıncı ile &quot;Ne Var Ne Yok&quot;, her hafta güncel, tarih, din, siyaset ve sanat konularını uzman konuklarla tartışıyor.</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127011500 +0000" stop="20260127040000 +0000" channel="bi-kanal">
+    <title lang="tr">Can Bağı</title>
+    <desc lang="tr">Mahinur Aydın ve Aras Yılmazer’in hayatları, birkaç yıl önce yaşanan dramatik bir hastane hatasıyla derin bir şekilde bağlanmıştır. Şu anda zor bir hayat süren Mahinur, kontrolcü kocası Kenan ve kızları Bade ile sürekli dış zorluklarla yüzleşmektedir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127053000 +0000" channel="bi-kanal">
+    <title lang="tr">Leylifer</title>
+    <desc lang="tr">Meryem, eski adıyla Maria, kocası Kemal ve çocuklarıyla İstanbul&#x27;a, kız kardeşinin düğününe gitmek üzere seyahat eder. Ancak İspanya&#x27;daki evlerine dönmek için yaptıkları planlar, Kemal&#x27;in kaybolması ve daha sonra Meryem&#x27;in hiç tanışmadığı bir kadınla yanmış bir arabada ölü bulunmasıyla aniden bozulur. Kemal&#x27;in cinayete kurban gittiğine inanan Meryem, onun katilini bulana kadar İstanbul&#x27;da kalmaya yemin eder. Ancak yabancı bir ülkede yeni bir hayata adapte olmak zorundadır.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127053000 +0000" stop="20260127070000 +0000" channel="bi-kanal">
+    <title lang="tr">Yeşil Vadi&#x27;nin Kızı</title>
+    <desc lang="tr">Melissa, onu evlat edinen ailenin yanında barınmaya çalışır ancak evin hanımı Besime, onu istemez ve türlü eziyetlerde bulunur. Bir gün öfkenin kurbanı olarak kapıya konduğunda, bir adam çıkar karşısına; Metin. İkisi de, o andan sonra hayatlarının tamamen değişeceğinden habersiz, konuşmaya başlarlar. Metin içine kapalı, kendi halinde bir adam; Melissa ise cıvıl cıvıl, konuşkan bir kız çocuğu. Metin kalbini dinler ve bu kız çocuğunu çiftliğe götürür. Kasabadaki Yeşil Vadi çiftliğinde Metin ve Mahinur ile yaşamaya başlayan Melissa’nın sorup sorgulayan tarzı, yıllardır kapanan birçok anıyı ve sırları da ortaya çıkaracaktır. Melissa’nın gelişi ayrı, çiftlikte kalması ayrı, okula başlayıp kendini herkese kabullendirmesi ayrı bir serüven olur.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127100000 +0000" channel="bi-kanal">
+    <title lang="tr">Yer Gök Aşk</title>
+    <desc lang="tr">Kapadokya&#x27;nın nefes kesen güzelliklerinde geçen aşk hikayesinde taşlar yerinden oynuyor, dengeler değişiyor. Kara bulutlar dolaşırken yeni aşklar, yeni heyecanlar, dargınlıklar, entrikalar zirveye çıkıyor.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127100000 +0000" stop="20260127120000 +0000" channel="bi-kanal">
+    <title lang="tr">Karagül</title>
+    <desc lang="tr">Doğulu zengin bir ailenin oğlu Murat, İstanbul&#x27;da zarif eşi  Ebru ve 3 çocuğuyla mutlu bir hayat sürmektedir. Bu peri masalı Murat&#x27;ın aniden ortadan kaybolmasıyla Ebru ve çocuklar için büyük bir yıkıma dönüşür.
+
+Murat&#x27;ın kayboluşunun ardından Murat&#x27;ın memleketi Halfeti&#x27;ye giden Ebru, kocasının kendinden gizlediği iflas gerçeğiyle yüzleşir. Diğer yandan eşinin ailesiyle mücadele etmek zorunda kalır. İstanbul&#x27;dan gelen bu narin ve iyi yetişmiş kadın, karagül gibi bu topraklarda kalmak için direnecek mi yoksa tüm bu mücadeleden vazgeçip kendi yolunu mu çizecek?</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127120000 +0000" stop="20260127140000 +0000" channel="bi-kanal">
+    <title lang="tr">Lale Devri</title>
+    <desc lang="tr">Geleneklerine bağlı, Anadolulu Ilgaz Ailesi, Lale Devri’nin zirvesindeyken, İstanbullu ve cemiyet hayatının tanınan ailesi Taşkıranlar, Lale Devri’nin son demlerini yaşamaktadır. Ve iki ailenin yolu iş hayatının tam ortasında, büyük bir aşkla kesişir. 
+
+Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgazlar aralarındaki sorunları çözüp gerçek bir aile olabilecek mi?</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127140000 +0000" stop="20260127160000 +0000" channel="bi-kanal">
+    <title lang="tr">Beyaz Köle</title>
+    <desc lang="tr">Victoria Quintero, El Edén arazisinin sahibi Don Domingo Quintero ve eşi Elena&#x27;nın kızı olarak doğar. Birkaç hafta içinde, Quintero arazisini isteyen komşu toprak sahibi ve tüccar Nicols Parreo tarafından kasıtlı olarak başlatılan bir yangında ebeveynleri ölür. Victoria, siyah dadı Lorenza ve kocası Toms tarafından kurtarılır. Victoria, kızları Milagros ve Rosita ile birlikte ormanın derinliklerindeki bir palenque&#x27;ye götürülür ve burada on iki yıl boyunca bir köle olarak büyür.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127160000 +0000" stop="20260127183000 +0000" channel="bi-kanal">
+    <title lang="tr">Leylifer</title>
+    <desc lang="tr">Meryem, eski adıyla Maria, kocası Kemal ve çocuklarıyla İstanbul&#x27;a, kız kardeşinin düğününe gitmek üzere seyahat eder. Ancak İspanya&#x27;daki evlerine dönmek için yaptıkları planlar, Kemal&#x27;in kaybolması ve daha sonra Meryem&#x27;in hiç tanışmadığı bir kadınla yanmış bir arabada ölü bulunmasıyla aniden bozulur. Kemal&#x27;in cinayete kurban gittiğine inanan Meryem, onun katilini bulana kadar İstanbul&#x27;da kalmaya yemin eder. Ancak yabancı bir ülkede yeni bir hayata adapte olmak zorundadır.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127183000 +0000" stop="20260127200000 +0000" channel="bi-kanal">
+    <title lang="tr">Ay Meteoru</title>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127204500 +0000" channel="bi-kanal">
+    <title lang="tr">Lig Özetleri</title>
+    <desc lang="tr">Çeşitli futbol müsabakalarından özet görüntüler ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127204500 +0000" stop="20260127213000 +0000" channel="bi-kanal">
+    <title lang="tr">Bi Gündem</title>
+    <desc lang="tr">Yılların deneyimli habercisi Gökhan Taşkın, kendine özgü sunum tarzıyla gündemin nabzını Bi Kanal ekranlarında tutuyor. Türkiye ve dünyadan en güncel gelişmeleri yalnızca aktarmakla kalmayan Taşkın; doğru, tarafsız ve derinlikli habercilik anlayışıyla olayların perde arkasını da izleyiciyle buluşturuyor. Güven veren anlatımı, çarpıcı yorumları ve dinamik sunumuyla haber bültenine farklı bir soluk getiren Gökhan Taşkın, günün en önemli başlıklarını Bi Kanal izleyicisine taşıyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127002000 +0000" stop="20260127005000 +0000" channel="bizim-ev-tv">
     <title lang="tr">Evimiz Dünya</title>
@@ -4178,12 +4229,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127010500 +0000" stop="20260127012000 +0000" channel="cartoon-network">
-    <title lang="tr">Kral Şakir</title>
-    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260127012000 +0000" stop="20260127013000 +0000" channel="cartoon-network">
+  <programme start="20260127010500 +0000" stop="20260127013000 +0000" channel="cartoon-network">
     <title lang="tr">Kral Şakir</title>
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
@@ -4733,22 +4779,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127043000 +0000" stop="20260127043500 +0000" channel="cartoonito">
+  <programme start="20260127043000 +0000" stop="20260127044000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127043500 +0000" stop="20260127044500 +0000" channel="cartoonito">
+  <programme start="20260127044000 +0000" stop="20260127044500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127044500 +0000" stop="20260127045000 +0000" channel="cartoonito">
+  <programme start="20260127044500 +0000" stop="20260127045500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127045000 +0000" stop="20260127050000 +0000" channel="cartoonito">
+  <programme start="20260127045500 +0000" stop="20260127050000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4808,37 +4854,37 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127071000 +0000" stop="20260127073000 +0000" channel="cartoonito">
+  <programme start="20260127071000 +0000" stop="20260127072500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127073000 +0000" stop="20260127074000 +0000" channel="cartoonito">
+  <programme start="20260127072500 +0000" stop="20260127074000 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127074000 +0000" stop="20260127080000 +0000" channel="cartoonito">
+  <programme start="20260127074000 +0000" stop="20260127075500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127080000 +0000" stop="20260127081000 +0000" channel="cartoonito">
+  <programme start="20260127075500 +0000" stop="20260127081000 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127081000 +0000" stop="20260127083000 +0000" channel="cartoonito">
+  <programme start="20260127081000 +0000" stop="20260127082500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127083000 +0000" stop="20260127084000 +0000" channel="cartoonito">
+  <programme start="20260127082500 +0000" stop="20260127083500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127084000 +0000" stop="20260127085500 +0000" channel="cartoonito">
+  <programme start="20260127083500 +0000" stop="20260127085500 +0000" channel="cartoonito">
     <title lang="tr">Mr. Bean</title>
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
@@ -4928,12 +4974,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri&#x27;ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127122500 +0000" stop="20260127123500 +0000" channel="cartoonito">
+  <programme start="20260127122500 +0000" stop="20260127124000 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127123500 +0000" stop="20260127125500 +0000" channel="cartoonito">
+  <programme start="20260127124000 +0000" stop="20260127125500 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -5098,12 +5144,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127185500 +0000" stop="20260127190000 +0000" channel="cartoonito">
+  <programme start="20260127185500 +0000" stop="20260127190500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127190000 +0000" stop="20260127191000 +0000" channel="cartoonito">
+  <programme start="20260127190500 +0000" stop="20260127191000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5158,12 +5204,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127202000 +0000" stop="20260127202500 +0000" channel="cartoonito">
+  <programme start="20260127202000 +0000" stop="20260127203000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260127202500 +0000" stop="20260127203500 +0000" channel="cartoonito">
+  <programme start="20260127203000 +0000" stop="20260127203500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -6817,7 +6863,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260127081500 +0000" stop="20260127083000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Choices</title>
-    <desc lang="tr">Find a job, have a family, make money – what if this is not your dream, but your parents&#x27; idea and your community&#x27;s norms? With the help of your role model, you will find out: can you make your own choices?</desc>
+    <desc lang="tr">He has jokes and confidence but does Devansh Kotak have the courage to leave his &quot;safe&quot; Mumbai banking job to try out a career in comedy? Professional comic Prashasti Singh left the corporate world years ago and with a new comedy special on Netflix, she&#x27;s made it. Prashati gives Davansh a series of tests to decide if he should make the career change will he get laughs or get laughed-off stage?</desc>
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127083000 +0000" stop="20260127090000 +0000" channel="deutsche-welle-english">
@@ -6847,6 +6893,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260127101500 +0000" stop="20260127103000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Asia 2050</title>
+    <desc lang="tr">Villagers in northern Pakistan, part of a region called the &quot;Third Pole,&quot; are fighting for their future as melting glaciers increase risks of devastating floods.</desc>
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127103000 +0000" stop="20260127110000 +0000" channel="deutsche-welle-english">
@@ -6885,9 +6932,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127131500 +0000" stop="20260127133000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">The Auschwitz-Birkenau memorial takes visitors into the darkest chapter of German history. This extermination camp was established in Germany-occupied Poland and at least 1.1 million people mostly Jews, were murdered there by the Nazi regime. The Soviet Army liberated the camp on 27 January 1945. We take you to a tour through one of the world&#x27;s most visited places.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127133000 +0000" stop="20260127140000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Eco India</title>
@@ -6901,12 +6948,12 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260127141500 +0000" stop="20260127143000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Choices</title>
-    <desc lang="tr">Find a job, have a family, make money – what if this is not your dream, but your parents&#x27; idea and your community&#x27;s norms? With the help of your role model, you will find out: can you make your own choices?</desc>
+    <desc lang="tr">From a stifled childhood to reclaiming her artistic freedom: Irisha takes a journey into the world of Indian jewelry and fashion. She finds a mentor in Nitya Arora, a luxury jewelry designer who shows her the path to success. Will Irisha embrace her creative potential under Nitya&#x27;s guidance?</desc>
     <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127143000 +0000" stop="20260127150000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Global 3000</title>
-    <desc lang="tr">Global Us provides unexpected insights and exemplary solutions _ it offers perspectives for a rapidly changing world. The focus is on people _ those who want change, drive it forward and inspire others.</desc>
+    <desc lang="tr">A Kenyan runner is battling to raise awareness about domestic violence and femicide. The impact of Trump&#x27;s trade tariffs on one garment worker in Lesotho. And how AI can help protect wildlife in German national parks.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260127150000 +0000" stop="20260127151500 +0000" channel="deutsche-welle-english">
@@ -6915,9 +6962,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127151500 +0000" stop="20260127153000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">The Auschwitz-Birkenau memorial takes visitors into the darkest chapter of German history. This extermination camp was established in Germany-occupied Poland and at least 1.1 million people mostly Jews, were murdered there by the Nazi regime. The Soviet Army liberated the camp on 27 January 1945. We take you to a tour through one of the world&#x27;s most visited places.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127153000 +0000" stop="20260127160000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Tomorrow Today</title>
@@ -6945,9 +6992,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260127171500 +0000" stop="20260127173000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">The Auschwitz-Birkenau memorial takes visitors into the darkest chapter of German history. This extermination camp was established in Germany-occupied Poland and at least 1.1 million people mostly Jews, were murdered there by the Nazi regime. The Soviet Army liberated the camp on 27 January 1945. We take you to a tour through one of the world&#x27;s most visited places.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260127173000 +0000" stop="20260127180000 +0000" channel="deutsche-welle-english">
     <title lang="tr">REV</title>
@@ -10171,6 +10218,31 @@ Ankara Mevlevihanesi&#x27;nden ekranlara gelen programda, Dr. Ömer Demirbağ ve
     <title lang="tr">Fireteam</title>
     <desc lang="tr">Hop on board the bright red fire truck and follow the three little firemen as they get to work keeping their village safe. These silent animated shorts are perfect for educating your child on the importance of safety and the role of the emergency services. Encourage your child to develop their ability to problem solve and improve their decision-making skills by identifying hazards and solutions together.</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127070000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127130000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127130000 +0000" stop="20260127170000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127200000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127210000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260127030000 +0000" stop="20260127070000 +0000" channel="ekol-tv">
     <title lang="tr">Ekol Tv</title>
@@ -15017,6 +15089,471 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Günün en önemli gelişmeleri, tarafsız ve güvenilir bir bakış açısıyla ekranda. Doğru bilgiye en hızlı şekilde ulaşmak için Ana Haber, Meltem TV&#x27;de!</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260127000000 +0000" stop="20260127010000 +0000" channel="minika-cocuk">
+    <title lang="tr">Şarkı</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127010000 +0000" stop="20260127020000 +0000" channel="minika-cocuk">
+    <title lang="tr">Neşeli Dünyam</title>
+    <desc lang="tr">Çok uzaklardan gelen iki sevimli kardeş, Neşe&#x27;nin dünyasına ortak oluyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="minika-cocuk">
+    <title lang="tr">Neşeli Dünyam</title>
+    <desc lang="tr">Çok uzaklardan gelen iki sevimli kardeş, Neşe&#x27;nin dünyasına ortak oluyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127031000 +0000" channel="minika-cocuk">
+    <title lang="tr">Tinpo</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127031000 +0000" stop="20260127032000 +0000" channel="minika-cocuk">
+    <title lang="tr">Tinpo</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127032000 +0000" stop="20260127033000 +0000" channel="minika-cocuk">
+    <title lang="tr">Tinpo</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127033000 +0000" stop="20260127034000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127034000 +0000" stop="20260127035000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127035000 +0000" stop="20260127040000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127041000 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127041000 +0000" stop="20260127042000 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127042000 +0000" stop="20260127043000 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127043000 +0000" stop="20260127043800 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127043800 +0000" stop="20260127044600 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127044600 +0000" stop="20260127045400 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127045400 +0000" stop="20260127050000 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127051500 +0000" channel="minika-cocuk">
+    <title lang="tr">Briko</title>
+    <desc lang="tr">Evimizdeki sıradan malzemelerle oyunlar üretmek, oyuncaklar yapmak mümkün. Briko ile her bölümde onlarca yaratıcı fikri hayata geçirmeyi, kullanışlı eşyalar yapmayı ve gündelik eşyalara farklı bir gözle bakmayı öğreniyoruz. En yakın arkadaşı Hepi ile birlikte çeşitli objelerden birbirinden eğlenceli oyuncaklar yapan Briko, hayal gücümüzü ve el becerimizi geliştirmemize de yardımcı olacak. “Kendin Yap” konsepti üzerine kurulmuş Briko’da boş bir yumurta kutusunun bir gözlüğe ya da bir saksıya dönüşmesi mümkün.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127051500 +0000" stop="20260127053000 +0000" channel="minika-cocuk">
+    <title lang="tr">Briko</title>
+    <desc lang="tr">Evimizdeki sıradan malzemelerle oyunlar üretmek, oyuncaklar yapmak mümkün. Briko ile her bölümde onlarca yaratıcı fikri hayata geçirmeyi, kullanışlı eşyalar yapmayı ve gündelik eşyalara farklı bir gözle bakmayı öğreniyoruz. En yakın arkadaşı Hepi ile birlikte çeşitli objelerden birbirinden eğlenceli oyuncaklar yapan Briko, hayal gücümüzü ve el becerimizi geliştirmemize de yardımcı olacak. “Kendin Yap” konsepti üzerine kurulmuş Briko’da boş bir yumurta kutusunun bir gözlüğe ya da bir saksıya dönüşmesi mümkün.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127053000 +0000" stop="20260127054500 +0000" channel="minika-cocuk">
+    <title lang="tr">Daniel Tiger</title>
+    <desc lang="tr">Kaplan Daniel&#x27;ın eğlenceli dünyasında, macera dolu sürprizler ve dostluk dolu anlar sizi bekliyor!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127054500 +0000" stop="20260127060000 +0000" channel="minika-cocuk">
+    <title lang="tr">Daniel Tiger</title>
+    <desc lang="tr">Kaplan Daniel&#x27;ın eğlenceli dünyasında, macera dolu sürprizler ve dostluk dolu anlar sizi bekliyor!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127061500 +0000" channel="minika-cocuk">
+    <title lang="tr">Dylan İle Oyun Zamanı</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127061500 +0000" stop="20260127063000 +0000" channel="minika-cocuk">
+    <title lang="tr">Dylan İle Oyun Zamanı</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127063000 +0000" stop="20260127063800 +0000" channel="minika-cocuk">
+    <title lang="tr">Maddie Ve Triggs</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127063800 +0000" stop="20260127064600 +0000" channel="minika-cocuk">
+    <title lang="tr">Maddie Ve Triggs</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127064600 +0000" stop="20260127065400 +0000" channel="minika-cocuk">
+    <title lang="tr">Maddie Ve Triggs</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127065400 +0000" stop="20260127070000 +0000" channel="minika-cocuk">
+    <title lang="tr">Maddie Ve Triggs</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127071000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127071000 +0000" stop="20260127072000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127072000 +0000" stop="20260127073000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127073000 +0000" stop="20260127074000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127074000 +0000" stop="20260127075000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127075000 +0000" stop="20260127080000 +0000" channel="minika-cocuk">
+    <title lang="tr">Pocoyo</title>
+    <desc lang="tr">Meraklı ana karakter Pocoyo, ayrılmaz dostları Elly, Pato, Loula ve Uykucu Kuş sayısız hikayede kendilerine yer bulur. Bu dünyada Pocoyo kendi yeteneklerinin farkına varırken yavaş yavaş büyüyor ve bu yaşında neler başarabileceğinin farkına varıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127080000 +0000" stop="20260127081500 +0000" channel="minika-cocuk">
+    <title lang="tr">Cry Babies</title>
+    <desc lang="tr">Birbirinden tatlı ve eğlenceli Cry Babies ekibinin maceralarına hazır mısın?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127081500 +0000" stop="20260127083000 +0000" channel="minika-cocuk">
+    <title lang="tr">Cry Babies</title>
+    <desc lang="tr">Birbirinden tatlı ve eğlenceli Cry Babies ekibinin maceralarına hazır mısın?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127083000 +0000" stop="20260127084000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127084000 +0000" stop="20260127085000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127085000 +0000" stop="20260127090000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127090500 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127090500 +0000" stop="20260127091000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127091000 +0000" stop="20260127091500 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127091500 +0000" stop="20260127093000 +0000" channel="minika-cocuk">
+    <title lang="tr">Baby Born</title>
+    <desc lang="tr">Baby Born&#x27;un eğlenceli dünyasına adım atmaya hazır mısın?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127093000 +0000" stop="20260127093800 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127093800 +0000" stop="20260127094500 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127094500 +0000" stop="20260127095300 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127095300 +0000" stop="20260127100000 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127100000 +0000" stop="20260127100500 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127100500 +0000" stop="20260127101000 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127101000 +0000" stop="20260127101500 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127101500 +0000" stop="20260127102000 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127102000 +0000" stop="20260127102500 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127102500 +0000" stop="20260127103000 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127103000 +0000" stop="20260127103800 +0000" channel="minika-cocuk">
+    <title lang="tr">Petronix</title>
+    <desc lang="tr">Sıradan çocuklar, hayvanları korumak için güçlerini birleştiren süper kahramanlara dönüşüyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127103800 +0000" stop="20260127104500 +0000" channel="minika-cocuk">
+    <title lang="tr">Petronix</title>
+    <desc lang="tr">Sıradan çocuklar, hayvanları korumak için güçlerini birleştiren süper kahramanlara dönüşüyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127104500 +0000" stop="20260127105300 +0000" channel="minika-cocuk">
+    <title lang="tr">Petronix</title>
+    <desc lang="tr">Sıradan çocuklar, hayvanları korumak için güçlerini birleştiren süper kahramanlara dönüşüyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127105300 +0000" stop="20260127110000 +0000" channel="minika-cocuk">
+    <title lang="tr">Petronix</title>
+    <desc lang="tr">Sıradan çocuklar, hayvanları korumak için güçlerini birleştiren süper kahramanlara dönüşüyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127110000 +0000" stop="20260127111500 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127111500 +0000" stop="20260127113000 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127113000 +0000" stop="20260127114500 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127114500 +0000" stop="20260127120000 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127120000 +0000" stop="20260127120800 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127120800 +0000" stop="20260127121600 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127121600 +0000" stop="20260127122400 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127122400 +0000" stop="20260127123000 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127123000 +0000" stop="20260127123800 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127123800 +0000" stop="20260127124600 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127124600 +0000" stop="20260127125400 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127125400 +0000" stop="20260127130000 +0000" channel="minika-cocuk">
+    <title lang="tr">Cleo - Cuquin</title>
+    <desc lang="tr">Cleo ile Cuquin, hayal güçlerini kullanarak birbirinden eğlenceli maceralar yaşıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127130000 +0000" stop="20260127131500 +0000" channel="minika-cocuk">
+    <title lang="tr">Maddie Ve Triggs</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127131500 +0000" stop="20260127133000 +0000" channel="minika-cocuk">
+    <title lang="tr">Cry Babies</title>
+    <desc lang="tr">Birbirinden tatlı ve eğlenceli Cry Babies ekibinin maceralarına hazır mısın?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127133000 +0000" stop="20260127134500 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127134500 +0000" stop="20260127140000 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127140000 +0000" stop="20260127141500 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127141500 +0000" stop="20260127143000 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127143000 +0000" stop="20260127143800 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127143800 +0000" stop="20260127144600 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127144600 +0000" stop="20260127145400 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127145400 +0000" stop="20260127150000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127150000 +0000" stop="20260127151000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127151000 +0000" stop="20260127152000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127152000 +0000" stop="20260127153000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127153000 +0000" stop="20260127153800 +0000" channel="minika-cocuk">
+    <title lang="tr">Grisu</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127153800 +0000" stop="20260127154500 +0000" channel="minika-cocuk">
+    <title lang="tr">Grisu</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127154500 +0000" stop="20260127155300 +0000" channel="minika-cocuk">
+    <title lang="tr">Grisu</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127155300 +0000" stop="20260127160000 +0000" channel="minika-cocuk">
+    <title lang="tr">Grisu</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127160000 +0000" stop="20260127161000 +0000" channel="minika-cocuk">
+    <title lang="tr">Baby Born</title>
+    <desc lang="tr">Baby Born&#x27;un eğlenceli dünyasına adım atmaya hazır mısın?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127161000 +0000" stop="20260127162000 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127162000 +0000" stop="20260127163000 +0000" channel="minika-cocuk">
+    <title lang="tr">Jonny Jetboy</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127163000 +0000" stop="20260127164500 +0000" channel="minika-cocuk">
+    <title lang="tr">İstanbul Muhafızları</title>
+    <desc lang="tr">İstanbul&#x27;u ne kadar tanıyorsun? Kimbilir bilmediğin ne çok şey var? İşte sana eğlenceli bir fırsat. Mehmet, Zeynep, Elif ve Ali ile birlikte İstanbul&#x27;u hem karış karış tanıyacak, hem de her bölümde Gürgen ve adamlarının yaşattığı problemleri çözeceksin.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127164500 +0000" stop="20260127170000 +0000" channel="minika-cocuk">
+    <title lang="tr">İstanbul Muhafızları</title>
+    <desc lang="tr">İstanbul&#x27;u ne kadar tanıyorsun? Kimbilir bilmediğin ne çok şey var? İşte sana eğlenceli bir fırsat. Mehmet, Zeynep, Elif ve Ali ile birlikte İstanbul&#x27;u hem karış karış tanıyacak, hem de her bölümde Gürgen ve adamlarının yaşattığı problemleri çözeceksin.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127171500 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127171500 +0000" stop="20260127173000 +0000" channel="minika-cocuk">
+    <title lang="tr">Robot Trenler</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127173000 +0000" stop="20260127174000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127174000 +0000" stop="20260127175000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127175000 +0000" stop="20260127180000 +0000" channel="minika-cocuk">
+    <title lang="tr">Weasy Ailesi</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127180000 +0000" stop="20260127180300 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127180300 +0000" stop="20260127180600 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127180600 +0000" stop="20260127181000 +0000" channel="minika-cocuk">
+    <title lang="tr">Oggy Oggy</title>
+    <desc lang="tr">Yavru kedi Oggy Oggy&#x27;yle tanıştınız mı? Mavi tüylü, kırmızı burunlu Oggy Oggy ve arkadaşlarının eğlenceli maceralarına katılmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127181000 +0000" stop="20260127182800 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127182800 +0000" stop="20260127184500 +0000" channel="minika-cocuk">
+    <title lang="tr">Robocar Poli</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127184500 +0000" stop="20260127185000 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127185000 +0000" stop="20260127185500 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127185500 +0000" stop="20260127190000 +0000" channel="minika-cocuk">
+    <title lang="tr">Kukuli</title>
+    <desc lang="tr">Şarkılarıyla milyonların kalbinde taht kuran sevimli çizgi film karakteri Kukuli ve arkadaşları Tinky, Minky, Dütdüt ve Şinek&#x27;in en yeni maceraları, birbirinden eğlenceli öğretici çocuk şarkıları, kısa komik videoları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127210000 +0000" channel="minika-cocuk">
+    <title lang="tr">Puffin Rock</title>
+    <category lang="tr">Çocuk</category>
+  </programme>
   <programme start="20260127000000 +0000" stop="20260127001000 +0000" channel="minika-go">
     <title lang="tr">Mavi Gölge</title>
     <category lang="tr">Çocuk</category>
@@ -17603,35 +18140,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260127040000 +0000" stop="20260127070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260127070000 +0000" stop="20260127120000 +0000" channel="power-tv">
+  <programme start="20260127070000 +0000" stop="20260127130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260127120000 +0000" stop="20260127130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260127130000 +0000" stop="20260127200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260127200000 +0000" stop="20260127205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260127205900 +0000" stop="20260128040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260127000000 +0000" stop="20260127023000 +0000" channel="s-sport">
     <title lang="tr">Orlando Magic - Cleveland Cavaliers</title>
@@ -18464,6 +18994,66 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <desc lang="tr">Yüzbaşı Alparslan&#x27;ın komutasındaki 6 kişilik özel kuvvetler timinin de aralarında bulunduğu Türk ordusu, yanında hiçbir müttefik olmadan, 7 yıldır iç savaşın hüküm sürdüğü dünyanın en tehlikeli bölgelerinden birine giriş yapar. Buarada, Türk ordusuna karşı kurulan büyük bir tuzağı ortaya çıkaran timin amacı teröristlere karşı büyük bir mücadele verirken vicdanını kaybetmeyip insan kalmayı başarabilmektir.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260127003000 +0000" stop="20260127021500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Kendinden Kaçak</title>
+    <desc lang="tr">Film, üstlerine kalan bir suç sebebiyle hapsin yolunu tutan bir grup arkadaşın, masumiyetlerini ispatlama çalışmalarını konu ediniyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127021500 +0000" stop="20260127034500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Cımbız Ali</title>
+    <desc lang="tr">İşsiz güçsüz bir gençle, serseri ruhlu bir kızın aşk öyküsü.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127034500 +0000" stop="20260127053000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Diyet</title>
+    <desc lang="tr">Afyon&#x27;dan babası, iki çocuğu ve eşiyle İstanbul&#x27;a göç eden Hacer, eşinin onu terk etmesiyle çaresiz kalır. Çalıştığı fabrikada yeni işe başlayan Hasan ise Hacer&#x27;e bir umut ışığı olur. Köylüsü ve patronun yalakası Bilal Usta&#x27;nın yardımıyla fabrikaya giren Hasan ve Hacer&#x27;in yakınlaşması evliliğe dönüşür. Ancak Hacer&#x27;in adalet içgüdüsüyle sendikaya yazılması, bu iki insanın ilişkilerini derinden etkileyecektir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127053000 +0000" stop="20260127071500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Ankara Ekspresi</title>
+    <desc lang="tr">İkinci Dünya Savaşı başlamıştır ve Almanlar Avrupa&#x27;da hızla ilerlemektedir. Hitler, Türkiye&#x27;yi savaşmadan ele geçirmek ister. Bu yüzden Ankara Ekspresi adını verdikleri bir plan yaparlar. Yaptıkları planla bir ay sonra Türkiye&#x27;ye 500 Alman casus getirilecektir. Böylece askeri bir işgalle vazife başındaki Türkler ele geçirilecektir. Türkiye&#x27;deki casuslardan Binbaşı Kolman, Hilda ve Maximillian planı uygulamaya başlar fakat Türk Gizli Teşkilatı&#x27;na ifşa olurlar. Binbaşı Seyfi, Ankara Ekspresi harekâtını durdurmak için görevlendirilir. Alman ajanların peşine düşer ve Hilda ile tanışır. Birbirlerinin gizli görevinden habersiz olan Seyfi ile Hilda arasında bir aşk yaşanacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127071500 +0000" stop="20260127093000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">İlk Aşk</title>
+    <desc lang="tr">1990&#x27;ların başında, denize kıyısı olan bir Ege kasabasının ileri gelenlerinden Arifoğlu ailesi eski ihtişamlı günlerinden çok uzaktadır. Tarlaların çoğu satılmış, çürümek üzere olan zeytinyağı fabrikasından başka bir şey kalmamıştır. Ailenin reisi Arif Arifoğlu, elini yıllar önce işten güçten çekmiş, aksi bir ihtiyardır. Oğlu Azmi&#x27;nin tek derdi, eski karısı Nevin&#x27;in gönlünü tekrar kazanmaktır. Oğulları Kemal ise kısa yoldan para kazanma hayalleri kurarken bir yandan karısı ve metresi arasında gelgitler yaşamaktadır. Ailenin en küçüğü Arif Ege ise çocukluktan ergenliğe geçiş sürecinde ilk aşk sancıları çekmektedir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127093000 +0000" stop="20260127111500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Gelin</title>
+    <desc lang="tr">Filmde, daha iyi yaşam koşulları için Yozgat&#x27;tan İstanbul&#x27;a gelen kalabalık bir ailenin şehirdeki yabancılaşması ve alışma süreci anlatılıyor. Ailenin gelini Meryem, evi terk edip bir fabrikada iş bulur. Ailenin reisi Hacı İlyas ise gelininin evden kaçıp fabrikada çalışmasını onur meselesi yapar. Bu lekenin temizlenmesi için Meryem&#x27;in kocası olan oğlu Veli&#x27;ye baskı yapar. Veli, Meryem&#x27;i öldürmek için fabrika çıkışına geldiğinde karı-koca birbirlerine sarılıp, özgür ve aydınlık bir geleceğe doğru yelken açacaklardır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127111500 +0000" stop="20260127133000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Ayla</title>
+    <desc lang="tr">Kore Savaşı&#x27;na asker olarak gönderilen Süleyman, savaş esnasında öksüz kalan ve himayesini aldığı küçük Koreli kızla sevgi dolu samimi bir bağ kurar. Ayla adını verdiği küçük çocuğu aylarca bakar, ancak savaş bittiğinde kimsesiz çocuğu Türkiye&#x27;ye götürmek istediğinde Kore yasalarının engeliyle karşılaşır ve zor da olsa ayrılırlar. Bu olaylardan 60 yıl geçtikten sonra Süleyman Bey, nerede olduğu, neler yaptığı hakkında hiçbir bilgisi olmadığı Ayla&#x27;yı yeniden görebilmek için harekete geçer.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127133000 +0000" stop="20260127151500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Yok Artık 2</title>
+    <desc lang="tr">Serinin devam filmi bu kez bir berber dükkanında geçen olayları merkezine alıyor. Berber dükkanında çalışan Adnan mahalleli hakkında her şeyi bilmektedir. İşten kovulacağını öğrenen Adnan’ı eğlence dolu bir serüven beklemektedir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127151500 +0000" stop="20260127170000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Aşkın Saati 19:03</title>
+    <desc lang="tr">Uzun aradan sonra Beşiktaş&#x27;ın şampiyon olması, herkesi sevince boğar. Ancak şampiyonluk maçını izlerken dedesinin kalp krizi geçirip ölmesiyle torunu Oktay büyük bir hüzne kapılır. Artık bir yetişkin olan Oktay&#x27;ın hayatı, bir gün yolda bir anahtarlık bulmasıyla bambaşka bir hal alır. Anahtarlığı bulduğu dükkana giren Oktay, burada hayatının aşkı ile tanışır. Oktay&#x27;ın üniversite öğrencisi olan sevgilisi Aslı, Beşiktaş semti üzerine tez yazmaktadır. Gün geçtikçe birbirlerine daha çok bağlanan Aslı ile Oktay&#x27;ın mutluluğu evlilikle sonlanacak mıdır?</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127184500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Üç Kağıtçı</title>
+    <desc lang="tr">Almanya’da yaşayan Rıfkı, ölen babasından miras kalan mallarını satmak için yıllar önce ayrıldığı köye geri döner. Rıfkı’nın köye gelmesi ile yaşanan birkaç tesadüf, adının ermişe çıkmasına neden olur. Uzun süredir yağmayan yağmurun yağmasını, evde kalmış kadınların muratlarına ermesini, kötürüm olanların koşarak yanından ayrılmasını sağlayan Rıfkı, bunların hepsini şans eseri yapsa da mahallenin övgüsünü kazanır. Onu sevenler kadar, Rıfkı’yı kendisine düşman görenler de yok değildir. İnsanların baskısı sonucu Belediye Reisi seçimlerine giren Rıfkı, yapılan müdahalelere rağmen seçimi kazanır. Ancak bu süreçte Rıfkı’nın yarattığı mucizelerin aslında gerçek olmadığı ortaya çıkar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127184500 +0000" stop="20260127204500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Turna Misali</title>
+    <desc lang="tr">Sarıkeçili Yörüklerinden Aksak Ailesi&#x27;nin otoriter aile reisi Gülsüm Ana, mevsimlik göç için hazırlıklara başlar. Ancak aile üyeleri ve diğer yörükler onunla aynı fikirde değildir. Gülsüm&#x27;ün kocası Cemal, göçü bırakıp yerleşik hayata geçmek istemektedir. Gülsüm&#x27;ün damadı Mustafa traktör alıp traktörle göç etmekten yanadır. Gülsüm ise göçün geleneksel şekilde, develerle ve yürüyerek yapılmasında ısrarcıdır. Gülsüm&#x27;ün en büyük destekçileri yarım akıllı oğlu Nurettin ve torunu Elif&#x27;tir. Gülsüm ailesini ve diğer yörük ailelerini ikna etmeye çalışırken, valiliğin göçü engelleyeceğine dair bir söylenti yayılmaya başlar. Gülsüm her ne pahasına olursa olsun göç etmeye kararlıdır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260127204500 +0000" stop="20260127224500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Can Feda</title>
+    <desc lang="tr">Yüzbaşı Alparslan&#x27;ın komutasındaki 6 kişilik özel kuvvetler timinin de aralarında bulunduğu Türk ordusu, yanında hiçbir müttefik olmadan, 7 yıldır iç savaşın hüküm sürdüğü dünyanın en tehlikeli bölgelerinden birine giriş yapar. Buarada, Türk ordusuna karşı kurulan büyük bir tuzağı ortaya çıkaran timin amacı teröristlere karşı büyük bir mücadele verirken vicdanını kaybetmeyip insan kalmayı başarabilmektir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
   <programme start="20260127000000 +0000" stop="20260127003000 +0000" channel="sky-news-arabia">
     <title lang="tr">News</title>
     <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
@@ -19095,6 +19685,71 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
     <desc lang="tr">Los Angeles Polis Departmanı&#x27;nda görev yapan K, toplum yaşamını kaosa sürükleyecek bir sırrı açığa çıkartır. Kaosun önüne geçebilmek ve felaketi önlemek için eski ödül avcısı Rick Deckard&#x27;ı bulmak ve ondan bazı sorularına yanıt almak zorundadır.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260127063000 +0000" stop="20260127064500 +0000" channel="tabii-spor">
+    <title lang="tr">Bizim Ligler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127064500 +0000" stop="20260127070000 +0000" channel="tabii-spor">
+    <title lang="tr">Pedalın Senfonisi</title>
+    <desc lang="tr">Bisiklet sporunun ruhuna, hikayelerine ve bisiklete gönül vermiş kişilerle yapılan röportajlara yer veriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127080000 +0000" channel="tabii-spor">
+    <title lang="tr">Set Sayısı</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127080000 +0000" stop="20260127101000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127101000 +0000" stop="20260127103500 +0000" channel="tabii-spor">
+    <title lang="tr">Sporun İkonları</title>
+    <desc lang="tr">Spor dünyasında başarılı işlere imza atmış sporcular ve önemli spor olayları hakkında bilgiler veriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127103500 +0000" stop="20260127112500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Magazin</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127112500 +0000" stop="20260127120000 +0000" channel="tabii-spor">
+    <title lang="tr">Deplasman Lezzetleri Sarıyer</title>
+    <desc lang="tr">Süper Lig ve 1. Lig&#x27;de yer alan takımların bulunduğu şehirlere giderek o bölgeye özgü hem damak lezzetleri hem de tarihe kısa bir yolculuk tadında, o ilin takımının önemli isimleri olan futbolcu, teknik adam, başkan ile röportajları ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127120000 +0000" stop="20260127134000 +0000" channel="tabii-spor">
+    <title lang="tr">Slavia Prag - Barcelona</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127134000 +0000" stop="20260127140500 +0000" channel="tabii-spor">
+    <title lang="tr">Yenilmezler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127140500 +0000" stop="20260127154500 +0000" channel="tabii-spor">
+    <title lang="tr">Bayern Münih - Union Saint Gilloise</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127154500 +0000" stop="20260127161000 +0000" channel="tabii-spor">
+    <title lang="tr">Tüm Zamanların En İyileri</title>
+    <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127161000 +0000" stop="20260127175000 +0000" channel="tabii-spor">
+    <title lang="tr">Chelsea - Pafos</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127175000 +0000" stop="20260127193000 +0000" channel="tabii-spor">
+    <title lang="tr">Juventus - Benfica</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260127193000 +0000" stop="20260127211000 +0000" channel="tabii-spor">
+    <title lang="tr">Galatasaray - Atletico Madrid</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
   <programme start="20260127022600 +0000" stop="20260127031200 +0000" channel="tabii-tv">
     <title lang="tr">Kuzenlerim</title>
     <desc lang="tr">Bora tam zamanlı bir iş bulabilmek için okulu bırakmak ister. Şeref&#x27;in astroloji merakı ilişkilerini kötü etkiler.</desc>
@@ -19323,6 +19978,103 @@ Pelé olmasaydı, Güzel Oyun da olmazdı. O, ve daima olacak… Oyunun Kralı.<
   <programme start="20260127190000 +0000" stop="20260127230000 +0000" channel="tarim-tv">
     <title lang="tr">Tarım Orman Ekranı</title>
     <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127013000 +0000" stop="20260127030000 +0000" channel="tele1">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Murat Taylan&#x27;ın sunduğu Gerçeğin İzinde, kamuoyunda merak uyandıran olayları, üzeri örtülen dosyaları ve yanıtı bulunmamış soruları derinlemesine ele alır. Tanıklıklar, belgeler ve uzman görüşleriyle olayların perde arkası aydınlatılır. Program, izleyiciyi yalnızca izlemeye değil, sorgulamaya ve düşünmeye de davet eder.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260127030000 +0000" stop="20260127040000 +0000" channel="tele1">
+    <title lang="tr">Dünyanın Sokakları</title>
+    <desc lang="tr">Murat Taylan&#x27;ın sunduğu Gerçeğin İzinde, kamuoyunda merak uyandıran olayları, üzeri örtülen dosyaları ve yanıtsız soruları derinlemesine ele alır. Tanıklıklar, belgeler ve uzman görüşleriyle olayların perde arkası aydınlatılır. Program, izleyiciyi sadece izlemeye değil, sorgulamaya, bağlantılar kurmaya ve gerçeğin izini birlikte sürmeye davet eder; her bölümde yeni ipuçları sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127050000 +0000" channel="tele1">
+    <title lang="tr">Sabah Pusulası</title>
+    <desc lang="tr">Sabah Pusulası, güne sadece haberlerle değil, anlamla başlamayı hedefleyen bir programdır. Günün öne çıkan gelişmeleri, toplumu ilgilendiren başlıklar ve hayatın içinden konular sade bir dille ele alınır. Program, izleyiciyi bilgiyle boğmak yerine yön gösterir; olup biteni doğru bağlamda değerlendirmeye davet eder.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127050000 +0000" stop="20260127060000 +0000" channel="tele1">
+    <title lang="tr">Sabah Pusulası</title>
+    <desc lang="tr">Sabah Pusulası, güne sadece haberlerle değil, anlamla başlamayı hedefleyen bir programdır. Günün öne çıkan gelişmeleri, toplumu ilgilendiren başlıklar ve hayatın içinden konular sade bir dille ele alınır. Program, izleyiciyi bilgiyle boğmak yerine yön gösterir; olup biteni doğru bağlamda değerlendirmeye davet eder.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127070000 +0000" channel="tele1">
+    <title lang="tr">Sabah Pusulası</title>
+    <desc lang="tr">Sabah Pusulası, güne sadece haberlerle değil, anlamla başlamayı hedefleyen bir programdır. Günün öne çıkan gelişmeleri, toplumu ilgilendiren başlıklar ve hayatın içinden konular sade bir dille ele alınır. Program, izleyiciyi bilgiyle boğmak yerine yön gösterir; olup biteni doğru bağlamda değerlendirmeye davet eder.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127070000 +0000" stop="20260127080000 +0000" channel="tele1">
+    <title lang="tr">Gerçek Haber Gerçek Ekonomi</title>
+    <desc lang="tr">Haber analiz ve yorum, siyasetin sıcak başlıkları, ekonominin ve piyasaların rotası… Bilge Yurtdagülen ile Gerçek Haber Gerçek Ekonomi, hafta içi her gün saat 10.00&#x27;da Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127080000 +0000" stop="20260127090000 +0000" channel="tele1">
+    <title lang="tr">Hüsnü Mahali ile Günün Yorumu</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127090000 +0000" stop="20260127100000 +0000" channel="tele1">
+    <title lang="tr">Yılanların Öcü</title>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260127100000 +0000" stop="20260127110000 +0000" channel="tele1">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Türkiye&#x27;de neler oluyor, dünyadaki gelişmeler neler? Şükran Kayacı&#x27;nın hazırlayıp sunduğu Gün Ortası, hafta içi her gün saat 14.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260127110000 +0000" stop="20260127114500 +0000" channel="tele1">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Türkiye&#x27;de neler oluyor, dünyadaki gelişmeler neler? Şükran Kayacı&#x27;nın hazırlayıp sunduğu Gün Ortası, hafta içi her gün saat 14.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260127114500 +0000" stop="20260127120000 +0000" channel="tele1">
+    <title lang="tr">Telealışveriş</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127120000 +0000" stop="20260127130000 +0000" channel="tele1">
+    <title lang="tr">Asıl Mesele</title>
+    <desc lang="tr">Gündemin öne çıkan konularını, uzman konuklarla birlikte derinlemesine analiz eden ve farklı bakış açısı sunan İnan Demirel&#x27;in hazırlayıp sunduğu Asıl Mesele, hafta içi her gün saat 15.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127130000 +0000" stop="20260127140000 +0000" channel="tele1">
+    <title lang="tr">Asıl Mesele</title>
+    <desc lang="tr">Gündemin öne çıkan konularını, uzman konuklarla birlikte derinlemesine analiz eden ve farklı bakış açısı sunan İnan Demirel&#x27;in hazırlayıp sunduğu Asıl Mesele, hafta içi her gün saat 15.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127140000 +0000" stop="20260127150000 +0000" channel="tele1">
+    <title lang="tr">Asıl Mesele</title>
+    <desc lang="tr">Gündemin öne çıkan konularını, uzman konuklarla birlikte derinlemesine analiz eden ve farklı bakış açısı sunan İnan Demirel&#x27;in hazırlayıp sunduğu Asıl Mesele, hafta içi her gün saat 15.00&#x27;te Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127150000 +0000" stop="20260127160000 +0000" channel="tele1">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Murat Taylan&#x27;ın sunduğu Gerçeğin İzinde, kamuoyunda merak uyandıran olayları, üzeri örtülen dosyaları ve yanıtı bulunmamış soruları derinlemesine ele alır. Tanıklıklar, belgeler ve uzman görüşleriyle olayların perde arkası aydınlatılır. Program, izleyiciyi yalnızca izlemeye değil, sorgulamaya ve düşünmeye de davet eder.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260127160000 +0000" stop="20260127170000 +0000" channel="tele1">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Murat Taylan&#x27;ın sunduğu Gerçeğin İzinde, kamuoyunda merak uyandıran olayları, üzeri örtülen dosyaları ve yanıtı bulunmamış soruları derinlemesine ele alır. Tanıklıklar, belgeler ve uzman görüşleriyle olayların perde arkası aydınlatılır. Program, izleyiciyi yalnızca izlemeye değil, sorgulamaya ve düşünmeye de davet eder.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260127170000 +0000" stop="20260127180000 +0000" channel="tele1">
+    <title lang="tr">18 Dakika</title>
+    <desc lang="tr">Gündemin en sıcak başlıkları, tartışmalı konular ve gizlenen gerçekler... Ersin Kalaycıoğlu ve Merdan Yanardağ&#x27;ın hazırlayıp sunduğu 18 Dakika, hafta içi her gün saat 20.00&#x27;de Tele1&#x27;de!</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127180000 +0000" stop="20260127190000 +0000" channel="tele1">
+    <title lang="tr">Kayıt Dışı</title>
+    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127200000 +0000" channel="tele1">
+    <title lang="tr">Kayıt Dışı</title>
+    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127210000 +0000" channel="tele1">
+    <title lang="tr">Kayıt Dışı</title>
+    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260127013000 +0000" stop="20260127020000 +0000" channel="tgrt-haber">
     <title lang="tr">Gecenin İçinden</title>
@@ -20451,23 +21203,148 @@ seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.
     <desc lang="tr">İzleyicinin kendisini gözden geçirme, bildiklerini sınama, bilmediklerini öğrenme imkanı sağlayan hafta içi beş gün izleyicisine keyifli, öğretici, eğlenceli bir deneyim sunan yarışma programıdır.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260127003000 +0000" stop="20260127010000 +0000" channel="trt-belgesel">
+  <programme start="20260127003500 +0000" stop="20260127010500 +0000" channel="trt-belgesel">
     <title lang="tr">Su Altı Ustaları</title>
     <desc lang="tr">Görmeye alışık olmadığımız su altı dünyasının bilinmeyen bir yüzü var. Tonlarca gemiyi kaldıran, ulaşımda kıtaları birleştiren, yiyecek konusunda insanoğlunu besleyen, içindeki esrarengiz yaşamla turizmi canlandıran bu devasa su birikintileri kendi içinde bir sanayiye de ev sahipliği yapıyor. Ve bu sanayinin doğaya zarar verilmeden ayakta tutulması gerekiyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260127010000 +0000" stop="20260127020000 +0000" channel="trt-belgesel">
+  <programme start="20260127010500 +0000" stop="20260127020500 +0000" channel="trt-belgesel">
     <title lang="tr">Ailenin Yeni Üyesi</title>
     <desc lang="tr">Sunucu Reshad Strik, bazen yüzlerce kişiyle birlikte Hindistan trenlerinin çatısında yolculuk ederek, bazen bir fabrikada sadece iki dolar karşılığında gün boyu tuğla taşıyarak, bazen de Çin&#x27;de sırtında ağır yüklerle sonu gelmez merdivenleri adımlayarak bu zorlu yaşamların kahramanları arasına katılıyor. Onlarla aynı sofraya oturup, aynı havayı soluyarak zorluklara göğüs germeyi ve yeni dostluklar kurmayı hedefleyen Reshad Strik&#x27;in maceraları tüm gerçekliğiyle izleyiciyle buluşuyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260127020000 +0000" stop="20260127030000 +0000" channel="trt-belgesel">
+  <programme start="20260127020500 +0000" stop="20260127030500 +0000" channel="trt-belgesel">
     <title lang="tr">Büyük Mücadele</title>
     <desc lang="tr">Klasik belgeselleri, bildiğiniz yaşam öykülerini unutun! Hayatınızla ilgili birçok şeyi sorgulamaya hazır mısınız? Farklı yaşamlardan kesitler sunarak aktaran belgesel, ismini belki de duymadığınız ama kültürlerinin yansımalarını hayatınızda gördüğünüz ülkeler ve insanlarla gündelik yaşamınıza bir imza atıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260127030000 +0000" stop="20260127035500 +0000" channel="trt-belgesel">
+  <programme start="20260127030500 +0000" stop="20260127035500 +0000" channel="trt-belgesel">
     <title lang="tr">Efsaneler Diyarı</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127035500 +0000" stop="20260127035800 +0000" channel="trt-belgesel">
+    <title lang="tr">Tanıtım</title>
+    <desc lang="tr">Genel Tanıtım</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127035800 +0000" stop="20260127040000 +0000" channel="trt-belgesel">
+    <title lang="tr">İstiklal Marşı</title>
+    <desc lang="tr">İstiklal Marşı</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260127040000 +0000" stop="20260127044500 +0000" channel="trt-belgesel">
+    <title lang="tr">Büyük Aile Çiftliği</title>
+    <desc lang="tr">Amanda ve Clive Owen çiftliklerinde dokuz çocuğuyla birlikte yaşıyor. En sıra dışı hava koşullarında dört mevsim boyunca onları takip ediyor, ailenin omuz omuza verip bu zorlu hayatın engelleriyle nasıl başa çıktığını keşfediyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127044500 +0000" stop="20260127053000 +0000" channel="trt-belgesel">
+    <title lang="tr">Ulak</title>
+    <desc lang="tr">Serdar Kılıç, Dünyamız üzerinde yaşayan farklı kültürler arasında bir ulak gibi yolculuklar yaparak, yaşadığımız gezegenimizi ekranlarımıza taşıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127053000 +0000" stop="20260127060000 +0000" channel="trt-belgesel">
+    <title lang="tr">Modern Zaman İşleri</title>
+    <desc lang="tr">Kreatif sektör, her geçen gün yeni fikirler ve teknolojilerle şekilleniyor. Bu dinamik değişim ve dönüşümü anlamak, kreatif endüstrinin kalbinde atmak isteyenleri bekleyen heyecan verici bir belgeseL... Bugünün ve geleceğin mesleklerine teknoloji, tasarım ve sosyal bilimlerin perspektifinden bakmak isteyenler için &#x27;Modern Zaman İşleri&#x27; TRT Belgesel&#x27;de!</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127060000 +0000" stop="20260127064000 +0000" channel="trt-belgesel">
+    <title lang="tr">Derinlerdeki Hayat</title>
+    <desc lang="tr">Millî sporcu ve dünya su altı görüntüleme şampiyonu Erkan Balk, Derinlerdeki Hayat belgeselinde, bilim insanlarıyla keşif dalışları yapıyor ve bu dalışları eşsiz görüntülerle hikâyeleştiriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127064000 +0000" stop="20260127071000 +0000" channel="trt-belgesel">
+    <title lang="tr">Gol Atan Cepheye</title>
+    <desc lang="tr">&#x27;Gol Atan Cepheye belgeseli Kıbrıs Türk varoluş mücadelesinin bilinmeyen bir yönünü ortaya koyuyor. Kıbrıs Türklerinin önce İngiliz hegemonyası ardından da EOKA saldırıları karşısında verdikleri ayakta kalma mücadelesinde futbolun hiç bilinmeyen rolüne değiniliyor.
+Belgeselde ayrıca, Filistin&#x27;de futbolun yalnızca bir spor değil, var olmanın ve direnmenin adı olduğu da anlatılıyor. Akademisyen - spor yazarı Erdal Hoş&#x27;un anlatımıyla Gol Atan Cepheye TRT Belgesel&#x27;de!</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127071000 +0000" stop="20260127080500 +0000" channel="trt-belgesel">
+    <title lang="tr">Aslan Sırtlana Karşı</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127080500 +0000" stop="20260127083500 +0000" channel="trt-belgesel">
+    <title lang="tr">Tuna Boyu Günlükleri</title>
+    <desc lang="tr">Türk ve Balkan coğrafyalarının kökleri asırlar öncesine uzanan bağları, Balkan topraklarındaki medeniyet mirası, manevi ve kültürel zenginlikler. &#x27;Tuna Boyu Günlükleri&#x27; belgeseli, insan hikâyeleri üzerinden bu mirasın izini sürüyor. Anadolu ve Balkanların ortak değerlerini hatırlatıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127083500 +0000" stop="20260127093000 +0000" channel="trt-belgesel">
+    <title lang="tr">Gölge Diyarlar</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127093000 +0000" stop="20260127100500 +0000" channel="trt-belgesel">
+    <title lang="tr">Günlük Hayat Bilimi</title>
+    <desc lang="tr">Bilimsel gerçekler ve bilgiyle dolu sürprizler gündelik hayatın her anında, yaşamın tam içinde. &#x27;Günlük Hayat Bilimi&#x27; belgeseli, Nurettin Sönmez&#x27;inrenkli anlatımı ve bilim insanlarının röportajlarıylabilimin izini sürüyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260127100500 +0000" stop="20260127104000 +0000" channel="trt-belgesel">
+    <title lang="tr">Antika Dedektifi</title>
+    <desc lang="tr">Gizemli dünyasıyla pek çok kişinin ilgisini çeken antika sektörü tüm süreç ve detaylarıyla ekranlara geliyor. Bilinmeyen antika pazarları, heyecanlı mezatlar, mahalle arasındaki antika dükkanları ve antika eşyalarla dolu evler. Hepsi bu programda Hamza Demirkapu&#x27;nun sunumuyla yaşanıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127104000 +0000" stop="20260127114000 +0000" channel="trt-belgesel">
+    <title lang="tr">Ailenin Yeni Üyesi</title>
+    <desc lang="tr">Sunucu Reshad Strik, bazen yüzlerce kişiyle birlikte Hindistan trenlerinin çatısında yolculuk ederek, bazen bir fabrikada sadece iki dolar karşılığında gün boyu tuğla taşıyarak, bazen de Çin&#x27;de sırtında ağır yüklerle sonu gelmez merdivenleri adımlayarak bu zorlu yaşamların kahramanları arasına katılıyor. Onlarla aynı sofraya oturup, aynı havayı soluyarak zorluklara göğüs germeyi ve yeni dostluklar kurmayı hedefleyen Reshad Strik&#x27;in maceraları tüm gerçekliğiyle izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127114000 +0000" stop="20260127123500 +0000" channel="trt-belgesel">
+    <title lang="tr">Büyük Pasifik</title>
+    <desc lang="tr">Dünya yüzeyinin üçte birini kapsayan okyanus olan Büyük Pasifik&#x27;in nadir ve göz kamaştırıcı yaratıkları daha önce hiç görülmemiş bir şekilde inceleniyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127123500 +0000" stop="20260127130500 +0000" channel="trt-belgesel">
+    <title lang="tr">Doğu&#x27;nun Kayıp Silüetleri</title>
+    <desc lang="tr">Doğu&#x27;nun kapıları açılıyor ve bilinmeyene yolculuk başlıyor. Doğaüstü inanışlar, göçebeler, bilinmeyen kültürler doğunun derinliklerinden beyaz cama yansıyor. Belgeselde, zorlu doğa şartlarında hayata tutunmaya çalışan, geçmişlerine ve inançlarına sıkı sıkıya bağlı, kahraman olduklarının farkında olmayan kahramanların hikâyeleri anlatılıyor. Çok uzak görünen kültürlerin aslında bize ne kadar da yakın olduğunu anlayacağımız programda her bölüm ayrı bir hayat hikâyesi, ayrı bir heyecan.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127130500 +0000" stop="20260127140000 +0000" channel="trt-belgesel">
+    <title lang="tr">Efsaneler Diyarı</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127140000 +0000" stop="20260127143500 +0000" channel="trt-belgesel">
+    <title lang="tr">Kronovizör</title>
+    <desc lang="tr">Vizörler baktığımız yeri gösterir. Peki ya tarihi gösteren bir vizörümüz olsaydı? Yüzyıllardır insanlar geçmişe gitmek veya onu görüntülemek için uğraştı. Zamanda yolculuk yapıp geçmişin fotoğraflarını çeken bir makina icat etmeye çalıştılar: Kronovizör. Kadrajında bugünü değil, tarihin seyrini gösterebilen bir kamera. Onlarca bilim insanı bu makinayı yaptığını ve geçmişi görüntülediğini iddia etti. Ancak, Kronovizör&#x27;ün varlığı da tıpkı mucitleri gibi bir efsane olarak kaldı. Peki ya bu icat gerçekten çalışsaydı ve onun vizöründen tarihe baksaydık neler görürdük? Kronovizör her bölümde alanında uzman isimlerle röportajlar ve zengin görsel anlatısıyla tarihi gösteren vizörden büyük buluşların hikayelerini inceliyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260127143500 +0000" stop="20260127151000 +0000" channel="trt-belgesel">
+    <title lang="tr">Su Altı Ustaları</title>
+    <desc lang="tr">Görmeye alışık olmadığımız su altı dünyasının bilinmeyen bir yüzü var. Tonlarca gemiyi kaldıran, ulaşımda kıtaları birleştiren, yiyecek konusunda insanoğlunu besleyen, içindeki esrarengiz yaşamla turizmi canlandıran bu devasa su birikintileri kendi içinde bir sanayiye de ev sahipliği yapıyor. Ve bu sanayinin doğaya zarar verilmeden ayakta tutulması gerekiyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127151000 +0000" stop="20260127161000 +0000" channel="trt-belgesel">
+    <title lang="tr">İnce Buzun Üstünde</title>
+    <desc lang="tr">Yasak bölgelerde çekim yapma şansı bulan belgesel ekibi, iklim değişikliği nedeniyle buzların eridiği Kuzey Sibirya&#x27;da eriyen buzları, yaşam alanlarından mahrum kalan hayvanları, oluşan devasa kraterleri ve tehlikenin kıyısındaki insanların yaşamlarını görüntülüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127161000 +0000" stop="20260127170500 +0000" channel="trt-belgesel">
+    <title lang="tr">Anadolu İnsanı</title>
+    <desc lang="tr">Dünyanın merkezinde yer alan, kadim medeniyetlerin beşiği Anadolu... Benzersiz coğrafi güzellikleri kadar, içinde yaşadığı topraklara değer katan insanıyla da göz kamaştırıyor. Anadolu&#x27;da yedi bölgeye yayılan milyonlarca insanın; sabır, cesaret, fedakârlık, merhamet gibi farklı erdemler etrafında gelişen yaşam öyküleri, &#x27;Anadolu İnsanı&#x27; isimli programla TRT Belgesel ekranlarına taşınıyor. Türkiye&#x27;nin farklı bölgelerinden derlenen ve her bölümde birbirinden farklı hikâyelerin yer alacağı Anadolu İnsanı, bu coğrafyanın eşsiz güzelliğini ve destansı öykülerini çarpıcı bir dille izleyicilerle buluşturuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127170500 +0000" stop="20260127180500 +0000" channel="trt-belgesel">
+    <title lang="tr">Aslan Sırtlana Karşı</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127180500 +0000" stop="20260127190000 +0000" channel="trt-belgesel">
+    <title lang="tr">Sinek Kuşu Etkisi</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127190000 +0000" stop="20260127200000 +0000" channel="trt-belgesel">
+    <title lang="tr">Geleneği Yaşatmak</title>
+    <desc lang="tr">Ölmekte olan gelenekleri yaşatmak için direnen yüksek ruhlu insanların hikâyeleri Geleneği Yaşatmakta!</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127200000 +0000" stop="20260127201500 +0000" channel="trt-belgesel">
+    <title lang="tr">Söz</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260127201500 +0000" stop="20260127205000 +0000" channel="trt-belgesel">
+    <title lang="tr">Günlük Hayat Bilimi</title>
+    <desc lang="tr">Bilimsel gerçekler ve bilgiyle dolu sürprizler gündelik hayatın her anında, yaşamın tam içinde. &#x27;Günlük Hayat Bilimi&#x27; belgeseli, Nurettin Sönmez&#x27;inrenkli anlatımı ve bilim insanlarının röportajlarıylabilimin izini sürüyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260127205000 +0000" stop="20260127213500 +0000" channel="trt-belgesel">
+    <title lang="tr">Ulak</title>
+    <desc lang="tr">Serdar Kılıç, Dünyamız üzerinde yaşayan farklı kültürler arasında bir ulak gibi yolculuklar yaparak, yaşadığımız gezegenimizi ekranlarımıza taşıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260127002000 +0000" stop="20260127004500 +0000" channel="trt-cocuk">
