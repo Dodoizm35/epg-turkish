@@ -651,7 +651,7 @@
   </programme>
   <programme start="20260128075000 +0000" stop="20260128080000 +0000" channel="24">
     <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Sıcaklık değişimleri, yağış ihtimali, rüzgâr ve nem oranları gibi temel bilgilerle birlikte, olası hava olaylarına ilişkin uyarılar ve tahminler detaylı biçimde paylaşılır. Şehir şehir hava durumu analizleri, bölgesel raporlar ve hava koşullarının günlük yaşamı nasıl etkileyeceğine dair açıklamalar programın temel içeriklerini oluşturur.</desc>
+    <desc lang="tr">Sıcaklık değişimleri yağış ihtimali, rüzgâr ve nem oranları gibi temel bilgilerle birlikte, olası hava olaylarına ilişkin uyarılar ve tahminler detaylı biçimde paylaşılır. Hava durumu analizleri, bölgesel raporlar ve hava koşullarının günlük yaşamı nasıl etkileyeceğine dair açıklamalar izleyiciye aktarılıyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
   <programme start="20260128080000 +0000" stop="20260128090000 +0000" channel="24">
@@ -3197,83 +3197,83 @@ Toplanacak toydan çıkacak kararın Bursa&#x27;nın sonu olacağını söyleyen
     <title lang="tr">22. Hafta / Tekrar</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127044500 +0000" stop="20260127045900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127050000 +0000" stop="20260127064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Tottenham Hotspur</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127064500 +0000" stop="20260127065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127070000 +0000" stop="20260127084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Fulham - Brighton-Hove Albion</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127084500 +0000" stop="20260127085900 +0000" channel="beinsports3.tr">
+  <programme start="20260128044500 +0000" stop="20260128045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127090000 +0000" stop="20260127104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Bournemouth - Liverpool</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127104500 +0000" stop="20260127105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127110000 +0000" stop="20260127124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Newcastle United - Aston Villa</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127124500 +0000" stop="20260127125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127130000 +0000" stop="20260127144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Nottingham Forest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127144500 +0000" stop="20260127145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127150000 +0000" stop="20260127164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Everton - Leeds United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127164500 +0000" stop="20260127165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260127170000 +0000" stop="20260127172900 +0000" channel="beinsports3.tr">
+  <programme start="20260128050000 +0000" stop="20260128064400 +0000" channel="beinsports3.tr">
     <title lang="tr">Arsenal - Manchester United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127173000 +0000" stop="20260127175900 +0000" channel="beinsports3.tr">
+  <programme start="20260128064500 +0000" stop="20260128065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128070000 +0000" stop="20260128084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Everton - Leeds United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128084500 +0000" stop="20260128085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128090000 +0000" stop="20260128104400 +0000" channel="beinsports3.tr">
     <title lang="tr">West Ham United - Sunderland</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127180000 +0000" stop="20260127182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Manchester City - W. Wanderers</title>
+  <programme start="20260128104500 +0000" stop="20260128105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127183000 +0000" stop="20260127185900 +0000" channel="beinsports3.tr">
+  <programme start="20260128110000 +0000" stop="20260128124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Manchester City - W.Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128124500 +0000" stop="20260128125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128130000 +0000" stop="20260128144400 +0000" channel="beinsports3.tr">
     <title lang="tr">Burnley - Tottenham Hotspur</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127190000 +0000" stop="20260127192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Fulham - Brighton-Hove Albion</title>
+  <programme start="20260128144500 +0000" stop="20260128145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127193000 +0000" stop="20260127195900 +0000" channel="beinsports3.tr">
+  <programme start="20260128150000 +0000" stop="20260128164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Fulham - Brighton Hove Albion</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128164500 +0000" stop="20260128165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128170000 +0000" stop="20260128172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Liverpool</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128173000 +0000" stop="20260128175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Crystal Palace - Chelsea</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128180000 +0000" stop="20260128182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Aston Villa</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128183000 +0000" stop="20260128185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - Nottingham Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128190000 +0000" stop="20260128192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Extra Time</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260128193000 +0000" stop="20260128195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Netbusters</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260127200000 +0000" stop="20260127220000 +0000" channel="beinsports3.tr">
+  <programme start="20260128200000 +0000" stop="20260128220000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3454,19 +3454,19 @@ Toplanacak toydan çıkacak kararın Bursa&#x27;nın sonu olacağını söyleyen
     <desc lang="tr">Stockholm&#x27;ün karanlık suç dünyasında geçen sürükleyici bir hikâye sunar. JW, geçmiş hatalarını telafi edip yeni bir hayat kurmak isterken, peşini bırakmayan bağlantılar onu yeniden suçun içine çeker. Uyuşturucu ticareti, ihanet ve mafya hesaplaşmaları arasında JW, hayatta kalmak için zorlu bir mücadele verir.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260128043000 +0000" stop="20260128054500 +0000" channel="beyaz-tv">
+  <programme start="20260128042000 +0000" stop="20260128052000 +0000" channel="beyaz-tv">
     <title lang="tr">Bircan Bali ile Sabah Kahvesi</title>
     <desc lang="tr">Bircan Bali ile Sabah Kahvesi, her sabah izleyicilerle buluşan, sıcak sohbetler, güncel haberler, kültür-sanat ve yaşam konularını kahve eşliğinde aktaran keyifli bir programdır. Pozitif enerji ve bilgi dolu buluşmalarla güne güzel başlamak isteyenler için ideal.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260128054500 +0000" stop="20260128063000 +0000" channel="beyaz-tv">
-    <title lang="tr">Geçmişe Yürüyen Adam</title>
-    <desc lang="tr">Geçmişe Yürüyen Adam, Beyaz TV ekranlarında izleyicileri tarih ve kültür dolu bir yolculuğa çıkaran özel bir programdır. Geçmişten günümüze uzanan önemli olaylar, unutulmaz şahsiyetler ve kültürel değerler ele alınırken; izleyicilere tarih bilinci kazandırmayı amaçlayan zengin bir içerik sunulur.</desc>
-    <category lang="tr">Röportaj</category>
+  <programme start="20260128052000 +0000" stop="20260128054500 +0000" channel="beyaz-tv">
+    <title lang="tr">Sakın Kaçırma Türkiye</title>
+    <desc lang="tr">Sakın Kaçırma Türkiye, Türkiye&#x27;nin gündemini sabah saatlerinde Beyaz TV ekranlarına taşıyan kapsamlı bir programdır. Güncel haberler, sosyal medyanın en çok konuşulan başlıkları ve magazin dünyasından öne çıkan konular Erhan Çelik ve Evrim Keklik&#x27;in sunumuyla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260128063000 +0000" stop="20260128080000 +0000" channel="beyaz-tv">
-    <title lang="tr">Belma Belen&#x27;le Geziyoruz</title>
-    <desc lang="tr">Belma Belen&#x27;le Geziyoruz, izleyicileri Türkiye&#x27;nin ve dünyanın farklı köşelerine götüren keyifli bir gezi programıdır. Tarihi mekânlar, yerel tatlar ve kültürel zenginlikler; samimi anlatımıyla ekrana taşınır. Program, keşfetmeyi sevenler için ilham dolu bir yolculuk sunar.</desc>
+  <programme start="20260128054500 +0000" stop="20260128080000 +0000" channel="beyaz-tv">
+    <title lang="tr">Sakın Kaçırma Türkiye</title>
+    <desc lang="tr">Sakın Kaçırma Türkiye, Türkiye&#x27;nin gündemini sabah saatlerinde Beyaz TV ekranlarına taşıyan kapsamlı bir programdır. Güncel haberler, sosyal medyanın en çok konuşulan başlıkları ve magazin dünyasından öne çıkan konular Erhan Çelik ve Evrim Keklik&#x27;in sunumuyla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260128080000 +0000" stop="20260128100000 +0000" channel="beyaz-tv">
@@ -3485,8 +3485,8 @@ Toplanacak toydan çıkacak kararın Bursa&#x27;nın sonu olacağını söyleyen
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260128133000 +0000" stop="20260128153000 +0000" channel="beyaz-tv">
-    <title lang="tr">Kurtlar Vadisi</title>
-    <desc lang="tr">Kurtlar Vadisi, siyasi entrikalar, mafya dünyası ve Polat Alemdar&#x27;ın adalet arayışı etrafında şekillenen çarpıcı bir hikâye sunar. Osman Sınav&#x27;ın yönetmenliğinde hazırlanan dizi, güçlü karakterleri, sürükleyici anlatımı ve aksiyon dolu sahneleriyle izleyiciler üzerinde kalıcı bir etki bırakmıştır. İzleyiciyi her bölümde merak duygusuyla ekrana bağlar.</desc>
+    <title lang="tr">Kurtlar Vadisi Pusu</title>
+    <desc lang="tr">Kurtlar Vadisi Pusu, Polat Alemdar ve ekibinin Türkiye&#x27;nin güvenliğini tehdit eden güç odaklarına karşı verdiği mücadeleyi konu alır. Devletin derin yapıları, uluslararası örgütler ve çıkar çatışmaları hikâyeyi şekillendirir. Aksiyon, ihanet ve sadakat temaları dizinin dramatik yapısını güçlendirir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260128153000 +0000" stop="20260128163000 +0000" channel="beyaz-tv">
@@ -3503,6 +3503,11 @@ Toplanacak toydan çıkacak kararın Bursa&#x27;nın sonu olacağını söyleyen
     <title lang="tr">Hayalet Projesi</title>
     <desc lang="tr">Gizli bir teknoloji deneyi etrafında gelişen olayları anlatır. Bir grup genç, araştırdıkları proje sırasında insan aklının sınırlarını zorlayan bir güçle karşılaşır. Deney kontrolden çıktığında, yaşananlar hem fiziksel hem de psikolojik bir kabusa dönüşür. Film bilimin karanlık yüzünü merkezine alır.</desc>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260128203000 +0000" stop="20260128220000 +0000" channel="beyaz-tv">
+    <title lang="tr">Kurtlar Vadisi Pusu</title>
+    <desc lang="tr">Kurtlar Vadisi Pusu, Polat Alemdar ve ekibinin Türkiye&#x27;nin güvenliğini tehdit eden güç odaklarına karşı verdiği mücadeleyi konu alır. Devletin derin yapıları, uluslararası örgütler ve çıkar çatışmaları hikâyeyi şekillendirir. Aksiyon, ihanet ve sadakat temaları dizinin dramatik yapısını güçlendirir.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260128011500 +0000" stop="20260128040000 +0000" channel="bi-kanal">
     <title lang="tr">Leylifer</title>
@@ -10213,6 +10218,31 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
     <desc lang="tr">Following the adventures of a curious little dino boy in the Mesosoic era, as he discovers the world around him. Join Milo and his friends and family to find out how dinosaurs lived. The programme helps little children develop their social skills, as well as their imagination, introducing them to the era of dinosaurs.</desc>
     <category lang="tr">Animasyon</category>
   </programme>
+  <programme start="20260128030000 +0000" stop="20260128070000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260128070000 +0000" stop="20260128130000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260128130000 +0000" stop="20260128170000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260128170000 +0000" stop="20260128200000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260128200000 +0000" stop="20260128210000 +0000" channel="ekol-sports">
+    <title lang="tr">Ekol Sport</title>
+    <desc lang="tr">Her Anı Yakalayın: Sporun Kısa, Net ve Etkili Hali!</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260128030000 +0000" stop="20260128070000 +0000" channel="ekol-tv">
     <title lang="tr">Ekol Tv</title>
     <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
@@ -14259,9 +14289,9 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Gündemin nabzının tutulduğu ve son dakika gelişmelerinin ekrana aktarıldığı Kanal D Ana Haber, Deniz Bayramoğlu’nun sunumuyla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260128170000 +0000" stop="20260129000000 +0000" channel="kanal-d">
+  <programme start="20260128170000 +0000" stop="20260128211500 +0000" channel="kanal-d">
     <title lang="tr">Eşref Rüya</title>
-    <desc lang="tr">Eşref, çocukken uzaktan aşık olduğu ve Rüya adını verdiği kızı ararken güçlü bir mafya üyesine dönüşür.</desc>
+    <desc lang="tr">Yetimlerin liderliğini resmen devralan Eşref, gücünü tüm aleme kanıtlayarak İhtiyar&#x27;ı tamamen karşısına alır. Nisan ile ilişkisini yoluna koyduğu sırada ise ekipteki muhbir meselesinin yeniden patlak vermesi, ikili arasında soğuk rüzgarlar esmesine neden olur. Kadir, Hıdır&#x27;ın Eşref&#x27;e destek çıkmasına içerlese de Hıdır&#x27;la yeniden yüzleşerek geçmiş defterleri açar. Hıdır, Kadir&#x27;in intikam için İhtiyar&#x27;la çatışacağını düşünür ancak Kadir&#x27;in aklında bambaşka planlar vardır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260128030000 +0000" stop="20260128090000 +0000" channel="kanal-t">
@@ -19759,10 +19789,12 @@ Hem Devran hem Hamiyet ve Yavuz, Azize&#x27;nin hamileliği için adak adamışt
   </programme>
   <programme start="20260128123000 +0000" stop="20260128130500 +0000" channel="tabii-spor">
     <title lang="tr">Deplasman Lezzetleri Sarıyer</title>
+    <desc lang="tr">Süper Lig ve 1. Lig&#x27;de yer alan takımların bulunduğu şehirlere giderek o bölgeye özgü hem damak lezzetleri hem de tarihe kısa bir yolculuk tadında, o ilin takımının önemli isimleri olan futbolcu, teknik adam, başkan ile röportajları ekranlarınıza geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128130500 +0000" stop="20260128145000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Slavia Prag - Barcelona&#x27;</title>
+    <title lang="tr">Slavia Prag - Barcelona</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128145000 +0000" stop="20260128151500 +0000" channel="tabii-spor">
@@ -19770,11 +19802,13 @@ Hem Devran hem Hamiyet ve Yavuz, Azize&#x27;nin hamileliği için adak adamışt
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128151500 +0000" stop="20260128170000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Bayern Münih - Union Saint Gilloise&#x27;</title>
+    <title lang="tr">Bayern Münih - Union Saint Gilloise</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128170000 +0000" stop="20260128172500 +0000" channel="tabii-spor">
     <title lang="tr">Tüm Zamanların En İyileri</title>
+    <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128172500 +0000" stop="20260128192000 +0000" channel="tabii-spor">
@@ -20658,6 +20692,117 @@ Pelé olmasaydı, Güzel Oyun da olmazdı. O, ve daima olacak… Oyunun Kralı.<
     <title lang="tr">Medeniyet ve Mimari</title>
     <desc lang="tr">Prof. Dr. Sadettin Ökten ve Dr. Sacide Akın Medeniyet ve Mimari programında Dersaadet&#x27;te bulunan Sultan Camileri ve külliyeleri üzerinden bir medeniyet okuması yapıyor.</desc>
     <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260128004500 +0000" stop="20260128023000 +0000" channel="trt-3">
+    <title lang="tr">Galatasaray - Atletico Madrid</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması: Galatasaray - Atletico Madrid</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128023000 +0000" stop="20260128041300 +0000" channel="trt-3">
+    <title lang="tr">Fenerbahçe - Aston Villa</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması: Fenerbahçe - Aston Villa</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128041300 +0000" stop="20260128041500 +0000" channel="trt-3">
+    <title lang="tr">İstiklal Marşı</title>
+    <desc lang="tr">Milli Marşımızın okunması</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260128041500 +0000" stop="20260128043000 +0000" channel="trt-3">
+    <title lang="tr">Hollanda Eredivisie Özetler</title>
+    <desc lang="tr">Hollanda Liginde haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128043000 +0000" stop="20260128050000 +0000" channel="trt-3">
+    <title lang="tr">Almanya Bundesliga Özetler</title>
+    <desc lang="tr">Almanya Bundesliga&#x27;da haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128050000 +0000" stop="20260128070000 +0000" channel="trt-3">
+    <title lang="tr">İlk Baskı</title>
+    <desc lang="tr">Güne &#x27;ilk baskı&#x27; ile başlayın! Spor dünyasındaki tüm gelişmeleri önce &#x27;ilk baskı&#x27;dan alın! Süper Lig, 1. Lig ve Avrupa liglerinden maç özetleri, dünden kalanlar, sıcak gelişmeler ve günün spor gündemi İlk Baskı&#x27;da.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260128070000 +0000" stop="20260128071500 +0000" channel="trt-3">
+    <title lang="tr">İşitme Engelliler Spor Bülteni</title>
+    <desc lang="tr">İşitme Engelliler Spor Bülteni; gündeme dair gelişmelerden derlenen içeriği ile hafta içi her gün ekranlarınıza geliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260128071500 +0000" stop="20260128072500 +0000" channel="trt-3">
+    <title lang="tr">Trendyol Süper Lig Goller</title>
+    <desc lang="tr">Trendyol Süper Lig&#x27;de haftanın karşılaşmalarının gol görüntüleri ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128072500 +0000" stop="20260128080000 +0000" channel="trt-3">
+    <title lang="tr">Spor Bülteni</title>
+    <desc lang="tr">Spora dair flaş gelişmeler, son dakika haberleri ve canlı bağlantılar Spor Bülteni&#x27;nde.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260128080000 +0000" stop="20260128093000 +0000" channel="trt-3">
+    <title lang="tr">Spor Manşet</title>
+    <desc lang="tr">Spor dünyası güne bu programla merhaba diyor. Günün öne çıkan gazete manşetlerini, köşe yazılarını ve spor dünyasındaki diğer tüm gelişmeleri sunucu yorumlarıyla ekranlarınıza geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128093000 +0000" stop="20260128103000 +0000" channel="trt-3">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Gün içinde spora dair Türkiye ve dünyada yaşanan gelişmelerden ilk siz haberdar olun.
+Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Ortası&#x27;nda</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260128103000 +0000" stop="20260128110000 +0000" channel="trt-3">
+    <title lang="tr">UEFA Şampiyonlar Ligi Öne Çıkan Maçlar</title>
+    <desc lang="tr">UEFA Şampiyonlar Lig&#x27;i karşılaşmalarında öne çıkan maç görüntüleri ekranlarınızageliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128110000 +0000" stop="20260128130000 +0000" channel="trt-3">
+    <title lang="tr">TBMM-TV</title>
+    <desc lang="tr">Türkiye Büyük Millet Meclisi&#x27;nde gerçekleştirilen oturumlar ve canlı bağlantılar ekrana geliyor.</desc>
+    <category lang="tr">Politika</category>
+  </programme>
+  <programme start="20260128130000 +0000" stop="20260128141500 +0000" channel="trt-3">
+    <title lang="tr">Gündem Futbol Transfer</title>
+    <desc lang="tr">Öne çıkan haberler, canlı bağlantılar, son dakika haberleri, gündemi sarsan analizler. Transfer dönemine ait bütün gelişmeler Gündem Futbol Transfer&#x27;de.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128141500 +0000" stop="20260128143000 +0000" channel="trt-3">
+    <title lang="tr">UEFA Şampiyonlar Ligi En Güzel Goller</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi&#x27;nin en güzel golleri ekranlarınızda.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128143000 +0000" stop="20260128150000 +0000" channel="trt-3">
+    <title lang="tr">Spor Merkezi</title>
+    <desc lang="tr">Spor dünyasındaki gelişmeler, canlı bağlantılar, son dakika haberleri, özel röportajlar ve sosyal medya yansımaları Spor Merkezi ile ekranlarınıza geliyor.Spor Merkezi; en güncel haberleri sizlere aktarıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128150000 +0000" stop="20260128160000 +0000" channel="trt-3">
+    <title lang="tr">Futbol Aklı</title>
+    <desc lang="tr">Futbol Aklı hayata ve futbola farklı bir pencereden bakıyor. Futbol dünyasında düşünülmeyenler ve konuşulmayanlar bu programda masaya yatırılıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128160000 +0000" stop="20260128180000 +0000" channel="trt-3">
+    <title lang="tr">Bahçeşehir Koleji - Aris</title>
+    <desc lang="tr">BKT Eurocup Basketbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128180000 +0000" stop="20260128193000 +0000" channel="trt-3">
+    <title lang="tr">Zeleznicar - Eczacıbaşı</title>
+    <desc lang="tr">CEV Zeren Grup Kadınlar Şampiyonlar Ligi Voleybol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128193000 +0000" stop="20260128200000 +0000" channel="trt-3">
+    <title lang="tr">Maç Özel</title>
+    <desc lang="tr">Temsilcilerimizin Avrupa maçlarının heyecanı TRT ekranları ve TABİİ&#x27;de yaşanıyor. Maç özetleri, özel röportajlar, analizler ve yorumlar, Maç Özel programında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128200000 +0000" stop="20260128204500 +0000" channel="trt-3">
+    <title lang="tr">UEFA Avrupa Konferans Ligi Özetler</title>
+    <desc lang="tr">UEFA Konferans Ligi&#x27;nde oynanan karşılaşmalardan özet görüntüler ekranlara geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260128204500 +0000" stop="20260128210000 +0000" channel="trt-3">
+    <title lang="tr">Maç Özel</title>
+    <desc lang="tr">Temsilcilerimizin Avrupa maçlarının heyecanı TRT ekranları ve TABİİ&#x27;de yaşanıyor. Maç özetleri, özel röportajlar, analizler ve yorumlar, Maç Özel programında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260128000000 +0000" stop="20260128003000 +0000" channel="trt-arabi">
     <title lang="tr">News</title>
