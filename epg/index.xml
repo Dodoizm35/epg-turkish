@@ -917,406 +917,6 @@ Eşi Leman ve kaynanası tarafından da sürekli aşağılanmaktadır. Bir gün 
     <desc lang="tr">Ülke gündemine yön veren gelişmeler tüm yönleriyle ele alınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="a-news">
-    <title lang="tr">Daybreak</title>
-    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129020000 +0000" channel="a-news">
-    <title lang="tr">Daybreak</title>
-    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="a-news">
-    <title lang="tr">Daybreak</title>
-    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129032500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129032500 +0000" stop="20260129033000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129033000 +0000" stop="20260129035000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129035000 +0000" stop="20260129035500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129035500 +0000" stop="20260129040000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129042500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129042500 +0000" stop="20260129043000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129043000 +0000" stop="20260129045000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129045000 +0000" stop="20260129045500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129045500 +0000" stop="20260129050000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129055000 +0000" channel="a-news">
-    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
-    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129055000 +0000" stop="20260129055500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129055500 +0000" stop="20260129060000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129061500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129061500 +0000" stop="20260129063000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129063000 +0000" stop="20260129065000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129065000 +0000" stop="20260129065500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129065500 +0000" stop="20260129070000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129072500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129072500 +0000" stop="20260129073000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129073000 +0000" stop="20260129075500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129075500 +0000" stop="20260129080000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129082500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129082500 +0000" stop="20260129083000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129083000 +0000" stop="20260129085000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129085000 +0000" stop="20260129085500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129085500 +0000" stop="20260129090000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129092500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129092500 +0000" stop="20260129093000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129093000 +0000" stop="20260129095000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129095000 +0000" stop="20260129095500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129102500 +0000" channel="a-news">
-    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
-    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129102500 +0000" stop="20260129105000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129105000 +0000" stop="20260129105500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129105500 +0000" stop="20260129110000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129112500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129112500 +0000" stop="20260129113000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129113000 +0000" stop="20260129115000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129115000 +0000" stop="20260129115500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129115500 +0000" stop="20260129120000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129122500 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129122500 +0000" stop="20260129123000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129123000 +0000" stop="20260129125000 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129125000 +0000" stop="20260129125500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129125500 +0000" stop="20260129130000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129132500 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129132500 +0000" stop="20260129133000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129133000 +0000" stop="20260129135000 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129135000 +0000" stop="20260129135500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129135500 +0000" stop="20260129140000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129142500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129143000 +0000" stop="20260129145000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129145000 +0000" stop="20260129145500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129155000 +0000" channel="a-news">
-    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
-    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129155000 +0000" stop="20260129155500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129155500 +0000" stop="20260129160000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129162500 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129162500 +0000" stop="20260129163000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129165000 +0000" channel="a-news">
-    <title lang="tr">Newsroom</title>
-    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129165000 +0000" stop="20260129165500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129165500 +0000" stop="20260129170000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129172500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129172500 +0000" stop="20260129173000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129173000 +0000" stop="20260129175000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129175000 +0000" stop="20260129175500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129182500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129182500 +0000" stop="20260129183000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129185000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129185000 +0000" stop="20260129185500 +0000" channel="a-news">
-    <title lang="tr">Sport</title>
-    <desc lang="tr">All about the sports.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129185500 +0000" stop="20260129190000 +0000" channel="a-news">
-    <title lang="tr">Weather</title>
-    <desc lang="tr">All about the weather.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129194500 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="a-news">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="a-news">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
   <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="a-para">
     <title lang="tr">İzlence</title>
     <category lang="tr">Diğer</category>
@@ -5240,6 +4840,626 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
+  <programme start="20260129000000 +0000" stop="20260129000500 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Norrie, Kulüp Binası&#x27;na atlayıp arkadaşlarıyla selamlaşır. Onu karşılarken ilk tanıştıkları zamanı hatırlarlar. 1/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129000500 +0000" stop="20260129001500 +0000" channel="cbeebies">
+    <title lang="tr">Dog Kitapları Sever</title>
+    <desc lang="tr">Dog ve Pug bilgiden söz eder ve Pug&#x27;ın bilgilerinden birini kontrol etmek için bir maceraya atılırlar. Bilgi Deposu&#x27;nda her şeyi biliyor gibi görünen baykuş Wow the Owl ile tanışırlar. Kaybolurlar ancak çıkış yolunu bulmak ve Pug&#x27;ın sorununu çözmek için yeni bir yöntem akıl ederler. 39/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129001500 +0000" stop="20260129002500 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stanley, Sophie ve Benjamin &#x27;Dino-Korsanlar&#x27; adında yeni bir oyun icat eder. Oyun o kadar iyidir ki Stanley&#x27;nin karnaval arabasına ilham kaynağı olarak kullanırlar. 4/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129002500 +0000" stop="20260129003000 +0000" channel="cbeebies">
+    <title lang="tr">Nelly ve Nora</title>
+    <desc lang="tr">Kamp çok sislidir, kızlar yollarını bulmak için seslerini kullanırlar. 8/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129003000 +0000" stop="20260129004000 +0000" channel="cbeebies">
+    <title lang="tr">Nelly ve Nora</title>
+    <desc lang="tr">Nelly ve Nora herkes için gökkuşağı yapar. 9/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129004000 +0000" stop="20260129005000 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">JoJo ve Gran Gran, Ned&#x27;in köpeği Monty&#x27;ye bakmaktadır. JoJo bütün gün Monty ile oynamak ister ancak Gran Gran Monty&#x27;nin biraz mamaya, parkta yürüyüşe ve iyi bir fırçaya ihtiyacı olduğunu söyler! 40/43</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129005000 +0000" stop="20260129010500 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">JoJo ile Gran Gran ikinci el eşya satışı için nelerin geri dönüştürülebileceğini ve neleri satışa götürmeleri gerektiğini görmek için evin her yerine bakarlar. 41/43</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129010500 +0000" stop="20260129011000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süpermarket donunca Süper Patates, Havuç, Brokoli ve Domates yemek çubuklarını kürek gibi kullanarak tekne yarışı antrenmanı yapıyor. Fakat senkronize olamadıkları için işler pek iyi gitmiyor. 39/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129011000 +0000" stop="20260129012000 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Denizci Po&#x27;nun yatıyla yelken açabilmesi için Tinpo Takımı&#x27;nın yelkenler için rüzgâr bulması gerekiyor. 65/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129012000 +0000" stop="20260129013000 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Sabitleme işçisi aletleri olmadan işini yapamıyor ama aletlerini işine götüremiyor. 66/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129013000 +0000" stop="20260129013500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını &#x27;baloncuk&#x27; demeye teşvik ediyor ve fırtına gibi bir kelime macerasına atılıyoruz! Bir sürü farklı baloncuk görüyoruz - büyük baloncuklar, küçük baloncuklar, parlak baloncuklar ve hatta zıplayan baloncuklar! 10/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129013500 +0000" stop="20260129015000 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler karahindibaların çevrede nasıl önemli bir rol oynadığını keşfeder. 5/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129015000 +0000" stop="20260129020000 +0000" channel="cbeebies">
+    <title lang="tr">Bahçemizden Öyküler</title>
+    <desc lang="tr">Hasat zamanı. Gri Sincap Maisie seradaki kayısıların çok lezzetli olduğunu duymuş ancak Karga Victor onları yemenin yasak olduğunu düşünüyor. 25/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129020000 +0000" stop="20260129021500 +0000" channel="cbeebies">
+    <title lang="tr">Evcil Hayvanım ve Ben: Minik Yaratıklar</title>
+    <desc lang="tr">Ferne, yaban arılarının gıda yetiştiriciliğine nasıl yardımcı olduğunu öğrenir. Rory ve Sandy bir yaban arısı evi inşa eder. 1/10</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129021500 +0000" stop="20260129022500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Jamie ve arama kurtarma köpeği Dan, Pusula Rozetini kazanmak için kayıp yürüyüşçüleri ve öğretmenlerini aramak üzere tepeye çıkarlar. 6/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129022500 +0000" stop="20260129023500 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Sincaplar  ilk kez sinemaya gitmeden önce Duggee onlara uymaları gereken kurallar olduğunu öğretir. 30/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129023500 +0000" stop="20260129024500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Uzay yarışı. Süpertato, Havuç&#x27;un Peynir Ayı&#x27;ndaki ilk Sebze olması için baget roketini uçurmasına yardım eder fakat Kötü Bezelye yarı yolda onlara çarparak karaya düşmelerine neden olur. 3/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129024500 +0000" stop="20260129025000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Ne yapacaklarının söylenmesinden bıkan Bluey ile Bingo, anne ve babalarına patronun kim olduğunu göstermek için görünmez dev arkadaşları Tina&#x27;dan yardım alır. Artık anne ve baba isyan edene kadar istedikleri her şeyi yapabilirler. 21/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129025000 +0000" stop="20260129030000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey, müşterisi Bingo&#x27;ya Balina İzleme oyununda şimdiye kadarki en iyi geziyi vaat ediyor ama anne ile babanın da katılması gerek. Fakat onlar gece geç saatte oynayamayacak kadar yorgunlar. 22/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129031500 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Su Maceraları</title>
+    <desc lang="tr">Andy, alaycı saçakbaş (püskül balığı) aramak için Kaliforniya&#x27;nın Pasifik kıyısına doğru yola çıkar. 6/30</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129031500 +0000" stop="20260129033000 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler sazlıklar hakkında her şeyi öğrenmek için doğada arayışa çıkar. 14/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129034000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süpermarket donunca Süper Patates, Havuç, Brokoli ve Domates yemek çubuklarını kürek gibi kullanarak tekne yarışı antrenmanı yapıyor. Fakat senkronize olamadıkları için işler pek iyi gitmiyor. 39/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129034000 +0000" stop="20260129035000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Bir grup gökbilimci gece Woofton Tepesi&#x27;nde kaybolunca Dan ve Jamie gece araması için ekipmanlarını hazırlar. 14/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129035000 +0000" stop="20260129040500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Bir golden Labrador olan Kika, görme engelli sahibi Dr. Amit&#x27;in rehber köpeğidir. Süper görüşünü kullanarak onun tek başına olabildiğince çok şey yapabilmesine yardım etmek üzere eğitilmiştir. Birlikte çok iyi bir takımlar! 1/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129040500 +0000" stop="20260129041500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Yatağa gitmek istemeyen Bluey, bütün gece ayakta olmak için gececi bir meyve yarasası olmayı hayal etmeye çalışır ve çok geçmeden kendini gece gökyüzünde uçarken bulur. 8/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129041500 +0000" stop="20260129042000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey en sevdiği oyuncağını kaldırmayı unutunca onu Socks&#x27;a kaptırır! Çocuklar onun oyalamak için atlı bir düğün düzenler, Baba ve Stripe Amca at olur! 9/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129042000 +0000" stop="20260129043000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey ve Bingo, Baba&#x27;nın mağdur müşteri olduğu çılgın bir &#x27;Otel&#x27; işletiyor. Ancak Bluey fazla kontrolcü olunca Bingo istifa eder ama Baba onlara uzlaşmayı öğretir. 10/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129043000 +0000" stop="20260129044000 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stan, arkadaşlarının okulda sunum yapabilmek için teleskopla aya daha yakından bakmalarına yardım eder. 24/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129044000 +0000" stop="20260129044500 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Yağmurlu bir gün ve Logi-Po&#x27;nun tek istediği sessizce oturup bir kitaba bakmak - ama önce şu şıp şıp damlamayı durdurması gerek! 13/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129044500 +0000" stop="20260129050000 +0000" channel="cbeebies">
+    <title lang="tr">Grace&#x27;in Harika Makineleri</title>
+    <desc lang="tr">Grace bize tümü yarışmak için tasarlanmış üç makine gösteriyor! Ormanda bir yarış arabası kullanıyor, bazı inanılmaz yarış kamyonlarına bakıyor ve ardından bir Stoxkart&#x27;la yarışıyor! 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129050000 +0000" stop="20260129051500 +0000" channel="cbeebies">
+    <title lang="tr">Gigglebiz</title>
+    <desc lang="tr">Herkes Gigglebiz&#x27;e dalmış durumda. Bazı yol çalışmalarından haber veren Gail Force çok gürültülü bir matkap yüzünden sesini duyurmakta zorlanır. 16/25</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129051500 +0000" stop="20260129054000 +0000" channel="cbeebies">
+    <title lang="tr">Kabadayılar</title>
+    <desc lang="tr">Kaptan Kaptan&#x27;ın amcası Joe King ziyarete geliyor. Joe amca ailedeki en iyi şakacıdır ve Kaptan Kaptan&#x27;ın ona büyük bir şaka planı vardır! 20/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129054000 +0000" stop="20260129055000 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Sincaplar, Duggee&#x27;nin bilge hayvanlar hakkında kitap okuduğunu görür ve bilgeliğin ne anlama geldiği hakkında daha fazla bilgi edinmek ister. 25/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129055000 +0000" stop="20260129055500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Judo, Bluey ve Bingo ile çamurda oynamak için can atıyor ama üstünü kirletmemesi gerek. 36/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129055500 +0000" stop="20260129060500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Heelerlar ve Lucky&#x27;nin ailesi büyük maçı izlemek için bir araya gelir, eğlenceli ama biraz gerginleşen bir aile deneyimi. 37/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129060500 +0000" stop="20260129061500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süper güçlü olmak isteyen Havuç, Hain Bezelye&#x27;nin robot kostümünü kendisi için tamir eder. 46/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129061500 +0000" stop="20260129062500 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">Kaptan Chloe&#x27;nin uzaydaki maceraları, gezegenleri görmek için uzay merkezini ziyaret eden JoJo ve Büyükanneye ilham verir. 24/41</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129062500 +0000" stop="20260129063500 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stanley, okulun ağaç dikme gününe katılabilmesi için sıkışmış olan Myrtle&#x27;ı yeni tünel açma makinesi ile kurtarmak zorundadır. 17/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129063500 +0000" stop="20260129064000 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını solucan demeye teşvik eder ve fırtına gibi bir kelime macerasına atılırız. 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129064000 +0000" stop="20260129064500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşının &#x27;zebra&#x27; demesini sağlar ve macera başlar. Çizgili zebra, dik saçlı zebra, otlayan zebra, koşan zebra ve bebek zebra gibi birçok farklı zebrayla tanışırız. 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129064500 +0000" stop="20260129070000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">İşitme köpeği Diesel, Rayane&#x27;nin ses konulu ev ödevi üstünde çalışmak için Woofton kütüphanesini ziyaret eder. Ancak kronometreleri kaybolunca Diesel onu bulmak için süper kulaklarına ihtiyaç duyar! 19/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129071500 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Su Maceraları</title>
+    <desc lang="tr">Andy, yavru Karolin ördekleri aramak üzere Kuzey Amerika&#x27;nın su basar ormanlarına gider. 4/30</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129071500 +0000" stop="20260129072000 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Dinozor Oyuncak Kutusu</title>
+    <desc lang="tr">İki T-Rex kendilerine eğlence aramaktadır. Ancak bataklık çamuruna saplanınca gelmiş geçmiş en büyük dinozorun yardımına ihtiyaç duyarlar. 4/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129072000 +0000" stop="20260129073500 +0000" channel="cbeebies">
+    <title lang="tr">Evcil Hayvanım ve Ben: Minik Yaratıklar</title>
+    <desc lang="tr">James havalı deniz canlıları olan denizyıldızlarını tanıyor. Chantelle, Sealife Weymouth Macera Parkı ve Akvaryumu&#x27;nda Dawood&#x27;la birlikte farklı denizyıldızı türlerini inceliyor. 14/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129073500 +0000" stop="20260129074000 +0000" channel="cbeebies">
+    <title lang="tr">Steve ve Aneeshwar Yaban Hayatı Keşfediyor</title>
+    <desc lang="tr">Steve ve Aneeshwar iki tane dünyanın en uzun hayvanı olan zürafayla tanışıp onları yaprakla beslerler. Ardından kırmızı pandaları ziyaret edip onların zürafayla yabani bağını keşfederler. 4/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129074000 +0000" stop="20260129074500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını &#x27;örümcek&#x27; demeye teşvik ediyor ve fırtına gibi bir sözcük serüvenine atılıyoruz. Bir sürü farklı örümcek görüyoruz! 8/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129074500 +0000" stop="20260129075000 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını &#x27;tabak&#x27; demeye teşvik ediyor ve fırtına gibi bir sözcük serüvenine atılıyoruz. Bugünkü bölüm tamamen tabaklarla ilgili! 9/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129075000 +0000" stop="20260129080500 +0000" channel="cbeebies">
+    <title lang="tr">Catie&#x27;nin Harika Makineleri</title>
+    <desc lang="tr">Catie, rayda giden üç şaşırtıcı makineyi test ediyor: buharlı tren, Maglev treni ve tramvay. 4/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129080500 +0000" stop="20260129081500 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Logi-Po evcil hayvan dostu balık Finn&#x27;le tıpkı Tinpo&#x27;nun hamsteri Herman&#x27;la oynadığı gibi nasıl oynayabilir? 58/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129081500 +0000" stop="20260129082500 +0000" channel="cbeebies">
+    <title lang="tr">Benim Dünya Mutfağım</title>
+    <desc lang="tr">Tilly, güzel kar taneleri şeklinde baharatlı çikolatalı bisküviler yapıyor. 15/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129082500 +0000" stop="20260129084000 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Su Maceraları</title>
+    <desc lang="tr">Andy, alaycı saçakbaş (püskül balığı) aramak için Kaliforniya&#x27;nın Pasifik kıyısına doğru yola çıkar. 6/30</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129084000 +0000" stop="20260129085500 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler sazlıklar hakkında her şeyi öğrenmek için doğada arayışa çıkar. 14/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129085500 +0000" stop="20260129090500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süpermarket donunca Süper Patates, Havuç, Brokoli ve Domates yemek çubuklarını kürek gibi kullanarak tekne yarışı antrenmanı yapıyor. Fakat senkronize olamadıkları için işler pek iyi gitmiyor. 39/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129090500 +0000" stop="20260129091000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süpermarket reyonlarında yaramaz Kötü Bezelye ile mücadele eden dünyanın ilk patates süper kahramanı Süpertato&#x27;nun maceralarını takip edin. 12/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129091000 +0000" stop="20260129092500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Bir grup gökbilimci gece Woofton Tepesi&#x27;nde kaybolunca Dan ve Jamie gece araması için ekipmanlarını hazırlar. 14/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129092500 +0000" stop="20260129093500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Bir golden Labrador olan Kika, görme engelli sahibi Dr. Amit&#x27;in rehber köpeğidir. Süper görüşünü kullanarak onun tek başına olabildiğince çok şey yapabilmesine yardım etmek üzere eğitilmiştir. Birlikte çok iyi bir takımlar! 1/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129093500 +0000" stop="20260129094500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Yatağa gitmek istemeyen Bluey, bütün gece ayakta olmak için gececi bir meyve yarasası olmayı hayal etmeye çalışır ve çok geçmeden kendini gece gökyüzünde uçarken bulur. 8/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129094500 +0000" stop="20260129095000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey en sevdiği oyuncağını kaldırmayı unutunca onu Socks&#x27;a kaptırır! Çocuklar onun oyalamak için atlı bir düğün düzenler, Baba ve Stripe Amca at olur! 9/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129095000 +0000" stop="20260129100000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey ve Bingo, Baba&#x27;nın mağdur müşteri olduğu çılgın bir &#x27;Otel&#x27; işletiyor. Ancak Bluey fazla kontrolcü olunca Bingo istifa eder ama Baba onlara uzlaşmayı öğretir. 10/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129100000 +0000" stop="20260129101000 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stan, arkadaşlarının okulda sunum yapabilmek için teleskopla aya daha yakından bakmalarına yardım eder. 24/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129101000 +0000" stop="20260129101500 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Yağmurlu bir gün ve Logi-Po&#x27;nun tek istediği sessizce oturup bir kitaba bakmak - ama önce şu şıp şıp damlamayı durdurması gerek! 13/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129101500 +0000" stop="20260129103000 +0000" channel="cbeebies">
+    <title lang="tr">Grace&#x27;in Harika Makineleri</title>
+    <desc lang="tr">Grace bize tümü yarışmak için tasarlanmış üç makine gösteriyor! Ormanda bir yarış arabası kullanıyor, bazı inanılmaz yarış kamyonlarına bakıyor ve ardından bir Stoxkart&#x27;la yarışıyor! 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129103000 +0000" stop="20260129104500 +0000" channel="cbeebies">
+    <title lang="tr">Gigglebiz</title>
+    <desc lang="tr">Herkes Gigglebiz&#x27;e dalmış durumda. Bazı yol çalışmalarından haber veren Gail Force çok gürültülü bir matkap yüzünden sesini duyurmakta zorlanır. 16/25</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129104500 +0000" stop="20260129111000 +0000" channel="cbeebies">
+    <title lang="tr">Kabadayılar</title>
+    <desc lang="tr">Kaptan Kaptan&#x27;ın amcası Joe King ziyarete geliyor. Joe amca ailedeki en iyi şakacıdır ve Kaptan Kaptan&#x27;ın ona büyük bir şaka planı vardır! 20/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129111000 +0000" stop="20260129111500 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Sincaplar, Duggee&#x27;nin bilge hayvanlar hakkında kitap okuduğunu görür ve bilgeliğin ne anlama geldiği hakkında daha fazla bilgi edinmek ister. 25/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129111500 +0000" stop="20260129112500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Judo, Bluey ve Bingo ile çamurda oynamak için can atıyor ama üstünü kirletmemesi gerek. 36/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129112500 +0000" stop="20260129113500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Heelerlar ve Lucky&#x27;nin ailesi büyük maçı izlemek için bir araya gelir, eğlenceli ama biraz gerginleşen bir aile deneyimi. 37/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129113500 +0000" stop="20260129114000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süper güçlü olmak isteyen Havuç, Hain Bezelye&#x27;nin robot kostümünü kendisi için tamir eder. 46/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129114000 +0000" stop="20260129115000 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stanley, okulun ağaç dikme gününe katılabilmesi için sıkışmış olan Myrtle&#x27;ı yeni tünel açma makinesi ile kurtarmak zorundadır. 17/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129115000 +0000" stop="20260129115500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını solucan demeye teşvik eder ve fırtına gibi bir kelime macerasına atılırız. 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129115500 +0000" stop="20260129120000 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşının &#x27;zebra&#x27; demesini sağlar ve macera başlar. Çizgili zebra, dik saçlı zebra, otlayan zebra, koşan zebra ve bebek zebra gibi birçok farklı zebrayla tanışırız. 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129120000 +0000" stop="20260129121500 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Su Maceraları</title>
+    <desc lang="tr">Andy, bir dağ gölündeki flamingoların resmini yapmak için Güney Amerika&#x27;daki And Dağları&#x27;na gider. 7/30</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129121500 +0000" stop="20260129123000 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler baykuşlar hakkında her şeyi öğrenmek için doğada arayışa çıkar. 15/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129123000 +0000" stop="20260129124000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süper Patates, Üzüm Çocuklarına bir Süper Patates eğitim filmi gösterir. Fakat Hain Bezelye, Patates Kulesi&#x27;ni ele geçirmek için gizlice içeri girer. Üzüm Çocukları halı fırlatıcıyı kullanarak Hain Bezelye&#x27;yi kuleden dışarı atar. 40/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129124000 +0000" stop="20260129125000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Engelli yardım köpeği Tinks ve sahibi Charli, son dakika ziyaretçileri Annabel için zamanında yapmaları gereken uzun bir iş listesiyle karşı karşıyadır! 15/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129125000 +0000" stop="20260129130500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Sınır Collie&#x27;si Meagaidh, sahibi Tom&#x27;la birlikte çalışan bir arama kurtarma köpeğidir. Joe ve kızı Kate çok dik bir tepenin zirvesinde kaybolmuşlardır. Tom ve Meagaidh onları bulmak için zamanla yarışır. 2/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129130500 +0000" stop="20260129131500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey bisiklete binmeyi öğrenmekte zorlanıyor. Ancak o ve Baba arkadaşlarının kendi görevlerindeki kararlılıklarını seyredince Bluey bir kez daha denemeye karar verir. 11/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129131500 +0000" stop="20260129132000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Anaokulunun Bob Bilby kuklasını eve götürüp hafta sonunu not defterine yazma sırası Bingo&#x27;ya gelince aile ona iyi vakit geçirtmeye karar verir. 12/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129132000 +0000" stop="20260129133000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bingo, Bluey&#x27;nin casus oyununu oynamayı bırakınca yetişkin kontrol cihazı düzgün çalışamaz! Bluey şimdi Bingo&#x27;nun ne kadar önemli olduğunu ve onu geri kazanması gerektiğini anlar! 13/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129133000 +0000" stop="20260129134000 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stanley, Hattie, Fred ve Fifi&#x27;ye yeni bir yemek dağıtım hizmeti konusunda yardım eder. Her şey iyi başlar ancak her dağıtımda bir sorun ortaya çıkar. Stanley, Myrtle&#x27;ın partisinden önce bunları çözmelidir. 25/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129134000 +0000" stop="20260129134500 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Çatıda bir plaj kulağa eğlenceli geliyor - bir de her şeyi gölgeleyen şu sonu gelmez bulut akışı olmasa! 14/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129134500 +0000" stop="20260129140000 +0000" channel="cbeebies">
+    <title lang="tr">Grace&#x27;in Harika Makineleri</title>
+    <desc lang="tr">CBeebies&#x27;in motosiklet sürücüsü Grace, bataklıklarda çalışan üç harika makineyi gösteriyor! 12/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129140000 +0000" stop="20260129141500 +0000" channel="cbeebies">
+    <title lang="tr">Gigglebiz</title>
+    <desc lang="tr">Kaptan Sevimli yeni stajyeri Muhteşem Kız&#x27;a bir ipucu daha verir. Bu kez ona saklanmanın çok aptalca yollarını gösterir. 17/25</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129141500 +0000" stop="20260129144000 +0000" channel="cbeebies">
+    <title lang="tr">Kabadayılar</title>
+    <desc lang="tr">Kaptan Kaptan birinin (veya bir şeyin) sandviçlerini yediğini ve sarı bir salya izi bıraktığını fark eder. 21/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129144000 +0000" stop="20260129145000 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Norrie, Sincap Kulübü&#x27;ne geç kalınca Duggee sincaplara işe gidip gelmenin ne olduğunu öğretir; sizi evden öğrenmeye, çalışmaya veya oynamaya götürebilecek bir yolculuk. 26/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129145000 +0000" stop="20260129145500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey ve Bingo, sihirli ksilofonları konusunda tartışırken Baba kontrolü eline alıp Bluey&#x27;i dondurur. Kurtulmak için tek umudu Bingo&#x27;dur. 1/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129145500 +0000" stop="20260129150500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Hemşire Bingo, Baba&#x27;nın çok tuhaf bir röntgenini çekince Doktor Bluey&#x27;e ihtiyaç duyulur. Görünüşe göre karnında bir kedi vardır! 2/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129150500 +0000" stop="20260129151500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Hain Bezelye, süpermarketin her yerinde ortaya çıkan bir sürü Süper Patates tarafından kandırılır. 47/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129151500 +0000" stop="20260129152500 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">JoJo ve Büyükanne, Büyük Büyükanneyi arayınca o günün Saint Lucia&#x27;da Jounen Kweyol (Kreole Günü) olduğunu öğrenirler. Büyükanne kutlamak için JoJo&#x27;ya Kreole dilinde birkaç kelime öğretir. 25/41</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129152500 +0000" stop="20260129153500 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Sirk otobüsü bozuldu ama çocuklar sirk gösterisini bekliyor! Stanley yardım edebilecek mi? 18/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129153500 +0000" stop="20260129154000 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını tekne demeye teşvik eder ve fırtına gibi bir kelime macerasına atılırız. 12/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129154000 +0000" stop="20260129154500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşının &#x27;traktör&#x27; demesini sağlar ve macera başlar. Mavi traktör, çekici traktör, çamura saplanmış traktör ve çiftlik traktörü gibi birçok farklı traktör görürüz. 12/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129154500 +0000" stop="20260129160000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Rehber köpek Kika, Dr. Amit ve arkadaşı Alana&#x27;nın sesli tenis oynamasına yardım etmek için süper görüşünü kullanır. Kika spor merkezindeki gürültülü topların peşinden koşmamaya çalışır. 20/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129161000 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">JoJo ve Gran Gran&#x27;in müze gezisinden sonra eve trenle dönmesi gerekecek. JoJo tren tarifelerini ve biletlerini öğrenir. 42/43</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129161000 +0000" stop="20260129162500 +0000" channel="cbeebies">
+    <title lang="tr">Jojo ve Büyükanne</title>
+    <desc lang="tr">Kışın soğuk bir öğleden sonra, ağaçlar çıplak ve hava ayaz. Gran Gran ve Jojo, Jojo&#x27;nun annesiyle babasının özel bir misafiri havaalanından alıp gelmesini bekliyor - Büyük Gran Gran&#x27;i! 43/43</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129163000 +0000" channel="cbeebies">
+    <title lang="tr">Nelly ve Nora</title>
+    <desc lang="tr">Nelly, hastadır ve yatmaktadır, Nora onu neşelendirmeye çalışır. 10/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129163000 +0000" stop="20260129164000 +0000" channel="cbeebies">
+    <title lang="tr">Nelly ve Nora</title>
+    <desc lang="tr">Şemsiyeler ve şapkalar için hava çok rüzgarlıdır ama Nelly ve Nora için değil. 11/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129164000 +0000" stop="20260129165000 +0000" channel="cbeebies">
+    <title lang="tr">Stan Can</title>
+    <desc lang="tr">Stanley&#x27;nin Myrtle&#x27;ın balkabağını salyangoz Speedy&#x27;den koruması gerekiyor. Onu Stanley&#x27;nin yaratıcılığını test eden yapışkan Speedy&#x27;den korumak için bir dizi engel ve savunma aracı inşa eder. 5/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129165000 +0000" stop="20260129165500 +0000" channel="cbeebies">
+    <title lang="tr">Tinpo</title>
+    <desc lang="tr">Postacı Po Janie, mektupları dağıtmak için daha kısa bir yola ihtiyaç duyar. 56/78</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129165500 +0000" stop="20260129170500 +0000" channel="cbeebies">
+    <title lang="tr">Bahçemizden Öyküler</title>
+    <desc lang="tr">Fare Betty&#x27;nin bir sorunu var. Bahçe kulübesi duvarının arkasında yer alan sıcak yuvası ailesine çok küçük gelmeye başladı. Eski evlerinden ayrılıp daha büyük bir yer bulma zamanı geldi. 20/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129170500 +0000" stop="20260129171500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey ve Bingo hep birlikte resim çizmek için Muffin ve Socks ile görüntülü sohbet etmeye bayılıyor. Muffin, Socks&#x27;a fırsat tanımayınca çocuklar açgözlülüğün ne anlama geldiğini öğrenirler. 24/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129171500 +0000" stop="20260129172000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Chloe babasına doğaçlama yapmayı ve Bluey&#x27;nin Ahtapot oyununu evde oynamayı öğretmeye çalışınca ikisi de oyunu anlamakta veya zevk almakta zorlanır. Kendi yöntemleriyle oynayabileceklerini fark edene kadar. 40/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129172000 +0000" stop="20260129173000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Çöpü her zaman Bluey, Bingo ve Baba dışarı çıkarır. Birkaç hafta içinde Bingo babasına anaokulundaki ona kötü davranan yeni çocuktan bahseder ve annesi güzel tavsiyelerde bulunur. 41/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129173000 +0000" stop="20260129174000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Muffin parmağını emmekten vazgeçmeyince utanç külahı takmak zorunda kalır. Ancak külah ona ayak bağı olur ve artık Bluey ve Bingo ile &#x27;sandviç dükkânı&#x27; oynayamaz. 42/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129174000 +0000" stop="20260129174500 +0000" channel="cbeebies">
+    <title lang="tr">Newton Avenue</title>
+    <desc lang="tr">Rio, uyuyan babası için kayıp bir terliği bulmaya çalışır. Babası sadece bir terliği olmasına aldırmaz ama Rio diğer ayağındaki çorabın delik olduğunu fark eder ve onun için üzülür. 12/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129174500 +0000" stop="20260129175500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süper Patates, Üzüm Çocuklarına bir Süper Patates eğitim filmi gösterir. Fakat Hain Bezelye, Patates Kulesi&#x27;ni ele geçirmek için gizlice içeri girer. Üzüm Çocukları halı fırlatıcıyı kullanarak Hain Bezelye&#x27;yi kuleden dışarı atar. 40/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını &#x27;yıldız&#x27; demeye teşvik ediyor ve fırtına gibi bir sözcük serüvenine atılıyoruz. Çok sayıda yıldız görüyoruz - sarı bir yıldız, parlak bir yıldız, sivri bir yıldız ve çıngırdayan bir yıldız. 10/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129180000 +0000" stop="20260129180500 +0000" channel="cbeebies">
+    <title lang="tr">Yakka Dee</title>
+    <desc lang="tr">Dee bir arkadaşını &#x27;kedi&#x27; demeye teşvik ediyor ve fırtına gibi bir kelime macerasına atılıyoruz! Siyah bir kedi, beyaz bir kedi, yavru bir kedi ve mırlayan bir kedi ve ayrıca çok havalı bir kedi var! 11/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129180500 +0000" stop="20260129182000 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler deniz yosununun çevrede nasıl bu kadar önemli bir rol oynadığını keşfeder. 6/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129182000 +0000" stop="20260129183000 +0000" channel="cbeebies">
+    <title lang="tr">Bahçemizden Öyküler</title>
+    <desc lang="tr">Bahçede karlı bir gün ve sakinlerin çoğu daha önce hiç kar görmemiş. Porsuk Casey, Sülün Parker&#x27;a yukarı tarladaki kardan adamdan bahseder. 26/26</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129183000 +0000" stop="20260129184500 +0000" channel="cbeebies">
+    <title lang="tr">Evcil Hayvanım ve Ben: Minik Yaratıklar</title>
+    <desc lang="tr">Ferne bir tarantula ile tanışır. Rory ve Sandy bahçede süper kahraman örümcekler arar. 2/10</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129184500 +0000" stop="20260129190000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Engelli yardım köpeği Tinks, Charli ile birlikte Dıgıdık Ahırları&#x27;nı ziyaret eder ve burada Charli&#x27;yi ilk binicilik dersine çıkaracak olan Mist adında çok uzun boylu bir atla tanışırlar. 7/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129190000 +0000" stop="20260129190500 +0000" channel="cbeebies">
+    <title lang="tr">Hey Duggee</title>
+    <desc lang="tr">Sincaplar aynı orman macerasına hazırlanıyor ama hepsinin sabahı birbirinden biraz farklı görünüyor. 31/40</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129190500 +0000" stop="20260129191500 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Tehlikeli bitki koridorunda Süpertato ve Kötü Bezelye hazineyi bulmak için iş birliği yapar çünkü her ikisinin de haritası yarımdır. Fakat Bezelye onu kandırıp hazineyi kendisi bulmak için haritayı çalar. 4/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129191500 +0000" stop="20260129192500 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Yataktan kalkınca Bluey&#x27;nin yüzüne gaz çıkarmakla suçlanan baba, annenin yargıç, Bluey ile Bingo&#x27;nun da tanık olduğu mahkemede yargılanır. Bluey ayrıca orada ne yaptığını açıklamak zorunda kalabilir. 23/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129192500 +0000" stop="20260129193000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey ve Bingo hep birlikte resim çizmek için Muffin ve Socks ile görüntülü sohbet etmeye bayılıyor. Muffin, Socks&#x27;a fırsat tanımayınca çocuklar açgözlülüğün ne anlama geldiğini öğrenirler. 24/73</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129193000 +0000" stop="20260129194500 +0000" channel="cbeebies">
+    <title lang="tr">Andy&#x27;nin Su Maceraları</title>
+    <desc lang="tr">Andy, bir dağ gölündeki flamingoların resmini yapmak için Güney Amerika&#x27;daki And Dağları&#x27;na gider. 7/30</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="cbeebies">
+    <title lang="tr">Ranger Hamza&#x27;nın Doğa Arayışı</title>
+    <desc lang="tr">Ranger Hamza ve Gezginler baykuşlar hakkında her şeyi öğrenmek için doğada arayışa çıkar. 15/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129200000 +0000" stop="20260129201000 +0000" channel="cbeebies">
+    <title lang="tr">Süper Patates</title>
+    <desc lang="tr">Süper Patates, Üzüm Çocuklarına bir Süper Patates eğitim filmi gösterir. Fakat Hain Bezelye, Patates Kulesi&#x27;ni ele geçirmek için gizlice içeri girer. Üzüm Çocukları halı fırlatıcıyı kullanarak Hain Bezelye&#x27;yi kuleden dışarı atar. 40/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129201000 +0000" stop="20260129202000 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Engelli yardım köpeği Tinks ve sahibi Charli, son dakika ziyaretçileri Annabel için zamanında yapmaları gereken uzun bir iş listesiyle karşı karşıyadır! 15/20</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129202000 +0000" stop="20260129203500 +0000" channel="cbeebies">
+    <title lang="tr">Köpek Takımı</title>
+    <desc lang="tr">Sınır Collie&#x27;si Meagaidh, sahibi Tom&#x27;la birlikte çalışan bir arama kurtarma köpeğidir. Joe ve kızı Kate çok dik bir tepenin zirvesinde kaybolmuşlardır. Tom ve Meagaidh onları bulmak için zamanla yarışır. 2/15</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129203500 +0000" stop="20260129204000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bluey bisiklete binmeyi öğrenmekte zorlanıyor. Ancak o ve Baba arkadaşlarının kendi görevlerindeki kararlılıklarını seyredince Bluey bir kez daha denemeye karar verir. 11/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129204000 +0000" stop="20260129205000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Anaokulunun Bob Bilby kuklasını eve götürüp hafta sonunu not defterine yazma sırası Bingo&#x27;ya gelince aile ona iyi vakit geçirtmeye karar verir. 12/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260129205000 +0000" stop="20260129210000 +0000" channel="cbeebies">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Bingo, Bluey&#x27;nin casus oyununu oynamayı bırakınca yetişkin kontrol cihazı düzgün çalışamaz! Bluey şimdi Bingo&#x27;nun ne kadar önemli olduğunu ve onu geri kazanması gerektiğini anlar! 13/52</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
   <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="ciftci-tv">
     <title lang="tr">Baş Çoban</title>
     <category lang="tr">Magazin</category>
@@ -7064,6 +7284,146 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <title lang="tr">Yasin Suresi</title>
     <desc lang="tr">Hz. Peygamberin (sav) &#x27;Kur&#x27;an&#x27;ın kalbi&#x27; olarak nitelendirdiği Yasin Sûresi okunuyor.</desc>
     <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260129000500 +0000" stop="20260129005000 +0000" channel="dmax">
+    <title lang="tr">Çifte Kurtuluş</title>
+    <desc lang="tr">Sri Lanka&#x27;da Joe fillerle karşı karşıya gelir ve bir kayadan atlamak zorunda kalır. Cody, antika bir yangın pistonunda uzmanlaşır ve timsahlarla dolu bir nehirden geçerler.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129005000 +0000" stop="20260129013500 +0000" channel="dmax">
+    <title lang="tr">Çifte Kurtuluş</title>
+    <desc lang="tr">Etrafı kum tepecikleriyle çevrili Joe ve Cody affı olmayan bu çölü geçmeye çalışır ve göçebelerin hayatta kalma numaralarını öğrenmek üzere Umman&#x27;ın dağlarında yürür.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129013500 +0000" stop="20260129015500 +0000" channel="dmax">
+    <title lang="tr">Hurda Bizim İşimiz</title>
+    <desc lang="tr">Dawgs ekibi, Virginia&#x27;daki Wytheville&#x27;de, Reed Creek Değirmeni&#x27;ndekileri kurtarır. Mike ise yeğeni için bir konsol yapar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129015500 +0000" stop="20260129021500 +0000" channel="dmax">
+    <title lang="tr">Hurda Bizim İşimiz</title>
+    <desc lang="tr">Ekip, Virginia&#x27;daki New Hope&#x27;ta bulunan Wilberger Cenaze Evi&#x27;nin kimi kısımlarını kurtarır. Önemli parçalar bir asansör ile bir ambar kapısının parçasını içerir.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129021500 +0000" stop="20260129023500 +0000" channel="dmax">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyalar mercek altına alınmaya devam ediyor - düzeçlerin, hotdogların, zımpara kağıdının ve üzerindeki törpüleyici maddelerin nasıl yapıldığını göreceğiz.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129023500 +0000" stop="20260129030000 +0000" channel="dmax">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyalar mercek altına alınmaya devam ediyor - dondurmanın, ağaçtan golf sopalarının, uçak kanatlarının ve araba aküsü geri dönüşümünün nasıl yapıldığını göreceğiz.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129030000 +0000" stop="20260129033000 +0000" channel="dmax">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyalar mercek altına alınmaya devam ediyor - yakıt pompalarının, kriket sopalarının, bozuk para makinelerinin ve kolay bükülen demir boruların nasıl yapıldığı ekranda.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129033000 +0000" stop="20260129040000 +0000" channel="dmax">
+    <title lang="tr">Nasıl Yapılmış?</title>
+    <desc lang="tr">Gündelik eşyalar mercek altına alınmaya devam ediyor - tahta fıçıların, yangın musluklarının, otomobil koltuklarının ve katot ışın tüplerinin nasıl yapıldığını göreceğiz.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129040000 +0000" stop="20260129045300 +0000" channel="dmax">
+    <title lang="tr">Kırsalın Ustaları</title>
+    <desc lang="tr">Ekip bir ahşap kulübeyi restore ederken Mark Bowe, Alabama&#x27;da büyüleyici bir kır düğünü evini ve döşeme tahtalarından mobilya yapan bir ustayı ziyaret ediyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129045300 +0000" stop="20260129054600 +0000" channel="dmax">
+    <title lang="tr">Kırsalın Ustaları</title>
+    <desc lang="tr">Kırsalın Ustaları Teksas&#x27;ta bugüne kadar yaptıkları en büyük ahşap yapıyı inşa ederken 37 derecelere ulaşan sıcakla mücadele ediyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129054600 +0000" stop="20260129064600 +0000" channel="dmax">
+    <title lang="tr">Ağaç Ev Ustaları</title>
+    <desc lang="tr">Bir çift dağ manzarasını yakalayan bir ağaç ev istemektedir. Pete, daha önce görülemeyen manzarayı gören geniş pencerelere sahip bir bungalov inşa eder.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129064600 +0000" stop="20260129074000 +0000" channel="dmax">
+    <title lang="tr">Doğa Evi Ustaları</title>
+    <desc lang="tr">Doğa evleri çok küçük olduğu için kızları verandada bir çadırda uyuyan bir aileye yardım eden ekip, evin zeminini tamir edip birkaç özel dokunuşla evdeki yaşam alanını arttırıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129074000 +0000" stop="20260129084000 +0000" channel="dmax">
+    <title lang="tr">Alaska Hava Yolları</title>
+    <desc lang="tr">Era Alaska sellerden hasar gören bir köye yardım götürüyor. Cephane taşıyan iki pilot Rusya kıyılarında kayboluyorlar. Anchorage&#x27;da Jim&#x27;in Cessna 180&#x27;i yanmaya başlıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129084000 +0000" stop="20260129104000 +0000" channel="dmax">
+    <title lang="tr">Altın Peşinde</title>
+    <desc lang="tr">Tony, Dredge 1 dâhil her tesisi çalıştırmak için oğlundan yardım ister. Parker, Dominion Creek arazisindeki her altın parçasını toplar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129104000 +0000" stop="20260129111000 +0000" channel="dmax">
+    <title lang="tr">Modern Rehinciler: İngiltere</title>
+    <desc lang="tr">Mark Manning ve Chester&#x27;da hizmet veren Regal Pawn&#x27;daki ekibi ürün alıp satar ve her kuruşun hesabını yapan unutulmaz müşterilerle pazarlık yapar!.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129111000 +0000" stop="20260129114000 +0000" channel="dmax">
+    <title lang="tr">Modern Rehinciler: İngiltere</title>
+    <desc lang="tr">Mark Manning ve Chester&#x27;da hizmet veren Regal Pawn&#x27;daki ekibi ürün alıp satar ve her kuruşun hesabını yapan unutulmaz müşterilerle pazarlık yapar!.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129114000 +0000" stop="20260129120700 +0000" channel="dmax">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Les, işlerle ilgilenemeyecek duruma gelince Seth ve Ashley dükkânı birlikte işletmeye başlıyor. Seth, çalışanların sayısını azaltınca Ashley satış alanında yalnız kalıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129120700 +0000" stop="20260129123500 +0000" channel="dmax">
+    <title lang="tr">İkinci El Kralları</title>
+    <desc lang="tr">Ashley, sorunlu bir müşterinin dükkana girmesini yasaklamak istiyor ama Seth onun zararsız olduğunu düşünüyor. Müşteriye verilen ikinci şans çalışanları tehlikeye atacak mı?.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129123500 +0000" stop="20260129133500 +0000" channel="dmax">
+    <title lang="tr">Doğuştan Usta</title>
+    <desc lang="tr">Ant 1929 model bir Austin 7 bulur ama fren sorunları, kötü farlar ve sürpriz bir kusurla karşılaşır. Ek olarak, ev tadilatının bitiş tarihi yaklaşır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129133500 +0000" stop="20260129143500 +0000" channel="dmax">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Mike ilk yıllarından bir SUV yakalıyor - 1970 International Harvester Scout 800A. Ant yağ sızdıran transfer kutusunu yenilemek ve aracın iç döşemesini değiştirmek zorunda.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129143500 +0000" stop="20260129153500 +0000" channel="dmax">
+    <title lang="tr">Tamirat Tadilat</title>
+    <desc lang="tr">Mike ve Ant dünyanın her yerinden hayranlarının sorularını yanıtlıyorlar. Bunu yaparken dizinin iç işleyişi konusunda bilgi veriyor ve son sekiz araca tekrar göz atıyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129153500 +0000" stop="20260129162500 +0000" channel="dmax">
+    <title lang="tr">Modern Rehinciler ile Amerika Turu</title>
+    <desc lang="tr">Rick, Corey ve Chum yola koyularak Las Vegas ışıklarını geride bırakır ve ülkedeki en iyi fiyatları bulmak için Amerika&#x27;yı turlamaya başlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129162500 +0000" stop="20260129164500 +0000" channel="dmax">
+    <title lang="tr">Konteyner Savaşları</title>
+    <desc lang="tr">Liman müzayedelerinin yüksek tempolu dünyası büyük para, büyük risk ve büyük ego gerektirir. Yüklü paraların söz konusu olduğu bu iş bir oyun değil, bir savaş. Kazanan kim olacak?.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129164500 +0000" stop="20260129174500 +0000" channel="dmax">
+    <title lang="tr">Hurda Avcıları</title>
+    <desc lang="tr">Drew, Viki ve Alister&#x27;la birlikte en güvenilir kontaklarına uğrar, Kent&#x27;teki favori satıcısını ve Lancaster&#x27;daki yeni bir dükkânı ziyaret eder.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129174500 +0000" stop="20260129184500 +0000" channel="dmax">
+    <title lang="tr">Kamyonet Hanedanı</title>
+    <desc lang="tr">Jerry Jr. mezattan alınan bir Cehennem Ateşi kamyonu için efsane şef Guy Fieri&#x27;ye ücretsiz restorasyon sunar. Frank özel bir anlaşmaya imza atar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129184500 +0000" stop="20260129194400 +0000" channel="dmax">
+    <title lang="tr">Kaza Müfettişi</title>
+    <desc lang="tr">Uzmanlar bir bisikletçiyi ağır yaralayarak kaçan şoförü tespit edebilecek mi? Kavşakta yaşanan bir kaza için adli tıp incelemesi gerekir.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129194400 +0000" stop="20260129203400 +0000" channel="dmax">
+    <title lang="tr">Cevher Avı</title>
+    <desc lang="tr">Ron ve cevher avcılarından oluşan ekibi Burma&#x27;ya gider. Cevher tüccarlarını onlarca yıl boyunca topraklarına kabul etmeyen ülkenin başkanı ekibi ülkeye davet eder.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129203400 +0000" stop="20260129213300 +0000" channel="dmax">
+    <title lang="tr">Cooper&#x27;ın Hazinesi</title>
+    <desc lang="tr">Darrell ve ekibi Gordo&#x27;nun listesiyle ilişkili bir gemi enkazına gidiyor. Asırlarca sert rüzgarlar ve dalgaların batırdığı gemilerin enkazıyla dolu sığ denize doğru yol alıyorlar.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260129040000 +0000" stop="20260129090000 +0000" channel="dream-turk">
     <title lang="tr">Dream Türk En İyiler</title>
@@ -9629,566 +9989,6 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <title lang="tr">Pembe Masa</title>
     <desc lang="tr">Özlem Esra Ada ile Pembe Masa Ekotürk&#x27;te.</desc>
     <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129000000 +0000" stop="20260129000500 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129000500 +0000" stop="20260129002000 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129002000 +0000" stop="20260129003000 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: I don&#x27;t know</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129003000 +0000" stop="20260129010000 +0000" channel="english-club-tv">
-    <title lang="tr">English In Focus: Phrasal verbs with the word &quot;Fork&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129010000 +0000" stop="20260129024000 +0000" channel="english-club-tv">
-    <title lang="tr">50 First Dates</title>
-    <desc lang="tr">50 First Dates (2004) is a romantic comedy directed by Peter Segal. The story follows veterinarian Henry, who falls in love with a woman suffering from amnesia, causing her to forget everything each morning. The leading roles are played by Adam Sandler and Drew Barrymore.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260129024000 +0000" stop="20260129025000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: Pirate Castle</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129025000 +0000" stop="20260129030000 +0000" channel="english-club-tv">
-    <title lang="tr">English Up: London art</title>
-    <desc lang="tr">English Club TV is an amazing chance to learn English and to boost the knowledge you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129042000 +0000" channel="english-club-tv">
-    <title lang="tr">Ernest And Celestine</title>
-    <desc lang="tr">Giant bears and tiny mice don&#x27;t tend to mingle much, but when Ernest and Celestine cross paths, the two become inseparable friends and embark on an adventure of a lifetime.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260129042000 +0000" stop="20260129043000 +0000" channel="english-club-tv">
-    <title lang="tr">Digital World</title>
-    <desc lang="tr">The Digital World project is a series of 34 programmes about modern technologies of the digital universe, thanks to which you can be the first to learn the latest news about new popular gadgets, appliances and devices that make the life of modern society more comfortable and technological.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129043000 +0000" stop="20260129043500 +0000" channel="english-club-tv">
-    <title lang="tr">All About: interesting facts about Easter eggs in Disney movies</title>
-    <desc lang="tr">All About is a highly-informative educational program which provides interesting facts from every topic imaginable: science, politics, history, art, sports, society and more.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129043500 +0000" stop="20260129044000 +0000" channel="english-club-tv">
-    <title lang="tr">All About: interesting facts about forbidden places on Earth</title>
-    <desc lang="tr">All About is a highly-informative educational program which provides interesting facts from every topic imaginable: science, politics, history, art, sports, society and more.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129044000 +0000" stop="20260129045000 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129045000 +0000" stop="20260129050000 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129050500 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land: Swan</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129050500 +0000" stop="20260129051000 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land: Peacock</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129051000 +0000" stop="20260129051500 +0000" channel="english-club-tv">
-    <title lang="tr">Sunny Songs</title>
-    <desc lang="tr">Fun songs with simple vocabulary are a great way to learn English. Numerous repetitions and a lively rhythm will help girls and boys from 2 years old to memorize the words. But even older children will enjoy following the adventures of the characters in the animated clips of the project.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129051500 +0000" stop="20260129052500 +0000" channel="english-club-tv">
-    <title lang="tr">Crafty Hands: Turbo backpack</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129052500 +0000" stop="20260129053500 +0000" channel="english-club-tv">
-    <title lang="tr">Okey-Dokey: Vegetables</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129053500 +0000" stop="20260129054000 +0000" channel="english-club-tv">
-    <title lang="tr">Once Upon A Time: The Goat And The Bell</title>
-    <desc lang="tr">A collection of animated stories and fairy tales for children and their parents.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260129054000 +0000" stop="20260129054500 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129054500 +0000" stop="20260129055000 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129055000 +0000" stop="20260129060000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129060000 +0000" stop="20260129061000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129061000 +0000" stop="20260129062000 +0000" channel="english-club-tv">
-    <title lang="tr">Magic Science: Air</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129062000 +0000" stop="20260129063000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129063000 +0000" stop="20260129064000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Fruit Salad</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129064000 +0000" stop="20260129065000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129065000 +0000" stop="20260129070000 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred: Space Oddity</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;SPACE ODDITY&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129071000 +0000" channel="english-club-tv">
-    <title lang="tr">Simple Phrases</title>
-    <desc lang="tr">Simple Phrases _ a series of animated episodes aimed at improving spoken English skills based on situational dialogues.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129071000 +0000" stop="20260129071500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129071500 +0000" stop="20260129072000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129072000 +0000" stop="20260129072500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129072500 +0000" stop="20260129075000 +0000" channel="english-club-tv">
-    <title lang="tr">Grammar Wise: Present Simple Tense</title>
-    <desc lang="tr">English Club TV offers a perfect opportunity to improve your English and boost your skills.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129075000 +0000" stop="20260129075500 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Clothes and patterns</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129075500 +0000" stop="20260129080000 +0000" channel="english-club-tv">
-    <title lang="tr">Sing&amp;Spell</title>
-    <desc lang="tr">Sing &amp; Spell _ is an animated musical project that will help you effectively learn the spelling and sound of the simplest English words thanks to specially created funny riddle songs performed by cheerful characters.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129081000 +0000" channel="english-club-tv">
-    <title lang="tr">Digital World</title>
-    <desc lang="tr">The Digital World project is a series of 34 programmes about modern technologies of the digital universe, thanks to which you can be the first to learn the latest news about new popular gadgets, appliances and devices that make the life of modern society more comfortable and technological.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129081000 +0000" stop="20260129081500 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129081500 +0000" stop="20260129082000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129082000 +0000" stop="20260129082500 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129082500 +0000" stop="20260129083500 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129083500 +0000" stop="20260129084500 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129084500 +0000" stop="20260129090000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">How often do we know little about the work patterns of those close to us? The characters in this episode will see each other&#x27;s true colours by attending a film session and draw important conclusions about their relationship.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129090500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129090500 +0000" stop="20260129091000 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129091000 +0000" stop="20260129091500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129091500 +0000" stop="20260129092000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129092000 +0000" stop="20260129093500 +0000" channel="english-club-tv">
-    <title lang="tr">Let&#x27;s Talk: Choosing a profession</title>
-    <desc lang="tr">Let&#x27;s Talk Project will allow you to acquire colloquial skills, have dialogues with native speakers and learn necessary words and expressions.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129093500 +0000" stop="20260129094500 +0000" channel="english-club-tv">
-    <title lang="tr">English In Focus: Collocations with the verb &quot;to come&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129094500 +0000" stop="20260129095000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129095000 +0000" stop="20260129095500 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129100500 +0000" channel="english-club-tv">
-    <title lang="tr">Irregular Verbs</title>
-    <desc lang="tr">Irregular Verbs _ is a series of musical animated cartoons that will help you memorise irregular verb forms in a fun and easy way, thanks to specially written songs that encourage you to quickly learn the necessary words.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129100500 +0000" stop="20260129101500 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks: Channel Islands National Park</title>
-    <desc lang="tr">An exclusive outdoor trip that takes you all over the United States to visit and discover its beautiful historical landmarks.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129101500 +0000" stop="20260129102500 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">In this program, visit Mammoth Cave National Park, located in Central Kentucky and enjoy the view of Mammoth Cave, the longest cave system in the world.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129102500 +0000" stop="20260129103500 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">In this program, visit Mammoth Cave National Park, located in Central Kentucky and enjoy the view of Mammoth Cave, the longest cave system in the world.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129103500 +0000" stop="20260129104500 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">An exclusive outdoor trip that takes you all over the United States to visit and discover its beautiful historical landmarks.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129104500 +0000" stop="20260129110000 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">An exclusive outdoor trip that takes you all over the United States to visit and discover its beautiful historical landmarks.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129110500 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land: Swan</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129110500 +0000" stop="20260129111000 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land: Peacock</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129111000 +0000" stop="20260129111500 +0000" channel="english-club-tv">
-    <title lang="tr">Sunny Songs</title>
-    <desc lang="tr">Fun songs with simple vocabulary are a great way to learn English. Numerous repetitions and a lively rhythm will help girls and boys from 2 years old to memorize the words. But even older children will enjoy following the adventures of the characters in the animated clips of the project.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129111500 +0000" stop="20260129112500 +0000" channel="english-club-tv">
-    <title lang="tr">Crafty Hands: Turbo backpack</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129112500 +0000" stop="20260129113500 +0000" channel="english-club-tv">
-    <title lang="tr">Okey-Dokey: Vegetables</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129113500 +0000" stop="20260129114000 +0000" channel="english-club-tv">
-    <title lang="tr">Once Upon A Time: The Goat And The Bell</title>
-    <desc lang="tr">A collection of animated stories and fairy tales for children and their parents.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260129114000 +0000" stop="20260129114500 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129114500 +0000" stop="20260129115000 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129115000 +0000" stop="20260129120000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129121000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129121000 +0000" stop="20260129122000 +0000" channel="english-club-tv">
-    <title lang="tr">Magic Science: Air</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129122000 +0000" stop="20260129123000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129123000 +0000" stop="20260129124000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Fruit Salad</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129124000 +0000" stop="20260129125000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129125000 +0000" stop="20260129130000 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred: Space Oddity</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;SPACE ODDITY&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129131500 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129131500 +0000" stop="20260129133000 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129133000 +0000" stop="20260129134000 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129134000 +0000" stop="20260129134500 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129134500 +0000" stop="20260129140000 +0000" channel="english-club-tv">
-    <title lang="tr">Digital World</title>
-    <desc lang="tr">The Digital World project is a series of 34 programmes about modern technologies of the digital universe, thanks to which you can be the first to learn the latest news about new popular gadgets, appliances and devices that make the life of modern society more comfortable and technological.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129141500 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129141500 +0000" stop="20260129142500 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129142500 +0000" stop="20260129143500 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: Accept invitations</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129143500 +0000" stop="20260129150000 +0000" channel="english-club-tv">
-    <title lang="tr">Figures of Speech: Pompidou Centre in Paris / Idioms with the words STONE, GLASS, STEEL and PIPE</title>
-    <desc lang="tr">English Club TV is a unique educational network that has been helping people all around the world learn and improve their English for 10 years.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129151000 +0000" channel="english-club-tv">
-    <title lang="tr">This Day In History</title>
-    <desc lang="tr">This Day In History is a documentary series that looks back at historic events that took place on this day. We explore many different events that have had a lasting impact on society, whether in sport, politics, entertainment, art or science. Each episode is split into three parts, each featuring a short story about the event, letting viewers learn new English words and about fascinating pieces of history.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129151000 +0000" stop="20260129152500 +0000" channel="english-club-tv">
-    <title lang="tr">Gadget-X: Vlogger tools</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129152500 +0000" stop="20260129153000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129153000 +0000" stop="20260129153500 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129153500 +0000" stop="20260129154000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129154000 +0000" stop="20260129160000 +0000" channel="english-club-tv">
-    <title lang="tr">Evolution</title>
-    <desc lang="tr">English Club TV is a fantastic opportunity to boost your language skills.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129160500 +0000" channel="english-club-tv">
-    <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129160500 +0000" stop="20260129161000 +0000" channel="english-club-tv">
-    <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129161000 +0000" stop="20260129163000 +0000" channel="english-club-tv">
-    <title lang="tr">Grammar Wise: Verbs should, have to, must</title>
-    <desc lang="tr">English Club TV offers a perfect opportunity to improve your English and boost your skills.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129164000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: Carnaby Street</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129164000 +0000" stop="20260129165000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: Baker Street</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129165000 +0000" stop="20260129170000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: Beatles Store</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129171000 +0000" channel="english-club-tv">
-    <title lang="tr">Simple Phrases</title>
-    <desc lang="tr">Simple Phrases _ a series of animated episodes aimed at improving spoken English skills based on situational dialogues.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129171000 +0000" stop="20260129171500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129171500 +0000" stop="20260129172000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129172000 +0000" stop="20260129172500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129172500 +0000" stop="20260129175000 +0000" channel="english-club-tv">
-    <title lang="tr">Grammar Wise: Present Simple Tense</title>
-    <desc lang="tr">English Club TV offers a perfect opportunity to improve your English and boost your skills.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129175000 +0000" stop="20260129175500 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Clothes and patterns</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129175500 +0000" stop="20260129180000 +0000" channel="english-club-tv">
-    <title lang="tr">Sing&amp;Spell</title>
-    <desc lang="tr">Sing &amp; Spell _ is an animated musical project that will help you effectively learn the spelling and sound of the simplest English words thanks to specially created funny riddle songs performed by cheerful characters.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129180500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129180500 +0000" stop="20260129181000 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129181000 +0000" stop="20260129181500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129181500 +0000" stop="20260129182000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260129182000 +0000" stop="20260129183500 +0000" channel="english-club-tv">
-    <title lang="tr">Let&#x27;s Talk: Choosing a profession</title>
-    <desc lang="tr">Let&#x27;s Talk Project will allow you to acquire colloquial skills, have dialogues with native speakers and learn necessary words and expressions.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129183500 +0000" stop="20260129184500 +0000" channel="english-club-tv">
-    <title lang="tr">English In Focus: Collocations with the verb &quot;to come&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129184500 +0000" stop="20260129185000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129185000 +0000" stop="20260129185500 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129185500 +0000" stop="20260129190000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129203500 +0000" channel="english-club-tv">
-    <title lang="tr">Killers</title>
-    <desc lang="tr">A vacationing woman meets her ideal man, leading to a swift marriage. Back at home, however, their idyllic life is upset when they discover their neighbours could be assassins who have been contracted to kill the couple.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260129203500 +0000" stop="20260129204500 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">An exclusive outdoor trip that takes you all over the United States to visit and discover its beautiful historical landmarks.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129204500 +0000" stop="20260129210000 +0000" channel="english-club-tv">
-    <title lang="tr">National Parks</title>
-    <desc lang="tr">An exclusive outdoor trip that takes you all over the United States to visit and discover its beautiful historical landmarks.</desc>
-    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260129000500 +0000" stop="20260129010000 +0000" channel="epic-drama">
     <title lang="tr">Bayan Scarlet Ve Dük</title>
@@ -13545,6 +13345,18 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Azem&#x27;in mutlu bir aile yemeği öncesi ortadan kaybolması herkesi şok eder. Dilber, Cihan, Kasım ve Nergis dört bir koldan, panik ve korku içinde ondan bir iz bulmaya çalışırlar. Bu sırada Ferda için zaman hızla daralıyordur. Ancak Cihan, yalnızca babasını bulmanın peşindedir. Nehir hastanede tedavi altında, Dilber endişeli bir haldeyken Nergis ve Kasım, Cihan&#x27;a Azem&#x27;in oğlu olduğunu hatırlatır. Cihan, önünde açılacak yeni bir dönemin farkında olmadan, belki de babasının son dileğini yerine getirmek için Ferda&#x27;yı kurtarmayı kabul eder.</desc>
     <category lang="tr">Dizi</category>
   </programme>
+  <programme start="20260129030000 +0000" stop="20260129090000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129150000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129210000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260129000000 +0000" stop="20260129003000 +0000" channel="kanal-v">
     <title lang="tr">Önce Sağlık</title>
     <desc lang="tr">Önce Sağlık, uzman doktorlar ve alanında yetkin konuklarla izleyiciyi bilinçli yaşamın kapılarına davet eder. Hastalıklardan korunma, beslenme, hareket, ruh sağlığı ve doğru alışkanlıklar gibi başlıklar ele alınır. Karmaşık bilgiler sade bir dille aktarılır, günlük hayatta uygulanabilir öneriler sunulur.</desc>
@@ -13925,6 +13737,18 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Günün öne çıkan gelişmelerinin, son dakika haberlerinin ve önemli başlıkların derlendiği gece haber bülteni.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260129030000 +0000" stop="20260129090000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129090000 +0000" stop="20260129150000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129150000 +0000" stop="20260129210000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="kontv">
     <title lang="tr">Program Tekrarı</title>
     <desc lang="tr">Program Tekrarı, gün içinde yayınlanan programların tekrarlarını izleyiciye ulaştıran bir yayın kuşağıdır. Haberler, magazin spor ve kültürel içeriklerin tekrarları sayesinde izleyiciler, kaçırdıkları bölümleri kolayca yakalayabilir ve programları istedikleri zaman izleyebilir. İzleyiciye takip imkanı sağlar.</desc>
@@ -14284,6 +14108,92 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <title lang="tr">Olağanüstü İşleri Olan Köpekler</title>
     <desc lang="tr">Bir Labrador kırması ve ortağı Kanada&#x27;daki ekolojik facianın önlenmesine yardımcı oluyor; bir Lagotto Romagnolo Washington ormanlarında, topraktaki nadir bir lezzeti keşfediyor ve Belçikalı bir çoban köpeği ekibi nesli hayati tehlike altındaki geometrik kapluumbağanın izini bularak bu türü kurtarıyor.</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260129035500 +0000" stop="20260129045500 +0000" channel="meltem-tv">
+    <title lang="tr">Haber Turu</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129045500 +0000" stop="20260129055500 +0000" channel="meltem-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129055500 +0000" stop="20260129065500 +0000" channel="meltem-tv">
+    <title lang="tr">Haber Turu</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129065500 +0000" stop="20260129075500 +0000" channel="meltem-tv">
+    <title lang="tr">Film</title>
+    <desc lang="tr">Komedi ve aksiyonun buluştuğu filmler, izleyiciyi hem güldürecek hem de heyecan dolu anlar yaşatacak. Önümüzdeki dakikalarda eğlence, sürükleyici sahneler ve keyifli vakit garantisi sizlerle.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260129075500 +0000" stop="20260129085500 +0000" channel="meltem-tv">
+    <title lang="tr">Milletin Efendisi</title>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260129085500 +0000" stop="20260129095500 +0000" channel="meltem-tv">
+    <title lang="tr">Gün Ortası Haberler</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129095500 +0000" stop="20260129105500 +0000" channel="meltem-tv">
+    <title lang="tr">Film</title>
+    <desc lang="tr">Komedi ve aksiyonun buluştuğu filmler, izleyiciyi hem güldürecek hem de heyecan dolu anlar yaşatacak. Önümüzdeki dakikalarda eğlence, sürükleyici sahneler ve keyifli vakit garantisi sizlerle.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260129105500 +0000" stop="20260129115500 +0000" channel="meltem-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129115500 +0000" stop="20260129125500 +0000" channel="meltem-tv">
+    <title lang="tr">Türk Sineması</title>
+    <desc lang="tr">Her gün yayınlanan yerli filmler. En yeni filmler kanalımızda. Güncel kalın. Kaçırmayın.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260129125500 +0000" stop="20260129135500 +0000" channel="meltem-tv">
+    <title lang="tr">Dizi</title>
+    <desc lang="tr">Dizi kuşağında yer alan yapımlar, çeşitli temalar ve karakterlerin yaşamları üzerinden ele alınıyor. Sürükleyici olay örgüleri ve dramatik gelişmeler sade bir anlatımla aktarılırken, izleyiciye hem eğlenceli hem de merak uyandıran bir izleme deneyimi sunuluyor.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260129135500 +0000" stop="20260129145500 +0000" channel="meltem-tv">
+    <title lang="tr">Parantez</title>
+    <desc lang="tr">Güncel meseleler, toplumun farklı kesimlerinden örnekler ve gündelik yaşamdan detaylar, sakin ve anlaşılır bir dille ele alınıyor. Farklı görüşlerin yan yana geldiği anlatımda, düşünmeye sevk eden yorumlar ve bilgilendirici içerikler öne çıkıyor. Toplumsal konulara dengeli yaklaşım, izleyiciye farklı pencereler açmayı amaçlıyor ve farkındalık oluşturuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260129145500 +0000" stop="20260129152500 +0000" channel="meltem-tv">
+    <title lang="tr">Parantez</title>
+    <desc lang="tr">Güncel meseleler, toplumun farklı kesimlerinden örnekler ve gündelik yaşamdan detaylar, sakin ve anlaşılır bir dille ele alınıyor. Farklı görüşlerin yan yana geldiği anlatımda, düşünmeye sevk eden yorumlar ve bilgilendirici içerikler öne çıkıyor. Toplumsal konulara dengeli yaklaşım, izleyiciye farklı pencereler açmayı amaçlıyor ve farkındalık oluşturuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260129152500 +0000" stop="20260129165500 +0000" channel="meltem-tv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Günün en önemli gelişmeleri, tarafsız ve güvenilir bir bakış açısıyla ekranda. Doğru bilgiye en hızlı şekilde ulaşmak için Ana Haber, Meltem TV&#x27;de!</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129165500 +0000" stop="20260129175500 +0000" channel="meltem-tv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Günün en önemli gelişmeleri, tarafsız ve güvenilir bir bakış açısıyla ekranda. Doğru bilgiye en hızlı şekilde ulaşmak için Ana Haber, Meltem TV&#x27;de!</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129175500 +0000" stop="20260129185500 +0000" channel="meltem-tv">
+    <title lang="tr">Antrparantez</title>
+    <desc lang="tr">Güncel gelişmeler, perde arkası bilgiler ve farklı değerlendirmeler bu bültende bir araya geliyor. Olayların nedenleri ve olası etkileri sade bir dille aktarılırken, izleyiciye gündemi daha geniş bir çerçevede anlama imkânı sağlanıyor. Dengeli dil ve açıklık ön planda tutuluyor, yorumlarda tutarlılık sağlanıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129185500 +0000" stop="20260129195500 +0000" channel="meltem-tv">
+    <title lang="tr">Antrparantez</title>
+    <desc lang="tr">Güncel gelişmeler, perde arkası bilgiler ve farklı değerlendirmeler bu bültende bir araya geliyor. Olayların nedenleri ve olası etkileri sade bir dille aktarılırken, izleyiciye gündemi daha geniş bir çerçevede anlama imkânı sağlanıyor. Dengeli dil ve açıklık ön planda tutuluyor, yorumlarda tutarlılık sağlanıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129195500 +0000" stop="20260129205500 +0000" channel="meltem-tv">
+    <title lang="tr">Haftanın Sohbeti</title>
+    <desc lang="tr">Hafta içinde gündeme gelen toplumsal, kültürel ve güncel başlıklar, karşılıklı sohbet ortamında ele alınıyor. Sade ve anlaşılır anlatım, farklı görüşlerin dengeli biçimde aktarılmasını sağlarken izleyiciye konuları derinlemesine değerlendirme imkânı sunuyor. Sohbet dili, izleyiciyle güçlü bir bağ kurmayı amaçlıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260129205500 +0000" stop="20260130035500 +0000" channel="meltem-tv">
+    <title lang="tr">Haftanın Sohbeti</title>
+    <desc lang="tr">Hafta içinde gündeme gelen toplumsal, kültürel ve güncel başlıklar, karşılıklı sohbet ortamında ele alınıyor. Sade ve anlaşılır anlatım, farklı görüşlerin dengeli biçimde aktarılmasını sağlarken izleyiciye konuları derinlemesine değerlendirme imkânı sunuyor. Sohbet dili, izleyiciyle güçlü bir bağ kurmayı amaçlıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260129000000 +0000" stop="20260129010000 +0000" channel="minika-cocuk">
     <title lang="tr">Şarkı</title>
@@ -15504,371 +15414,6 @@ macera başlar.</desc>
     <desc lang="tr">Soğukkanlı ve dur durak bilmeyen Dr. Pol, rutin olarak günde 14 saat çalışıyor ve o toplumda bir efsane! Dr. Pol ile Michigan&#x27;ın kırsal bölgelerini dolaşarak uzmanlığına ihtiyaç duyan her aile hayvanının ve çiftlik hayvanının yardımına koşarken onun maceralarına eşlik ediyoruz.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260129000000 +0000" stop="20260129002500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Ryder ve köpekçikler şehrin her yerine su fışkırtan Eski Trustynin fişini çekmeliler. / Midilli Priscillaya kanyonda Paw Patrol yardım etmiştir, o da araçlarını kurtarmak için onlara yardım etme şansı yakalar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129002500 +0000" stop="20260129004500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Ev yapımı Robot Dinozor Earl canlanır, köpekçikler onu bulup, durdurup eve geri getirmeliler. Köpekçikler Film Festivaline katılmak için çekim yaparlarken Cesur Danny X tehlikeli bir biçimde kayıtların ortasına dalar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129004500 +0000" stop="20260129011000 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Barbapapa gururla ailesine prenses olmak istediğini açıklar. Barbasüslü can sıkıntısından mutsuzdur, kardeşlerinin hepsi meşguldür ve kimse onunla oynamak istemez.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129011000 +0000" stop="20260129015500 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Barbapapa ve Barbaanne sevgili barbababies&#x27;lerine Paskalya Adası&#x27;na bir geziye çıkacaklarını duyurdular. Barbabebekler, ikizler ve Bay Katı muhteşem bir yelkenli olan Thésée ile yola çıkarlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129015500 +0000" stop="20260129022000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Rubble&#x27;ın en sevdiği beyzbol yıldızı Aaron Judge, sayı vuruşu derbisine katılamayınca, Rubble ve Ekibi derbi için İnşacı Koyu&#x27;nda bir stadyum inşa eder! Rubble ve Ekibi için sörf zamanı! Tabii, süper sıcak kumun üzerinden geçebilirlerse.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129022000 +0000" stop="20260129024500 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Hız Ustası çöpleri dönüştürmek için kendi tesisini inşa edince köpüşler İnşacı Koyu&#x27;ndaki tüm çöpü temizlemek zorunda kalır. Yavru bir ördek onları eve kadar takip ettikten sonra, Rubble ve Ekibi inşaat bilgileriyşe ördek yavrusunu evine döndürür.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129024500 +0000" stop="20260129030500 +0000" channel="nick-jr">
-    <title lang="tr">Kaşif Dora</title>
-    <desc lang="tr">Dora ikizlere, içinde baila folklorico dansçısı olan müzik kutusu gösteriyor! Bailarina&#x27;nın çizmeleri kaçtı, onları geri almalılar. Güneş batmıyor çünkü bir türlü uykuya dalamıyor! Sol için Dora&#x27;nın Yastık Bulutu&#x27;nu bulması gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129030500 +0000" stop="20260129033000 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Acıkan Ezici yanlışlıkla fırın kamyonunun robotlarının dağınık modunu açar ve robotlar tekerlek çıkarıp gider! Aks Şehri unlu mamullerle kaplanmadan bütün başı boş robotları bulmak AJ ve Blaze&#x27;e kalır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129033000 +0000" stop="20260129035500 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Blaze ve Yol Canavarları dünyanın en muhteşem canavar kamyonu Blaze ve onun en iyi dostu ve şoförü AJ adlı bir çocukla ilgili okul öncesi interaktif animasyon dizisidir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129035500 +0000" stop="20260129041500 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Barbapapa ailesi bir bisiklet gezintisi sırasında harabe halindeki eski bir ortaçağ kalesini keşfeder. Barbapapa ve Lolita bir balonla seyahat ederken fırtınaya yakalanırlar ve ıssız bir adada mahsur kalırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129041500 +0000" stop="20260129043500 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">En popüler ailenin dünya ekranlarına göz kamaştırıcı dönüşü! BARBAPAPA. Büyük mutlu bir aile! Barbapapalar için rutin diye bir şey yoktur: her gün sürprizlerle dolu neşeli bir maceradır!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129043500 +0000" stop="20260129050000 +0000" channel="nick-jr">
-    <title lang="tr">Tim Rex Uzayda</title>
-    <desc lang="tr">Kayıp bir oyuncak bulan Tim, Tommy ve Tia onu sahibine geri götürmeye kararlıdır. Kai Nebulatöre binmek için çok heyecanlanır ama Tim o kadar emin değildir. Tim ve Kai hayali Uzay Böceği&#x27;nin fotoğrafını çekmeye çalışır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129052000 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Aks Şehri&#x27;nde kar yağıyor ve şehirdeki bütün kamyonlar kışın nefis sıcak içeceği sıcak çikolata için sıraya giriyor! Ama Ezici bütün sıcak çikolatayı kendine alınca Blaze çikolatayı geri almak için onun peşine düşüyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129052000 +0000" stop="20260129054500 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Ezici ve Turşu sallanan bir kulenin tepesinde mahsur kalınca Blaze, Çizgili ve Starla muhteşem inşaat araçlarına dönüşerek aşağıya doğru bir yol inşa eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129054500 +0000" stop="20260129060500 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Hız Ustası&#x27;nın treni evcil hayvan oyun gününü kontrolden çıkarınca, Rubble ve Ekibi daha büyük, iyi ve güvenli bir tren ile günü kurtarır. Bark Yard denetimi bugün! Ama Motor patlayacak ve Ekibe altın yıldıza mal olacak mı?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129060500 +0000" stop="20260129063000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Rubble ve Ekibi, Çiftçi Zoe&#x27;nin yeni ineği Mooreen&#x27;i karşılamak için İnşaatçı Koyu&#x27;ndaki ilk tren istasyonunu inşa ediyor. Popstar Parıltılı Sierra Koy&#x27;a taşınıyor! Yavrular sürpriz bir karşılama planlayınca, Hız Ustası kendi planını yapar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129063000 +0000" stop="20260129065000 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Zuma ve Fırtına Harrigan uçurtma sörfü yapmaya gitmek üzereyken güçlü bir rüzgar onları sahilden uçurur. Vali Humdinger, karavanını ve kedilerini alıp güneşli bir çöl tatiline çıkar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129065000 +0000" stop="20260129071500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Kaptan Turbot ve kuzeni Francois, bir çift dağ keçisini gözlemlerken aniden çığ düşer. Çiftçi Al, mısır tarlasında gizemli hasat çemberleri bulur ve neler olduğunu öğrenmek için Paw Patrol&#x27;ü arar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129071500 +0000" stop="20260129081400 +0000" channel="nick-jr">
-    <title lang="tr">Kaşif Dora</title>
-    <desc lang="tr">Boots, Tico&#x27;ya hediye bir Guayabera gömleği alır, ancak Tico&#x27;nun evine giderken ona bağlanır. Dora, Boots ve Papi gökyüzünde dans eden Quetzal takımyıldızını görmek isterler ama üç yıldızını kaybeder! Dora onları geri getirmek zorunda.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129081400 +0000" stop="20260129081900 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Büyükbaba Domuz, Gertrude adında şahane bir küçük tren yapmıştır ve Peppa ve George&#x27;u gezmeye çıkarır. Yolda arkadaşlarıyla karşılaşır onları da alırlar. Peppa ve George, Gertrude&#x27;un dünyanın en iyi treni olduğunu düşünür!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129081900 +0000" stop="20260129082300 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Madam Gazelle, Peppa ve arkadaşlarını bir okul gezisi için dağa götürür. Manzara muhteşemdir ve çocuklar, yankı ile çok eğlenir. Harika bir günün sonunda, otobüsle eve dönerler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129082300 +0000" stop="20260129082500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa ve George, bugün Tavşan Rebecca&#x27;nın evine gidecektir. Peppa&#x27;nın evinden çok farklıdır. Bir tepenin içinde, merdiven yerine tünelle iniliyordur. Tavşanlarla oynamaktan çok hoşlanırlar ve George&#x27;un havuç sevmesi de herkesi şaşırtır!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129082500 +0000" stop="20260129083400 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa ve George, büyük kuzenleri Chloé&#x27;yi ve yeni doğan kardeşi Alexander&#x27;ı ziyarete gider. and her new baby brother, Alexander. Bebek Alexander oyun oynamak için çok küçüktür ama Peppa ve Chloé&#x27;nin günü yine de çok güzel geçer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129083400 +0000" stop="20260129083900 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa, annesi, babası ve abisi George&#x27;la yaşayan küçük bir domuzdur. Peppa oyun oynamayı, şık giyinmeyi, uzun seyahatleri ve çamurda zıplamayı sever.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129083900 +0000" stop="20260129084300 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Koyun Suzy, Aslan Leo adında bir hayalî arkadaş edinir. Peppa Leo&#x27;yu göremez ama Suzy&#x27;ye göre Leo süslenmeyi ve kükremeyi sever. Peppa, Leo&#x27;yu görebildiğine karar verir. Anne ve Baba Domuz da onlarla oynar ama George dışlanmış hisseder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129084300 +0000" stop="20260129084500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa&#x27;nın Fransız bir mektup arkadaşı vardır. Delphine adında dişi bir eşek. Telefonda da konuşurlar. Peppa İngilizce, Delphine de Fransızca konuşsa da aynı şeyleri sevdiklerini fark ederler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129084500 +0000" stop="20260129085000 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa ve George, Büyükanne ve Büyükbaba Domuz&#x27;a tavan arası için yardım etmek ister. Ama neyi ataacaklarına karar vermeleri zor olur. Dağınıklığın arasında, Peppa eski bir teyp ve komik ses kayıtları bulur.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129085000 +0000" stop="20260129091500 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">En popüler ailenin dünya ekranlarına göz kamaştırıcı dönüşü! BARBAPAPA. Büyük mutlu bir aile! Barbapapalar için rutin diye bir şey yoktur: her gün sürprizlerle dolu neşeli bir maceradır!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129091500 +0000" stop="20260129094000 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">En popüler ailenin dünya ekranlarına göz kamaştırıcı dönüşü! BARBAPAPA. Büyük mutlu bir aile! Barbapapalar için rutin diye bir şey yoktur: her gün sürprizlerle dolu neşeli bir maceradır!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129094000 +0000" stop="20260129094500 +0000" channel="nick-jr">
-    <title lang="tr">Camgöz (2020)</title>
-    <desc lang="tr">Max&#x27;in Camgöz adında yarı köpek balığı yarı köpek eşsiz bir evcil havyanı vardır. İlk başlarda Camgöz&#x27;ü saklamaya çalışsa da Sisli Pınarlar&#x27;da, en iyi arkadaşlar, meraklı komşular ve hatta Max&#x27;in ailesi bile yaramaz yeni arkadaşını fark edecektir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129094500 +0000" stop="20260129095500 +0000" channel="nick-jr">
-    <title lang="tr">Camgöz (2020)</title>
-    <desc lang="tr">Max&#x27;in Camgöz adında yarı köpek balığı yarı köpek eşsiz bir evcil havyanı vardır. İlk başlarda Camgöz&#x27;ü saklamaya çalışsa da Sisli Pınarlar&#x27;da, en iyi arkadaşlar, meraklı komşular ve hatta Max&#x27;in ailesi bile yaramaz yeni arkadaşını fark edecektir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129095500 +0000" stop="20260129100000 +0000" channel="nick-jr">
-    <title lang="tr">Camgöz (2020)</title>
-    <desc lang="tr">Max&#x27;in Camgöz adında yarı köpek balığı yarı köpek eşsiz bir evcil havyanı vardır. İlk başlarda Camgöz&#x27;ü saklamaya çalışsa da Sisli Pınarlar&#x27;da, en iyi arkadaşlar, meraklı komşular ve hatta Max&#x27;in ailesi bile yaramaz yeni arkadaşını fark edecektir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129102000 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Blaze ve Crusher&#x27;ın bir araya gelmesiyle kafa kafaya bir kapışma... Kar Tanesi Oyunları! En çok kış sporunu kim kazanacak ve ödüllü Kar Tanesi Madalyasını kim alacak?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129102000 +0000" stop="20260129104500 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">AJ, Axle City Uçuş Yarışması&#x27;na katılıyor. Ancak Crusher onu ve Blaze&#x27;i uzağa gönderdiğinde, AJ&#x27;in süper havalı uçan icadını inşa etmesi için zamanında geri dönmeleri gerekiyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129104500 +0000" stop="20260129110500 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Rubble ve köpüşler Büyükbaba&#x27;nın uğurlu bovling topunu buluyor. Fakat İnşa Koyu&#x27;nda bovling salonu yok... Şimdilik! Ansızın açan süper çiçekler Motor&#x27;u, Lily&#x27;i ve Korucu Rose&#x27;u kıstırınca, köpüşlerin çiçek dostu bir çözüm bulması gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129110500 +0000" stop="20260129113000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Hız Ustası İnşacı Şükran Günü&#x27;nü sabote ettikten sonra, İnşa Koyu&#x27;ndakiler için tatili kurtarmak köpüşlere düşüyor. Mix ayı kendi yöntemleriyle baştan yaratmak istiyor. Rubble ve köpüşler bu hayali kurdukları bir eğlence treniyle gerçekleştiriyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129113000 +0000" stop="20260129115500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Vali Humdinger, Francois&#x27;nin suda yürüyen ayakkabılarını alır ve bir kaplumbağa yuvasına sıkışır. Epeydir kayıp bir mektup, Bayan Marjorie&#x27;ye eski arkadaşını ziyaret etmesi için ilham verir. Köpekçikler yanardağ patlayınca harekete geçer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129115500 +0000" stop="20260129121500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Filler, su içtikleri yerde bir arıdan korkunca Maymun Tapınağı&#x27;nda sıkışıp kalır. Wingnut yodelcilerden etkilenen kurtlardan kaçıp bir kanyonda mahsur kalır. PAW Patrol onu kurtarmak için acele etmek zorunda.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129121500 +0000" stop="20260129124000 +0000" channel="nick-jr">
-    <title lang="tr">BARBAPAPA Ailesi</title>
-    <desc lang="tr">Bir talihsizliğin ardından Barbabravo şekil değiştirememeye başlar. Bütün aile ona yardım etmek için birleşir. Barbabravo uzun süre bir aktiviteye odaklanmakta zorlanır. Barbabala ona kendini kontrol etmeyi öğretmeyi teklif eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129124000 +0000" stop="20260129132500 +0000" channel="nick-jr">
-    <title lang="tr">BARBAPAPA Ailesi</title>
-    <desc lang="tr">Barbabebekler, yediklerinin renk ve şekillerini değiştirdiğini düşünüyor. Bunun için doğru yiyeceği bulmaya çalışacaklar. Barbartist ilham bulamadığından sanat yapamaz. Bütün aile boyayacak yeni konular önererek ona yardımcı olur.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129132500 +0000" stop="20260129135000 +0000" channel="nick-jr">
-    <title lang="tr">Tim Rex Uzayda</title>
-    <desc lang="tr">Tim, Tommy, Tia ve Baba ıssız bir göktaşında mahsur kalır. Tim, Kai ve Tommy toplarını Anne&#x27;nin odasından almaya çalışır. Tia&#x27;nın yeni balonu ağaca takılınca Tim onu indirmeye çalışır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129135000 +0000" stop="20260129141500 +0000" channel="nick-jr">
-    <title lang="tr">Kaşif Dora</title>
-    <desc lang="tr">Dora ve Boots, arkadaşları Akbaba Catalina&#x27;nın harika bir Gaucha olmasına ve Gaucho Oyunları&#x27;nı kurtarmasına yardım eder! Dora ve Boots, Tek Boynuz Prensesi Pilar ile tanışır ve onun Tek Boynuz Ülkesi&#x27;ne gitmelerine yardımcı olurlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129141500 +0000" stop="20260129143700 +0000" channel="nick-jr">
-    <title lang="tr">Kaşif Dora</title>
-    <desc lang="tr">Dora ve Boots, Arakçı ve yeğeni Zorrito&#x27;ya rastlar! Arakçı, ayıcıklarını kapmadan önce eve dönmeliler. Dora, Boots&#x27;un kuzeni Sombrera ile tanışır ve özel mavi muzları bulmak için yağmur ormanları boyunca seyahat ederler!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129143700 +0000" stop="20260129144200 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Altın Balık mutlu görünmüyordur ve yemeğini de yemez. Peppa, George ve Anne Domuz onu bir otobüse bindirip Dr. Hamster&#x27;ın veterinerine götürürler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129144200 +0000" stop="20260129144600 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Baba Domuz, Baba Olimpiyatları&#x27;nda aldığı Şampiyon Çamur Birikintisi Zıplamacı unvanını kaybeder. Bu yüzden herkes onun Baba Olimpiyatları&#x27;na hazırlanıp unvanını geri kazanmasına yardım eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129144600 +0000" stop="20260129145100 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Altın Balık mutlu görünmüyordur ve yemeğini de yemez. Peppa, George ve Anne Domuz onu bir otobüse bindirip Dr. Hamster&#x27;ın veterinerine götürürler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129145100 +0000" stop="20260129145500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa çok fazla konuşur. En azından Suzy öyle düşünüyordur. Buna tepki olarak Peppa bir daha asla konuşmamaya karar verir. Ama bu çok uzun sürmeyecektir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Altın Balık mutlu görünmüyordur ve yemeğini de yemez. Peppa, George ve Anne Domuz onu bir otobüse bindirip Dr. Hamster&#x27;ın veterinerine götürürler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129151000 +0000" channel="nick-jr">
-    <title lang="tr">Sharkdog (2020)</title>
-    <desc lang="tr">Camgöz köklerini keşfetmeye kararlıdır ama tuhaf hava ve vahşi denizler onu durdurmaya çabalarken Köpek Balığı Sürüsü de camgözler hakkında daha fazla şey öürenmesini engellemeye çalışır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129151000 +0000" stop="20260129152500 +0000" channel="nick-jr">
-    <title lang="tr">Sharkdog (2020)</title>
-    <desc lang="tr">Camgöz köklerini keşfetmeye kararlıdır ama tuhaf hava ve vahşi denizler onu durdurmaya çabalarken Köpek Balığı Sürüsü de camgözler hakkında daha fazla şey öürenmesini engellemeye çalışır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129152500 +0000" stop="20260129154500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Ryder sirk müdüründen bir çağrı alır, bebek fil Ellie sirk trenhinden kaçmıştır. Başkan Goodmayer&#x27;ın tavuk çantası Chickaletta&#x27;sı kaybolmuştur. Ryder ve Paw Patrol Macera koyunda çantayı arar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129154500 +0000" stop="20260129160000 +0000" channel="nick-jr">
-    <title lang="tr">Köpecik Pit Ekibi</title>
-    <desc lang="tr">PAW Patrol okul öncesi programı ve altı tane köpekçik baş rolü paylaşıyor: Chase, Marshall, Rocky, Zuma, Rubble ve Skye, başlarında da teknoloji meraklısı 10 yaşında bir çocuk olan Ryder var.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129162000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Hız Ustası&#x27;nın treni evcil hayvan oyun gününü kontrolden çıkarınca, Rubble ve Ekibi daha büyük, iyi ve güvenli bir tren ile günü kurtarır. Bark Yard denetimi bugün! Ama Motor patlayacak ve Ekibe altın yıldıza mal olacak mı?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129162000 +0000" stop="20260129163000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Rubble, inşaat yavrularından oluşan ailesiyle birlikte yakındaki Builder Cove kasabasına taşınır ve burada yaşar, oynar ve topluluğun ihtiyacı olan her şeyi inşa ederler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129165500 +0000" channel="nick-jr">
-    <title lang="tr">Kaşif Dora</title>
-    <desc lang="tr">Büyükanne Dora&#x27;ya kuş albümünü gösterir, ancak bir sayfa boştur. Dora, Quickatoo&#x27;yu bulup albümü tamamlamaya yemin eder. Dora ve Boots, Lorito adında papağanın annesini bulmasına yardım eder, ama papağan taklit etmekten vazgeçmez!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129165500 +0000" stop="20260129171500 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Barbalala bir paket alır ve içinde SQUEAKIES adını verdiği küçük pembe hayvanlar keşfeder. Barbabravo, Barbalala ve Barbasüslü kardeşlerinin kendileriyle dalga geçmesinden bıkmışlardır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129171500 +0000" stop="20260129175000 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Dünyanın en pop ailesinin dünya ekranlarına baş döndürücü dönüşü! Barbapapa Ailesi!Barbapapalar için rutin bir gün yok: her gün sürprizlerle dolu neşeli bir macera!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129175000 +0000" stop="20260129180000 +0000" channel="nick-jr">
-    <title lang="tr">Tim Rex Uzayda</title>
-    <desc lang="tr">Tim Rex Uzayda: T-Rex Tim, ağabeyi Tommy, küçük kız kardeşi Tia ve Triceratops kankası Kai, uzayda dinozor boyutunda çözümlerle çocukların karşılaştığı sorunların üstesinden geliyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129180500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Anne ve Baba Domuz, Peppa ve George&#x27;u parka götürür. Onlar yoldayken sis basar. Daha sonra sis o kadar yoğunlaşır ki hiçbir şey göremezler. Eve dönmeye karar verirler ama ev hangi taraftadır ki?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129180500 +0000" stop="20260129181000 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Bugün George&#x27;un doğum günü ve Anne ve Baba Domuz özel bir gün planladı. George yeni bir Brotosaurus oyuncağı hediye alır ve ail,e başka dinozorlar görmek için müzeye gider.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129181000 +0000" stop="20260129181500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa, annesi, babası ve abisi George&#x27;la yaşayan küçük bir domuzdur. Peppa oyun oynamayı, şık giyinmeyi, uzun seyahatleri ve çamurda zıplamayı sever.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129181500 +0000" stop="20260129182000 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa&#x27;nın oyun grubunda spor günü gelmiştir. Birçok heyecanlı etkinlik vardır. Ebeleme, zıplama ve koşma bunların içindedir. Baba Domuz, Peppa&#x27;ya meselenin kazanmak olmadığını anlatır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129182000 +0000" stop="20260129182500 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa&#x27;nın arabasının benzini biter ama neyse ki Büyükbaba Köpek&#x27;in garajı yakındır. Bir telefonla Büyükbaba Köpek gelir ve Peppa&#x27;nın arabasını garajına çeker.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129182500 +0000" stop="20260129183000 +0000" channel="nick-jr">
-    <title lang="tr">Peppa Pig</title>
-    <desc lang="tr">Peppa okulda büyük ödül kazanmıştır: Uçan balonla bir gezi. Anne Domuz, Baba Domuz, George ve Peppa, uçan balon bir ağaca takılana dek çok eğleniyorlardır. Neyse ki balon tanıdık bir bahçeye düşer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129185000 +0000" channel="nick-jr">
-    <title lang="tr">BARBAPAPA Ailesi</title>
-    <desc lang="tr">Barbabebekler garip bir mağara keşfeder. Barbaçalışkan, Barbapapa mağaralarının hikayesini ve nasıl dönüştüğünü anlatır. Barbabeekler oturma odasında pijama partisi verir. Dolaptaki canavarları onları yakalamak içinse tuhaf tuzaklar kurarlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129185000 +0000" stop="20260129190000 +0000" channel="nick-jr">
-    <title lang="tr">Barbapapa Ailesi</title>
-    <desc lang="tr">Dünyanın en pop ailesinin dünya ekranlarına baş döndürücü dönüşü! Barbapapa Ailesi!Barbapapalar için rutin bir gün yok: her gün sürprizlerle dolu neşeli bir macera!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129192500 +0000" channel="nick-jr">
-    <title lang="tr">Blaze ve Yol Canavarları</title>
-    <desc lang="tr">Blaze ve AJ dünya dışı bir yarış için uzaya çıkar! Zafer Gezegeni&#x27;ne giden yolda dost canlısı uzaylılarla tanışır, meteorlardan kaçar ve Ezici&#x27;nin uzay gemisiyle mücadele ederler!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129192500 +0000" stop="20260129194500 +0000" channel="nick-jr">
-    <title lang="tr">Paw Patrol</title>
-    <desc lang="tr">Belediye Başkanı Humdinger dünyanın en büyük omletini yapmaya karar verir ama yanlış yumurtaları sipariş eder. Seyahat eden Travis, Çiftçi Yumi ve Çiftçi Al&#x27;in çiftliğine bakmaya gönüllü olur ve doğal olarak her şeyi berbat eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129194500 +0000" stop="20260129200000 +0000" channel="nick-jr">
-    <title lang="tr">Köpecik Pit Ekibi</title>
-    <desc lang="tr">Köpekçikler buzlu tundraya seyahatleri sırasında bir kaçak yolcu bulur ve kaçak bir yavru kediyi kaçak bir kar kedisinden kurtarmaya girişirler!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129202000 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Hız Ustası, Rubble - Ekibi&#x27;nin otobüsünü çalınca, köpüşler Parıltılı Sierra&#x27;nın büyük konseri için otobüsü zamanında durdurmalıdır! İnşacı Koyu&#x27;nda plaj günü! Tabii Rubble - Ekibi, plajı açabilmek için bir cankurtaran kulesi inşa edebilirse...</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129202000 +0000" stop="20260129203500 +0000" channel="nick-jr">
-    <title lang="tr">Rubble ve Ekibi</title>
-    <desc lang="tr">Rubble, inşaat yavrularından oluşan ailesiyle birlikte yakındaki Builder Cove kasabasına taşınır ve burada yaşar, oynar ve topluluğun ihtiyacı olan her şeyi inşa ederler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129203500 +0000" stop="20260129205500 +0000" channel="nick-jr">
-    <title lang="tr">Dora</title>
-    <desc lang="tr">Dora, Boots ve Mom, yeni arkadaşları Patli ile birlikte sihirli mücevherleri ve gizli piramidi arar! Dora ve arkadaşları, Grandma Macera Günü&#x27;nü kutlamak için büyükanneyi zamanında kurtarmalıdır!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260129205500 +0000" stop="20260129212000 +0000" channel="nick-jr">
-    <title lang="tr">Dora</title>
-    <desc lang="tr">Evcil hayvanlarını yıkamak isteyen Dora, hayvan kamyoneti bozulunca yağmur ormanlarındaki hayvanları kurtarmak zorunda kalır! Dora ve Boots, Yağmur Ormanı Uçurtma Festivali&#x27;nde dev uçurtmalarını sergilemek için bir fareyi kurtarmak zorundadır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
   <programme start="20260129002000 +0000" stop="20260129004000 +0000" channel="nickelodeon">
     <title lang="tr">Patrick Star Show</title>
     <desc lang="tr">Çılgın Yıldız Ailesi&#x27;nin evinde, genç Patrick kendi şovunu sunarak izleyicileri gerçeküstü hayal gücünün içine çekiyor.</desc>
@@ -16935,98 +16480,6 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="number1-turk">
-    <title lang="tr">Nr1 Türk Top 20</title>
-    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129030000 +0000" stop="20260129050000 +0000" channel="number1-turk">
-    <title lang="tr">Aşk</title>
-    <desc lang="tr">Duygulara tercüman olan en romantik şarkılarla kalbinize dokunmaya hazırız. Mutluluğun, özlemin ve sevdanın en özel notaları Aşk programında sizlerle.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129070000 +0000" channel="number1-turk">
-    <title lang="tr">Fast Time</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129071000 +0000" channel="number1-turk">
-    <title lang="tr">3 te 3</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129071000 +0000" stop="20260129080000 +0000" channel="number1-turk">
-    <title lang="tr">En Yeniler</title>
-    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129080000 +0000" stop="20260129093000 +0000" channel="number1-turk">
-    <title lang="tr">Nr1 Türk Top 20</title>
-    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129093000 +0000" stop="20260129100000 +0000" channel="number1-turk">
-    <title lang="tr">Best of Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129110000 +0000" channel="number1-turk">
-    <title lang="tr">Top Rap</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129120000 +0000" channel="number1-turk">
-    <title lang="tr">Keşfet</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129120000 +0000" stop="20260129121500 +0000" channel="number1-turk">
-    <title lang="tr">3 te 3</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129121500 +0000" stop="20260129130000 +0000" channel="number1-turk">
-    <title lang="tr">Hot Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129140000 +0000" channel="number1-turk">
-    <title lang="tr">En Yeniler</title>
-    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129140000 +0000" stop="20260129150000 +0000" channel="number1-turk">
-    <title lang="tr">Best of Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129160000 +0000" channel="number1-turk">
-    <title lang="tr">Hot Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="number1-turk">
-    <title lang="tr">Top Rap</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129171500 +0000" channel="number1-turk">
-    <title lang="tr">3 te 3</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129171500 +0000" stop="20260129180000 +0000" channel="number1-turk">
-    <title lang="tr">Hot Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129183000 +0000" channel="number1-turk">
-    <title lang="tr">Start</title>
-    <desc lang="tr">Türkiye ve Dünyadaki motorsporlarından en son haberler bu programda.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129190000 +0000" channel="number1-turk">
-    <title lang="tr">En Yeniler</title>
-    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129200000 +0000" channel="number1-turk">
-    <title lang="tr">Akustik</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129210000 +0000" channel="number1-turk">
-    <title lang="tr">Nr1 Türk Top 20</title>
-    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
-    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260129020000 +0000" stop="20260129030000 +0000" channel="number1-tv">
     <title lang="tr">NR1 TOP 20</title>
@@ -19647,6 +19100,56 @@ Frank kralı Kel Charles öldüğünde ve Francia&#x27;daki savunma zayıfladı�
     <desc lang="tr">Dedektif Jake Malloy bir seri katilin hedefi olunca kendi işiyle yüzleşmekte zorlanan polislere özel bir kliniğe yatmak zorunda kalır.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260129015000 +0000" stop="20260129032000 +0000" channel="tmb-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129032000 +0000" stop="20260129070000 +0000" channel="tmb-tv">
+    <title lang="tr">Klip</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260129070000 +0000" stop="20260129090500 +0000" channel="tmb-tv">
+    <title lang="tr">Mevzu Ne</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260129090500 +0000" stop="20260129122500 +0000" channel="tmb-tv">
+    <title lang="tr">Klip</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260129122500 +0000" stop="20260129131000 +0000" channel="tmb-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129131000 +0000" stop="20260129151500 +0000" channel="tmb-tv">
+    <title lang="tr">Klip</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260129151500 +0000" stop="20260129160000 +0000" channel="tmb-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129160000 +0000" stop="20260129170000 +0000" channel="tmb-tv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">TMB TV Ana Haber, günün öne çıkan gelişmelerini tarafsız ve güvenilir bir bakış açısıyla ekranlarınıza taşıyor. Türkiye ve dünyadan son dakika haberleri, ekonomi, siyaset ve gündeme dair detaylı analizler bu bültende.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260129170000 +0000" stop="20260129201000 +0000" channel="tmb-tv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129201000 +0000" stop="20260129205700 +0000" channel="tmb-tv">
+    <title lang="tr">TMB Klip</title>
+    <desc lang="tr">TMB Klip, Türk ve dünya müziğinin en popüler kliplerini arka arkaya ekranlara getiriyor. En sevilen sanatçılar, yeni hitler ve eğlence dolu bir müzik akışı bu programda sizleri bekliyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260129205700 +0000" stop="20260130015000 +0000" channel="tmb-tv">
+    <title lang="tr">Klip</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
   <programme start="20260129000000 +0000" stop="20260129004500 +0000" channel="trt-2">
     <title lang="tr">Bakış Boşluğu</title>
     <desc lang="tr">Mutlu Kurnalı ve sinema yazarı Enver Gülşen, &#x27;Bakış Boşluğu&#x27;nda varlığa açılan kavramların farklı hallerini, filmlerden ve sahnelerden yola çıkarak ele alıyor. Umudun, özgürlüğün, merhametin, aşkın ve daha fazlasının sahnelere düşen yansımalarından ilham alırken kavramların dününü, bugününü ve geleceğini de tartışıyor.</desc>
@@ -21386,222 +20889,6 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260129001500 +0000" stop="20260129004500 +0000" channel="trt-eba">
-    <title lang="tr">Matematik - 11</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için Matematik Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129004500 +0000" stop="20260129011500 +0000" channel="trt-eba">
-    <title lang="tr">Coğrafya - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Coğrafya Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129011500 +0000" stop="20260129014500 +0000" channel="trt-eba">
-    <title lang="tr">Biyoloji - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Biyoloji Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129014500 +0000" stop="20260129031500 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129031500 +0000" stop="20260129033000 +0000" channel="trt-eba">
-    <title lang="tr">Milli Parklar</title>
-    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129033000 +0000" stop="20260129034500 +0000" channel="trt-eba">
-    <title lang="tr">Olimpiyat Yıldızları</title>
-    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129034500 +0000" stop="20260129040000 +0000" channel="trt-eba">
-    <title lang="tr">Sporcu Günlüğü</title>
-    <desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü&#x27;nde...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129040000 +0000" stop="20260129045000 +0000" channel="trt-eba">
-    <title lang="tr">Trt Eba Anaokulu</title>
-    <desc lang="tr">Uzman eğiticiler tarafından hazırlanan erken çocukluk eğitimi yayınları, Dünyanın en büyük duvarsız anaokulu sloganı ile okul öncesi çağındaki çocuklara görsel, duyusal ve zihinsel gelişim süreçleri için ihtiyaç duydukları eğitimi sağlamayı amaçlıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129045000 +0000" stop="20260129050000 +0000" channel="trt-eba">
-    <title lang="tr">Kozalak Anaokulu</title>
-    <desc lang="tr">Anaokulu öğrencilerine yönelik eğitici ve öğretici program.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129051500 +0000" channel="trt-eba">
-    <title lang="tr">Milli Parklar</title>
-    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129051500 +0000" stop="20260129054500 +0000" channel="trt-eba">
-    <title lang="tr">Türkçe - 1 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 1. Sınıflar için Türkçe Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129054500 +0000" stop="20260129061500 +0000" channel="trt-eba">
-    <title lang="tr">Hayat Bilgisi - 2 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 2. Sınıflar için Hayat Bilgisi Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129061500 +0000" stop="20260129064500 +0000" channel="trt-eba">
-    <title lang="tr">Matematik - 3 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 3. Sınıflar için Matematik Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129064500 +0000" stop="20260129070500 +0000" channel="trt-eba">
-    <title lang="tr">Türkçe - 4 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 4. Sınıflar için Türkçe Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129070500 +0000" stop="20260129071500 +0000" channel="trt-eba">
-    <title lang="tr">Hayatın Şifresi Sayılar</title>
-    <desc lang="tr">Serkan Şenalp, lunaparkta fizik ve matematiğin şifrelerini çözüyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129071500 +0000" stop="20260129080500 +0000" channel="trt-eba">
-    <title lang="tr">Lgs&#x27;ye Doğru</title>
-    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129080500 +0000" stop="20260129081500 +0000" channel="trt-eba">
-    <title lang="tr">Teknoloji Yolculuğumuz</title>
-    <desc lang="tr">Türkiye&#x27;nin bilim ve teknoloji alanında öncülük eden yerli ve milli kuruluşları tanıtılıyo</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129081500 +0000" stop="20260129083000 +0000" channel="trt-eba">
-    <title lang="tr">Beslenme Çantası</title>
-    <desc lang="tr">Diyetisyen ve sağlıklı beslenme uzmanı Andaç Yeşilyurt&#x27;un sunuculuğunu üstlendiği programda; çocukların verilen tariflerle yemek yapmayı eğlenerek öğrenmeleri vehayal gücü ile el becerilerini geliştirmeleri amaçlanmıştır. Program, çocukların ailelerine de sağlıklı beslenme tüyoları verirken her hafta başka bir çocuk beslenme çantasını doldurmak için kolları sıvadı. Beslenme uzmanının desteğiyle tariflerini hayata geçiren çocuklar hem hayallerindeki beslenme çantası içeriğini hazırladı hem de basit tariflerle gastronomi dünyasına adım atıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129083000 +0000" stop="20260129090000 +0000" channel="trt-eba">
-    <title lang="tr">Fen Bilimleri - 5</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 5. sınıflar için Fen Bilimleri dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129093000 +0000" channel="trt-eba">
-    <title lang="tr">Din Kültürü Ve Ahlak Bilgisi - 6</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 6. sınıflar için Din Kültürü ve Ahlak Bilgisi dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129093000 +0000" stop="20260129100000 +0000" channel="trt-eba">
-    <title lang="tr">Matematik - 7</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 7. sınıflar için Matematik dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129100000 +0000" stop="20260129103000 +0000" channel="trt-eba">
-    <title lang="tr">Türkçe - 8</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 8. sınıflar için Türkçe dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129103000 +0000" stop="20260129104500 +0000" channel="trt-eba">
-    <title lang="tr">Özel Eğitim Beceri Öğretimi</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan özel eğitim öğrencilerine yönelik Beceri Öğretimi dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129104500 +0000" stop="20260129110000 +0000" channel="trt-eba">
-    <title lang="tr">Özel Eğitim Beceri Öğretimi</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan özel eğitim öğrencilerine yönelik Beceri Öğretimi dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129112000 +0000" channel="trt-eba">
-    <title lang="tr">İngilizce - 8</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 8. sınıflar için İngilizce dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129112000 +0000" stop="20260129113000 +0000" channel="trt-eba">
-    <title lang="tr">Bilim Merkezleri</title>
-    <desc lang="tr">Türkiye&#x27;nin öne çıkan bilim merkezleri tanıtılıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129113000 +0000" stop="20260129122000 +0000" channel="trt-eba">
-    <title lang="tr">Lgs&#x27;ye Doğru</title>
-    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129122000 +0000" stop="20260129123000 +0000" channel="trt-eba">
-    <title lang="tr">Teknoloji Yolculuğumuz</title>
-    <desc lang="tr">Türkiye&#x27;nin bilim ve teknoloji alanında öncülük eden yerli ve milli kuruluşları tanıtılıyo</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129123000 +0000" stop="20260129124500 +0000" channel="trt-eba">
-    <title lang="tr">Kahramanlarbir Kurtuluş Hikâyesi</title>
-    <desc lang="tr">Anadolu&#x27;nun hürriyet sevdasını, vatanın dört bir yanında yükselen o eşsiz direniş ruhunu yeniden hatırlıyoruz. Bağımsızlık meşalesini elden ele taşıyan kahramanlarımızın destansı mücadelesi, tüm görkemiyle yakında TV ekranlarında izleyiciyle buluşuyor.Kuvayi Milliye saflarında kenetlenen bir milletin; Kara Fatma&#x27;dan Kılavuz Hatice&#x27;ye, Şerife Bacı&#x27;dan Halide Edip Adıvar&#x27;a, Şahin Bey&#x27;den Hasan Tahsin ve Telgrafçı Hamdi&#x27;ye kadar uzanan onurlu duruşuna tanıklık edeceksiniz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129124500 +0000" stop="20260129141500 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129141500 +0000" stop="20260129143000 +0000" channel="trt-eba">
-    <title lang="tr">Genç Kanatlar</title>
-    <desc lang="tr">Genç Kanatlar, geleceğin havacılarına şimdiden yol göstermeyi hedeflerken, havacılık alanının en temel mesleklerini konu edinmektedir. Teknolojinin en üst seviyede kullanıldığı havacılığın doğuşunu ve gelişimini ele alarak, 15 - 20 yaş arasındaki gençlerin ilgisini arttırmayı farkındalık yaratmayı amaçlamaktadır. Her bölümde havacılığın altı temel meslek alanı hakkında bilgi verilirken, havacılıkla ilgili ilginç bilgiler ve terimler kısaca açıklanmaktadır</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129143000 +0000" stop="20260129150000 +0000" channel="trt-eba">
-    <title lang="tr">Bilimin Ev Hali</title>
-    <desc lang="tr">Bilim sadece üniversiteler ve araştırma merkezleri ile sınırlı değil. Bilim her yerde... Evinizde, mutfağınızda, işyerinizde, kullandığınız tüm araçlarda...Etrafınızdaki her şey bir fikrin, bir düşüncenin, bir keşfin ürünü...
-İşte bu motivasyonla Bilimin Ev Hali&#x27; ni hazırladık. Bu seri size etrafınızdaki dünyanın nasıl çalıştığını anlatacak. Eğlenceli bir biçimde...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129153000 +0000" channel="trt-eba">
-    <title lang="tr">Coğrafya - 9</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 9. Sınıflar için Coğrafya Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129153000 +0000" stop="20260129160000 +0000" channel="trt-eba">
-    <title lang="tr">Biyoloji - 9</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 9. Sınıflar için Biyoloji Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129160000 +0000" stop="20260129163000 +0000" channel="trt-eba">
-    <title lang="tr">Din Kültürü Ve Ahlak Bilgisi - 10</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 10. Sınıflar için Din Kültürü ve Ahlak Bilgisi Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129163000 +0000" stop="20260129170000 +0000" channel="trt-eba">
-    <title lang="tr">Felsefe - 10</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 10. Sınıflar için Felsefe Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129173000 +0000" channel="trt-eba">
-    <title lang="tr">Tarih - 11</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için Tarih Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129173000 +0000" stop="20260129180000 +0000" channel="trt-eba">
-    <title lang="tr">İngilizce - 11</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için İngilizce Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129183000 +0000" channel="trt-eba">
-    <title lang="tr">Türk Dili Ve Edebiyatı - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Türk Dili ve Edebiyatı Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129190000 +0000" channel="trt-eba">
-    <title lang="tr">Matematik - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Matematik Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129203000 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129203000 +0000" stop="20260129204500 +0000" channel="trt-eba">
-    <title lang="tr">Okulda Sanat</title>
-    <desc lang="tr">Sanata ve müziğe tutkulu olan gençlerin okulda aldıkları sanat eğitimi, sanat uğruna sergiledikleri çabaları ve geleceğe ait hayalleri ekrana taşınıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260129204500 +0000" stop="20260129210000 +0000" channel="trt-eba">
-    <title lang="tr">Hayalin Mesleğin Olsun</title>
-    <desc lang="tr">Günümüzde popüler olan mesleklerle ilgili ilgi çekici bilgiler vererek çocukların hayallerindeki meslekleri deneyimlemelerine de imkan sağlayan program her hafta farklı bölümüyle ekrandaki yerini alıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
   <programme start="20260129000000 +0000" stop="20260129000500 +0000" channel="trt-genc">
     <title lang="tr">Doğada 1 Dakika</title>
     <desc lang="tr">Vahşi doğa 60 saniyede ne anlatır? Doğanın en ilginç vahşi hayvanlarını yalnızca 1 dakikada tanıyor, farklı türlerin yaşamına yakından bakıyoruz. Pratik, keyifli, öğretici ve çok hızlı bir keşfe çıkıyoruz. Vahşi yaşam hiç bu kadar yakın olmamıştı!</desc>
@@ -22544,24 +21831,24 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
     <desc lang="tr">Üniversitelerin spor takımlarının ve üniversite öğrencilerinin spora erişim olanakları anlatılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260129140500 +0000" stop="20260129142000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Engelsiz Spor</title>
-    <desc lang="tr">Engelsiz Spor programında, ilham veren başarı hikayelerine yer veriliyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260129142000 +0000" stop="20260129144000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260129140500 +0000" stop="20260129142500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Yıldız&#x27;da Söyleşi</title>
     <desc lang="tr">Spor dünyasının önemli isimleriyle yaşamlarına ve çalışmalarına dair keyifli sohbetler gerçekleştiriliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260129144000 +0000" stop="20260129145500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260129142500 +0000" stop="20260129143000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Nedir, Nasıl Oynanır?</title>
+    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260129143000 +0000" stop="20260129144500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sormazsam Olmaz</title>
     <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260129145500 +0000" stop="20260129150000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Nedir, Nasıl Oynanır?</title>
-    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
+  <programme start="20260129144500 +0000" stop="20260129150000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Engelsiz Spor</title>
+    <desc lang="tr">Engelsiz Spor programında, ilham veren başarı hikayelerine yer veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260129150000 +0000" stop="20260129151500 +0000" channel="trt-spor-yildiz">
