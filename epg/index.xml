@@ -3155,11 +3155,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">22. Hafta / Tekrar</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260130130000 +0000" stop="20260130165900 +0000" channel="beinsports2.tr">
+  <programme start="20260130130000 +0000" stop="20260130170000 +0000" channel="beinsports2.tr">
     <title lang="tr">Serikspor - E.Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260130170000 +0000" stop="20260130190000 +0000" channel="beinsports2.tr">
+  <programme start="20260130170100 +0000" stop="20260130190100 +0000" channel="beinsports2.tr">
     <title lang="tr">Kasımpaşa - Samsunspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3175,40 +3175,80 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham United - Sunderland</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260130110000 +0000" stop="20260130124400 +0000" channel="beinsports3.tr">
     <title lang="tr">West Ham United - Sunderland</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260130124500 +0000" stop="20260130134500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260130124500 +0000" stop="20260130125900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Manchester City - W.Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260130130000 +0000" stop="20260130144400 +0000" channel="beinsports3.tr">
     <title lang="tr">Manchester City - W.Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260130144500 +0000" stop="20260130154500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260130144500 +0000" stop="20260130154400 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260130154500 +0000" stop="20260130164500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260130154500 +0000" stop="20260130155900 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Match For Hope 2026</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260130160000 +0000" stop="20260130182900 +0000" channel="beinsports3.tr">
     <title lang="tr">Match For Hope 2026</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260130183000 +0000" stop="20260130193000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Extra Time</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260130183000 +0000" stop="20260130185900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Extra Time</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Preview</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260130190000 +0000" stop="20260130192900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Preview</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260130193000 +0000" stop="20260130203000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260130193000 +0000" stop="20260130195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="beinsports3.tr">
@@ -3414,71 +3454,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Her Şey Ortada</title>
     <desc lang="tr">Beyaz TV&#x27;nin gece kuşağındaki programı Her Şey Ortada, sunucuları Esra Ezmeci ve Oytun Erbaş eşliğinde izleyicilere güncel meselelerden magazin dünyasına kadar geniş içerik sunuyor. Programda samimi anlar, yüksek enerji ve interaktif katılım ön plana çıkıyor, sürpriz konuklar izleyicileri şaşırtıyor.</desc>
     <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130011500 +0000" stop="20260130040000 +0000" channel="bi-kanal">
-    <title lang="tr">Aşk ve Gurur</title>
-    <desc lang="tr">Köksoylar ailesi, köklü bir geçmişe sahip olmasına rağmen mali krizin eşiğine gelmiştir. Aile yadigarı konakta yaşayan ve üç kızdan oluşan aile, iflastan kurtulmanın yollarını ararken hayatlarına Tolga girer.
-
-Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görünür. Ailenin planı, büyük kız Mercan ile Tolga&#x27;nın evlenmesidir. Ancak Mercan, bu dayatmaya karşı çıkar. Tolga&#x27;yı küstah bulur ve gururu, aşkın önüne geçer. Fakat tüm bu çatışmanın ortasında, Mercan ile Tolga arasında inkar edilemez bir çekim doğar.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130053000 +0000" channel="bi-kanal">
-    <title lang="tr">Lale Devri</title>
-    <desc lang="tr">Geleneklerine bağlı, Anadolulu Ilgaz Ailesi, Lale Devri’nin zirvesindeyken, İstanbullu ve cemiyet hayatının tanınan ailesi Taşkıranlar, Lale Devri’nin son demlerini yaşamaktadır. Ve iki ailenin yolu iş hayatının tam ortasında, büyük bir aşkla kesişir. 
-
-Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgazlar aralarındaki sorunları çözüp gerçek bir aile olabilecek mi?</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130053000 +0000" stop="20260130070000 +0000" channel="bi-kanal">
-    <title lang="tr">Yeşil Vadi&#x27;nin Kızı</title>
-    <desc lang="tr">Melissa, onu evlat edinen ailenin yanında barınmaya çalışır ancak evin hanımı Besime, onu istemez ve türlü eziyetlerde bulunur. Bir gün öfkenin kurbanı olarak kapıya konduğunda, bir adam çıkar karşısına; Metin. İkisi de, o andan sonra hayatlarının tamamen değişeceğinden habersiz, konuşmaya başlarlar. Metin içine kapalı, kendi halinde bir adam; Melissa ise cıvıl cıvıl, konuşkan bir kız çocuğu. Metin kalbini dinler ve bu kız çocuğunu çiftliğe götürür. Kasabadaki Yeşil Vadi çiftliğinde Metin ve Mahinur ile yaşamaya başlayan Melissa’nın sorup sorgulayan tarzı, yıllardır kapanan birçok anıyı ve sırları da ortaya çıkaracaktır. Melissa’nın gelişi ayrı, çiftlikte kalması ayrı, okula başlayıp kendini herkese kabullendirmesi ayrı bir serüven olur.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130100000 +0000" channel="bi-kanal">
-    <title lang="tr">Yer Gök Aşk</title>
-    <desc lang="tr">Kapadokya&#x27;nın nefes kesen güzelliklerinde geçen aşk hikayesinde taşlar yerinden oynuyor, dengeler değişiyor. Kara bulutlar dolaşırken yeni aşklar, yeni heyecanlar, dargınlıklar, entrikalar zirveye çıkıyor.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130120000 +0000" channel="bi-kanal">
-    <title lang="tr">Karagül</title>
-    <desc lang="tr">Doğulu zengin bir ailenin oğlu Murat, İstanbul&#x27;da zarif eşi  Ebru ve 3 çocuğuyla mutlu bir hayat sürmektedir. Bu peri masalı Murat&#x27;ın aniden ortadan kaybolmasıyla Ebru ve çocuklar için büyük bir yıkıma dönüşür.
-
-Murat&#x27;ın kayboluşunun ardından Murat&#x27;ın memleketi Halfeti&#x27;ye giden Ebru, kocasının kendinden gizlediği iflas gerçeğiyle yüzleşir. Diğer yandan eşinin ailesiyle mücadele etmek zorunda kalır. İstanbul&#x27;dan gelen bu narin ve iyi yetişmiş kadın, karagül gibi bu topraklarda kalmak için direnecek mi yoksa tüm bu mücadeleden vazgeçip kendi yolunu mu çizecek?</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130140000 +0000" channel="bi-kanal">
-    <title lang="tr">Lale Devri</title>
-    <desc lang="tr">Geleneklerine bağlı, Anadolulu Ilgaz Ailesi, Lale Devri’nin zirvesindeyken, İstanbullu ve cemiyet hayatının tanınan ailesi Taşkıranlar, Lale Devri’nin son demlerini yaşamaktadır. Ve iki ailenin yolu iş hayatının tam ortasında, büyük bir aşkla kesişir. 
-
-Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgazlar aralarındaki sorunları çözüp gerçek bir aile olabilecek mi?</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130160000 +0000" channel="bi-kanal">
-    <title lang="tr">Beyaz Köle</title>
-    <desc lang="tr">Victoria Quintero, El Edén arazisinin sahibi Don Domingo Quintero ve eşi Elena&#x27;nın kızı olarak doğar. Birkaç hafta içinde, Quintero arazisini isteyen komşu toprak sahibi ve tüccar Nicols Parreo tarafından kasıtlı olarak başlatılan bir yangında ebeveynleri ölür. Victoria, siyah dadı Lorenza ve kocası Toms tarafından kurtarılır. Victoria, kızları Milagros ve Rosita ile birlikte ormanın derinliklerindeki bir palenque&#x27;ye götürülür ve burada on iki yıl boyunca bir köle olarak büyür.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130173000 +0000" channel="bi-kanal">
-    <title lang="tr">Megalodon&#x27;un Yükselişi</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130173000 +0000" stop="20260130184500 +0000" channel="bi-kanal">
-    <title lang="tr">Ağustos Böceği ve Karınca</title>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130184500 +0000" stop="20260130201500 +0000" channel="bi-kanal">
-    <title lang="tr">Megalodon&#x27;un Yükselişi</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130201500 +0000" stop="20260130204500 +0000" channel="bi-kanal">
-    <title lang="tr">Lig Özetleri</title>
-    <desc lang="tr">Çeşitli futbol müsabakalarından özet görüntüler ekrana geliyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260130204500 +0000" stop="20260130213000 +0000" channel="bi-kanal">
-    <title lang="tr">Bi Gündem</title>
-    <desc lang="tr">Yılların deneyimli habercisi Gökhan Taşkın, kendine özgü sunum tarzıyla gündemin nabzını Bi Kanal ekranlarında tutuyor. Türkiye ve dünyadan en güncel gelişmeleri yalnızca aktarmakla kalmayan Taşkın; doğru, tarafsız ve derinlikli habercilik anlayışıyla olayların perde arkasını da izleyiciyle buluşturuyor. Güven veren anlatımı, çarpıcı yorumları ve dinamik sunumuyla haber bültenine farklı bir soluk getiren Gökhan Taşkın, günün en önemli başlıklarını Bi Kanal izleyicisine taşıyor.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260130001000 +0000" stop="20260130004500 +0000" channel="bizim-ev-tv">
     <title lang="tr">Işığın Kaynağı</title>
@@ -6254,6 +6229,461 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <desc lang="tr">Gündemin sıcak başlıkları gazeteci konuklar ile Akıl Çemberi&#x27;nde tartışılıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
+  <programme start="20260130000000 +0000" stop="20260130002100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Devinimsizlik</title>
+    <desc lang="tr">Hiç üzerinde yemek takımları varken bir masa ortüsünü nasıl çekebileceğini merak ettin mi? Sunucumuz Steve Spangler bunu nasıl yapabileceğini gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130002100 +0000" stop="20260130002700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Manevi Kültürel Mirası Kurtarmak</title>
+    <desc lang="tr">Kültürel miras, mimari ve eşyanın çok daha ötesidir: aynı zamanda müzik, dans, şan, tiyatro, ve el işçiliği gibi kırılgan soyut canlı dışavurumları da içerir. Peki bunları nasıl doğru, interaktif ve masrafsız bir şekilde koruyabiliriz?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130002700 +0000" stop="20260130003000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Kutup Araştırmaları Artıyor</title>
+    <desc lang="tr">Neden kutup bölgeleri Avrupa ülkeleri için bu kadar önemli? Ve nasıl oluyor da AB üyesi ülkeleri araştırmalarını bu kadar sert çevresel şartlara rağmen iyi koordine edebiliyor? EU-PolarNET projesi bilimadamları bu sorunun cevabını arıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130005100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Soda</title>
+    <desc lang="tr">Soda şişelerinin içine şekerleme atmakla ünlü olan Steve Spangler fışkıran soda gayseri yaratıyor. Bu bölümde bu becerisini pek çok soda şişesinde deniyor. Diğer görüntüler ise evde sodayla eğlenceli başka neler yapabileceğini gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130005100 +0000" stop="20260130005700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Deniz Madenciliği: Derin Belirsizlik</title>
+    <desc lang="tr">Okyanus tabanı şu ana kadar hiç kaynak çıkarılmak için kazılmadı, ama madencilik alanındaki yeni teknolojilerle, bu değişmek üzere. Bunun çevresel sonuçları ve deniz hayatı üzerindeki etkileri ne olacak?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130005700 +0000" stop="20260130010000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Çığır Açan Sensörler</title>
+    <desc lang="tr">İklim değişimi, toprak kayması ve obrukların yol açtığı trafik kazalarının artışına sebep olacak. Bu bölümde, bunun olmasını önlemek için bir teknolojinin gerçeğe yakın boyutlarda testine katılacağız.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130012100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Sıvılar</title>
+    <desc lang="tr">Steve Spangler bu bölümde suyun üzerinde nasıl yürünebileceğini ve evde de yapabileceğin deneyleri gösteriyor. Bu deneylerle sıvı nedir sorusunun cevabını öğreniyoruz.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130012100 +0000" stop="20260130012700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Gözetleme Uygulamaları Denizi</title>
+    <desc lang="tr">Avrupa derinleşen bir mülteci krizi ile karşı karşıya, denizlerimizi gözetlemek– kıtamızın daha evvel hiç karşılaşmadığı bir öncülük geliyor–yepyeni bir boyut kazandı. Deniz gözetleme teknolosindeki gelişmelere rağmen, illegal işler günaşırı vuku bulmakta.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130012700 +0000" stop="20260130013000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Mükemmel Fırtına</title>
+    <desc lang="tr">Sıkılaşan mevzuatlar, gemilerin stabilitelerini riske atabilecek olan düşük güçlü motorlara geçmelerini gerektiriyor. Avrupalı mühendisler, çevresel endişeleri güvenlik gereksinimleri dengeleyen yenilikçi metodlar arıyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130013000 +0000" stop="20260130015100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Havanın Gücü</title>
+    <desc lang="tr">Sunucumuz Steve Spangler bilimsel deneyleri kullanarak bir uçağın havada nasıl gidebildiğini ve otomatik tuvalet kağıdı fırlatıcısının nasıl yapılabileceğini gösteriyor. Ayrıca yuvarlak duman çıkaran pinpon topu fırlatıcısını nasıl yapabileceğini de gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130015100 +0000" stop="20260130015700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayvansız Testler</title>
+    <desc lang="tr">Lüksemburg Üniversitesindeki araştırmacılar Parkinson hastalığının tedavisi için beyin hücreleri yetiştiriyorlar. Testler için hayvanları kullanmak yerine yapay ortam ve bilgisayar tabanlı modeller kullanıyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130015700 +0000" stop="20260130020000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Prematüre Bebekler İçin Yeni Umut</title>
+    <desc lang="tr">Prematüre bebekler sıklıkla beyin hasarı gibi ciddi komplikasyonlara maruz kalıyorlar. Avrupalı araştırmacılar, kanın akışını ve beyne giden oksijeni ölçebilen müdahalesiz bir alet geliştirdiler. Acaba bu beyin hasarına engel olabilecek mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130022100 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Yarasa Evleri</title>
+    <desc lang="tr">Sunucu Alie Ward; bir köpek yıkama çubuğunu, böcekleri uzak tutan bir yarasa otelini, doktorların dünyanın bir ucundan muayene etmesini sağlayan bir cihazı ve Hayalet Sandalye&#x27;nin mucitlerini tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130022100 +0000" stop="20260130022400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Deniz Kirliliğini Gözetlemek</title>
+    <desc lang="tr">Deniz ekosistemimizin kimyasal kirlilik seviyesini nasıl etkili, doğru, hızlı ve hesaplı bir şekilde gözlemleriz? Buna bir cevap verebilmek için, Bravo projesinin araştırmacıları, ilk insansız keşif gemilerini test ediyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130022400 +0000" stop="20260130023000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Cebinizdeki 3D</title>
+    <desc lang="tr">Harvest4D projesi araştırmacıları karmaşık anıtların akıllı telefonlar ve bilgisayar yazılımları ile 4D yeniden inşasını mümkün kılmanın yolları üzerinde çalışıyorlar. Bunu yapmak için yenilikçi bir algoritm üzerinde çalışıyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130023000 +0000" stop="20260130025100 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Evcil Hayvan Şefi</title>
+    <desc lang="tr">Sunucu Alie Ward; evcil hayvanlar için yemek yapma işi kuran bir adamı, telefonu kablosuz şarj eden bir çantayı, ilaçsız ağrı gideren bir cihazı ve suyu temizlemein yeni yolunu bulan bir mucidi tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130025100 +0000" stop="20260130025400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Bakteriye Karşı Cerrahi Savaş</title>
+    <desc lang="tr">Eğer bakteriyel patojenler, &quot;biofilm&quot;leri oluşturuyorlarsa, hastalar antibiyotiklere bağışıklık-özellikle protezi olan insanlar için tehlikeli bir enfeksiyon-kazanıyorlar. Bu bölümde, biofilm enfeksiyonuyla mücadele eden bir hastayı ziyaret edeceğiz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130025400 +0000" stop="20260130030000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Obezite Bombası: Teknoloji Duruşması</title>
+    <desc lang="tr">Dünya üzerinde 500 milyondan fazla obez yetişkin var. Obezitenin karmaşık doğasını anlamak için Splendid projesinin araştırmacıları, yeme alışkanlıklarını, çiğneme modelleri ve yutma alışkanlıklarını kaydediyorlar. Bu obez insanların sayısını azaltmaya yardım edecek mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130032100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Mutfak Kimyası</title>
+    <desc lang="tr">Mutfağında keşfedilmeyi bekleyen büyük bir laboratuvar var! Sunucumuz Steve Spangler marketten alınan malzemelerle sabundan nasıl sufle yapılabileceğini gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130032100 +0000" stop="20260130032700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Kabuklardan Domuzlara</title>
+    <desc lang="tr">Bilimadamları yemek artıklarını hayvan yemi haline getirmenin güvenli, etkili ve endüstriyel yollarını arıyorlar. Böyle yaparak tarım rekabetini ve enerji verimini arttırırken aynı zamanda tüketici ile daha kaliteli tarım ürünleri sağlamayı umuyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130032700 +0000" stop="20260130033000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Kemik Yetiştirmek</title>
+    <desc lang="tr">Bilimadamları, yeni yenileyici tedavilerin geliştirilmesine ön ayak olacak kemik yenileyici aletler geliştiriyorlar. Bu bölümde Almanya Würzburg&#x27;a gidiyoruz ve hastalarımıza acilen kemik takletme ihtiyacı duyuyoruz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130033000 +0000" stop="20260130035100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Gaz</title>
+    <desc lang="tr">Sesimizi değiştirebilir miyiz? Sunucumuz Steve Spangler, bu bölümde gazın gücünden nasıl yararlanabileceğimizi gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130035100 +0000" stop="20260130035400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Çevre Dostu Plastikler</title>
+    <desc lang="tr">Yenilikçi nanoteknolojinin kullanımı ile, araştırmacılar doğada yok olabilen torbalar ve konteynırlar üretiyorlar. Bu bölümde doğada yok olabilen ürünlerin test edildiği İspanya&#x27;daki Zaragoza&#x27;ya gidiyoruz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130035400 +0000" stop="20260130040000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayal Edilemeyeni Görmek</title>
+    <desc lang="tr">Bilgisayar Mühendisleri savaş sonrası yok olan Bergen-Belsen esir kampını dijital olarak inşa etmek için sanal ve arttırılmış gerçeklik kullanıyorlar. Bu bölümde, ilerlemeyi gözlerimizle görmek için Barselona&#x27;daki arttırılmış gerçeklik laboratuarına yolculuk ediyoruz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130042100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Hava</title>
+    <desc lang="tr">Steve Spangler bu bölümde evlerin içerisinde nasıl hava üretebileceğimizi gösteriyor. Sisle dolu bir tanktan fırtına yaratıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130042100 +0000" stop="20260130042700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Benim Robotum, Benim Arkadaşım</title>
+    <desc lang="tr">Casper&#x27;la tanışın: yürüyen, konuşan ve oyun oynayabilen, genç kanser hastaları için tasarlanmış bir robot. Acaba Casper pozitif enerji yaratabilecek mi? Yaratabilirse bu pozitif enerji hastaların yorucu tedavilerini daha hızlı atlatabilmelerini sağlayabilecek mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130042700 +0000" stop="20260130043000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Daha Kaliteli Ekmek Yapmak</title>
+    <desc lang="tr">Acaba soğuk su sisi ekmeğin tadını ve yapısını arttırabilir mi? Almanya Bremerhaven&#x27;de ultrason teknolojisi baz alınarak hazırlanan yeni fırınlama teknikleri üzerine çalışan gıda teknologları ile buluştuk.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130043000 +0000" stop="20260130045100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Ses</title>
+    <desc lang="tr">İster inan ister inanma ama hepimizin dolaplarında gizli birer orkestra var! Steve Spangler bu bölümde bardak, boru gibi malzemelerini kullanarak nasıl çmüzik enstrümanları yapabileceğimizi gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130045100 +0000" stop="20260130045700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Maddenin Dördüncü Hali</title>
+    <desc lang="tr">Bu bölümde, belli hastalıkların tedavisi için alternatif olarak plazmayı sunan mühendisler ve sağlıkçılarla buluşuyoruz. Bu HIV ve tüberkülozu tedavi etmenin daha ucuz ve hassas bir yolu olabilir mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130045700 +0000" stop="20260130050000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Derin Değişiklikler</title>
+    <desc lang="tr">Okyanuslarımız ne kadar sağlıklı? Baltık Denizi&#x27;nden örnekler alıp plankton oluşumu, oksijen içeriği ve tuzluluk oranını görüntüleyen Finlandiya&#x27;nın ana araştırma gemisinin mürettebatına katılıyoruz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130051200 +0000" channel="da-vinci">
+    <title lang="tr">Bitz ve Bob: Belediye Başkanı Bevel&#x27;ın Dönme Dolabı</title>
+    <desc lang="tr">Yapmaya başladıkları Mega Tekerlek&#x27;i nasıl bitireceklerine dair tüm talimatların bulunduğu Bitz&#x27;in tableti kaybolur. Çabuk olma zamanı!</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130051200 +0000" stop="20260130051500 +0000" channel="da-vinci">
+    <title lang="tr">mathXplosion: İmkansız Katlanan Kağıt</title>
+    <desc lang="tr">Neden bir kağıt 6 kereden fazla katlanamaz?Matematik sihirbazı Eric bunu bir yaprağı defalarca yarıya katlayarak öğreniyor, kağıdın kalınlığı iki katına çıkmıyor katlanarak artıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130051500 +0000" stop="20260130052100 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda: Süper Pasta</title>
+    <desc lang="tr">June&#x27;un özel üç aromalı süper pastası sonunda parçalara ayrılıyor. Doktor Panda, parçaları keklere dönüştürmek için bir plan yapar.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130052100 +0000" stop="20260130053000 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda: Spor Günü</title>
+    <desc lang="tr">Doktor Panda, Panda Şehri Spor Günü&#x27;nde hakem olur. Olette, Bip&#x27;in çeşitli olaylarda hile yaptığını düşünüyor. Panda&#x27;nın bir fikri var.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130053000 +0000" stop="20260130054800 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Mor Balıklar</title>
+    <desc lang="tr">Fontaine, bir balığın Dolos&#x27;un teknesini batırdığına, Aronnax&#x27;ın su almaya başlamasına ve Rover&#x27;ı ölümcül bir tehlikeye soktuğuna inanıyor!</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130054800 +0000" stop="20260130060300 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Yeraltı Harikaları</title>
+    <desc lang="tr">Bir mağara sistemini keşfederlerken Darwin ve Newts&#x27;e katılın ve yeraltında başka bir dünya olduğunu keşfedin.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130060300 +0000" stop="20260130061800 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Burpee ve Kea&#x27;nın Balon Macerası</title>
+    <desc lang="tr">Darwin ve Newts, havadan fotoğraf çekmek ve uzakta olan şeyleri öğrenmek için bir balon kamera kullanır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130061800 +0000" stop="20260130062400 +0000" channel="da-vinci">
+    <title lang="tr">Süper Kahraman Sprinter Galore: Herkes Gelebilir!</title>
+    <desc lang="tr">Riwahl, Leo&#x27;nun eve gönderilmesini ister. Bhilka hakkında bilgi yarışması yaparlar. Başarısız olan, Bhilka&#x27;yı sonsuza dek terk etmelidir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130062400 +0000" stop="20260130063000 +0000" channel="da-vinci">
+    <title lang="tr">Süper Kahraman Sprinter Galore: Bumble&#x27;ın Partisi</title>
+    <desc lang="tr">Bumble&#x27;ın doğum günü. Dünya&#x27;daki gibi bir parti düzenlemek istiyor ama pastalar ya da hediyeler hakkında hiçbir şey bilmiyor.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130064500 +0000" channel="da-vinci">
+    <title lang="tr">Addison: Gizemli Sivriler</title>
+    <desc lang="tr">Sivrisinek sürüleri gizemli bir şekilde parka indiğinde, Addison ve arkadaşları onları durdurmanın bir yolunu bulamazsa, çocukların yaz filmi gecesi iptal edilme tehlikesiyle karşı karşıya kalır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130064500 +0000" stop="20260130065400 +0000" channel="da-vinci">
+    <title lang="tr">Küçük Hanımın Soruları: Ben Buyum</title>
+    <desc lang="tr">Mili, engelli biriyle tanıştıktan sonra kendi tepkisinden utanır. Bir kişinin engeline nasıl tepki vermemiz gerektiğini merak eder.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130065400 +0000" stop="20260130070000 +0000" channel="da-vinci">
+    <title lang="tr">Kosmix: Ötegezegenler</title>
+    <desc lang="tr">Kit ve Bay Pil, üç ötegezegen bulur ve yaşam belirtileri aramaya başlar.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130070300 +0000" channel="da-vinci">
+    <title lang="tr">Kosmix: Samanyolu</title>
+    <desc lang="tr">Kit, uçsuz bucaksız Samanyolu&#x27;nda kaybolur. Bay Pil&#x27;e giden yolu bulmak için galaksimizin bir haritasını çizmesi gerekir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130070300 +0000" stop="20260130071800 +0000" channel="da-vinci">
+    <title lang="tr">Doki: Baloncuklu Naylon</title>
+    <desc lang="tr">Bir solucan neden baloncuk patlatır? Doki şaşkın! Gabi&#x27;nin evcil solucanı Lancelot&#x27;u alarak öğrenmek için yola koyulurlar!</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130071800 +0000" stop="20260130073900 +0000" channel="da-vinci">
+    <title lang="tr">Doki: Astronot</title>
+    <desc lang="tr">Astronot eğitiminin tadına varırken Doki, Duncan ile karıştırılıyor ve yanlışlıkla uzaya gönderiliyor!</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130073900 +0000" stop="20260130075400 +0000" channel="da-vinci">
+    <title lang="tr">Bitz ve Bob: Doğum Günü Sürprizi</title>
+    <desc lang="tr">Purl&#x27;ün doğum günü geliyor ve arkadaşları sürpriz bir hediye hazırlıyorlar; Purl&#x27;ün sevdiği şeylerden yaptıkları harika bir saç tokası.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130075400 +0000" stop="20260130080300 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda: Panda Topu</title>
+    <desc lang="tr">Oyun zamanı. Tenis oynama planları suya düştükten sonra, Doktor Panda &quot;Panda Topu&quot; adlı yeni bir oyun önerir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130080300 +0000" stop="20260130080900 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda</title>
+    <desc lang="tr">Bip bacağını kırdı ve evde kalmak zorunda. Ama arkadaşlarını özlüyor. Doktor Panda onu neşelendirecek bir şey yapmaya karar verir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130080900 +0000" stop="20260130083300 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Mor Balıklar</title>
+    <desc lang="tr">Fontaine, bir balığın Dolos&#x27;un teknesini batırdığına, Aronnax&#x27;ın su almaya başlamasına ve Rover&#x27;ı ölümcül bir tehlikeye soktuğuna inanıyor!</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130083300 +0000" stop="20260130090000 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: İlginç Sistem</title>
+    <desc lang="tr">Rover, devasa bir köpekbalığı tarafından yutuldu! Will ve Fontaine onun peşinden gidiyor. Kaiko ve Ant hepsini kurtarmaya kararlı.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130093000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Opera Kasları</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130100000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Baş Dönmesini Engellemek</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130102400 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Renk Bilimi</title>
+    <desc lang="tr">Steve Spangler evde de yapılabilecek inanılmaz deneylerle renklerin sırrını ortaya çıkarır. Kendi yapacağınız gökkuşağı tozlarıyla nasıl bulutlar yapacağınızı gösterir ve renkli mürekkeple ilgili sırları paylaşır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130102400 +0000" stop="20260130105100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Hırdavat</title>
+    <desc lang="tr">Steve Spangler bilime dayalı mahallenizdeki hırdavat dükkanından alacağınız malzemelerle yapacağınız deneyler gösterir. Tişört fırlatıcısının nasıl yapıldığını, kemeğin üzerindeki reçelin nasıl temizleneceğini ve insan vücudundan boyanın nasıl çıkarıldığını gösterir.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130105100 +0000" stop="20260130105400 +0000" channel="da-vinci">
+    <title lang="tr">Bil Bakalım: X-Ray</title>
+    <desc lang="tr">X-Ray bir çeşit elektromanyetik radyasyondur. 1895 yılında Wilhelm Röntgen tarafından icat edildi ve tıbbın ilerlemesinde büyük bir pay sahibi olduğu söylenebilir. X-Ray ışınları süper kahraman görüşü sayılabilir.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130105400 +0000" stop="20260130112400 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Büyülü Orman</title>
+    <desc lang="tr">Bir grup genç maceracı, Garden Route Ulusal Parkı&#x27;nda Güney Afrika&#x27;daki en büyük yaprak dökmeyen nemli ormanı keşfediyor. Yol boyunca çelik halatla iniş yapıyorlar, dev bir ağaç buluyorlar ve efsanevi Knysna fillerinin izlerine rastlıyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130112400 +0000" stop="20260130115400 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Sahil Günlükleri</title>
+    <desc lang="tr">Bir grup genç maceracı, Güney Afrika&#x27;daki Masa Dağı Ulusal Parkı&#x27;nda kaya sanatını ve inanılmaz biyoçeşitliliği keşfediyor. Kakapo gemi enkazını ziyaret etmek için, yol boyunca at sırtında ilerliyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130115400 +0000" stop="20260130121800 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Alacakaranlık Bölge</title>
+    <desc lang="tr">Kaiko ve Will, parlayan bir balığın büyüsüne kapılır. Ant ve Fontaine, göz bandı takarak ebeveynlerini kurtarmak zorundadır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130121800 +0000" stop="20260130123000 +0000" channel="da-vinci">
+    <title lang="tr">Bitz ve Bob: Müthiş Plaj Sirki</title>
+    <desc lang="tr">Bob, dünyanın ilk robot ip cambazıdır. Bitz ve Purl, Bob&#x27;un harika gösterisini aynı zamanda güvenli hale getirmenin bir yolunu bulmalıdır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130123300 +0000" channel="da-vinci">
+    <title lang="tr">Kural Tanımayan Hayvanlar: Peynir Kurtları</title>
+    <desc lang="tr">Peynir Kurtları genellikle zararlı böcekler olarak tanınırlar. Fakat bazı peynirlerin yapımında kullanılırlar çünkü birçok insan kıvamlarını ve topraksı tatlarını beğeniyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130123300 +0000" stop="20260130124800 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Çarpının Olduğu Yer</title>
+    <desc lang="tr">İçinde mesaj olan bir şişe kıyıya vurur, Darwin ve Newts bir korsan hazinesinin izini sürmek için düğüm bilgilerini kullanmak zorundadır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130124800 +0000" stop="20260130125400 +0000" channel="da-vinci">
+    <title lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları: Mantık Programlama</title>
+    <desc lang="tr">Mantık programlaması bir bigisayar programının son olarak nasıl göründüğünü resmetmek için kullanılır. Bunun nasıl olduğunu öğrenelim.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260130125400 +0000" stop="20260130130600 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Teknolojiyle Bağlan</title>
+    <desc lang="tr">Yağmur, Darwin ve Newts&#x27;in bir sunum günü düzenlemesini engelliyor,onlar da interneti orman ailelerine uzaktan bağlanmak için kullanıyorlar.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260130130600 +0000" stop="20260130130900 +0000" channel="da-vinci">
+    <title lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları: Yazı Dönüşümü</title>
+    <desc lang="tr">Bir bilgisayar pek çok farklı bilgi türüyle çalışabilir: rakam, yazı, resim ve müzik. Bilgisayarın sınırlı klavyesinde bilginin farklı türlerini nasıl ifade ettiğimizi keşfedelim.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260130130900 +0000" stop="20260130133300 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Lüks Ağaç Evleri</title>
+    <desc lang="tr">Sunucu Alie Ward; ağaçlara köşkler yapan bir mucidi, parmak ucu ışıklarını, suyu filtreleyen bir kitabı, ve araştırmacılar için penguen dünyasına yeni bir bakış açısı getiren bir yavru penguen robotunu tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130133300 +0000" stop="20260130140000 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Sörf Parkı</title>
+    <desc lang="tr">Sunucu Alie Ward; Kuzey Galler&#x27;deki yenilikçi bir Sörf Parkı&#x27;nı, kedi ve köpekler için evcil hayvan teknolojisini, masaj koltuklarındaki mühendislik ustalığını ve Meksika otobanlarını yeşillendiren dikey bahçeleri tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130141500 +0000" channel="da-vinci">
+    <title lang="tr">Tek Bir Şey: Alan Silva: Hava Akrobasi Sanatçısı</title>
+    <desc lang="tr">Alan Silva, bir dakikada hava kayışlarından baş aşağı durarak en fazla 360 derecelik dönüş yapmada Guinness Dünya Rekorunu elinde tutuyor. Alan Pixsley, Alan Silva ile tanışarak, performans sırasında nasıl güzel ve zarif görüneceğini öğreniyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130141500 +0000" stop="20260130143300 +0000" channel="da-vinci">
+    <title lang="tr">Tek Bir Şey: Bonetics: Olağanüstü Akrobat</title>
+    <desc lang="tr">Bonetics, akıllara durgunluk veren bir akrobattır ve insanüstü yeteneklerini kullanarak, bacaklar başın arkasında, eller üzerinde en hızlı 10 metre yürüyüşte Guinness Dünya Rekoru&#x27;nu kırdı. Alan Pixsley ile tanışarak ona en ikonik hareketlerinden bazılarını öğretiyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130143300 +0000" stop="20260130150000 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Büyük Yılanın İzinde - Bölüm 4: Nehrin Sonuna Doğru</title>
+    <desc lang="tr">Beş genç kaşif, Ai-Ais / Richtersveld Sınır Ötesi Parkı&#x27;nda efsanevi Büyük Yılan&#x27;ı ararken, akarsudan geçiyorlar. Büyük Yılan&#x27;ı bulamasalar da, Güney Afrika&#x27;nın doğasıyla derin bir bağ kurup onu korumak istiyorlar.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130153000 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Cederberg - Gizli Kütüphane</title>
+    <desc lang="tr">Dört genç, binlerce yıldır eski bir medeniyetin var olduğu uzak bir sıradağa gizlenmiş gizli bir kütüphane aramaya başlıyor. Eski bir haritayı kullanarak, kütüphaneyi bir mağarada buluyorlar ve ülkelerinin hayatta kalma sırrını çözerler.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130153000 +0000" stop="20260130160000 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Yıldız (Julia Roberts) ve Dövüşçü (Wladimir Klitschko)</title>
+    <desc lang="tr">Bear Grylls&#x27;in sunduğu Olağanüstü Olmak&#x27;ın bu bölümünde, Julia Roberts, Oscar ödüllü bir aktris olma yolculuğunu yeniden yaşıyor ve Wladimir Klitschko nasıl Olimpiyat altın madalyası sahibi ve rekor kıran dünya ağır sıklet boks şampiyonu olduğunu paylaşıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Kaleci (Maddie Hinch) ve Kâşif (Ranulph Fiennes)</title>
+    <desc lang="tr">Bear Grylls&#x27;in sunduğu Olağanüstü Olmak&#x27;ın bu bölümünde, dünyanın en iyi çim hokeyi kalecisi ve Olimpiyat altın madalyası sahibi Maddie Hinch ve dünyanın yaşayan en büyük kaşifi Ranulph Fiennes, rekor kıran yolculuklarını paylaşıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130170000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Boğulmalarda İlkyardım</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130172400 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Mayın Avcısı Dronlar</title>
+    <desc lang="tr">Sunucu Alie Ward; sanatsal dünya kürelerini, oyuncaklardan yapılan tıbbi cihazları, mayınları bulup temizleyen dronları ve ağaçlara köşk yapan bir adamı tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130172400 +0000" stop="20260130172700 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik</title>
+    <desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlere göz atın. Enerji tasarruflu lambadan laboratuvarda üretilen kalp kapakçığına, su altı yolculuğundan uzaktan kumandalı robot itfaiyeciye, her şey var.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130172700 +0000" stop="20260130173000 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik: A Robot In Mind</title>
+    <desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlere göz atın. Enerji tasarruflu lambadan laboratuvarda üretilen kalp kapakçığına, su altı yolculuğundan uzaktan kumandalı robot itfaiyeciye, her şey var.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130175400 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Büyüyen Ayakkabılar</title>
+    <desc lang="tr">Sunucu Alie Ward; güneş enerjisiyle çalışan bir ızgarayı, bir akıllı telefon kamera sabitleyicisini, çocuğun ayağıyla birlikte büyüyebilen bir ayakkabıyı ve güneş hasarı için cilt kontrolü yapan bir telefon eklentisini tanıtıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130175400 +0000" stop="20260130175700 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik: A Sweet Solution</title>
+    <desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlere göz atın. Enerji tasarruflu lambadan laboratuvarda üretilen kalp kapakçığına, su altı yolculuğundan uzaktan kumandalı robot itfaiyeciye, her şey var.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130175700 +0000" stop="20260130180000 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik</title>
+    <desc lang="tr">Avrupalı bilim insanları ve girişimciler tarafından geliştirilen müthiş heyecan verici ürünlere göz atın. Enerji tasarruflu lambadan laboratuvarda üretilen kalp kapakçığına, su altı yolculuğundan uzaktan kumandalı robot itfaiyeciye, her şey var.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="da-vinci">
+    <title lang="tr">Eğlenceli Yapay Zeka</title>
+    <desc lang="tr">Prof. Jim al-Khalili, yapay zekadaki gelişmelere iyimser bir bakışla yaklaşıyor. Dünyamızı nasıl değiştirdiğinin yanısıra, zeka ve bilinç hakkındaki düşüncelerimize de meydan okuduğunu bize gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130192100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Roketler</title>
+    <desc lang="tr">Bu bölümde sunucumuz Steve Spangler soda şişesi, balon, sirke ve pipet kullanarak nasıl roket yapabileceğini gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130192100 +0000" stop="20260130192700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayvansız Testler</title>
+    <desc lang="tr">Lüksemburg Üniversitesindeki araştırmacılar Parkinson hastalığının tedavisi için beyin hücreleri yetiştiriyorlar. Testler için hayvanları kullanmak yerine yapay ortam ve bilgisayar tabanlı modeller kullanıyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130192700 +0000" stop="20260130193000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Prematüre Bebekler İçin Yeni Umut</title>
+    <desc lang="tr">Prematüre bebekler sıklıkla beyin hasarı gibi ciddi komplikasyonlara maruz kalıyorlar. Avrupalı araştırmacılar, kanın akışını ve beyne giden oksijeni ölçebilen müdahalesiz bir alet geliştirdiler. Acaba bu beyin hasarına engel olabilecek mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130195100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Mutfak Kimyası</title>
+    <desc lang="tr">Mutfağında keşfedilmeyi bekleyen büyük bir laboratuvar var! Sunucumuz Steve Spangler marketten alınan malzemelerle sabundan nasıl sufle yapılabileceğini gösteriyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130195100 +0000" stop="20260130195700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Arama Kurtarma Robotları</title>
+    <desc lang="tr">Tehlikeli durumlardan kurtarma çalışmasını korumak için, Cenova&#x27;daki İtalyan Teknoloji Enstitüsündeki araştırmacılar 1.80 metre uzunluğunda bir robot geliştirdiler. Yangın çıkan bir binaya gönderilirse, robot gerçek bir insanı bulup kurtarabilir mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130195700 +0000" stop="20260130200000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Ben ve Avatarım</title>
+    <desc lang="tr">Avrupalı araştırmacılar şizofreni gibi sosyal patolojilerden muzdarip hastaların tedavisi için avatar-bazlı bir platform geliştirdi. Bu platformu daha da geliştirmek için, 40 gönüllü ile çalışıldı.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130202400 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: İtfaiyeci (Sabrina Cohen-Hatton) ve Biyonik Adam (Mark Ormrod)</title>
+    <desc lang="tr">Bear Grylls&#x27;in sunduğu Olağanüstü Olmak&#x27;ın bu bölümünde, Birleşik Krallık&#x27;taki en kıdemli itfaiyeci Sabrina Cohen-Hatton ve üç uzvunu kaybetmiş ve dört kez Invictus Oyunları altın madalyası sahibi olan Mark Ormrod, inanılmaz dayanıklılık hikayelerini paylaşıyorlar.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130202400 +0000" stop="20260130203000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Diyabete Karşı Mücadele</title>
+    <desc lang="tr">Hollandalı gençler Tatum ve Arjan diyabetler. Bir avrupa araştırma projesinin parçası olarak, tabletlerinde doğru yemekleri ve aktivitelerini takip edebilmek için özel uygulamalar yüklü. Elektronik oyunlar gerçekten diyabetin tedavisinde rol sahibi olabilir mi?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130205100 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: En İyisi (Roger Federer) ve Yarışçı (Danica Patrick)</title>
+    <desc lang="tr">Bear Grylls&#x27;in sunduğu Olağanüstü Olmak&#x27;ın bu bölümünde, tenis efsanesi, Fransa Açık ve Grand Slam galibi Roger Federer ve Indy araba yarışlarında dünyanın en başarılı kadını Danica Patrick, dünyanın en iyisi olma hikayelerini paylaşıyorlar.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130205100 +0000" stop="20260130205700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Yanardağ Saati</title>
+    <desc lang="tr">Volkanik patlamalar öngörülebilir mi? Magmanın çalışması hangi rolü oynayabilir? ERC-CHRONOS projesinin araştırmacıları, magmanın karıştırılmasında dokusal, jeokimyasal ve deneysel verileri bir araya getiren cerrahi bir yaklaşımla bu soruları cevaplamaya çalışıyorlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130205700 +0000" stop="20260130210000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Robot Kurtarıcılar</title>
+    <desc lang="tr">Endüstriyel bir kaza olduğunda, etraftaki molozlar kurtarma görevlilerinin işini aksatabilir ayrıca havada zehirli olabilir. Çaresiz miyiz? İnsan-robot takımları inşa eden TRADR projesi bilim adamlarına göre değil.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
   <programme start="20260130000000 +0000" stop="20260130000200 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
     <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
@@ -7166,6 +7596,7 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
   </programme>
   <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="diyanet-tv">
     <title lang="tr">Nebiler Tarihi</title>
+    <desc lang="tr">Peygamberler... Allah&#x27;ın elçileri, insanlığın rehberleri ve tarihin asıl karakterleri. Peygamberler kıssalarının izinden gidilerek Nebiler Tarihi konuşuluyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="diyanet-tv">
@@ -7199,7 +7630,7 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <desc lang="tr">Medeniyetimizi ve kültürümüzü ilmek ilmek işleyen ve onlara büyük bir kimlik kazandıran Osmanlı Padişahları çizginin birleştirici gücü ile ekranlara geliyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260130203000 +0000" stop="20260130210000 +0000" channel="diyanet-tv">
+  <programme start="20260130203000 +0000" stop="20260130211500 +0000" channel="diyanet-tv">
     <title lang="tr">Satır Arası</title>
     <desc lang="tr">Sunuculuğunu Emin Gürdamur ve Ahmet Melih Karauğuz&#x27;un yaptığı programın her bölümünde farklı bir konu ve konuklar ile edebiyata dair keyifli sohbetler gerçekleştiriliyor.</desc>
     <category lang="tr">Dini</category>
@@ -11690,6 +12121,541 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <title lang="tr">Özel Röportaj</title>
     <category lang="tr">Magazin</category>
   </programme>
+  <programme start="20260130000000 +0000" stop="20260130001500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130001500 +0000" stop="20260130003000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130003000 +0000" stop="20260130003300 +0000" channel="france-24-arabic">
+    <title lang="tr">Flash</title>
+    <desc lang="tr">A 3-minute news recap live from the newsroom</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130003300 +0000" stop="20260130005600 +0000" channel="france-24-arabic">
+    <title lang="tr">Maghreb Face-Off</title>
+    <desc lang="tr">Two experts debate on major topics that stir the Maghreb region.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130005600 +0000" stop="20260130010000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130011500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130011500 +0000" stop="20260130012200 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130012200 +0000" stop="20260130013000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130013000 +0000" stop="20260130014500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130014500 +0000" stop="20260130020000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130021500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130021500 +0000" stop="20260130030000 +0000" channel="france-24-arabic">
+    <title lang="tr">The Debate</title>
+    <desc lang="tr">Taoufik Mjaied and his guest panel debate the topic of the day. Viewers and web users can interact directly with the journalists and their guests using social networks.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130031500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130031500 +0000" stop="20260130033000 +0000" channel="france-24-arabic">
+    <title lang="tr">Down to Earth</title>
+    <desc lang="tr">&quot;Down to Earth&quot; travels across the globe to meet those searching for sustainable solutions to our changing world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130033000 +0000" stop="20260130034500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130034500 +0000" stop="20260130040000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reporters</title>
+    <desc lang="tr">Reporters presents various reports by team of correspondents from all over the world regarding hot button issues. Directly from the suburbs of Ghana&#x27;s capital Accra or from Chile, Israel or USA, from any place of the globe the reporters tell latest stories and highlight what is going on.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130041500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130041500 +0000" stop="20260130050000 +0000" channel="france-24-arabic">
+    <title lang="tr">Taboos</title>
+    <desc lang="tr">A society magazine which covers topics rarely discussed due to social pressure.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130051400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130051400 +0000" stop="20260130051500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130051500 +0000" stop="20260130053000 +0000" channel="france-24-arabic">
+    <title lang="tr">Health First</title>
+    <desc lang="tr">With guest doctors and presented by Sonitta Nader, a programme dedicated to health and well-being.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130053000 +0000" stop="20260130054400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130054400 +0000" stop="20260130054500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130054500 +0000" stop="20260130060000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130061400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130061400 +0000" stop="20260130061500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130061500 +0000" stop="20260130062100 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130062100 +0000" stop="20260130063000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130064400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130064400 +0000" stop="20260130064500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130064500 +0000" stop="20260130070000 +0000" channel="france-24-arabic">
+    <title lang="tr">France in Focus</title>
+    <desc lang="tr">An in-depth look at the political and social events shaping France.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130072000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130072000 +0000" stop="20260130072100 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130072100 +0000" stop="20260130073000 +0000" channel="france-24-arabic">
+    <title lang="tr">In the Press</title>
+    <desc lang="tr">An exhaustive overview of the world newspaper headlines. Debates and stories of the day presented live from the newsroom.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130073000 +0000" stop="20260130075000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130075000 +0000" stop="20260130075100 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130075100 +0000" stop="20260130080000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130081100 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130081100 +0000" stop="20260130081200 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130081200 +0000" stop="20260130081800 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130081800 +0000" stop="20260130082400 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130082400 +0000" stop="20260130083000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130084100 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130084100 +0000" stop="20260130084200 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130084200 +0000" stop="20260130090000 +0000" channel="france-24-arabic">
+    <title lang="tr">Down to Earth</title>
+    <desc lang="tr">&quot;Down to Earth&quot; travels across the globe to meet those searching for sustainable solutions to our changing world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130091400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130091400 +0000" stop="20260130091500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130091500 +0000" stop="20260130092100 +0000" channel="france-24-arabic">
+    <title lang="tr">In the Weeklies</title>
+    <desc lang="tr">France 24 journalists propose a round-up of the international weekly press.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130092100 +0000" stop="20260130093000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130094400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130094400 +0000" stop="20260130094500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130094500 +0000" stop="20260130100000 +0000" channel="france-24-arabic">
+    <title lang="tr">Correspondents</title>
+    <desc lang="tr">France 24 correspondents from around the world present a series of reports on various topics such as health, education, tourism and others in different countries.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130101500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130101500 +0000" stop="20260130110000 +0000" channel="france-24-arabic">
+    <title lang="tr">Taboos</title>
+    <desc lang="tr">A society magazine which covers topics rarely discussed due to social pressure.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130111400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130111400 +0000" stop="20260130111500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130111500 +0000" stop="20260130113000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130114400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130114400 +0000" stop="20260130114500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130114500 +0000" stop="20260130120000 +0000" channel="france-24-arabic">
+    <title lang="tr">France in Focus</title>
+    <desc lang="tr">An in-depth look at the political and social events shaping France.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130121200 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130121200 +0000" stop="20260130121800 +0000" channel="france-24-arabic">
+    <title lang="tr">International Chronical</title>
+    <desc lang="tr">France 24 international editors analyse a key issue in the international news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130121800 +0000" stop="20260130122400 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130122400 +0000" stop="20260130123000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130124500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130124500 +0000" stop="20260130125100 +0000" channel="france-24-arabic">
+    <title lang="tr">Science Stories</title>
+    <desc lang="tr">Science Stories takes a look at a scientfic discovery that has the potential to change our lives or our view of the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130125100 +0000" stop="20260130130000 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130132000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130132000 +0000" stop="20260130133000 +0000" channel="france-24-arabic">
+    <title lang="tr">L&#x27;invité de Paris direct</title>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130133000 +0000" stop="20260130134000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130134000 +0000" stop="20260130134500 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130134500 +0000" stop="20260130135100 +0000" channel="france-24-arabic">
+    <title lang="tr">Stream Time</title>
+    <desc lang="tr">A closer look at the latest productions from streaming platforms</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130135100 +0000" stop="20260130135500 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130135500 +0000" stop="20260130140000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130141400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130141400 +0000" stop="20260130141500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130141500 +0000" stop="20260130143000 +0000" channel="france-24-arabic">
+    <title lang="tr">The 51%</title>
+    <desc lang="tr">The 51% is devoted to the women and men who get things moving in a world that is still largely dominated by the male gender.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130144400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130144400 +0000" stop="20260130144500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130144500 +0000" stop="20260130150000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130151400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130151400 +0000" stop="20260130160000 +0000" channel="france-24-arabic">
+    <title lang="tr">Business this Week</title>
+    <desc lang="tr">This program is dedicated to the week&#x27;s business news and propose an all -image review followed by 3 major topics analyzed by senior guests in the Paris studios</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130161400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130161400 +0000" stop="20260130161500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130161500 +0000" stop="20260130163000 +0000" channel="france-24-arabic">
+    <title lang="tr">Secret Paris</title>
+    <desc lang="tr">France 24 invites its viewers to discover the French capital through its most mysterious places and secrets.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130164400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130164400 +0000" stop="20260130164500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130164500 +0000" stop="20260130170000 +0000" channel="france-24-arabic">
+    <title lang="tr">Health First</title>
+    <desc lang="tr">With guest doctors and presented by Sonitta Nader, a programme dedicated to health and well-being.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130171400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130171400 +0000" stop="20260130171500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130171500 +0000" stop="20260130173000 +0000" channel="france-24-arabic">
+    <title lang="tr">Down to Earth</title>
+    <desc lang="tr">&quot;Down to Earth&quot; travels across the globe to meet those searching for sustainable solutions to our changing world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130173000 +0000" stop="20260130174400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130174400 +0000" stop="20260130174500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130174500 +0000" stop="20260130175100 +0000" channel="france-24-arabic">
+    <title lang="tr">The Observers</title>
+    <desc lang="tr">The Observers present a collaborative weekly news show produced exclusively with content provided by amateurs.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130175100 +0000" stop="20260130180000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130181500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130181500 +0000" stop="20260130183000 +0000" channel="france-24-arabic">
+    <title lang="tr">Top Story</title>
+    <desc lang="tr">A guest decodes the event of the day</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130183000 +0000" stop="20260130184500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130184500 +0000" stop="20260130185100 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130185100 +0000" stop="20260130190000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130191000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130191000 +0000" stop="20260130195300 +0000" channel="france-24-arabic">
+    <title lang="tr">The World This Week</title>
+    <desc lang="tr">Start the weekend with a good argument as Paris-based journalists go at it in &#x27;The World This Week&#x27;. Join the team and comment the show on social networks : #TWTW</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130195300 +0000" stop="20260130200000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130201000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130201000 +0000" stop="20260130201500 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130201500 +0000" stop="20260130202300 +0000" channel="france-24-arabic">
+    <title lang="tr">Le pouls du Maghreb</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130202300 +0000" stop="20260130203000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130204200 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports week-end</title>
+    <desc lang="tr">All the sports news from the weenkend</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130204200 +0000" stop="20260130210000 +0000" channel="france-24-arabic">
+    <title lang="tr">The 51%</title>
+    <desc lang="tr">The 51% is devoted to the women and men who get things moving in a world that is still largely dominated by the male gender.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
   <programme start="20260130000000 +0000" stop="20260130001500 +0000" channel="france-24-english">
     <title lang="tr">News</title>
     <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
@@ -13893,7 +14859,7 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="krt-tv">
-    <title lang="tr">Yaşamın Sırları</title>
+    <title lang="tr">Kaliteli Yaşamın Sırları</title>
     <desc lang="tr">Yaşamın Sırları programı, yaşam kalitesi, sağlık, farkındalık ve günlük alışkanlıkların yaşam üzerindeki etkilerini izleyiciye anlatıyor. Sağlıklı seçimler, bilinçli yaşam ipuçları ve sürdürülebilir alışkanlıklar sade ve akıcı bir anlatımla ekrana taşınarak izleyiciyi daha dengeli bir yaşam tarzı için düşünmeye davet ediyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
@@ -16761,6 +17727,93 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
+  <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="number1-turk">
+    <title lang="tr">Nr1 Türk Top 20</title>
+    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130050000 +0000" channel="number1-turk">
+    <title lang="tr">Aşk</title>
+    <desc lang="tr">Duygulara tercüman olan en romantik şarkılarla kalbinize dokunmaya hazırız. Mutluluğun, özlemin ve sevdanın en özel notaları Aşk programında sizlerle.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130070000 +0000" channel="number1-turk">
+    <title lang="tr">Fast Time</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130071000 +0000" channel="number1-turk">
+    <title lang="tr">3 te 3</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130071000 +0000" stop="20260130080000 +0000" channel="number1-turk">
+    <title lang="tr">En Yeniler</title>
+    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130093000 +0000" channel="number1-turk">
+    <title lang="tr">Nr1 Türk Top 20</title>
+    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130100000 +0000" channel="number1-turk">
+    <title lang="tr">Best of Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="number1-turk">
+    <title lang="tr">Top Rap</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="number1-turk">
+    <title lang="tr">Keşfet</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130121500 +0000" channel="number1-turk">
+    <title lang="tr">3 te 3</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130121500 +0000" stop="20260130130000 +0000" channel="number1-turk">
+    <title lang="tr">Hot Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="number1-turk">
+    <title lang="tr">En Yeniler</title>
+    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="number1-turk">
+    <title lang="tr">Best of Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="number1-turk">
+    <title lang="tr">Hot Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="number1-turk">
+    <title lang="tr">Top Rap</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130171500 +0000" channel="number1-turk">
+    <title lang="tr">3 te 3</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130171500 +0000" stop="20260130180000 +0000" channel="number1-turk">
+    <title lang="tr">Hot Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="number1-turk">
+    <title lang="tr">En Yeniler</title>
+    <desc lang="tr">En Yeni Müzik listeleri ve en son çıkan şarkılar... En Yeniler Programıyla sizlere ulaşacak.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="number1-turk">
+    <title lang="tr">Hot Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="number1-turk">
+    <title lang="tr">Nr1 Türk Top 20</title>
+    <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
   <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="number1-tv">
     <title lang="tr">NR1 TOP 20</title>
     <desc lang="tr">NR1 TV&#x27;DE HAFTA BOYUNCA EN COK YAYINLANAN 20 VIDEO KLIBIN GERI SAYIMI NR1 TOP 20&#x27;DE.</desc>
@@ -17118,13 +18171,12 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260130200000 +0000" stop="20260131050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260130013000 +0000" stop="20260130020000 +0000" channel="s-sport">
     <title lang="tr">Gearing Up</title>
@@ -19053,24 +20105,24 @@ Antik Maya&#x27;nın Kayıp Mezarları, Mayaların nasıl yaşadığına ve baş
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="tele1">
-    <title lang="tr">18 Dakika</title>
-    <desc lang="tr">Gündemin en sıcak başlıkları, tartışmalı konular ve gizlenen gerçekler... Ersin Kalaycıoğlu ve Merdan Yanardağ&#x27;ın hazırlayıp sunduğu 18 Dakika, hafta içi her gün saat 20.00&#x27;de Tele1&#x27;de!</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Yılanların Öcü - Özel</title>
+    <desc lang="tr">Yılanların Öcü dizisi, ücra bir Anadolu köyünde yaşayan insanların hayat hikâyelerini anlatır. Kara Bayram ve Fatma&#x27;nın aşkı, Irazca&#x27;nın dirençli kişiliği ve köydeki dengeyi sarsan anlaşmazlıklar izleyiciye ulaşır. Dizi köy yaşamının zorluklarını, çatışmaları ve güçlü karakterlerin mücadelelerini samimi bir dille sunar.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="tele1">
-    <title lang="tr">Kayıt Dışı</title>
-    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Yılanların Öcü</title>
+    <desc lang="tr">Yılanların Öcü dizisi, ücra bir Anadolu köyünde yaşayan insanların hayat hikâyelerini anlatır. Kara Bayram ve Fatma&#x27;nın aşkı, Irazca&#x27;nın dirençli kişiliği ve köydeki dengeyi sarsan anlaşmazlıklar izleyiciye ulaşır. Dizi köy yaşamının zorluklarını, çatışmaları ve güçlü karakterlerin mücadelelerini samimi bir dille sunar.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="tele1">
-    <title lang="tr">Kayıt Dışı</title>
-    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Yılanların Öcü</title>
+    <desc lang="tr">Yılanların Öcü dizisi, ücra bir Anadolu köyünde yaşayan insanların hayat hikâyelerini anlatır. Kara Bayram ve Fatma&#x27;nın aşkı, Irazca&#x27;nın dirençli kişiliği ve köydeki dengeyi sarsan anlaşmazlıklar izleyiciye ulaşır. Dizi köy yaşamının zorluklarını, çatışmaları ve güçlü karakterlerin mücadelelerini samimi bir dille sunar.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="tele1">
-    <title lang="tr">Kayıt Dışı</title>
-    <desc lang="tr">Gündemdeki olayların görünmeyen yüzü, perde arkasındaki gerçekler… Ersin Eroğlu ve Hilmi Hacaloğlu&#x27;nun hazırlayıp sunduğu Kayıt Dışı, her pazartesi saat 21.00&#x27;de Tele1&#x27;de.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260130200000 +0000" stop="20260131040000 +0000" channel="tele1">
+    <title lang="tr">Başrol</title>
+    <desc lang="tr">Başrol, Tele1 ekranında hayatın başrolündeki isimlerin bilinmeyen öykülerini anlatıyor. Türk müziği, sineması, edebiyatı ve futbolunun en etkili isimlerinin yaşamları ve Türkiye&#x27;nin geçirdiği büyük dönüşümler samimi ve detaylı bir şekilde izleyiciye sunuluyor.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260130013000 +0000" stop="20260130020000 +0000" channel="tgrt-haber">
     <title lang="tr">Gecenin İçinden</title>
@@ -22195,9 +23247,14 @@ Yıllar geçer. Ömer herkes tarafından sevilen, Kara Ağaç&#x27;ı daha mamur
 Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Ortası&#x27;nda</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260130103000 +0000" stop="20260130105000 +0000" channel="trt-spor">
+  <programme start="20260130103000 +0000" stop="20260130104000 +0000" channel="trt-spor">
     <title lang="tr">FCSB - Fenerbahçe</title>
-    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması Maç Özeti</desc>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="trt-spor">
+    <title lang="tr">Manchester City - Galatasaray</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260130105000 +0000" stop="20260130123000 +0000" channel="trt-spor">
@@ -22237,8 +23294,8 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260130203000 +0000" stop="20260130220000 +0000" channel="trt-spor">
-    <title lang="tr">İleri Üçlü</title>
-    <desc lang="tr">Hiçbir yerde konuşulmayanlar, çarpıcı yorumlar, detaylı analizler, hepsi ve daha fazlası İleri Üçlü&#x27;de.Veli Yiğit, Barış Yurduseven ve Fırat Günayer gündemi enine boyuna değerlendiriyor.</desc>
+    <title lang="tr">İleri Üçlü Transfer</title>
+    <desc lang="tr">Hiçbir yerde konuşulmayanlar, çarpıcı yorumlar, detaylı analizler,Transfer dönemine dair bütün detaylar, hepsi ve daha fazlası İleri Üçlü&#x27;de.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260130001500 +0000" stop="20260130002000 +0000" channel="trt-spor-yildiz">
@@ -22382,64 +23439,72 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260130114500 +0000" stop="20260130115500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">6.adam</title>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260130115500 +0000" stop="20260130120500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Spor Atlası</title>
     <desc lang="tr">Spor Dünyasındaki güncel gelişmeler, basketboldan tenise, atletizmden motor sporlarına kadar birçok organizasyon
 ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x27;nda...</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130120500 +0000" stop="20260130122500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130115500 +0000" stop="20260130121500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Türkiye Baja Şampiyonası</title>
     <desc lang="tr">Türkiye Baja Şampiyonası Prusias Düzce Etabı ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130122500 +0000" stop="20260130124000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130121500 +0000" stop="20260130123000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Tenis Dünyası</title>
     <desc lang="tr">Tenis dünyasında yaşanan gelişmelere yer veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130124000 +0000" stop="20260130130500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130123000 +0000" stop="20260130125500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Tüm Zamanların En İyileri</title>
     <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130130500 +0000" stop="20260130133000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130125500 +0000" stop="20260130132000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Spor Üniversitede</title>
     <desc lang="tr">Üniversitelerin spor takımlarının ve üniversite öğrencilerinin spora erişim olanakları anlatılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130133000 +0000" stop="20260130140000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Etnospor</title>
-    <desc lang="tr">Geleneksel Sporlarla İlgili Etkinlikler...</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Albümdeki Yıldızlar</title>
-    <desc lang="tr">Önemli başarılara imza atmış sporcularla sohbet ediliyor. Ayrıca onların çocukluklarından bugüne yaşamlarını fotoğraf kareleri eşliğinde öğreniyoruz.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130142500 +0000" stop="20260130144000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130132000 +0000" stop="20260130133500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sporla Değişen Hayatlar</title>
     <desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye&#x27;nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130144000 +0000" stop="20260130145500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130133500 +0000" stop="20260130134000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Onsuz Asla</title>
+    <desc lang="tr">Her sporcunun bir sırrı vardır. Kimi bilekliğini takmadan sahaya çıkmaz, kimi uğurlu oyuncağını yanından ayırmaz. Çünkü bazen inanç, başarıya giden yoldaki en büyük güçtür.
+
+Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; programında...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130134000 +0000" stop="20260130135500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Ultra</title>
     <desc lang="tr">Türkiye&#x27;nin farklı bölgelerinde yapılan koşular ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130145500 +0000" stop="20260130164000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130135500 +0000" stop="20260130154000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Yenimahalle B. - Üsküdar B.</title>
     <desc lang="tr">Hentbol Kadınlar Süper Ligi Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260130164000 +0000" stop="20260130165500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260130154000 +0000" stop="20260130155500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Yapabilir Misin?</title>
     <desc lang="tr">&#x27;Yapabilir misin?&#x27; programında birbirinden farklı sporlar deneniyor.</desc>
     <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130155500 +0000" stop="20260130161000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Tenis Dünyası</title>
+    <desc lang="tr">Tenis dünyasında yaşanan gelişmelere yer veriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130161000 +0000" stop="20260130163000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Engelsiz Spor</title>
+    <desc lang="tr">Engelsiz Spor programında, ilham veren başarı hikayelerine yer veriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130163000 +0000" stop="20260130165500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Albümdeki Yıldızlar</title>
+    <desc lang="tr">Önemli başarılara imza atmış sporcularla sohbet ediliyor. Ayrıca onların çocukluklarından bugüne yaşamlarını fotoğraf kareleri eşliğinde öğreniyoruz.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260130165500 +0000" stop="20260130193000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Zeytinburnu B. - Ted Kocaeli</title>
@@ -22461,6 +23526,170 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <title lang="tr">Benfica - Fenerbahçe</title>
     <desc lang="tr">CEV Zeren Grup Kadınlar Voleybol Şampiyonlar Ligi</desc>
     <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130002500 +0000" stop="20260130005500 +0000" channel="trt-turk">
+    <title lang="tr">Dünyadaki Türkiye</title>
+    <desc lang="tr">Dünyadaki Türkiye&#x27;de kültür, sanat ve eğitim başlıklarında; Avrupa&#x27;da yaşayan
+Türklere özgü konuların, Avrupa&#x27;da yaşayan vatandaşlarımızın sorunlarının derinlemesine tartışılıyor ve çözüm yollarının aranıyor. Bunun yanı sıra mevcut durumların geliştirilmesine yönelik önerilerin geliştiriliyor...</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130005500 +0000" stop="20260130012500 +0000" channel="trt-turk">
+    <title lang="tr">Haberdar</title>
+    <desc lang="tr">Güncel olayları, Avrupa gündemini, haberleri ve toplumsal gelişmeleri canlı ve stüdyo konukları ile birlikte ele alan bir haber programıdır. Program, izleyicilere, ülke ve dünya genelindeki önemli haberleri kapsamlı ve tarafsız bir şekilde sunar. Haberdar uzman konuklarla yapılan röportajlar, analizler ve tartışmalarla, haberlerin arka planını ve gelişimlerini derinlemesine inceler.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130012500 +0000" stop="20260130022500 +0000" channel="trt-turk">
+    <title lang="tr">Aile</title>
+    <desc lang="tr">Bir aile nasıl kurulur, evlilik yoluna giderken nelere dikkat edilmelidir... Bu ve buna benzer aile dair her şey bu programda konuşuluyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130022500 +0000" stop="20260130032000 +0000" channel="trt-turk">
+    <title lang="tr">Sağlık Olsun</title>
+    <desc lang="tr">Aslı Cankat&#x27;ın sunumunu gerçekleştirdiği Sağlık Olsun programında alanında uzman doktorlar ile her bölümde sağlık üzerine farklı konulara dayalı birbirinden aydınlatıcı söyleşiler gerçekleştiriliyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130032000 +0000" stop="20260130033500 +0000" channel="trt-turk">
+    <title lang="tr">Efendimizin 24 Saati</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130033500 +0000" stop="20260130035500 +0000" channel="trt-turk">
+    <title lang="tr">Hollanda Ve Belçika&#x27;da Türk Camileri</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130035500 +0000" stop="20260130040000 +0000" channel="trt-turk">
+    <title lang="tr">İstiklal Marşı Çocuk</title>
+    <desc lang="tr">İstiklal Marşı</desc>
+    <category lang="tr">Tören</category>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130060000 +0000" channel="trt-turk">
+    <title lang="tr">Trt Haber&#x27;de Dün Bugün</title>
+    <desc lang="tr">Türkiye ve Dünya gündemine dair başlıklar, gazete manşetleri ve canlı bağlantılar...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="trt-turk">
+    <title lang="tr">Temizlik Kulübü</title>
+    <desc lang="tr">Almanya&#x27;da yaşayan Ayşe&#x27;nin ailesi, yaşadıkları olumsuzluklar sonrası Türkiye&#x27;ye döner. Ayşe burada yeni bir okul ortamında bilim, müzik ve arkadaşlıkla iyileşme sürecine girer. Ayşe&#x27;nin arkadaşlarından Cemil obeziteyle, Ceylan ise dijital bağımlılıkla mücadele etmektedir. Dayanışma, merak ve keşifle zorlukların aşılmasını konu alan programda; her bölümde bir orijinal şarkı, eğitici deneyler ve renkli bir anlatım bulunur.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130064500 +0000" channel="trt-turk">
+    <title lang="tr">Arkadaşım Kirpi</title>
+    <desc lang="tr">&#x27;Tüy Gibi&#x27; ve arkadaşı &#x27;Kiypi&#x27; macera dolu bir dünyanın kapısını aralıyor. Bu iki arkadaşla hem çok eğlenmeye hem de çok şey öğrenmeye hazır olun.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260130064500 +0000" stop="20260130070000 +0000" channel="trt-turk">
+    <title lang="tr">Kitapçı Dükkanı</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130073000 +0000" channel="trt-turk">
+    <title lang="tr">Haberdar</title>
+    <desc lang="tr">Güncel olayları, Avrupa gündemini, haberleri ve toplumsal gelişmeleri canlı ve stüdyo konukları ile birlikte ele alan bir haber programıdır. Program, izleyicilere, ülke ve dünya genelindeki önemli haberleri kapsamlı ve tarafsız bir şekilde sunar. Haberdar uzman konuklarla yapılan röportajlar, analizler ve tartışmalarla, haberlerin arka planını ve gelişimlerini derinlemesine inceler.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130073000 +0000" stop="20260130074500 +0000" channel="trt-turk">
+    <title lang="tr">Emlak Günlüğü</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130074500 +0000" stop="20260130081500 +0000" channel="trt-turk">
+    <title lang="tr">Annem Yapardı</title>
+    <desc lang="tr">Geleneksel yemeklerin tanıtımını ve yemek etrafında gelişen kültürün anlatımını konu alan program, TRT Türk ekranlarında izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130081500 +0000" stop="20260130083000 +0000" channel="trt-turk">
+    <title lang="tr">Tarifsiz Lezzetler</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130083000 +0000" stop="20260130090000 +0000" channel="trt-turk">
+    <title lang="tr">Gönül Verenler</title>
+    <desc lang="tr">Gönül Verenler programı Avrupa&#x27;da faaliyet gösteren Türk kurum ve derneklerinin kültürel, sosyal ve toplumsal alanlardaki çalışmalarını ekrana taşımayı hedefleyen bir program. Program, Türk toplumunun birlik ve beraberliğini güçlendirmeyi hedeflerken, derneklerin düzenlediği etkinlikler, açılışlar ve sosyal sorumluluk projeleri gibi faaliyetleri detaylı bir şekilde ele almakta. İzleyiciler, her bölümde Türk kurumlarının Avrupa&#x27;daki topluma katkılarını ve kültürel mirasın korunması için yapılan çalışmaları yakından tanıma fırsatı bulur. Gönül Verenler, bu gönüllülük esaslı çalışmaları samimi bir dille izleyicilere aktararak, Avrupa&#x27;daki Türklerin kültürel değerlerini nasıl yaşattıklarını ve toplumla nasıl paylaştıklarını gözler önüne sermeyi amaçlamakta.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="trt-turk">
+    <title lang="tr">Aile</title>
+    <desc lang="tr">Bir aile nasıl kurulur, evlilik yoluna giderken nelere dikkat edilmelidir... Bu ve buna benzer aile dair her şey bu programda konuşuluyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130104000 +0000" channel="trt-turk">
+    <title lang="tr">Beni Böyle Sev</title>
+    <desc lang="tr">Beni Böyle Sev... Genç yaşlarında, ilk görüşte birbirlerine âşık olan üniversite öğrencisi bir çiftin hikâyesi...</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130104000 +0000" stop="20260130105000 +0000" channel="trt-turk">
+    <title lang="tr">Üzüldüğün Şeye Bak</title>
+    <desc lang="tr">Avrupalı yetişkin Türkler arasında sıklıkla rastlanan psikolojik sorunlara ilişkin soru işaretleri ve pratik çözümler Üzüldüğün Şeye Bak programında ele alınıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130105000 +0000" stop="20260130110000 +0000" channel="trt-turk">
+    <title lang="tr">Mikrofon Senin Danimarka</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130115000 +0000" channel="trt-turk">
+    <title lang="tr">Öğle Ana Haber</title>
+    <desc lang="tr">Gün ortasında Türkiye ve dünya gündemine tarafsız bir bakış Öğle Ana Haber&#x27;de...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130115000 +0000" stop="20260130120000 +0000" channel="trt-turk">
+    <title lang="tr">Mikrofon Senin Finlandiya</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="trt-turk">
+    <title lang="tr">Sağlık Olsun</title>
+    <desc lang="tr">Aslı Cankat&#x27;ın sunumunu gerçekleştirdiği Sağlık Olsun programında alanında uzman doktorlar ile her bölümde sağlık üzerine farklı konulara dayalı birbirinden aydınlatıcı söyleşiler gerçekleştiriliyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="trt-turk">
+    <title lang="tr">Gönlümdeki Köln</title>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130145000 +0000" channel="trt-turk">
+    <title lang="tr">Rehber</title>
+    <desc lang="tr">Rehber programı, Avrupa&#x27;da yaşayan Türkler&#x27;e hukuktan eğitime, sigortalılıktan çalışma hayatına kadar pek çok konuda danışmanlık yapmayı amaçlıyor ve güncel gelişmeler, kurallar, haklar, yasal değişiklikler ve hizmetler hakkında bilgilendirmeyi görev ediniyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130145000 +0000" stop="20260130150500 +0000" channel="trt-turk">
+    <title lang="tr">Fabrika Ayarı</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130150500 +0000" stop="20260130154500 +0000" channel="trt-turk">
+    <title lang="tr">Rafet El Roman İle Her Şey Yolunda</title>
+    <desc lang="tr">Sevilen sanatçı Rafet El Roman, birbirinden değerli konuklarını arabasında ağırlıyor ve Avrupa sokaklarında keyifli bir sohbet eşliğinde yolculuğa çıkıyor...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130154500 +0000" stop="20260130160000 +0000" channel="trt-turk">
+    <title lang="tr">Mikrofon Senin Danimarka</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130164500 +0000" channel="trt-turk">
+    <title lang="tr">Sıcak Haber</title>
+    <desc lang="tr">Günün başlıkları, en sıcak gelişmeler alanında uzman konuklar, canlı bağlantılar ve dosya haberler.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130164500 +0000" stop="20260130170000 +0000" channel="trt-turk">
+    <title lang="tr">Mikrofon Senin İngiltere</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="trt-turk">
+    <title lang="tr">Temelli Misafir</title>
+    <desc lang="tr">Anadolu&#x27;da hayvan yetiştiriciliğinde kullanılan geleneksel tedavi yöntemlerini araştırmak için Almanya&#x27;dan memleketine dönen veteriner Dilara ile babasından ödünç aldığı parayı yerine koyamadığı için memlekete dedesinin yanına çobanlık yapan Burak&#x27;ın kesişen hayatlarını anlatan romantik komedi.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130184500 +0000" channel="trt-turk">
+    <title lang="tr">Gönül Dağı</title>
+    <desc lang="tr">Taner, amcaoğulları Veysel ve Ramazan’la birlikte ‘Altmış altı’ adını verdikleri uçaklarını bitirme aşamasına gelmişlerdir. Yakın zamanda başvurdukları havacılık şirketi Taner’e ulaşır ve üç gün sonra yaptıkları uçağı görmeye geleceklerini söyler. Bu haber amcaoğullarını çok sevindirir, ancak bir problemleri vardır. Uçağın testi sırasında motor yanmıştır ve havacılık şirketi gelene kadar yeni bir motor bulmaları gerekmektedir. Üstelik Gönül Dağı’ndan düşen taşlar da kasabanın yolunu kapatmıştır. Tüm bu gelişmeler Taner ve amcaoğullarının işlerini daha zorlaştırır. Sunum günü gelip çattığında yıllardır üzerinde çalıştıkları uçağı gösterebilecekler midir?</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130184500 +0000" stop="20260130193000 +0000" channel="trt-turk">
+    <title lang="tr">Diriliş Ertuğrul</title>
+    <desc lang="tr">Türk milletinin dirilişinde en önemli rollerden birine sahip olan tarihi bir kahraman, Ertuğrul Bey. İhanet, ihtiras ve akıl oyunlarıyla yüz yüze gelen Ertuğrul Bey için tek bir hedef vardır; bir milletin dirilişine vesile olmak.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130193000 +0000" stop="20260130201500 +0000" channel="trt-turk">
+    <title lang="tr">Böyle Bitmesin</title>
+    <desc lang="tr">Türkiye&#x27;de son 20 yılda hızla artan boşanmalar, bu boşanmaların ilginç içerikleri, toplumun bu artışa direnemeyişi, ülkenin doğusuyla batısı arasında bu artış noktasındaki farkın gittikçe kapanıyor olması bir şey işaret ediyordu. Şüphesiz, boşanma denen şey, aile mefhumuyla ilgili en büyük kriz noktasıydı. Ve bir şeyi tanımlamanın en temel yollarından birisi onun karşıtıyla aynı çerçevenin içine alınmasıydı.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260130201500 +0000" stop="20260130211500 +0000" channel="trt-turk">
+    <title lang="tr">Gönlümdeki Köln</title>
+    <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130003000 +0000" channel="trt-world">
     <title lang="tr">News</title>
