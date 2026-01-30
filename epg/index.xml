@@ -1477,14 +1477,29 @@ Geleneklerin ve törenin günün değerleriyle çatışmasını konu eden dizini
     <desc lang="tr">Gündeme ilişkin haberler ve gelişen spor olayları ekrana yansıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260130150000 +0000" stop="20260130200000 +0000" channel="a-spor">
+  <programme start="20260130150000 +0000" stop="20260130170000 +0000" channel="a-spor">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Spor dünyasında yaşanan tüm gelişmeler, Ana Haber&#x27;de ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260130200000 +0000" stop="20260130230000 +0000" channel="a-spor">
-    <title lang="tr">Son Sayfa</title>
-    <desc lang="tr">Futboldan basketbola, voleyboldan tenise kadar gündemi meşgul eden gelişmeler izleyenlere aktarılıyor.</desc>
+  <programme start="20260130170000 +0000" stop="20260130174500 +0000" channel="a-spor">
+    <title lang="tr">Skorbord</title>
+    <desc lang="tr">Maçlara ilişkin tüm detaylar ve maçlardan skorlar ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130174500 +0000" stop="20260130180000 +0000" channel="a-spor">
+    <title lang="tr">Devre Arası</title>
+    <desc lang="tr">Devre Arası&#x27;nda, maçın ilk yarısı değerlendiriliyor. Spor yazarlarının ve antrenörlerin görüşleri izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130190000 +0000" channel="a-spor">
+    <title lang="tr">Skorbord</title>
+    <desc lang="tr">Maçlara ilişkin tüm detaylar ve maçlardan skorlar ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130210000 +0000" channel="a-spor">
+    <title lang="tr">Takım Oyunu</title>
+    <desc lang="tr">Maçların değerlendirmesi, analizler, canlı bağlantılar ve sıcak haberler Takım Oyunu&#x27;nda ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260130020000 +0000" stop="20260130040000 +0000" channel="a2">
@@ -1991,7 +2006,11 @@ Yürek burkan kaza ve devamında Behram&#x27;ın vurulması bütün aileyi dehş
   </programme>
   <programme start="20260130053000 +0000" stop="20260130070000 +0000" channel="atv">
     <title lang="tr">Nihat Hatipoğlu Sorularınızı Cevaplıyor</title>
-    <desc lang="tr">Nihat Hatipoğlu, İslam dini ile ilgili kafa karıştıran konular hakkında yorumlar yapıyor ve vatandaşların sorularını yanıtlıyor. Programda her hafta farklı bir konu ele alınıyor.</desc>
+    <desc lang="tr">Bu haftaki programda şu sorular üzerinde duruluyor:
+
+Sosyal medyadaki günahlarımız nelerdir?
+Sosyal medya ile ilgili nelere dikkat edilmeli?
+Aileler çocuklarını sosyal medyadaki tehlikelere karşı nasıl korumalı?</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260130070000 +0000" stop="20260130100000 +0000" channel="atv">
@@ -2032,561 +2051,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Ay Lav Yu Tuu</title>
     <desc lang="tr">Tinne Köyü&#x27;ne Amerikalı bir gelinin gelmesiyle başlayan macera, bu kez İbrahim&#x27;in Amerika macerası ile devam ediyor. Filmde neredeyse tüm Amerika&#x27;nın kalkıp Tinne&#x27;ye gelmesiyle kahkaha dolu olaylar birbirini izliyor.</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130000600 +0000" stop="20260130002000 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Fico, kendisi için ideal evcil hayvanın bir yunus olduğuna karar verdi. Ekip, bir tane bulmak için Avustralya kıyılarına uçar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130002000 +0000" stop="20260130003200 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Takımın yüksek teknolojili dans partisi bir elektrik kesintisi tehdidi altındayken, kendilerini yanlışlıkla tarihi bir köyde bulurlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130003200 +0000" stop="20260130004500 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Alex, gizli bir hayrandan imzasız bir not alır, kendisinin bu kadar harika olduğunu düşünen kişiyi bulmasına yardım etmesi için Addison&#x27;ı çağırır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130004500 +0000" stop="20260130005700 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir vandal, gece vakti Maxin kasabanın En Güzel Halk Bahçesi projesinin girişine zarar verir, Addison günü kurtarmak için ninja kılığına girer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130005700 +0000" stop="20260130011100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bob, Robot Bob Dağı&#x27;nın tepesine tabelasını dikmek istiyor. Grup kar canavarlarıyla karşılaştığında yolculuk tehlikeli hale geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130011100 +0000" stop="20260130012200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, Purl ve Bob bir hazine avındadır. Ancak korsanlar Purl ve hazineyi ele geçirdiklerinde Bitz onları kurtarmanın bir yolunu bulmalıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130012200 +0000" stop="20260130013200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Riwahl, Sprinter&#x27;ı düelloya davet eder. Leo, en iyi pilotun kim olduğunu görmek için bir uçuş yarışması düzenlemelerini önerir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130013200 +0000" stop="20260130013800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Üçüzler yeni işlerini sıkıcı bulup Sprinter&#x27;dan yardım ister. Motive olmaları için kötü bir fikir olduğu anlaşılan bir puan sistemi yapar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130013800 +0000" stop="20260130014400 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ev özlemi çekiyor ve hem Dünya&#x27;yı hem de yaşadığı ağaç gövdesini özlüyor. Sprinter onu neşelendirmek için yeni bir ağaç gövdesi buluyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130014400 +0000" stop="20260130015700 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Takımyıldızlar hakkında bilgi edinmek için Darwin ve Newts, Wapiti ve diğer canlılarla bir gece macerasına katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130015700 +0000" stop="20260130021100 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mundi, yeteneğini kanıtlamak için İngiltere&#x27;deki bir labirente gitmek ister. Doki zaten labirentten nasıl çıkıldığını merak ediyordu.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130021100 +0000" stop="20260130022300 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Fico, kendisi için ideal evcil hayvanın bir yunus olduğuna karar verdi. Ekip, bir tane bulmak için Avustralya kıyılarına uçar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130022300 +0000" stop="20260130023500 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison, Kevin ve Tess, Ayrton Park&#x27;ın Yaz Festivali Film Gecesi için bir rap müzik videosu çekmeye çalışıyorlar ancak yukarıdan gelen sürekli, çok yüksek sesli bir uğultu her şeyi mahvediyor. Addison, bu gürültüyü neyin yarattığının gizemini çözmek için işe koyuluyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130023500 +0000" stop="20260130024700 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Tess ve Alex&#x27;e aniden sebepsiz yere elektrik çarpmaya başlayınca, Addison&#x27;ın bu gizemi çözmesi gerekiyor yoksa okulun yetenek yarışması için yaptıkları gösteride ışıklar sönecek.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130024700 +0000" stop="20260130030100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Çölde bir yolculuğa çıkma zamanı. Ancak Bitz ve Purl, araçlarına aşırı mühendislik uyguladıklarında yarış yavaşlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130030100 +0000" stop="20260130031000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Üçüzler yeni işlerini sıkıcı bulup Sprinter&#x27;dan yardım ister. Motive olmaları için kötü bir fikir olduğu anlaşılan bir puan sistemi yapar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130031000 +0000" stop="20260130031700 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ev özlemi çekiyor ve hem Dünya&#x27;yı hem de yaşadığı ağaç gövdesini özlüyor. Sprinter onu neşelendirmek için yeni bir ağaç gövdesi buluyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130031700 +0000" stop="20260130032200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Senior, Tepekent başkanı olmak için çok yaşlı olmadığını kanıtlamak amacıyla bulutların altında bir yolculuğa çıkar ve Sprinter&#x27;ı da çağırır</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130032200 +0000" stop="20260130032900 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, Opti&#x27;nin biraz kilo vermesine yardım etmek istiyor. Çok zorlu bir görev olduğu ortaya çıkıyor ve Sprinter en iyi çözümü arıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130032900 +0000" stop="20260130034200 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, bir okyanus kaya havuzundaki deniz yaşamına hayran kalır. Su seviyesi düştüğünde sızıntıyı durdurmaya çalışırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130034200 +0000" stop="20260130035400 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Burpee adadayken bir deniz sisi çöker. Newts ve Kea&#x27;nın waka evine gitmeleri için bir deniz feneri inşa etmeleri gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130035400 +0000" stop="20260130040800 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mümkün olduğunca çok limonata nasıl satılır? Takım, öğrenmek için Sahra Çölü, Pekin, Çin ve Murmansk, Rusya&#x27;ya seyahat ediyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130040800 +0000" stop="20260130042000 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130042000 +0000" stop="20260130043300 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Tess ve Alex&#x27;e aniden sebepsiz yere elektrik çarpmaya başlayınca, Addison&#x27;ın bu gizemi çözmesi gerekiyor yoksa okulun yetenek yarışması için yaptıkları gösteride ışıklar sönecek.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130043300 +0000" stop="20260130044400 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir yaz sıcağı dalgasında, bir şey ya da biri, belki de bir Fil-Deve canavarı, gezici havuzdaki suyu akıtmaya devam eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130044400 +0000" stop="20260130045800 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bob, Robot Bob Dağı&#x27;nın tepesine tabelasını dikmek istiyor. Grup kar canavarlarıyla karşılaştığında yolculuk tehlikeli hale geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130045800 +0000" stop="20260130051000 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, Purl ve Bob bir hazine avındadır. Ancak korsanlar Purl ve hazineyi ele geçirdiklerinde Bitz onları kurtarmanın bir yolunu bulmalıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130051000 +0000" stop="20260130053300 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Bize yiyebileceğimiz yiyecekleri veren kaç bitkinin olduğunu öğrenen Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130053300 +0000" stop="20260130055300 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, bitkileri günlük hayatımızda nasıl kullandığımızı, onları ve gezegenimizi korumaya nasıl yardımcı olabileceğimizi öğrenir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130055300 +0000" stop="20260130060100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">En sevdiğin meyve suyunu al, meyveli dondurmalar yapıyoruz.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130060100 +0000" stop="20260130060700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Arkadaşlarımız kağıt tabaklardan ve lolipop çubuklarından çarklar üretiyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130060700 +0000" stop="20260130061200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Evde oyuncaklar için güvenlik ağları yapımı amacıyla birçok farklı malzemeyi test ederken iyi eğlenceler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130061200 +0000" stop="20260130061700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Karton ve kurdeleden spor ayakkabı yapıyoruz.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130061700 +0000" stop="20260130062600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, nesneleri yok etmek için olumsuz düşünceler kullanır. Sprinter olumsuz düşünceleri olumluya çevirerek günü kurtarabilecek mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130062600 +0000" stop="20260130063300 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Değerli bir elmas çalındı ve Sprinter görevde. Ama tüm ipuçları kendisini gösteriyor. Nasıl olabilir?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130063300 +0000" stop="20260130063900 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, Bhilka&#x27;daki herkesin almak istediği sihirli bir çalışma içeceği icat etti. Peki gerçekten harika mı yoksa sadece bir yalan mı?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130063900 +0000" stop="20260130064500 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, kahramanlık işlerinde ona yardımcı olması için Sprinter 2.0 adlı bir dış iskelet yapar. Ancak işler planlandığı gibi gitmez.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130064500 +0000" stop="20260130065800 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Burpee adadayken bir deniz sisi çöker. Newts ve Kea&#x27;nın waka evine gitmeleri için bir deniz feneri inşa etmeleri gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130065800 +0000" stop="20260130071000 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, ormandaki yaralı bir kivi kuşunu beslemek için güneş enerjili ışıklar inşa eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130071000 +0000" stop="20260130072400 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130072400 +0000" stop="20260130073600 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto&#x27;nun oyuncak arabası bir yarışın ortasında bozulur ve bunun arabanın hatası olduğundan emin! Neden sadece Oto&#x27;nun arabası bozuldu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130073600 +0000" stop="20260130074900 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Alex, gizli bir hayrandan imzasız bir not alır, kendisinin bu kadar harika olduğunu düşünen kişiyi bulmasına yardım etmesi için Addison&#x27;ı çağırır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130074900 +0000" stop="20260130080100 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir vandal, gece vakti Maxin kasabanın En Güzel Halk Bahçesi projesinin girişine zarar verir, Addison günü kurtarmak için ninja kılığına girer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130080100 +0000" stop="20260130082500 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Ekip, bir kupa kazanmak için dünya çapında bir yarışta. Kazanma yolunda, birçok zorlu şey yapmaları gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130082500 +0000" stop="20260130083700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Uçurtma festivalinde Zip rüzgar tarafından savrulunca işler yokuş aşağı gidiyor. Bitz&#x27;in günü ve Zip&#x27;i kurtarmasının zamanı geldi.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130083700 +0000" stop="20260130085900 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, bitkileri günlük hayatımızda nasıl kullandığımızı, onları ve gezegenimizi korumaya nasıl yardımcı olabileceğimizi öğrenir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130085900 +0000" stop="20260130091900 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Farklı şekil, boyut ve renkteki çiçekleri öğrenen Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130091900 +0000" stop="20260130092800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ev özlemi çekiyor ve hem Dünya&#x27;yı hem de yaşadığı ağaç gövdesini özlüyor. Sprinter onu neşelendirmek için yeni bir ağaç gövdesi buluyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130092800 +0000" stop="20260130093500 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Senior, Tepekent başkanı olmak için çok yaşlı olmadığını kanıtlamak amacıyla bulutların altında bir yolculuğa çıkar ve Sprinter&#x27;ı da çağırır</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130093500 +0000" stop="20260130094100 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, Opti&#x27;nin biraz kilo vermesine yardım etmek istiyor. Çok zorlu bir görev olduğu ortaya çıkıyor ve Sprinter en iyi çözümü arıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130094100 +0000" stop="20260130094700 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ürker ve yanlışlıkla Üçüzlerin önünde yere tuvaletini yapar. Üçüzler hemen onun zehirli olduğuna hemen ikna olurlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130094700 +0000" stop="20260130100000 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, ormandaki yaralı bir kivi kuşunu beslemek için güneş enerjili ışıklar inşa eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130101200 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin, Newts ve Heni bir nehir yarışında rekabet ederler. Newts&#x27;in teknesi yanlış yöne doğru uzaklaşır ve nedenini bulmaya çalışırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130101200 +0000" stop="20260130102600 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto&#x27;nun oyuncak arabası bir yarışın ortasında bozulur ve bunun arabanın hatası olduğundan emin! Neden sadece Oto&#x27;nun arabası bozuldu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130102600 +0000" stop="20260130103900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto, en büyük krep için bir dünya rekoru kırmaya karar verir. Peki gerçekten her şeyi kendi başına yapabilir mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130103900 +0000" stop="20260130105100 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir yaz sıcağı dalgasında, bir şey ya da biri, belki de bir Fil-Deve canavarı, gezici havuzdaki suyu akıtmaya devam eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130105100 +0000" stop="20260130110300 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bayan Bellin, Öğretmenler Üniversitesi&#x27;nde en sevdiği öğretmeninin hediyesi olan değerli elma hologramlı bilyesi kaybolur ve Addison onun kilitli bir sınıftan nasıl kaybolduğunu öğrenmek için vakayı inceler..</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130110300 +0000" stop="20260130111200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Mahsur kalmış yumuşak oyuncakları, bir hazineyi ve şekerlemeleri kurtarıyoruz!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130111200 +0000" stop="20260130111700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Çocuklar metal bulmak ve gizli bir yıldız mıknatıs oyunu yapmak için mıknatısları kullanıyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130111700 +0000" stop="20260130112200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Müzik aletlerini çalmaya yardımcı olması için renk kodlaması kullanıyoruz. Pratik yapmak mükemmelleştirir!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130112200 +0000" stop="20260130112700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Çocuklar, Korsan Pete&#x27;in hazinesine ulaşmasına yardımcı olmak için basit kodlar yazıyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130112700 +0000" stop="20260130114800 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Farklı şekil, boyut ve renkteki çiçekleri öğrenen Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130114800 +0000" stop="20260130120800 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Dünyanın dört bir yanındaki bitkileri ve farklı iklimlerde nasıl büyüyüp hayatta kaldıklarını öğrenmek için Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130120800 +0000" stop="20260130121800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Değerli bir elmas çalındı ve Sprinter görevde. Ama tüm ipuçları kendisini gösteriyor. Nasıl olabilir?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130121800 +0000" stop="20260130122500 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, Bhilka&#x27;daki herkesin almak istediği sihirli bir çalışma içeceği icat etti. Peki gerçekten harika mı yoksa sadece bir yalan mı?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130122500 +0000" stop="20260130123000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, kahramanlık işlerinde ona yardımcı olması için Sprinter 2.0 adlı bir dış iskelet yapar. Ancak işler planlandığı gibi gitmez.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130123000 +0000" stop="20260130123600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Boom&#x27;un hava makinesi, Bhilka&#x27;nın üzerine yıkıcı fırtınalar gönderebilir ve Sprinter onu durdurmak için Gök Balinası&#x27;ndan yardım ister.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130123600 +0000" stop="20260130125100 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, ormandaki yaralı bir kivi kuşunu beslemek için güneş enerjili ışıklar inşa eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130125100 +0000" stop="20260130130300 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin, Newts ve Heni bir nehir yarışında rekabet ederler. Newts&#x27;in teknesi yanlış yöne doğru uzaklaşır ve nedenini bulmaya çalışırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130130300 +0000" stop="20260130131600 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto, en büyük krep için bir dünya rekoru kırmaya karar verir. Peki gerçekten her şeyi kendi başına yapabilir mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130131600 +0000" stop="20260130132900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Fico, Anabella&#x27;dan süper bir kahraman yarasa konulu bir çizgi roman için yardım ister. Yarasaların bol olduğu Pantanal,Brezilya&#x27;ya giderler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130132900 +0000" stop="20260130134100 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir vandal, gece vakti Maxin kasabanın En Güzel Halk Bahçesi projesinin girişine zarar verir, Addison günü kurtarmak için ninja kılığına girer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130134100 +0000" stop="20260130135300 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Ayrton Park Devlet Okulu&#x27;na son derece gelişmiş bir bilgisayar ödünç verildiğinde, kasabada gizemli siber olaylar olmaya başlar. Ve Addison, olayların dünya çapında bir gizem ağının parçası olup olamadığını merak eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130135300 +0000" stop="20260130140700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, Purl ve Bob bir hazine avındadır. Ancak korsanlar Purl ve hazineyi ele geçirdiklerinde Bitz onları kurtarmanın bir yolunu bulmalıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130140700 +0000" stop="20260130141800 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Zipsy ve Popsy, Prenses Purl&#x27;e sonsuza dek uyuması için bir büyü yaparlar. Bitz&#x27;in büyüyü bozmanın bir yolunu bulması gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130141800 +0000" stop="20260130142800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Senior, Tepekent başkanı olmak için çok yaşlı olmadığını kanıtlamak amacıyla bulutların altında bir yolculuğa çıkar ve Sprinter&#x27;ı da çağırır</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130142800 +0000" stop="20260130143400 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, Opti&#x27;nin biraz kilo vermesine yardım etmek istiyor. Çok zorlu bir görev olduğu ortaya çıkıyor ve Sprinter en iyi çözümü arıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130143400 +0000" stop="20260130144000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ürker ve yanlışlıkla Üçüzlerin önünde yere tuvaletini yapar. Üçüzler hemen onun zehirli olduğuna hemen ikna olurlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130144000 +0000" stop="20260130145300 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Burpee adadayken bir deniz sisi çöker. Newts ve Kea&#x27;nın waka evine gitmeleri için bir deniz feneri inşa etmeleri gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130145300 +0000" stop="20260130150500 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, ormandaki yaralı bir kivi kuşunu beslemek için güneş enerjili ışıklar inşa eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130150500 +0000" stop="20260130151900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto&#x27;nun oyuncak arabası bir yarışın ortasında bozulur ve bunun arabanın hatası olduğundan emin! Neden sadece Oto&#x27;nun arabası bozuldu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130151900 +0000" stop="20260130153100 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto, en büyük krep için bir dünya rekoru kırmaya karar verir. Peki gerçekten her şeyi kendi başına yapabilir mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130153100 +0000" stop="20260130154400 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Tess ve Alex&#x27;e aniden sebepsiz yere elektrik çarpmaya başlayınca, Addison&#x27;ın bu gizemi çözmesi gerekiyor yoksa okulun yetenek yarışması için yaptıkları gösteride ışıklar sönecek.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130154400 +0000" stop="20260130155600 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir yaz sıcağı dalgasında, bir şey ya da biri, belki de bir Fil-Deve canavarı, gezici havuzdaki suyu akıtmaya devam eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130155600 +0000" stop="20260130160900 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bob, Robot Bob Dağı&#x27;nın tepesine tabelasını dikmek istiyor. Grup kar canavarlarıyla karşılaştığında yolculuk tehlikeli hale geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130160900 +0000" stop="20260130162100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, Purl ve Bob bir hazine avındadır. Ancak korsanlar Purl ve hazineyi ele geçirdiklerinde Bitz onları kurtarmanın bir yolunu bulmalıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130162100 +0000" stop="20260130164400 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, bitkileri günlük hayatımızda nasıl kullandığımızı, onları ve gezegenimizi korumaya nasıl yardımcı olabileceğimizi öğrenir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130164400 +0000" stop="20260130170400 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Farklı şekil, boyut ve renkteki çiçekleri öğrenen Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130170400 +0000" stop="20260130171200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Arkadaşlarımız kağıt tabaklardan ve lolipop çubuklarından çarklar üretiyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130171200 +0000" stop="20260130171800 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Evde oyuncaklar için güvenlik ağları yapımı amacıyla birçok farklı malzemeyi test ederken iyi eğlenceler.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130171800 +0000" stop="20260130172300 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Karton ve kurdeleden spor ayakkabı yapıyoruz.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130172300 +0000" stop="20260130172800 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Aynalar ve yansımalar görülmeden görmemize yardımcı oluyor. Periskop yapalım!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130172800 +0000" stop="20260130173700 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, nesneleri yok etmek için olumsuz düşünceler kullanır. Sprinter olumsuz düşünceleri olumluya çevirerek günü kurtarabilecek mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130173700 +0000" stop="20260130174400 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Değerli bir elmas çalındı ve Sprinter görevde. Ama tüm ipuçları kendisini gösteriyor. Nasıl olabilir?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130174400 +0000" stop="20260130175000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, Bhilka&#x27;daki herkesin almak istediği sihirli bir çalışma içeceği icat etti. Peki gerçekten harika mı yoksa sadece bir yalan mı?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130175000 +0000" stop="20260130175600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, kahramanlık işlerinde ona yardımcı olması için Sprinter 2.0 adlı bir dış iskelet yapar. Ancak işler planlandığı gibi gitmez.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130175600 +0000" stop="20260130180900 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, bir okyanus kaya havuzundaki deniz yaşamına hayran kalır. Su seviyesi düştüğünde sızıntıyı durdurmaya çalışırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130180900 +0000" stop="20260130182100 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Burpee adadayken bir deniz sisi çöker. Newts ve Kea&#x27;nın waka evine gitmeleri için bir deniz feneri inşa etmeleri gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130182100 +0000" stop="20260130183500 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130183500 +0000" stop="20260130184700 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto&#x27;nun oyuncak arabası bir yarışın ortasında bozulur ve bunun arabanın hatası olduğundan emin! Neden sadece Oto&#x27;nun arabası bozuldu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130184700 +0000" stop="20260130190000 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Alex, gizli bir hayrandan imzasız bir not alır, kendisinin bu kadar harika olduğunu düşünen kişiyi bulmasına yardım etmesi için Addison&#x27;ı çağırır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130190000 +0000" stop="20260130191200 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Bir vandal, gece vakti Maxin kasabanın En Güzel Halk Bahçesi projesinin girişine zarar verir, Addison günü kurtarmak için ninja kılığına girer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130191200 +0000" stop="20260130192500 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Uçurtma festivalinde Zip rüzgar tarafından savrulunca işler yokuş aşağı gidiyor. Bitz&#x27;in günü ve Zip&#x27;i kurtarmasının zamanı geldi.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130192500 +0000" stop="20260130193700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Robot Kurt, Rapunzel Purl&#x27;ü kalenin kulesine kilitler. Sör Bevel da içeride mahsur kalır. Bitz ikisini de kurtarabilecek mi?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130193700 +0000" stop="20260130200000 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Bize yiyebileceğimiz yiyecekleri veren kaç bitkinin olduğunu öğrenen Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130202000 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, bitkileri günlük hayatımızda nasıl kullandığımızı, onları ve gezegenimizi korumaya nasıl yardımcı olabileceğimizi öğrenir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130202000 +0000" stop="20260130202900 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ev özlemi çekiyor ve hem Dünya&#x27;yı hem de yaşadığı ağaç gövdesini özlüyor. Sprinter onu neşelendirmek için yeni bir ağaç gövdesi buluyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130202900 +0000" stop="20260130203600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Senior, Tepekent başkanı olmak için çok yaşlı olmadığını kanıtlamak amacıyla bulutların altında bir yolculuğa çıkar ve Sprinter&#x27;ı da çağırır</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130203600 +0000" stop="20260130204200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter, Opti&#x27;nin biraz kilo vermesine yardım etmek istiyor. Çok zorlu bir görev olduğu ortaya çıkıyor ve Sprinter en iyi çözümü arıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130204200 +0000" stop="20260130204800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Leo ürker ve yanlışlıkla Üçüzlerin önünde yere tuvaletini yapar. Üçüzler hemen onun zehirli olduğuna hemen ikna olurlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260130204800 +0000" stop="20260130210200 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin, Newts ve Heni, Kivi Vadisi Çiçek Gösterisi&#x27;nde yarışıyor. İşler plana göre gitmediğinde, yaratıcı olmaları gerekir.</desc>
-    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130003000 +0000" channel="babytv">
     <title lang="tr">Rüya Dolu Geceler</title>
@@ -3127,102 +2591,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">The Context USA</title>
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260129050000 +0000" stop="20260129065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A.Hatayspor - E.Ümraniyespor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129070000 +0000" stop="20260129085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ö.Sivasspor - Amed S.F.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - İstanbulspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sakaryaspor - S.Bodrum FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">AdanaDemirspor - Bandırmaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">22. Hafta / Tekrar</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Serikspor - E.Erokspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129210000 +0000" channel="beinsports2.tr">
-    <title lang="tr">İ.A.Vanspor FK - A.H.Iğdır FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129084500 +0000" stop="20260129085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129090000 +0000" stop="20260129104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Fulham - Brighton Hove Albion</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129104500 +0000" stop="20260129105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129110000 +0000" stop="20260129124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Newcastle United - Aston Villa</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129124500 +0000" stop="20260129125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129130000 +0000" stop="20260129144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Crystal Palace - Chelsea</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129144500 +0000" stop="20260129145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129150000 +0000" stop="20260129164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Nottingham Forest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129164500 +0000" stop="20260129165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129170000 +0000" stop="20260129172900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Everton - Leeds United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129173000 +0000" stop="20260129175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Manchester United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129180000 +0000" stop="20260129182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham United - Sunderland</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129183000 +0000" stop="20260129185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Manchester City - W.Wanderers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129190000 +0000" stop="20260129192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Tottenham Hotspur</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129193000 +0000" stop="20260129195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Netbusters</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260129200000 +0000" stop="20260129220000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
-    <category lang="tr">Sports</category>
   </programme>
   <programme start="20260129084500 +0000" stop="20260129085900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
@@ -11741,6 +11109,411 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260130000000 +0000" stop="20260130004000 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130004000 +0000" stop="20260130005000 +0000" channel="flash-haber">
+    <title lang="tr">Konsol</title>
+    <desc lang="tr">Konsol Programı, oyun ve oyuncu dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Yeni çıkan oyunlar, konsol incelemeleri, turnuvalar, donanım tanıtımları ve uzman yorumlarıyla hem eğlenceli hem de bilgilendirici bir deneyim sunuyor. Oyunseverler için haberler, ipuçları ve öneriler tek çatı altında toplanıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130005000 +0000" stop="20260130005500 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130005500 +0000" stop="20260130010000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130010000 +0000" stop="20260130014000 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130014000 +0000" stop="20260130015500 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130015500 +0000" stop="20260130020000 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130023000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130023000 +0000" stop="20260130024500 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130024500 +0000" stop="20260130030000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130030000 +0000" stop="20260130033000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130033000 +0000" stop="20260130034500 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130034500 +0000" stop="20260130040000 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130043800 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130043800 +0000" stop="20260130044300 +0000" channel="flash-haber">
+    <title lang="tr">Trafik Hattı</title>
+    <desc lang="tr">Trafik Hattı, şehir içi ve şehirlerarası akışı, yol durumlarını ve güvenlik uyarılarını anlık verilerle ekrana taşıyor. Uzman görüşleri ve canlı bağlantılarla desteklenen program, sürücüler ve yayalar için pratik ipuçları sunarak güvenli, konforlu ve planlı yolculuklara yardımcı oluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130044300 +0000" stop="20260130045800 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130045800 +0000" stop="20260130050000 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130054000 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130054000 +0000" stop="20260130054200 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130054200 +0000" stop="20260130055700 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130055700 +0000" stop="20260130060000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130063000 +0000" stop="20260130063200 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130063200 +0000" stop="20260130064700 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130064700 +0000" stop="20260130065900 +0000" channel="flash-haber">
+    <title lang="tr">Kültür Sanat</title>
+    <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130065900 +0000" stop="20260130070000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130072000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130072000 +0000" stop="20260130074000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Gündemi</title>
+    <desc lang="tr">Spor Gündemi, Türkiye ve dünyadan en güncel spor gelişmelerini derli toplu bir çerçevede sunuyor. Futbol, basketbol, voleybol ve diğer branşlardaki son dakika haberleri, maç özetleri ve transfer başlıkları analizlerle ele alınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130074000 +0000" stop="20260130074200 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130074200 +0000" stop="20260130075700 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130075700 +0000" stop="20260130080000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130080000 +0000" stop="20260130083400 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130083400 +0000" stop="20260130084400 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130084400 +0000" stop="20260130085900 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130085900 +0000" stop="20260130090000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130093000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130094500 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130094500 +0000" stop="20260130095500 +0000" channel="flash-haber">
+    <title lang="tr">Tekno Flash</title>
+    <desc lang="tr">Tekno Flash, dijital dünyanın en yeni gelişmelerini izleyiciyle buluşturuyor. Yapay zekâ, yazılım, akıllı cihazlar, oyun sektörü ve sosyal medya trendleri sade ve anlaşılır bir dille ele alınıyor. Uzman yorumları ve özel röportajlarla zenginleşen program, teknoloji dünyasının rehberini sunuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130095500 +0000" stop="20260130100000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130103000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130103000 +0000" stop="20260130104500 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130104500 +0000" stop="20260130110000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130113000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130114500 +0000" channel="flash-haber">
+    <title lang="tr">Konsol</title>
+    <desc lang="tr">Konsol Programı, oyun ve oyuncu dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Yeni çıkan oyunlar, konsol incelemeleri, turnuvalar, donanım tanıtımları ve uzman yorumlarıyla hem eğlenceli hem de bilgilendirici bir deneyim sunuyor. Oyunseverler için haberler, ipuçları ve öneriler tek çatı altında toplanıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130114500 +0000" stop="20260130115700 +0000" channel="flash-haber">
+    <title lang="tr">Kültür Sanat</title>
+    <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130115700 +0000" stop="20260130120000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130120000 +0000" stop="20260130123000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130123000 +0000" stop="20260130124300 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130124300 +0000" stop="20260130125800 +0000" channel="flash-haber">
+    <title lang="tr">Haber Hattı</title>
+    <desc lang="tr">Günün her saatinde en sıcak gelişmeleri hızlı ve tarafsız biçimde ekrana taşıyan program, Türkiye&#x27;den ve dünyadan siyaset, ekonomi, sağlık, spor ve kültür-sanat başlıklarını kapsar. Canlı bağlantılar, sahadan özel görüntüler ve deneyimli muhabirlerin aktarımlarıyla izleyiciye güvenilir bir haber akışı sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130125800 +0000" stop="20260130125900 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130125900 +0000" stop="20260130130000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130132000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130132000 +0000" stop="20260130134000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Gündemi</title>
+    <desc lang="tr">Spor Gündemi, Türkiye ve dünyadan en güncel spor gelişmelerini derli toplu bir çerçevede sunuyor. Futbol, basketbol, voleybol ve diğer branşlardaki son dakika haberleri, maç özetleri ve transfer başlıkları analizlerle ele alınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130134000 +0000" stop="20260130134900 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130134900 +0000" stop="20260130135700 +0000" channel="flash-haber">
+    <title lang="tr">Maç Özetleri</title>
+    <desc lang="tr">Futbol dünyasından öne çıkan tüm karşılaşmalar, goller, kritik pozisyonlar ve maç analizleri bu programda bir araya geliyor. Heyecan dolu maç özetleriyle kaçırdığınız anları yakalarken, uzman yorumlarıyla oyunun perde arkasını da keşfediyorsunuz. Program, tempolu anlatımıyla futbolseverlere günün en önemli anlarını net ve keyifli bir şekilde sunuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130135700 +0000" stop="20260130140000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130143000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130143000 +0000" stop="20260130144500 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130144500 +0000" stop="20260130150000 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130152000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130152000 +0000" stop="20260130153500 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130153500 +0000" stop="20260130155000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130155000 +0000" stop="20260130160000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130160000 +0000" stop="20260130164300 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Ana Haber</title>
+    <desc lang="tr">Günün en önemli haberlerini tarafsız ve kapsamlı biçimde ekrana taşıyan program, Türkiye ve dünyadan siyaset, ekonomi, kültür, sağlık ve spor başlıklarını ele alır. Şevval Şirin&#x27;in akıcı sunumuyla hazırlanan yayın, uzman yorumları, özel röportajlar ve analizlerle izleyiciye güvenilir bir haber deneyimi sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130164300 +0000" stop="20260130164500 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130164500 +0000" stop="20260130170000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130174100 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130174100 +0000" stop="20260130174300 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130174300 +0000" stop="20260130175800 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130175800 +0000" stop="20260130180000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130180000 +0000" stop="20260130184100 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130184100 +0000" stop="20260130184300 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130184300 +0000" stop="20260130185800 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130185800 +0000" stop="20260130190000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130193500 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130193500 +0000" stop="20260130195000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260130195000 +0000" stop="20260130195900 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130195900 +0000" stop="20260130200000 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130203000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Flash TV Haber, Türkiye ve dünya gündemindeki en önemli gelişmeleri hızlı ve güvenilir biçimde izleyiciyle buluşturuyor. Deneyimli spikerler ve muhabirler aracılığıyla siyaset, ekonomi, kültür, sağlık ve spor gibi birçok alanda kapsamlı haberler sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130203000 +0000" stop="20260130204500 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260130204500 +0000" stop="20260130210000 +0000" channel="flash-haber">
+    <title lang="tr">Kültür Sanat</title>
+    <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
   <programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="fm-tv">
     <title lang="tr">Hafta Sonu Hazırlığı</title>
     <category lang="tr">Haber</category>
@@ -14199,141 +13972,6 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   <programme start="20260130150000 +0000" stop="20260130210000 +0000" channel="kibris-tv">
     <title lang="tr">Kibris TV</title>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="kontv">
-    <title lang="tr">Program Tekrarı</title>
-    <desc lang="tr">Program Tekrarı, gün içinde yayınlanan programların tekrarlarını izleyiciye ulaştıran bir yayın kuşağıdır. Haberler, magazin spor ve kültürel içeriklerin tekrarları sayesinde izleyiciler, kaçırdıkları bölümleri kolayca yakalayabilir ve programları istedikleri zaman izleyebilir. İzleyiciye takip imkanı sağlar.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260130010000 +0000" stop="20260130020000 +0000" channel="kontv">
-    <title lang="tr">Program Tekrarı</title>
-    <desc lang="tr">Program Tekrarı, gün içinde yayınlanan programların tekrarlarını izleyiciye ulaştıran bir yayın kuşağıdır. Haberler, magazin spor ve kültürel içeriklerin tekrarları sayesinde izleyiciler, kaçırdıkları bölümleri kolayca yakalayabilir ve programları istedikleri zaman izleyebilir. İzleyiciye takip imkanı sağlar.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260130020000 +0000" stop="20260130030000 +0000" channel="kontv">
-    <title lang="tr">Hatm-i Şerif</title>
-    <desc lang="tr">Hatm-i Şerif, dini ve kültürel içeriklere odaklanan izleyiciye kutsal metinlerin anlamını, önemini ve ibadet pratiklerini detaylı ve anlaşılır bir şekilde sunan bir programdır. Programda dini ritüeller ve toplumsal değerler ele alınır izleyicilerin hem bilgi edinmesi hem de manevi olarak beslenmesi amaçlanır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130040000 +0000" channel="kontv">
-    <title lang="tr">Hayat Rehberi</title>
-    <desc lang="tr">Hayat Rehberi, izleyiciye günlük yaşam, sağlık, eğitim ve toplumsal konular hakkında bilgi ve pratik öneriler sunan bir programdır. Program, farklı yaşam alanlarını kapsayan içerikleriyle izleyiciyi bilinçlendirir, karar alma süreçlerinde yol gösterir ve yaşam kalitesini artırmayı hedefler.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130043000 +0000" channel="kontv">
-    <title lang="tr">Sohbet Tadında</title>
-    <desc lang="tr">Sohbet Tadında, izleyicilere güncel konuları, kültürel ve toplumsal meseleleri samimi ve anlaşılır bir sohbet ortamında sunan bir programdır. Programda farklı konuklar ağırlanır, keyifli diyaloglar ve derinlemesine tartışmalar yapılır. İzleyiciye hem eğlenceli hem de bilgilendirici içerikler sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130043000 +0000" stop="20260130050000 +0000" channel="kontv">
-    <title lang="tr">Şehirlerin Ruhu</title>
-    <desc lang="tr">Şehirlerin Ruhu, şehirlerin tarihî dokusunu, kültürel değerlerini ve toplumsal yaşamını izleyiciye anlaşılır ve detaylı bir şekilde sunan belgesel dizisidir. Programda şehirlerin öne çıkan özellikleri, günlük yaşam ve kültürel etkinlikler ele alınır. İzleyici, şehirlerin kendine has ruhunu keşfeder.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="kontv">
-    <title lang="tr">Sabah Gündemi</title>
-    <desc lang="tr">Sabah Gündemi, günün ilk saatlerinde ülke ve dünya gündemindeki önemli gelişmeleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir bilgi programıdır. Program siyaset, ekonomi, kültür ve güncel yaşamdan öne çıkan haberleri aktarırken izleyiciye olayları kapsamlı bakış açısıyla takip etme imkanı sağlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130060000 +0000" stop="20260130063000 +0000" channel="kontv">
-    <title lang="tr">Sabah Gündemi</title>
-    <desc lang="tr">Sabah Gündemi, günün ilk saatlerinde ülke ve dünya gündemindeki önemli gelişmeleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir bilgi programıdır. Program siyaset, ekonomi, kültür ve güncel yaşamdan öne çıkan haberleri aktarırken izleyiciye olayları kapsamlı bakış açısıyla takip etme imkanı sağlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130063000 +0000" stop="20260130070000 +0000" channel="kontv">
-    <title lang="tr">Velivizyon</title>
-    <desc lang="tr">Günlük yaşamın ilginç konuları, eğlenceli ve bilgi dolu bir anlatımla izleyiciye sunuluyor. Merak uyandıran detaylar, şaşırtıcı bilgiler ve renkli içerikler sayesinde izleme deneyimi dinamik hâle geliyor, izleyici hem eğleniyor hem de gündelik hayata dair yeni bilgiler ediniyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130080000 +0000" channel="kontv">
-    <title lang="tr">Alın Teri</title>
-    <desc lang="tr">Alın Teri emek üretim ve iş dünyasına dair konuları izleyiciye detaylı ve anlaşılır bir şekilde sunan bir bilgi programıdır. Programda farklı sektörlerden çalışanların hikâyeleri üretim süreçleri ve iş yaşamındaki güncel gelişmeler ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü bir içerik sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130083000 +0000" channel="kontv">
-    <title lang="tr">Tarımda Kadın Eli</title>
-    <desc lang="tr">Tarım sektöründe kadınların üstlendiği görevler, üretim süreçlerine katkıları ve günlük yaşamları bu belgeselde ele alınıyor. Kadın emeği ve özverisi sade bir anlatımla aktarılırken, izleyiciye kırsal yaşamın ve kadınların üretimdeki öneminin farkına varma imkânı sunuluyor.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260130083000 +0000" stop="20260130090000 +0000" channel="kontv">
-    <title lang="tr">Tarımda Kadın Eli</title>
-    <desc lang="tr">Tarım sektöründe kadınların üstlendiği görevler, üretim süreçlerine katkıları ve günlük yaşamları bu belgeselde ele alınıyor. Kadın emeği ve özverisi sade bir anlatımla aktarılırken, izleyiciye kırsal yaşamın ve kadınların üretimdeki öneminin farkına varma imkânı sunuluyor.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="kontv">
-    <title lang="tr">Kürsüden Gönüllere</title>
-    <desc lang="tr">Kürsüden paylaşılan düşünceler, toplumsal mesajlar ve ilham verici konuşmalar bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak, izleyiciye hem düşündürücü hem de farkındalık kazandıran bir deneyim sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="kontv">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="kontv">
-    <title lang="tr">Neler Oluyor</title>
-    <desc lang="tr">Güncel olaylar, toplumsal gelişmeler ve magazin dünyasındaki önemli gelişmeleri izleyiciye anlaşılır ve detaylı bir şekilde sunan bir bilgi programıdır. Programda haberler, kültürel etkinlikler, trendler ve ilgi çekici olaylar ele alınır. İzleyiciye hem bilgilendirici hem de eğlenceli bir içerik sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130123000 +0000" channel="kontv">
-    <title lang="tr">Neler Oluyor</title>
-    <desc lang="tr">Güncel olaylar, toplumsal gelişmeler ve magazin dünyasındaki önemli gelişmeleri izleyiciye anlaşılır ve detaylı bir şekilde sunan bir bilgi programıdır. Programda haberler, kültürel etkinlikler, trendler ve ilgi çekici olaylar ele alınır. İzleyiciye hem bilgilendirici hem de eğlenceli bir içerik sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130123000 +0000" stop="20260130130000 +0000" channel="kontv">
-    <title lang="tr">Velivizyon</title>
-    <desc lang="tr">Günlük yaşamın ilginç konuları, eğlenceli ve bilgi dolu bir anlatımla izleyiciye sunuluyor. Merak uyandıran detaylar, şaşırtıcı bilgiler ve renkli içerikler sayesinde izleme deneyimi dinamik hâle geliyor, izleyici hem eğleniyor hem de gündelik hayata dair yeni bilgiler ediniyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="kontv">
-    <title lang="tr">Bizim EV</title>
-    <desc lang="tr">Sıradan görünen ama içinde büyük duygular barındıran bir ailenin hikâyesini anlatıyor. Sevgi fedakârlık, umut ve dayanışma temaları etrafında şekillenen dizi izleyiciyi kendi hayatından izler bulacağı sıcak bir yolculuğa çıkarıyor. Her bölümde aile bağlarının gücü ve insan ilişkilerinin değeri ön plana çıkıyor.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="kontv">
-    <title lang="tr">İyilik Yolcuları</title>
-    <desc lang="tr">İyilik Yolcuları, toplumda iyilik ve dayanışma örneklerini izleyiciye detaylı ve anlaşılır bir şekilde sunan bir programdır. Programda yardım faaliyetleri, sosyal sorumluluk projeleri ve insan hikâyeleri ele alınır. İzleyiciye hem ilham veren hem de düşündürücü içerikler sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="kontv">
-    <title lang="tr">Düşünce Meltemi</title>
-    <desc lang="tr">Düşünce Meltemi, toplumsal, kültürel ve ahlaki konuları akademisyenler ve uzman konuklarla derinlemesine ele alan bir programdır. Sorgulayan ve düşündüren yapısıyla izleyiciye farkındalık kazandırır ve gündemin ötesine geçerek evrensel değerleri sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130163000 +0000" channel="kontv">
-    <title lang="tr">Sıcak Saatler</title>
-    <desc lang="tr">Gün içinde yaşanan en önemli gelişmeler, anbean takip edilerek izleyiciye aktarılıyor. Son dakika bilgileri, öne çıkan başlıklar ve uzman değerlendirmeleriyle gündemin nabzı tutuluyor. Hızlı, güvenilir ve sade anlatımıyla haberleri kaçırmadan izleme imkânı sunuyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260130163000 +0000" stop="20260130173400 +0000" channel="kontv">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130173400 +0000" stop="20260130173600 +0000" channel="kontv">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, ülke genelindeki ve bölgesel hava koşullarını detaylı ve anlaşılır şekilde izleyiciye sunar. Sıcaklık, yağış, rüzgâr ve diğer hava olayları hakkında güncel bilgiler verilir. Mevsimsel tahminler ve olası uyarılar da aktarılır, günlük yaşam için güvenilir bir rehberdir.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260130173600 +0000" stop="20260130174000 +0000" channel="kontv">
-    <title lang="tr">Spor Haber</title>
-    <desc lang="tr">Futbol ve diğer spor dallarındaki güncel gelişmeleri, maç sonuçlarını, öne çıkan haberleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir spor programıdır. Program izleyiciyi spor dünyasındaki önemli gelişmelerden haberdar ederken, spor gündemini kapsamlı bir şekilde izleyicinin takip etmesini sağlar.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260130174000 +0000" stop="20260130184000 +0000" channel="kontv">
-    <title lang="tr">Bir Çay Söyle</title>
-    <desc lang="tr">Günlük yaşamın içinden seçilen konular, samimi sohbetler ve paylaşılan deneyimler bu programda ele alınıyor. Sade ve akıcı anlatım, izleyiciye hem düşündürücü hem de keyifli bir izleme deneyimi sunarken, insan ilişkilerinin değerini vurguluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260130184000 +0000" stop="20260130200000 +0000" channel="kontv">
-    <title lang="tr">Cahit Nazlı İle Gönül Dili</title>
-    <desc lang="tr">Kalpten yapılan sohbetler, konukların deneyimleri ve yaşam hikâyeleri bu programda ele alınıyor. Sade ve anlaşılır anlatım, izleyiciye hem düşündürücü hem de keyifli bir izleme deneyimi sunarken, insan ilişkilerinin değerine dair farkındalık kazandırıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="kontv">
-    <title lang="tr">Türk Filmi</title>
-    <desc lang="tr">Türk Filmi, duygusal, dramatik ve komik temaları bir araya getirerek Türk sinemasının zengin örneklerini izleyiciyle buluşturuyor. Film boyunca karakterlerin yaşamları, ilişkileri ve çatışmaları etkileyici bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Film</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="krt-tv">
     <title lang="tr">En iyisi</title>
@@ -17238,6 +16876,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260130161500 +0000" stop="20260130165000 +0000" channel="ntv">
     <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+    <desc lang="tr">Günün getirdikleri ve günün geride bıraktıklari Oyuncu Ceyda Düvenci, Bambaşka Sohbetler için, NTV&#x27;de izleyici karşısına çıkıyor. Programa bu akşam Derya Şensoy konuk oluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260130165000 +0000" stop="20260130165500 +0000" channel="ntv">
@@ -17727,34 +17366,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260130040000 +0000" stop="20260130070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260130070000 +0000" stop="20260130120000 +0000" channel="power-tv">
+  <programme start="20260130070000 +0000" stop="20260130130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260130130000 +0000" stop="20260130170000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260130170000 +0000" stop="20260130200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260130200000 +0000" stop="20260131050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260130013000 +0000" stop="20260130020000 +0000" channel="s-sport">
     <title lang="tr">Gearing Up</title>
@@ -18616,6 +18249,61 @@ Salinger ve Whitman&#x27;ın araştırmaları, onları Berlin&#x27;den Milano&#x
   <programme start="20260130191500 +0000" stop="20260130210000 +0000" channel="sinema-yerli">
     <title lang="tr">Yusuf Yusuf</title>
     <desc lang="tr">Yusuf, çocukluğundan bu yana otomobil tutkusu olan ve bir araba yarışçısı olmanın hayalleriyle yaşayan bir adamdır ancak şans Yusuf&#x27;a gülmez ve gerçek hayat hayaller konusunda pek de cömert davranmaz. Şimdilerde Ankara&#x27;da dolmuş şoförlüğü yapan Yusuf artık tam bir modifiye tutkunudur. Bir gün yine dolmuş sürdüğü esnada papaz olan bir yolcuyu arabasına alır. Ancak bu papaz görünümlü adam, o gün Ankara&#x27;ya gelen Papa&#x27;ya suikast düzenlemek isteyen Yusuf adında bir militandır. Artık iki Yusuf bir dolmuşun içindedir ve biri can almaya çalışırken diğeri can kurtarmak için çabalayacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130001500 +0000" stop="20260130014500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Kezban</title>
+    <desc lang="tr">Annesi öldükten sonra amcası olarak bildiği fakat aslında öz babası olan adamın yanına yerleşen Kezban, köylü olduğu için aşağılanmaya ve dışlanmaya başlar. Bunun üzerine hırs yapan Kezban kendini geliştirerek bambaşka bir kadına dönüşür. Onu aşağılayanlardan biri olan Ferit ise Kezban&#x27;ın bu değişimi karşısında kayıtsız kalamaz.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130014500 +0000" stop="20260130034500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Dünya Hali</title>
+    <desc lang="tr">Serdar 29 yaşında, İTÜ Makine mezunu, hayatını animatörlük yaparak sürdüren, içine kapanık birisidir. Ah Güzel İstanbul dergisinde çalışan, idealist gazeteci Gizem&#x27;e uzun zamandır aşıktır, ama Gizem onun varlığından haberdar dahi değildir. Serdar, ev arkadaşları Batu ve Masal?la girdiği bir iddia sonucu, Gizem?le tanışıp sevgili olmaya karar verir. Gizem?in dergiye yapacağı röportajın konusu filofobidir (aşık olma korkusu) ve Serdar kendini filofobik olarak tanıştırır. Bir yandan Gizem&#x27;e aşık olan dergi patronu Arda&#x27;yla, bir yandan da onu evlendirmeye çalışan annesi Halime&#x27;yle mücadele etmeye başlayan Serdar&#x27;ın işi giderek zorlaşır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130034500 +0000" stop="20260130060000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Bayram Şekeri</title>
+    <desc lang="tr">Bayram Şekeri, ebeveynleri ayrılan genç Mete&#x27;nin gözünden ailesinin başından geçenleri konu ediniyor. Yusuf ve Pınar&#x27;ın bir türlü yürütemedikleri evlilikleri boşanma ile sonuçlanmış, bir daha oğlu Mete&#x27;yi göremeyeceğinin korkusunu yaşayan Pınar ise çareyi onu Almanya&#x27;ya kaçırmakta bulmuştur.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130074500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Bebek Geliyorum Demez</title>
+    <desc lang="tr">Bebek Geliyorum Demez, hayallerinin peşinden koşan genç bir kadının hamile olduğunu öğrenmesiyle birlikte değişen hayatını konu ediyor. Kocası Alper ile mutlu bir hayatı olan Beste&#x27;nin en büyük hayali yazar olmaktır. Hayallerinin peşinden koşmaya karar veren genç kadın kurumsal hayattan kurtularak ilk adımı atar. Tam da bu sırada beklenmedik bir durum ile karşı karşıya kalır. Hamile olduğunu öğrenen Beste&#x27;nin hayatı tamamen değişir. Bu güzel sürpriz sadece onun ve kocası Alper&#x27;in hayatını değiştirmekle kalmaz, takıntılı ailelerinin ve birbirinden garip arkadaşlarının hayatını da derinden etkiler. Mide bulantıları, uyku basmaları ve birbirinden komik olaylar eşliğinde bir hamilelik geçiren Beste, bebeği ile birlikte hayallerine de kavuşabilecek mi?</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130074500 +0000" stop="20260130093000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Sevgili Komşum</title>
+    <desc lang="tr">Sevgili Komşum, bir apartmanda yaşanan birbirinden ilginç olayları konu ediyor. Şale Apartmanı, içerisinde türlü insanların barındığı bir apartmandır. Herkes tarafından sevilen bir kapıcı, mutlu bir evliliğe sahip bir çift, mahallelinin kedilerinin sevgilisi yaşlı teyze ve meraklı komşular… Günlerden bir gün genç bir kadının hastaneye kaldırılması ve ardından bir başka kadının taşınması apartmanın hareketlenmesine neden olur.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130093000 +0000" stop="20260130113000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Çanakkale: Yolun Sonu</title>
+    <desc lang="tr">Onbaşı Muhsin daha önce Balkan Savaşı&#x27;nda savaşmış keskin bir nişancıdır. Yeniden seferberlik ilân edilince kardeşi Hasan ile beraber savaşa katılır. Savaş esnasında birbirine destek olan iki kardeş düşmanla mücadele edecektir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130113000 +0000" stop="20260130131500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Senin Hikayen</title>
+    <desc lang="tr">30&#x27;lu yaşlarındaki Hakan ve Esra birbirlerine tutkuyla bağlı, evliliklerinin yedinci yılını yeni doldurmuş bir çifttir. Esra, çalıştığı özel şirkette iyi kariyer yapmış hatta yurtdışından iş teklifi almıştır, Hakan ise film ve reklam projeleriyle geçimini sağlamaktadır. Hiç beklemedikleri bir günde Hakan&#x27;ın annesi Meral‘in kanser olduğu ortaya çıkar. Meral, ölmeden önce tek isteğinin torun sevmek olduğunu söylemesiyle karı koca büyük bir sıkıntıya girer. İkisi de çocuk sahibi olmak istediklerinden emin değildir ve bu durum üzerlerinde büyük baskı yaratır. Kariyer planlarına yoğunlaştıkları bir zamanda bu istek kafalarında büyük soru işareti oluşturmuşken, hayat onlara beklemedikleri bir sürpriz yapacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130131500 +0000" stop="20260130151500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Son Umut</title>
+    <desc lang="tr">Avusturalyalı bir çiftçi olan Connor, üç oğlunu da Çanakkale Savaşı&#x27;na göndermiştir. Çanakkale Savaşı&#x27;nın ardından Türkiye&#x27;ye gelen Connor&#x27;ın tek hedefi uzun süredir haber alamadığı oğullarının izini bulabilmektir. Connor&#x27;ın İstanbul&#x27;da başlayıp Çanakkale&#x27;ye ve oradan da ülkenin çeşitli yerlerine uzanan bu arayış yolculuğunda en büyük destekçileri Türk subayları Hasan ve Cemal olacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130151500 +0000" stop="20260130171500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Olanlar Oldu</title>
+    <desc lang="tr">Zafer ve annesi Döndü hanım, Ege&#x27;nin bir kıyı kasabasında birlikte yaşamaktadır. Yaşı geçmekte olan oğlunun kasabanın güzeli Mehtap&#x27;tan ayrılmış olmasına ve hala evlenmemiş olmasına üzülen Döndü, bu gidişata son vermek için harekete geçer. Bu esnada mütevazı teknesinin sorunlarıyla boğuşan Zafer&#x27;in yaptığı mavi turda olanlar olur! Peki bu olanlar herkes için hayırlısı olacak mıdır?</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130171500 +0000" stop="20260130184500 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Koridor</title>
+    <desc lang="tr">Yalnızlığa savrulmuş, ne birbirleriyle, ne de dış dünyayla sağlıklı ilişki kurabilen, sonuçta çaresizliğin, karamsarlığın içine düşmüş ama bu karamsarlıklarıyla birbirlerinden başka kimseye zarar veremeyen iki kız kardeş… Hayatla, geçmişle, anneyle, babayla girişilmiş ama bitirilemeyen, hiçbir zaman da bitirilemeyecek hesaplaşmaların ironik bir dille anlatıldığı drama.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260130184500 +0000" stop="20260130210000 +0000" channel="sinema-yerli-2">
+    <title lang="tr">Hazine</title>
+    <desc lang="tr">Hazine, annesini defnetmek için gittiği memleketinde planladığından daha uzun süre kalmak zorunda kalan Mesut&#x27;un, kardeşi Musa yüzünden katıldığı define arayışıyla birlikte başından geçenleri konu ediniyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130003000 +0000" channel="sky-news-arabia">
@@ -19766,86 +19454,6 @@ Antik Maya&#x27;nın Kayıp Mezarları, Mayaların nasıl yaşadığına ve baş
     <title lang="tr">Medya Kritik</title>
     <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
     <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260130011000 +0000" stop="20260130020000 +0000" channel="tivi6">
-    <title lang="tr">Mağaralar</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130020000 +0000" stop="20260130032000 +0000" channel="tivi6">
-    <title lang="tr">Hatim</title>
-    <desc lang="tr">HATİM 30.KISIM</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260130032000 +0000" stop="20260130050100 +0000" channel="tivi6">
-    <title lang="tr">Geçmişin Sırrı</title>
-    <desc lang="tr">Bir narkotik dedektifi geçmişiyle ilgili bir gerçeği bilen zararsız bir suçlunun peşine düşer...</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130050100 +0000" stop="20260130061500 +0000" channel="tivi6">
-    <title lang="tr">Jumbo</title>
-    <desc lang="tr">ÇOCUK KUŞAĞI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130061500 +0000" stop="20260130070000 +0000" channel="tivi6">
-    <title lang="tr">Zamanda Yolculuk</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130070000 +0000" stop="20260130084000 +0000" channel="tivi6">
-    <title lang="tr">Silverado</title>
-    <desc lang="tr">Silverado&#x27;ya yolculuk ederken şans eseri bir araya gelen dört kovboyun buradaki büyük bir çiftlik sahibi ve şerifin kötü emellerine engel olmalarını konu almaktadır</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130084000 +0000" stop="20260130092500 +0000" channel="tivi6">
-    <title lang="tr">Gezdik Gördük</title>
-    <desc lang="tr">ŞEHRİN KÜLTÜREL VE SOSYAL YAPISINI İZLEDİĞİMİZ BELGESEL</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130092500 +0000" stop="20260130100000 +0000" channel="tivi6">
-    <title lang="tr">Vahşi Doğa</title>
-    <desc lang="tr">VAHŞİ DOĞA 9.BÖLÜM</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130105000 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">Aynı apartmanda oturan, yöneticisinden kapıcısına kadar yedi farklı ailenin gündelik yaşamı, komşuluk, aile, iş ve akrabalık ilişkileri konu alınıyor.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130105000 +0000" stop="20260130121400 +0000" channel="tivi6">
-    <title lang="tr">Manyak Polis</title>
-    <desc lang="tr">Manyak Polis tekrar dirilir bu sefer serinin ikinci filminde kendisine tuzak kurmuşlardan intikam için.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130121400 +0000" stop="20260130133500 +0000" channel="tivi6">
-    <title lang="tr">Zaman Gezginleri</title>
-    <desc lang="tr">Hildesheim&#x27;de güneş tutulmasını izlemek için giden beş öğrenci, bir tarikat tarafından kaçırılması sonrasında yaşadığı heyecan dolu macerayı konu alıyor.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130133500 +0000" stop="20260130150000 +0000" channel="tivi6">
-    <title lang="tr">Penguenlerin Yürüyüşü</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130170000 +0000" channel="tivi6">
-    <title lang="tr">Odak Noktası</title>
-    <desc lang="tr">ÖZGE DEMİR İLE ODAK NOKTASI PROGRAMI</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130180000 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">Aynı apartmanda oturan, yöneticisinden kapıcısına kadar yedi farklı ailenin gündelik yaşamı, komşuluk, aile, iş ve akrabalık ilişkileri konu alınıyor.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130180000 +0000" stop="20260130200000 +0000" channel="tivi6">
-    <title lang="tr">Anketler Konuşuyor</title>
-    <desc lang="tr">BURHAN EPTEMLİ VE TACİRE BAKTAŞ İLE ANKETLER KONUŞUYOR PROGRAMI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260130200000 +0000" stop="20260130210000 +0000" channel="tivi6">
-    <title lang="tr">Şehirler</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
   </programme>
   <programme start="20260130001000 +0000" stop="20260130005500 +0000" channel="tlc">
     <title lang="tr">Katil Beni Seçti</title>
@@ -22450,115 +22058,6 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Gündeme dair önemli olaylar, muhabir bağlantıları ve dosya haberler, Fuat Kozluklu moderatörlüğünde Gece Bakışı&#x27;nda izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260130004000 +0000" stop="20260130014500 +0000" channel="trt-kurdi">
-    <title lang="tr">Büyük Nehir (Nûjin)</title>
-    <desc lang="tr">Nûjîn jiyana Kurdên rêvebiriya herêma bakurê Iraqê tîne ser ekranê. Kevneşopiyên kurdên soran, adet, dawet û şahiyên vê herêmê bi awayekî belgefîlemî behs dike. Di bernameyê de xweza û sîrûşta herêmê ya bêhempa jî tê nîşandan.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260130014500 +0000" stop="20260130023000 +0000" channel="trt-kurdi">
-    <title lang="tr">Safiye Vadisindeki Çiçekler (Kulîlkên Gelıyê Sefıyeyê)</title>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130023000 +0000" stop="20260130030000 +0000" channel="trt-kurdi">
-    <title lang="tr">Kuran Öğreniyorum (Quranê Hîn Dibim)</title>
-    <desc lang="tr">Akademisyen Abdülmelik Yangın, di bernameya Quranê Hîn Dibim de dersa Qurana Pîroz dide û zarokan hînê Quranê dike.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260130030000 +0000" stop="20260130040000 +0000" channel="trt-kurdi">
-    <title lang="tr">Hatim (Xıtma Quranê)</title>
-    <desc lang="tr">Di Xitma Quranê de Qurana Pîroz tê xwendin û her wiha meala Quranê jî bi Kurdî tê ser ekranê</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260130040000 +0000" stop="20260130043000 +0000" channel="trt-kurdi">
-    <title lang="tr">Kürtçe Dersleri (Kurdî Hîn Dıbım)</title>
-    <desc lang="tr">Bi bernameya Ez Kurdî Hîn Dibim gav bi gav Kurdiya xwe bi pêş ve bibin û tiştên nû hîn bibin.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260130043000 +0000" stop="20260130060000 +0000" channel="trt-kurdi">
-    <title lang="tr">Sabah Haberleri (Rojev)</title>
-    <desc lang="tr">Nûçeyên û geşedanên dawî, sernavên rojnameyan tên ravekırın. Wêne û mesajên we tên xwendın.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130060000 +0000" stop="20260130073000 +0000" channel="trt-kurdi">
-    <title lang="tr">Nazdar (Nazdar)</title>
-    <desc lang="tr">TEKRAR</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130073000 +0000" stop="20260130080000 +0000" channel="trt-kurdi">
-    <title lang="tr">Zaman ve Tarz (Dem û Şêwaz)</title>
-    <desc lang="tr">tekrar</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260130080000 +0000" stop="20260130090000 +0000" channel="trt-kurdi">
-    <title lang="tr">Günaydın Türkiye (Rojbaş Türkiye)</title>
-    <desc lang="tr">Bernameya Roj Baş Türkiye bi pêşkêşvaniya Canan Oğurluyê nava hefteyê her roj di saet 10.30&#x27;an de diweşe. Bi mêvanên pispor re li ser mijarên girîng sohbet tên kirin, bîranînên balkêş bi şêwazeke rengîn tên ravekirin. Di rojên girîng de wate û girîngiya rojê tê nirxandin.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130090000 +0000" stop="20260130100000 +0000" channel="trt-kurdi">
-    <title lang="tr">Kadınlar Yarışıyor (Çı Dıpêjın Çı Dıbêjın)</title>
-    <desc lang="tr">Jin ji bo çêkirina xwarinên xweş dikevin pêşbaziyê. Ew hem bi kêf û eşq xwarinê çêdikin hem ji bo serketinê têdikoşin. Di jûriya jinan de 3 kes cih digirin.</desc>
-    <category lang="tr">Yarışma</category>
-  </programme>
-  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="trt-kurdi">
-    <title lang="tr">Dengbej Hikayeler</title>
-    <desc lang="tr">Di vê bernameyê de dengbêjên herêmê kilamên xwe disitirin; pispor û zana çîrokên wan kilaman vedibêjin.</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260130110000 +0000" stop="20260130120000 +0000" channel="trt-kurdi">
-    <title lang="tr">Sağlık Olsun (Derman)</title>
-    <desc lang="tr">Derman, di her beşekê de bi mijarek cuda ya derbarê tenduristiyê de tê pêşberî we. Prof. Dr. Hakan Çoksüer bi mêvanên xwe him pirsên we dibersivîne him jî nava hefteyê her roj li ser mijarek cuda ya tenduristiyê agahiyên xwe bi me re parve dike.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260130120000 +0000" stop="20260130130000 +0000" channel="trt-kurdi">
-    <title lang="tr">Siz Ne Diyorsunuz (Hûn Dıbêjın Çı)</title>
-    <desc lang="tr">Digel devokên herêmî piraniya herêman de navên gelek tiştan de cudahiyek berçav mumkin e. A rast ev cudahi li gor jiyana herêman diguhere û cudahiyek jîndar e. Heman demê de curbecurbûna navên peyvan delîlê dewlemendiya wê zimanêye...</desc>
-    <category lang="tr">Kültür &amp; Sanat</category>
-  </programme>
-  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="trt-kurdi">
-    <title lang="tr">Dini Sorular (Pirsên Olî)</title>
-    <desc lang="tr">Seyda Abdulkuddus Yalçın, di bernameya Pirsên Olî de derbarê meseleyên dînî de agahiyan dide û pirsên temaşevanan yên fikhî dibersivîne.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260130140000 +0000" stop="20260130142500 +0000" channel="trt-kurdi">
-    <title lang="tr">Zazaca Haber (Ajansa Zazaki)</title>
-    <desc lang="tr">Ajansa Zazakî nav hefteyê her roj di saet 17.00&#x27;an de di TRT Kurdî yê de ji siyasetê heya tenduristiyê, ji aboriyê heya nûçeyên polis û darazê, hemû geşedan û rûdanên rojê bi hemû hurgilîyên xwe bi awayekî rast û bêalî digihîne temaşevanên xwe.
-
-Ajansa Zazakî ku bi zaravayê dimilkî yê Kurdî tê pêşkeşkirin, bi taybetî cî dide nûçe, geşedan û rûdanên wan herêmên ku herî zêde Zaza lê dijîn.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130142500 +0000" stop="20260130150000 +0000" channel="trt-kurdi">
-    <title lang="tr">Yaşam (Ajin)</title>
-    <desc lang="tr">Bernameya ku jiyana civakî, aborî, çand û hunerê ya Kurdên li Bakurê Iraqê radigihîne, her hefte bi mijar û mêvanên cuda tê ser ekranan.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260130150000 +0000" stop="20260130160000 +0000" channel="trt-kurdi">
-    <title lang="tr">Gönüllerin Aşkı (Eşqa Dılan)</title>
-    <desc lang="tr">Îlahiyên ku eşqa Xwedê, hezkirina Pêxember, xweşî û başiyê tinên zimên di bernameya Eşqa Dilan de ne. Hunermend İbrahim Candan ligel Veysel Akat û Mustafa Altuntop wê hem ilahiyan dibêjin hem jî li ser qencî û xirabiyê sohbetên bifeyz dikin.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260130160000 +0000" stop="20260130170000 +0000" channel="trt-kurdi">
-    <title lang="tr">Ana Haber (Nûçeyên Sereke)</title>
-    <desc lang="tr">Bibînin... Bibihîzin... Hîn bibin... Ji bo şopandina rojevê ligel me bin. 
-
-Ji bo hûn hemû geşedanan bi zimanê xwe bişopînin, her roj di saet 19:00&#x27;an de li ber ekrana TRT Kurdiyê bin. Xeberan ji me bigirin, bêxeber nemînin...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260130170000 +0000" stop="20260130192000 +0000" channel="trt-kurdi">
-    <title lang="tr">Kara Ağaç Destanı (Dara Reş)</title>
-    <desc lang="tr">Osman Ağa&#x27;nın karısı Raziye ile Celal Ağa&#x27;nın karısı Asiye Hatun hamiledir. İkisinin doğumu aynı anda başlar. Kara Ağaç&#x27;ın geleceği dünyaya aynı anda gelen iki bebek Ömer ve Sultan ile dönüşü olmayan bir şekilde değişir.
-
-Yıllar geçer. Ömer herkes tarafından sevilen, Kara Ağaç&#x27;ı daha mamur hale getirmek için canla başla uğraşan bir genç olur. Sultan ise yıllar sonra Kara Ağaç&#x27;ın sonunu getirecek bir haberle gelir. Böylece Ömer ile Sultan&#x27;ın kaderleri yeniden kesişir.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260130192000 +0000" stop="20260130193000 +0000" channel="trt-kurdi">
-    <title lang="tr">Yeni Hayatım Hakkında (Jıyana Mın A Nû)</title>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260130193000 +0000" stop="20260130210000 +0000" channel="trt-kurdi">
-    <title lang="tr">Siyasetname (Siyasetname)</title>
-    <desc lang="tr">Mijarên di rojeva Tirkiye û Dinyayê, rudan û geşedanên siyasî û civakî, rewşa gel û welêt bi nêrînek cuda û bêalî di Siyasetnameyê de bi berfirehî tên nirxandin.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
   <programme start="20260130000000 +0000" stop="20260130004500 +0000" channel="trt-muzik">
     <title lang="tr">Rotamız Müzik</title>
     <desc lang="tr">Programda, bir grup müzisyen Türkiye&#x27;yi dolaşarak müzik icra ediyor. Şehri izleyicilere tanıtmak amacıyla belirli rotalarda belli görevleri yerine getiriyor. Program, Türkiye&#x27;nin farklı bölgelerinin tarihî ve doğal güzelliklerini gösteren görüntüler eşliğinde ekrana geliyor.</desc>
@@ -23391,27 +22890,27 @@ Türklere özgü konuların, Avrupa&#x27;da yaşayan vatandaşlarımızın sorun
     <desc lang="tr">Across The Balkans takes you to a land of breathtaking beauty with a painful past to discover the issues and fault lines shaping Southeast Europe today.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260130010500 +0000" stop="20260130023500 +0000" channel="trt1">
+  <programme start="20260130013000 +0000" stop="20260130021500 +0000" channel="trt1">
     <title lang="tr">Seksenler</title>
     <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com&#x27;u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... 
 
 Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları, misket dolu torbaları ilk defa bu dizide görecek.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260130023500 +0000" stop="20260130032500 +0000" channel="trt1">
+  <programme start="20260130021500 +0000" stop="20260130030500 +0000" channel="trt1">
     <title lang="tr">Turgay Başyayla ile Lezzetli Tavsiye</title>
     <desc lang="tr">Turgay Başyayla ile yurdumuzun yöresel lezzetlerini keşfetmeye hazır mısınız?</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260130032500 +0000" stop="20260130061500 +0000" channel="trt1">
+  <programme start="20260130030500 +0000" stop="20260130054500 +0000" channel="trt1">
     <title lang="tr">Kalk Gidelim</title>
     <desc lang="tr">Mustafa Ali genç yaşında İstanbul&#x27;a gelmiş ve çok zengin olmuştur. Ailesinin karşı koymasına rağmen İstanbullu sosyetik bir güzelle evlenmiştir. Bundan sonra Mustafa Ali işlerini fabrika kuracak kadar büyütüp zenginlik yolunda emin adımlarla yürürken ailesini ve doğup büyüdüğü köyünü ihmal etmiştir. Mustafa Ali&#x27;nin şirketi de büyümüş zirveye çıkmıştır fakat yanlış kararlar Mustafa Ali’nin çöküşünü hızlandırmıştır. Sonunda iflas bayrağını çekmek zorunda kalan Mustafa Ali, tatile gidiyoruz bahanesiyle ailesini topladığı gibi köyün yolunu tutar.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260130061500 +0000" stop="20260130073000 +0000" channel="trt1">
-    <title lang="tr">Adını Sen Koy</title>
-    <desc lang="tr">Ömer altı aylık ömrü kalan kardeşinin mutluluğu için hiç beklemediği anda mecburi bir oyunun içinde bulur kendini... Bambaşka bir dünyadan gelen Zehra ile evlenmek zorundadır. Altı aylık sözleşmeli, formalite bir evlilik yapacak, bunun için Zehra&#x27;ya istediği parayı ödeyecek, onun altı ayını satın alacaktır.</desc>
-    <category lang="tr">Dizi</category>
+  <programme start="20260130054500 +0000" stop="20260130073000 +0000" channel="trt1">
+    <title lang="tr">Tete ve Masal: Rüyalar Diyarı</title>
+    <desc lang="tr">Büyükannesini kaybetme tehlikesiyle karşı karşıya olan genç bir kız, peri masallarıyla dolu büyülü bir yolculuğa çıkarak gerçeklikten kaçar. Bilinçaltının rehberliğinde gerçekleşen bu yolculuk, onun içsel gücünü ve dayanıklılığını keşfetmesine yardımcı olur.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260130073000 +0000" stop="20260130101500 +0000" channel="trt1">
     <title lang="tr">Alişan ile Hayata Gülümse</title>
@@ -23452,7 +22951,7 @@ Yıllar geçer. Ömer herkes tarafından sevilen, Kara Ağaç&#x27;ı daha mamur
   </programme>
   <programme start="20260130170000 +0000" stop="20260130211500 +0000" channel="trt1">
     <title lang="tr">Taşacak Bu Deniz</title>
-    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&#x27;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&#x27;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&#x27;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&#x27;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&#x27;a gelmiştir.</desc>
+    <desc lang="tr">Düğün sonrası İso ve Fadime olanlardan habersiz yayla evindeki zoraki balaylarında birbirlerini daha yakından tanımaya başlarlar. İso, Fadime’nin örüğündeki boncukların anlamını öğrenir ve kahrolur. Kız kardeşini tam evlendirmişken barışı bozacak bir sır olduğunu öğrenen, üstelik bu sırrı Esme’nin de bildiğini anlayan Adil’in kalbinde kırılacak yer kalmamıştır. Adil, gemileri yakar, silahın bulunmasını beklemekten vazgeçer ve Esme’ye resti çeker. Ancak Şerif’in Adil’i ihbar etmesi Adil’i zora sokar.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130010000 +0000" channel="turkhaber">
@@ -24928,6 +24427,96 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
   <programme start="20260130200000 +0000" stop="20260131060000 +0000" channel="ulusal-kanal">
     <title lang="tr">Haber Turu</title>
     <desc lang="tr">Haber Turu ile günün öne çıkan başlıklarını tek durakta yakalayın. Siyasi olaylar, ekonomi piyasaları, uluslararası gelişmeler, güvenlik haberleri, deprem ve afet durumu, spor sonuçları hızlıca özetleniyor. Canlı bağlantılar, kısa analizler, uzman yorumları, millî menfaat odaklı bakışla zenginleştiriliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130000000 +0000" stop="20260130014500 +0000" channel="vav-tv">
+    <title lang="tr">Cümle Kapısı</title>
+    <desc lang="tr">Türk İslam medeniyetine ait kültür kodları ve kavramları enine boyuna ele alınıyor.</desc>
+    <category lang="tr">Kültür &amp; Sanat</category>
+  </programme>
+  <programme start="20260130014500 +0000" stop="20260130020000 +0000" channel="vav-tv">
+    <title lang="tr">Hikayelerle 40 Hadis</title>
+    <desc lang="tr">Kırk önemli hadis hikayeleriyle birlikte ekrana taşınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130020000 +0000" stop="20260130040000 +0000" channel="vav-tv">
+    <title lang="tr">Cuma Sohbeti</title>
+    <desc lang="tr">Cuma günü, İslam dininin mukaddes kıldığı ve Müslümanların bayramı, bilinçlenme, bilgilenme, günahlardan arınma, kaynaşma ve dayanışma günüdür. Bu duygu ve niyetle, dinlediğimiz kelamın hayır olması ve ibadet sayılması maksadıyla Cuma Sohbetleri’nde buluşuyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130040000 +0000" stop="20260130050000 +0000" channel="vav-tv">
+    <title lang="tr">Mukabele</title>
+    <desc lang="tr">Kur&#x27;an-ı Kerim&#x27;den her gün bir cüzün okunduğu programda, Ramazan boyunca Kur&#x27;an-ı Kerim&#x27;in tamamı hatmediliyor. Mukabele, çocuklar ile yetişkinlere Kur&#x27;an-ı Kerim&#x27;i okumayı ve anlamayı öğretiyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130050000 +0000" stop="20260130060000 +0000" channel="vav-tv">
+    <title lang="tr">Fıkıh Meclisi</title>
+    <desc lang="tr">Dini inancınıza dair soru sormak için Ramazan programlarını beklemenize lüzum yok. Hepinizin soru ve sorunlarını;  inançları ve değerleri konuşmak için sizi Fıkıh Meclisi&#x27;ne davet ediyoruz.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130060000 +0000" stop="20260130070000 +0000" channel="vav-tv">
+    <title lang="tr">İslam&#x27;ın Işığında Günümüz Meseleleri</title>
+    <desc lang="tr">İslam&#x27;a ilişkin temel meseleler konuşuluyor ve akılda soru işaretlerinin kalmaması adına günümüz meseleleri açıklığa kavuşturuluyor. Ayrıca izleyicilerden gelen sorular cevaplandırılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130070000 +0000" stop="20260130084500 +0000" channel="vav-tv">
+    <title lang="tr">Cuma Sohbeti</title>
+    <desc lang="tr">Cuma günü, İslam dininin mukaddes kıldığı ve Müslümanların bayramı, bilinçlenme, bilgilenme, günahlardan arınma, kaynaşma ve dayanışma günüdür. Bu duygu ve niyetle, dinlediğimiz kelamın hayır olması ve ibadet sayılması maksadıyla Cuma Sohbetleri’nde buluşuyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130084500 +0000" stop="20260130090000 +0000" channel="vav-tv">
+    <title lang="tr">Hikayelerle 40 Hadis</title>
+    <desc lang="tr">Kırk önemli hadis hikayeleriyle birlikte ekrana taşınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130090000 +0000" stop="20260130091500 +0000" channel="vav-tv">
+    <title lang="tr">Sevgilinin Yolunda</title>
+    <desc lang="tr">Kimi seversek sevelim &#x27;Sevgili&#x27; deyince hepimizin aklına yalnızca Resulallah gelir. Akademik bilginin soğuk yüzünden uzak, eşsiz bir anlatımla Hz. Peygamberi bir de böyle dinleyin.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130091500 +0000" stop="20260130100000 +0000" channel="vav-tv">
+    <title lang="tr">Tarihin İçinden</title>
+    <desc lang="tr">İstanbul&#x27;un tarihi mekanlarının; camilerin, meydanların, çeşmelerin ve sarayların ortaya çıkış öyküleri, önemi ve dünden bugüne tanıklıkları uzmanların anlatımıyla ekrana yansıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130100000 +0000" stop="20260130110000 +0000" channel="vav-tv">
+    <title lang="tr">Kürsü</title>
+    <desc lang="tr">İslam dinini emirler ve yasaklarla değil, hikmetleri ve muhtevalarıyla ele alan bir program...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130110000 +0000" stop="20260130130000 +0000" channel="vav-tv">
+    <title lang="tr">Ailede Benden Bize</title>
+    <desc lang="tr">Dünyaya gözlerimizi açtığımız andan itibaren hep yanı başımızda olan ailelerimiz, yaşam boyunca sığındığımız güvenli limanlarımızdır. Aile, birey ve topluma dair birçok şey bu programda ele alınıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260130130000 +0000" stop="20260130140000 +0000" channel="vav-tv">
+    <title lang="tr">Rahmet Elçisi</title>
+    <desc lang="tr">Hz. Muhammed&#x27;in doğduğu coğrafya, mücadelesi, ahlakı ve insanlığa kattığı değerler hakkında konuşuluyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260130140000 +0000" stop="20260130150000 +0000" channel="vav-tv">
+    <title lang="tr">İslam&#x27;ın Işığında Günümüz Meseleleri</title>
+    <desc lang="tr">İslam&#x27;a ilişkin temel meseleler konuşuluyor ve akılda soru işaretlerinin kalmaması adına günümüz meseleleri açıklığa kavuşturuluyor. Ayrıca izleyicilerden gelen sorular cevaplandırılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130150000 +0000" stop="20260130170000 +0000" channel="vav-tv">
+    <title lang="tr">Kur&#x27;an Yolu</title>
+    <desc lang="tr">Bireysel fikirlerden, nefsi yorumlardan uzak hiçbir farklılığımızın söz konusu olmayacağı bir meclis... En temel çatımız olan yüce kitabımızın etrafında toplanıyoruz. Kur’an Yolu, Ali Rıza Temel ve Prof. Dr. Kerim Buladı’nın katkılarıyla ekrana geliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260130170000 +0000" stop="20260130190000 +0000" channel="vav-tv">
+    <title lang="tr">Düşünce ve Hayat</title>
+    <desc lang="tr">Fikir ve düşünce dünyamızı genişleten, hayata farklı pencerelerden bakmamızı sağlayan konular konuşuluyor ve tartışılıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260130190000 +0000" stop="20260130200000 +0000" channel="vav-tv">
+    <title lang="tr">Medeniyet Mirası</title>
+    <desc lang="tr">Antik dünyadan modern dünyaya, doğudan batıya; özellikle İslam dünyasının Batıya aktardığı zengin bilim, düşünce, sanat ve medeniyet mirasına özgün bir yaklaşım... Medeniyet kavramının anlamı ve önemi, tarihsel süreç içindeki gelişimi ele alınıyor.</desc>
+    <category lang="tr">Kültür &amp; Sanat</category>
+  </programme>
+  <programme start="20260130200000 +0000" stop="20260130220000 +0000" channel="vav-tv">
+    <title lang="tr">İslam Tarihi Sohbetleri</title>
+    <desc lang="tr">Alemlere rahmet olarak gönderilen; müjdeleyici, uyarıcı, en güzel örneğimiz, son peygamber Hz. Muhammed Mustafa’ya ve ümmetine gönderilen yüce İslam dininin başlangıcından günümüze kadar yaşanan tarihsel süreci ele alınıyor. İslam Tarihi Sohbetleri programı, Prof. Dr. Adnan Demircan’ın sunumu, Doç. Dr. Mahmut Kelpetin’in de katkılarıyla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260130000000 +0000" stop="20260130004500 +0000" channel="viasat-explore">
