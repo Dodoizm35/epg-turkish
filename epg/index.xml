@@ -747,8 +747,14 @@
     <desc lang="tr">Lezzet Peşinde, muhteşem tatların ve lezzet sırlarının yanı sıra, işin ustalarının hayat hikayeleri ve başarı serüvenleriyle ekrana geliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260202124500 +0000" stop="20260202160000 +0000" channel="360">
-    <title lang="tr">Sinema</title>
+  <programme start="20260202124500 +0000" stop="20260202143000 +0000" channel="360">
+    <title lang="tr">Derman</title>
+    <desc lang="tr">Mürvet, ebe olarak tayin edildiği ücra köyde zor şartlar altında çalışır. Zamanla köyde herkesin derdine derman olduğu için onu Derman diye çağırmaya başlarlar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260202143000 +0000" stop="20260202160000 +0000" channel="360">
+    <title lang="tr">Bebek Yüzlü</title>
+    <desc lang="tr">Engelli olan kız kardeşini tedavi ettirebilmek için bir çete ile birlikte kirli işler çevirip, sonunda pişmanlık duyan bir gencin öyküsü konu ediliyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260202160000 +0000" stop="20260202180000 +0000" channel="360">
@@ -757,15 +763,16 @@
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20260202180000 +0000" stop="20260202200000 +0000" channel="360">
-    <title lang="tr">Sinema</title>
+    <title lang="tr">Akrep Yuvası</title>
+    <desc lang="tr">Komiser Kemal mafyaya savaş açmış bir polistir. Yaptığı operasyonlarla ve basın açıklamasıyla öfkeye kapılan mafya ondan kurtulmaya karar verir. Başarısız girişimlerden sonra Büyük babaya başvururlar ondan da pek yardım göremeyen mafya liderleri henüz hapisten çıkan Kadırgalı&#x27;ya teklifte bulunurlar.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260202200000 +0000" stop="20260202203000 +0000" channel="360">
-    <title lang="tr">Gökyüzünden</title>
-    <desc lang="tr">Türkiye&#x27;ye hiç bu gözden bakmadınız. Anadolu&#x27;nun eşsiz güzellikleri, doğa manzaraları, tarihi kentleri ve çok daha fazlası drone ile çekildi. Ortaya harika bir belgesel çıktı. Cennet vatanı bir de &#x27;Gökyüzünden&#x27; izlemek isteyenler ekran başına...</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Pınar Altuğ Atacan ile Kim O?</title>
+    <desc lang="tr">Pınar Altuğ Atacan, ünlü konuklarıyla sohbetin en doğal ve en keyifli hâlini ekrana taşıyor. Konukların bilinmeyen yönleri, hayatlarına dair özel hikâyeleri ve merak edilen anıları 360 ekranında...</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260202203000 +0000" stop="20260202220000 +0000" channel="360">
+  <programme start="20260202203000 +0000" stop="20260202213000 +0000" channel="360">
     <title lang="tr">Pınar Altuğ Atacan ile Kim O?</title>
     <desc lang="tr">Pınar Altuğ Atacan, ünlü konuklarıyla sohbetin en doğal ve en keyifli hâlini ekrana taşıyor. Konukların bilinmeyen yönleri, hayatlarına dair özel hikâyeleri ve merak edilen anıları 360 ekranında...</desc>
     <category lang="tr">Haber</category>
@@ -3238,7 +3245,7 @@ Yaşanan gelişmelerin ardından Şahinşah Bey, Sultan Orhan&#x27;ın buyruğun
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260202150000 +0000" stop="20260202164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Strasbourg-Paris Saint-Germain</title>
+    <title lang="tr">Angers - Metz</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260202164500 +0000" stop="20260202165900 +0000" channel="beinsports4.tr">
@@ -7114,68 +7121,68 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202070500 +0000" stop="20260202075000 +0000" channel="discovery-channel">
-    <title lang="tr">Tamirat Tadilat</title>
-    <desc lang="tr">Çocuklar ilk Honda&#x27;sını alır ama ucuz bir S2000 bulmak çok zordur. Mike, şimdiden 4 bin paundluk masraf edilmiş bir araba bulur, peki buna pişman olacak mı?.</desc>
+    <title lang="tr">Efsane Avcıları: Arabalar</title>
+    <desc lang="tr">Ekip, bir film serisinde öne sürülen, sadece bir teneke kapağı ve bir tel parçası kullanılarak bir turbo kompresörün basıncının artırılabileceğine dair efsaneyi test ediyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202075000 +0000" stop="20260202081300 +0000" channel="discovery-channel">
     <title lang="tr">Nasıl Yapılmış?</title>
-    <desc lang="tr">Gündelik eşyaların yapılış ve üretiminin mercek altına alınması devam ediyor. Bu bölümün konuları taze çiçekler, selobant, tofu ve piyango biletleri.</desc>
+    <desc lang="tr">Gündelik eşyaların yapılış ve üretiminin mercek altına alınması devam ediyor. Bu bölümün konuları fırçalar, karatahtalar, füme somon ve fermuarlar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202081300 +0000" stop="20260202083500 +0000" channel="discovery-channel">
     <title lang="tr">Nasıl Yapılır?</title>
-    <desc lang="tr">Modern yaşamda kullandığımız pek çok şey karmaşık mühendislik ve imalat süreçlerinin sonucunda bizlere ulaştırılıyor. Bu ürünler nasıl üretiliyorlar acaba.</desc>
+    <desc lang="tr">Modern yaşamda kullandığımız pek çok şey karmaşık mühendislik ve imalat süreçlerinin sonucunda bizlere ulaştırılıyor. Bu ürünler nasıl üretiliyorlar acaba?.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202083500 +0000" stop="20260202092000 +0000" channel="discovery-channel">
     <title lang="tr">Hurda Avcıları</title>
-    <desc lang="tr">Drew, Cotswolds&#x27;taki etkileyici bir malikaneyi dolaşıyor. Burnley&#x27;de muhteşem antikalarla dolu eski bir kilise binasını ziyaret ediyor, Jersey&#x27;de araba fuarına katılıyor.</desc>
+    <desc lang="tr">Drew ve Tee, Leeds&#x27;te 1971&#x27;den beri parça toplayan iki koleksiyoncuyu ziyaret ediyor. Drew eski bir endüstriyel tabure ve seramik el kalıpları buluyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202092000 +0000" stop="20260202100500 +0000" channel="discovery-channel">
     <title lang="tr">Hurda Avcıları: Tamirat</title>
-    <desc lang="tr">Otomasyon ustaları Michael ve Maria Fransa&#x27;dan gelen bir akrobat maketini onarır. Heykeltıraş Nick panayır oyuncağının parçası olan motosikletleri tamir eder.</desc>
+    <desc lang="tr">Galerici Pritchard demir ustası Nev Morris&#x27;ten hurda olmaya yüz tutmuş telden bir saksı sehpasını kurtarmasını ister. Metal ustası Ted Edley antika bir pedallı kamyoneti onarır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260202100500 +0000" stop="20260202105000 +0000" channel="discovery-channel">
     <title lang="tr">Havuz Ustası</title>
-    <desc lang="tr">Anthony Archer-Wills olağanüstü bir havuz ustası. Amerika&#x27;nın her yerinde ev sahiplerinin çok beğenip istedikleri süper güzel, doğal havuzlar yapıyor.</desc>
+    <desc lang="tr">Anthony Archer-Wills, &#x27;Havuz Ustası&#x27;nın en iyi bölümlerini ve daha önce yayınlanmamış kısımlarını sunar. Ayrıca ilk bölümden perde arkası görüntüler de yer alır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202105000 +0000" stop="20260202113500 +0000" channel="discovery-channel">
     <title lang="tr">Tamirat Tadilat</title>
-    <desc lang="tr">Mike dayanıklı bir klasik spor araba arıyor. Volvo PV544 aradığı özelliklere uygun. Üstelik de iyi çalışıyor. Ne var ki bunun motorunu herkes anlayamaz.</desc>
+    <desc lang="tr">Mike ve Edd&#x27;in yenilenecek güçlü ve lüks bir 1983 Mercedes 500 SEC&#x27;si var. Bizimkiler bu güzel arabayı eski görkemine kavuşturup yine de kâr edebilecekler mi acaba?.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202113500 +0000" stop="20260202122000 +0000" channel="discovery-channel">
     <title lang="tr">Ölümcül Av</title>
-    <desc lang="tr">Zehirli bir duman Saga&#x27;yı sarıyor, Sean Brenna A&#x27;daki aile şirketini kurtarma çabasında, Wild Bill ise Nick&#x27;in öldürücü bir hastalığa kurban gideceğinden korkuyor.</desc>
+    <desc lang="tr">Büyük bir sızıntı Time Bandit&#x27;i suyla dolduruyor. Yumruklu bir kavga Jake&#x27;in azmini test ederken, kuvvetli rüzgar ve kopan çapa teknesini mahvedebilir.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202122000 +0000" stop="20260202130500 +0000" channel="discovery-channel">
     <title lang="tr">Ölümcül Av</title>
-    <desc lang="tr">Wild Bill, Nick&#x27;in hastalığı ile ilgili gerçeği öğreniyor. Sıkıntılı bir teknik konu Jake&#x27;in geleceğini mahvedebilir. Isınan deniz Keith&#x27;i bir bilinmezliğe yöneltiyor.</desc>
+    <desc lang="tr">Sig Hansen önemli bir karar arifesinde. Acemi kaptan Sean Dwyer yeni bir ekiple riskli bir maceraya girişiyor. Bu arada Jack kayıp bir demirin yerine yenisini koymaya çalışıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202130500 +0000" stop="20260202135000 +0000" channel="discovery-channel">
     <title lang="tr">Ölümcül Av</title>
-    <desc lang="tr">Jonathan ve Andy son defa birlikte balığa çıkıyorlar. Keith&#x27;in dikkatsiz ekibi Wizard&#x27;ı bir çarpmaya doğru yöneltiyor, öfkeli bir tayfa Jake&#x27;in kararlılığını sorguluyor.</desc>
+    <desc lang="tr">Sonbahar biterken büyük bir fırtına çıkıyor. Wild Bill yeni teknesini büyük denizlerde kontrol etmeye çalışıyor, Johnathan tehlikeli False Pass&#x27;ta dev bir kabarıklıkla boğuşuyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202135000 +0000" stop="20260202141500 +0000" channel="discovery-channel">
     <title lang="tr">Nasıl Yapılmış?</title>
-    <desc lang="tr">Gündelik eşyaların nasıl yapıldığı yakın plana alınmaya devam ediyor. Bu bölümde zeytinyağı, forkliftler, eksiz çekme halkalar ve ski botlarının nasıl yapıldığını izleyeceksiniz.</desc>
+    <desc lang="tr">Gündelik eşyaların yakın plana alındığı bu programda yelkenlerin, cevizlerin, tekerlek kilitlerinin ve petekli yapı malzemelerinin nasıl yapıldığını izliyoruz.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202141500 +0000" stop="20260202144000 +0000" channel="discovery-channel">
     <title lang="tr">Hurda Bizim İşimiz</title>
-    <desc lang="tr">Mike, Robert ve Black Dog ekibi Smith Dağı Gölü&#x27;ndeki bir kulübeden odun çıkarırlar. Mike dükkânda satmak için bu odundan dört direkli ahşap bir yatak yapar.</desc>
+    <desc lang="tr">Mike, Robert ve Black Dog Salvage ekibi Virginia&#x27;da 1910 yılından kalma klasik bir Amerikan evine giderler.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202144000 +0000" stop="20260202152500 +0000" channel="discovery-channel">
-    <title lang="tr">Garaj Doktoru</title>
-    <desc lang="tr">Richard Rawlings ve ekibi, yardım ettikleri garajların durumuna tekrar bakıyorlar. Acaba sonunda başarıya ulaşmışlar mı, yoksa eski çalışma tarzlarına geri mi dönmüşler?.</desc>
+    <title lang="tr">İşte Sürat İşte Ses</title>
+    <desc lang="tr">Rawlings ve Kaufman, unutulmuş ya da viran haldeki klasik arabaları satın almak ve Dallas&#x27;taki Gas Monkey Garajında  yenilemek amacıyla Teksas&#x27;ın her köşesini ararlar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202152500 +0000" stop="20260202155000 +0000" channel="discovery-channel">
@@ -7185,37 +7192,37 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260202155000 +0000" stop="20260202161500 +0000" channel="discovery-channel">
     <title lang="tr">Nasıl Yapılmış?</title>
-    <desc lang="tr">Yosun havyarı, lüks yatlar, diş kaplamaları ve yüksek verimli motorların arkasındaki insanı hayrete düşüren üretim süreçleri ekrana geliyor.</desc>
+    <desc lang="tr">Minyatür eşyalar, buharlı bahçe lokomotifi, hoverkraft ve katlanan bisikletlerin ardındaki insanı hayrete düşüren üretim süreçleri ekrana geliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202161500 +0000" stop="20260202170000 +0000" channel="discovery-channel">
     <title lang="tr">Uyumsuzlar Garajı</title>
-    <desc lang="tr">Thomas yol kanarında bir 70 1/2 Camaro otomobil görüyor. Sahibiyle sıkı bir pazarlıktan sonra Fired Up ekibi Camaro&#x27;yu garajlarına götürüyorlar.</desc>
+    <desc lang="tr">Bizimkiler 1964 GMC kamyonu tamamlamaya çalışıyorken John Klump ve ekibi yedek parça sorunu ile meşgul. Tom ile tuttuğu kilo verme bahsini kazanan Richard parasını almaya geliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="discovery-channel">
-    <title lang="tr">Çifte Kurtuluş</title>
-    <desc lang="tr">Dave ile Cody bir dağcının en büyük kabusunu yaşıyorlar: Yeni Zelanda dağlarında ve erzakları sınırlı. Buz dağlarını ve derin kanyonları aşmaya çalışıyorlar.</desc>
+    <title lang="tr">Ed Stafford ile Cesaret İsteyen Ritüeller</title>
+    <desc lang="tr">Ed Stafford, Etiyopya&#x27;da sığır çobanlığı yapan Hamer halkıyla buluşur. Bu toplulukta erkekliği ispatlamak için boğaların üzerinden atlamak şarttır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202180000 +0000" stop="20260202190000 +0000" channel="discovery-channel">
-    <title lang="tr">Denizde Can Derdinde</title>
-    <desc lang="tr">CJ&#x27;in etkisinden kurtulamadığı tartışmalarının ardından CJ ve onu saldan atmakta kararlı olan Tara arasındaki gerginlik devam eder.</desc>
+    <title lang="tr">Çifte Kurtuluş</title>
+    <desc lang="tr">Hayatta kalma uzmanları Dave ve Cody bu senaryoda Belize&#x27;de deniz altındaki bir mağara labirentinden kurtulmaya çalışıyor. Yanlarında sadece dalgıç aletleri var.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202190000 +0000" stop="20260202195000 +0000" channel="discovery-channel">
-    <title lang="tr">Çifte Kurtuluş</title>
-    <desc lang="tr">Nikaragua ormanlarındaki bir yanardağın tepesinde mahsur kalan eski Özel Kuvvet görevlisi Joe ile hayatta kalma uzmanı Cody kurtulma çabasındalar. Bunun için ne kadar gitmeliler?.</desc>
+    <title lang="tr">Karanlık</title>
+    <desc lang="tr">Önceden tanışmayan üç kişi, kör karanlıkta tarih öncesi mağara sistemlerinde ve yıllar önce terkedilmiş maden ocaklarında yollarını bulabilmek için tüm günlerini kullanıyorlar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202195000 +0000" stop="20260202203500 +0000" channel="discovery-channel">
     <title lang="tr">Alaska: Son Sınır</title>
-    <desc lang="tr">Kilcher ailesi, 80 yıldır hayatta kalmak için çeşitli aletlere ihtiyaç duyar. Çiftlik evinin ayakta kalmasını sağlayan da yine o tehlikeli aletlerdir.</desc>
+    <desc lang="tr">Doğa şartları, başka etmenler ve aile sorunları nedeniyle sınırlarını zorlayan Kilcher&#x27;ler ailenin zengin kırsal yaşam geleneğini sürdürebilmek için birlikte çalışıyorlar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202203500 +0000" stop="20260202212000 +0000" channel="discovery-channel">
     <title lang="tr">Hurda Avcıları: Klasik Arabalar</title>
-    <desc lang="tr">Drew satın aldığı ilk araba modeline modern bir görünüm vermek ister. Bu eski posta arabası cep yakmayan bir klasiktir.</desc>
+    <desc lang="tr">Tamir tutkunu Drew Pritchard, Paul Cowland ile birlikte bir otomobil serüvenine çıkıyor. Birleşik Krallık&#x27;ı gezerek klasik araçları alarak restore edip satarlar.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260202000500 +0000" stop="20260202003000 +0000" channel="disney-junior">
@@ -13673,11 +13680,6 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Anlatan Adamlar, otomotiv teknolojileri ve mühendislik konularını anlaşılır ve detaylı şekilde anlatıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260202204800 +0000" stop="20260203205900 +0000" channel="gzt-tv">
-    <title lang="tr">Anlatan Adamlar</title>
-    <desc lang="tr">Anlatan Adamlar, otomotiv teknolojileri ve mühendislik konularını anlaşılır ve detaylı şekilde anlatıyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
   <programme start="20260202030000 +0000" stop="20260202050000 +0000" channel="haber-global">
     <title lang="tr">Türkiye&#x27;de Sabah</title>
     <desc lang="tr">Türkiye&#x27;de Sabah, Haber Global ekranında sabah kuşağında yayınlanan ve gece boyunca yaşanan önemli gelişmeleri izleyiciye aktaran bir haber programıdır. Gündemde öne çıkan başlıklar, son dakika haberleri ve gündemi belirleyen konular sade bir anlatımla ele alınıyor. Program izleyicinin güne hızlı şekilde başlamasına yardımcı oluyor.</desc>
@@ -17673,9 +17675,19 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260202150000 +0000" stop="20260202153500 +0000" channel="ntv">
+  <programme start="20260202150000 +0000" stop="20260202150500 +0000" channel="ntv">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202150500 +0000" stop="20260202151000 +0000" channel="ntv">
+    <title lang="tr">Piyasalar</title>
+    <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202151000 +0000" stop="20260202153500 +0000" channel="ntv">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+    <desc lang="tr">Günün getirdikleri ve günün geride bıraktıklari Oyuncu Ceyda Düvenci, Bambaşka Sohbetler için, NTV&#x27;de izleyici karşısına çıkıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202153500 +0000" stop="20260202154000 +0000" channel="ntv">
@@ -17700,18 +17712,14 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260202160000 +0000" stop="20260202161000 +0000" channel="ntv">
+  <programme start="20260202160000 +0000" stop="20260202164500 +0000" channel="ntv">
     <title lang="tr">Akşam Haberleri</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki önemli ve sıcak gelişmeler, yorumlar, sorulması gereken sorular, gündem belirleyen konuklar, gözden kaçan önemli ayrıntılar ve günden geriye kalanlar her akşam Akşam Haberleri kuşağında...</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260202161000 +0000" stop="20260202161500 +0000" channel="ntv">
+  <programme start="20260202164500 +0000" stop="20260202165000 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202161500 +0000" stop="20260202165000 +0000" channel="ntv">
-    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202165000 +0000" stop="20260202165500 +0000" channel="ntv">
@@ -17923,6 +17931,171 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <desc lang="tr">RNB, HIP HOP, RAP VE ELEKTRONIK POP MUZIGIN EN IYILERI URBAN HITS&#x27;DE.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
+  <programme start="20260202004000 +0000" stop="20260202004500 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202004500 +0000" stop="20260202013000 +0000" channel="on6">
+    <title lang="tr">Çocuk ve Yaşam</title>
+    <desc lang="tr">Çocuk ve Yaşam programı TVON6 kanalında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202013000 +0000" stop="20260202013500 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202013500 +0000" stop="20260202015500 +0000" channel="on6">
+    <title lang="tr">Tarımda Kadın Eli</title>
+    <desc lang="tr">Tarımın görünmez gücü olan kadınlar, toprağa emekleriyle hayat veriyor. Üretimde aktif rol alarak hem aile ekonomisine hem de ülke kalkınmasına katkıda bulunuyorlar. &quot;Tarımda Kadın Eli&quot;, emeğiyle tarımı güçlendiren kadınların hikâyesini anlatıyor.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260202015500 +0000" stop="20260202020000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202020000 +0000" stop="20260202030000 +0000" channel="on6">
+    <title lang="tr">05 Haber Bülteni</title>
+    <desc lang="tr">Günün önemli gelişmelerini hızlı ve sade bir anlatımla sunan kısa haber özetidir. İzleyiciyi gündemden haberdar etmeyi amaçlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202030000 +0000" stop="20260202030500 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202030500 +0000" stop="20260202035500 +0000" channel="on6">
+    <title lang="tr">Büyükşehir Program veya Spotları</title>
+    <desc lang="tr">&quot;Büyükşehir Program veya Spotları&quot;, şehir için yapılan hizmetlerin daha geniş kitlelere ulaşmasını sağlayan güvenilir bir bilgi kaynağıdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202035500 +0000" stop="20260202040000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202040000 +0000" stop="20260202051500 +0000" channel="on6">
+    <title lang="tr">Çocuk ve Yaşam</title>
+    <desc lang="tr">Çocuk ve Yaşam programı TVON6 kanalında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202051500 +0000" stop="20260202052000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202052000 +0000" stop="20260202080000 +0000" channel="on6">
+    <title lang="tr">Tarımda Kadın Eli</title>
+    <desc lang="tr">Tarımın görünmez gücü olan kadınlar, toprağa emekleriyle hayat veriyor. Üretimde aktif rol alarak hem aile ekonomisine hem de ülke kalkınmasına katkıda bulunuyorlar. &quot;Tarımda Kadın Eli&quot;, emeğiyle tarımı güçlendiren kadınların hikâyesini anlatıyor.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260202080000 +0000" stop="20260202080500 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202080500 +0000" stop="20260202095500 +0000" channel="on6">
+    <title lang="tr">Büyükşehir Program veya Spotları</title>
+    <desc lang="tr">&quot;Büyükşehir Program veya Spotları&quot;, şehir için yapılan hizmetlerin daha geniş kitlelere ulaşmasını sağlayan güvenilir bir bilgi kaynağıdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202095500 +0000" stop="20260202100000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202100000 +0000" stop="20260202102000 +0000" channel="on6">
+    <title lang="tr">13 Haber Bülteni</title>
+    <desc lang="tr">Günün önemli gelişmelerini hızlı ve sade bir anlatımla sunan kısa haber özetidir. İzleyiciyi gündemden haberdar etmeyi amaçlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202102000 +0000" stop="20260202102500 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202102500 +0000" stop="20260202105500 +0000" channel="on6">
+    <title lang="tr">Belediye Programları</title>
+    <desc lang="tr">&quot;Belediye Programları&quot;, yerel yönetimlerin hizmet ve projelerini vatandaşlara aktaran bilgilendirici kısa bir içeriktir. Şehirdeki güncel çalışmalar ve duyurular hakkında özet bilgiler sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202105500 +0000" stop="20260202110000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202110000 +0000" stop="20260202115500 +0000" channel="on6">
+    <title lang="tr">14 Haber Bülteni</title>
+    <desc lang="tr">Günün önemli gelişmelerini hızlı ve sade bir anlatımla sunan kısa haber özetidir. İzleyiciyi gündemden haberdar etmeyi amaçlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202115500 +0000" stop="20260202120000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202120000 +0000" stop="20260202135500 +0000" channel="on6">
+    <title lang="tr">Bursa Tanıtımları - Bursanın değerleri</title>
+    <desc lang="tr">Bursa, tarihi zenginlikleri, doğal güzellikleri ve kültürel mirasıyla öne çıkan bir şehirdir. Osmanlı&#x27;nın ilk başkenti olarak önemli bir geçmişe sahip olan şehir, yeşil doğası, kaplıcaları ve lezzetleriyle de dikkat çeker. &quot;Bursa Tanıtımları&quot;, şehrin değerlerini ve eşsiz özelliklerini kısaca izleyiciye sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202135500 +0000" stop="20260202140000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202140000 +0000" stop="20260202144500 +0000" channel="on6">
+    <title lang="tr">Haber Saati</title>
+    <desc lang="tr">Günün önemli gelişmelerini hızlı ve öz bir şekilde izleyiciye sunan haber bültenidir.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202144500 +0000" stop="20260202145000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202145000 +0000" stop="20260202155500 +0000" channel="on6">
+    <title lang="tr">Belediye Programları</title>
+    <desc lang="tr">&quot;Belediye Programları&quot;, yerel yönetimlerin hizmet ve projelerini vatandaşlara aktaran bilgilendirici kısa bir içeriktir. Şehirdeki güncel çalışmalar ve duyurular hakkında özet bilgiler sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202155500 +0000" stop="20260202160000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202160000 +0000" stop="20260202165500 +0000" channel="on6">
+    <title lang="tr">Çocuk ve Yaşam</title>
+    <desc lang="tr">Çocuk ve Yaşam programı TVON6 kanalında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202165500 +0000" stop="20260202170000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202170000 +0000" stop="20260202184500 +0000" channel="on6">
+    <title lang="tr">Kamu Spotlari ve Tanıtımlar</title>
+    <desc lang="tr">Toplumun bilinçlenmesini ve bilgilendirilmesini amaçlayan kısa videolar ve tanıtımlardır. Kamu hizmetleri, sosyal projeler ve önemli duyurular hakkında farkındalık yaratır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260202184500 +0000" stop="20260202185000 +0000" channel="on6">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260202185000 +0000" stop="20260202200000 +0000" channel="on6">
+    <title lang="tr">Tarımda Kadın Eli</title>
+    <desc lang="tr">Tarımın görünmez gücü olan kadınlar, toprağa emekleriyle hayat veriyor. Üretimde aktif rol alarak hem aile ekonomisine hem de ülke kalkınmasına katkıda bulunuyorlar. &quot;Tarımda Kadın Eli&quot;, emeğiyle tarımı güçlendiren kadınların hikâyesini anlatıyor.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260202200000 +0000" stop="20260202220000 +0000" channel="on6">
+    <title lang="tr">Büyükşehir Program veya Spotları</title>
+    <desc lang="tr">&quot;Büyükşehir Program veya Spotları&quot;, şehir için yapılan hizmetlerin daha geniş kitlelere ulaşmasını sağlayan güvenilir bir bilgi kaynağıdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
   <programme start="20260202032500 +0000" stop="20260202040500 +0000" channel="power-turk">
     <title lang="tr">Pop Program</title>
     <desc lang="tr">Programda pop müziğin öne çıkan ve en çok izlenen klipleri dinamik bir yayın akışıyla izleyiciyle buluşuyor. Güncel hitler, yeni çıkan klipler ve sevilen pop parçaları güçlü görsellerle art arda ekrana geliyor. Akıcı kurgu ve tempolu geçişlerle izleyiciye keyifli bir klip deneyimi sunuluyor.</desc>
@@ -18087,7 +18260,8 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202180000 +0000" stop="20260202190000 +0000" channel="s-sport">
-    <title lang="tr">3-#039;te 3 Nba</title>
+    <title lang="tr">3&#x27;te 3 NBA</title>
+    <desc lang="tr">Yeni sezonda NBA gündemine dair her şey; Deniz Aksoy, Orkun Çolakoğlu ve Ali Konavic ile 3&#x27;te 3 NBA programında!</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202190000 +0000" stop="20260202193000 +0000" channel="s-sport">
@@ -18161,6 +18335,11 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   <programme start="20260202190000 +0000" stop="20260202194500 +0000" channel="s-sport-2">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Özetler</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260202194500 +0000" stop="20260202214500 +0000" channel="s-sport-2">
+    <title lang="tr">Udinese - Roma</title>
+    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202030000 +0000" stop="20260202040000 +0000" channel="semerkand">
@@ -19127,12 +19306,12 @@ Film, ünlü ressam Vincent Van Gogh&#x27;un oldukça ilgi çekici hayat hikayes
     <desc lang="tr">Gündemdeki gelişmeler hafta içi her gün Senem Toluay Ilgaz&#x27;ın sunumu ile ekrana getiriliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260202130000 +0000" stop="20260202142000 +0000" channel="sozcu-tv">
+  <programme start="20260202130000 +0000" stop="20260202140000 +0000" channel="sozcu-tv">
     <title lang="tr">Öncesi Sonrası</title>
     <desc lang="tr">Gündemdeki gelişmeler hafta içi her gün Senem Toluay Ilgaz&#x27;ın sunumu ile ekrana getiriliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260202142000 +0000" stop="20260202150000 +0000" channel="sozcu-tv">
+  <programme start="20260202140000 +0000" stop="20260202150000 +0000" channel="sozcu-tv">
     <title lang="tr">İş Çıkışı</title>
     <desc lang="tr">Günün öne çıkan gelişmeleri, derli toplu bir özetle ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
@@ -19147,9 +19326,18 @@ Film, ünlü ressam Vincent Van Gogh&#x27;un oldukça ilgi çekici hayat hikayes
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları ekrana geliyor. Haberlerde gündem olan başlıklar ve gözden kaçan detaylar, canlı bağlantılar ile ön plana çıkarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260202170000 +0000" stop="20260202213000 +0000" channel="sozcu-tv">
+  <programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="sozcu-tv">
     <title lang="tr">Vatandaş Ekrem Açıkel</title>
     <desc lang="tr">Ekrem Açıkel, memleketin nabzını, duygusunu ve gerçeğini en yalın haliyle ortaya koyuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202190000 +0000" stop="20260202203000 +0000" channel="sozcu-tv">
+    <title lang="tr">Günün Ruhu</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202203000 +0000" stop="20260202210000 +0000" channel="sozcu-tv">
+    <title lang="tr">S Raporu</title>
+    <desc lang="tr">24 saatin tüm gelişmeleri S Raporu’nda ekrana getiriliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202000000 +0000" stop="20260202003000 +0000" channel="spacetoon">
@@ -19544,7 +19732,8 @@ Bu sıra dışı ekip, yalnızca zorlu bir görevi üstlenmekle kalmaz, aynı za
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202081000 +0000" stop="20260202095000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Monaco - Juventus&#x27;</title>
+    <title lang="tr">Monaco - Juventus</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202095000 +0000" stop="20260202100500 +0000" channel="tabii-spor">
@@ -19552,11 +19741,13 @@ Bu sıra dışı ekip, yalnızca zorlu bir görevi üstlenmekle kalmaz, aynı za
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202100500 +0000" stop="20260202114500 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;B.Dortmund - Inter&#x27;</title>
+    <title lang="tr">B.Dortmund - Inter</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202114500 +0000" stop="20260202132500 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Barcelona - Kopenhag&#x27;</title>
+    <title lang="tr">Barcelona - Kopenhag</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202132500 +0000" stop="20260202133000 +0000" channel="tabii-spor">
@@ -19567,7 +19758,8 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202133000 +0000" stop="20260202151000 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;Liverpool - Karabağ&#x27;</title>
+    <title lang="tr">Liverpool - Karabağ</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202151000 +0000" stop="20260202170500 +0000" channel="tabii-spor">
@@ -19585,7 +19777,8 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202192000 +0000" stop="20260202210500 +0000" channel="tabii-spor">
-    <title lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması &#x27;PSG - Newcastle United&#x27;</title>
+    <title lang="tr">PSG - Newcastle United</title>
+    <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202003600 +0000" stop="20260202011900 +0000" channel="tabii-tv">
@@ -20542,6 +20735,189 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <title lang="tr">Teknik Analiz</title>
     <desc lang="tr">Süper Lig maçlarının heyecanı Teknik Analiz&#x27;de yaşanıyor. Maç özetleri, hakem kararlarının değerlendirilmesi, maç sonu yorumları ve istatistikler hepsi Teknik Analiz&#x27;de sizleri bekliyor.</desc>
     <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260202000000 +0000" stop="20260202003000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202003000 +0000" stop="20260202010000 +0000" channel="trt-arabi">
+    <title lang="tr">New Haganah</title>
+    <desc lang="tr">Will history repeat itself with a decision to divide the West Bank between Palestinians and settlers?</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202010000 +0000" stop="20260202014000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202014000 +0000" stop="20260202020000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202020000 +0000" stop="20260202023000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202023000 +0000" stop="20260202030000 +0000" channel="trt-arabi">
+    <title lang="tr">Tarihin Ölümsüz Savaşçıları</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260202030000 +0000" stop="20260202033000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202033000 +0000" stop="20260202040000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202040000 +0000" stop="20260202044000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202044000 +0000" stop="20260202050000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202050000 +0000" stop="20260202054000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202054000 +0000" stop="20260202060000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202060000 +0000" stop="20260202070000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202070000 +0000" stop="20260202074000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202074000 +0000" stop="20260202080000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202080000 +0000" stop="20260202090000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202090000 +0000" stop="20260202094000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202094000 +0000" stop="20260202100000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202100000 +0000" stop="20260202103000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202103000 +0000" stop="20260202110000 +0000" channel="trt-arabi">
+    <title lang="tr">Tarihin Ölümsüz Savaşçıları</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260202110000 +0000" stop="20260202114000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202114000 +0000" stop="20260202120000 +0000" channel="trt-arabi">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202120000 +0000" stop="20260202130000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202130000 +0000" stop="20260202133000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202133000 +0000" stop="20260202140000 +0000" channel="trt-arabi">
+    <title lang="tr">For My Right</title>
+    <desc lang="tr">Weekly programme on basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202140000 +0000" stop="20260202143000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202143000 +0000" stop="20260202150000 +0000" channel="trt-arabi">
+    <title lang="tr">Tafaul</title>
+    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202150000 +0000" stop="20260202154000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202154000 +0000" stop="20260202160000 +0000" channel="trt-arabi">
+    <title lang="tr">Fil Iqtisad</title>
+    <desc lang="tr">A specialized Arabic language business show tackling economic, business and financial news and issues in Turkiye and the MENA region.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202160000 +0000" stop="20260202164000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202164000 +0000" stop="20260202170000 +0000" channel="trt-arabi">
+    <title lang="tr">After The Toufan</title>
+    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260202170000 +0000" stop="20260202180000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202180000 +0000" stop="20260202183000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202183000 +0000" stop="20260202190000 +0000" channel="trt-arabi">
+    <title lang="tr">After Al Assad</title>
+    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202190000 +0000" stop="20260202200000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202200000 +0000" stop="20260202204000 +0000" channel="trt-arabi">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260202204000 +0000" stop="20260202210000 +0000" channel="trt-arabi">
+    <title lang="tr">Tafaul</title>
+    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202001500 +0000" stop="20260202003000 +0000" channel="trt-avaz">
     <title lang="tr">Kısa Film Anılar Çadırı</title>
@@ -21753,206 +22129,6 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260202003000 +0000" stop="20260202013000 +0000" channel="trt-eba">
-    <title lang="tr">Lgs&#x27;ye Doğru</title>
-    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202013000 +0000" stop="20260202014500 +0000" channel="trt-eba">
-    <title lang="tr">Hayalin Mesleğin Olsun</title>
-    <desc lang="tr">Günümüzde popüler olan mesleklerle ilgili ilgi çekici bilgiler vererek çocukların hayallerindeki meslekleri deneyimlemelerine de imkan sağlayan program her hafta farklı bölümüyle ekrandaki yerini alıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202014500 +0000" stop="20260202030000 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202030000 +0000" stop="20260202031500 +0000" channel="trt-eba">
-    <title lang="tr">Gündelik Hayatın Bilimi</title>
-    <desc lang="tr">Beş duyu organının işlevleri gibi günlük hayatta karşılaşılan ancak sıradan ve olağan kabul edilen onlarca gerçek, bilimsel boyutta ele alınarak, eğlenceli ve eğitici bir şekilde ekrana taşınıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202031500 +0000" stop="20260202033000 +0000" channel="trt-eba">
-    <title lang="tr">Milli Parklar</title>
-    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202033000 +0000" stop="20260202034500 +0000" channel="trt-eba">
-    <title lang="tr">Genç Kanatlar</title>
-    <desc lang="tr">Genç Kanatlar, geleceğin havacılarına şimdiden yol göstermeyi hedeflerken, havacılık alanının en temel mesleklerini konu edinmektedir. Teknolojinin en üst seviyede kullanıldığı havacılığın doğuşunu ve gelişimini ele alarak, 15 - 20 yaş arasındaki gençlerin ilgisini arttırmayı farkındalık yaratmayı amaçlamaktadır. Her bölümde havacılığın altı temel meslek alanı hakkında bilgi verilirken, havacılıkla ilgili ilginç bilgiler ve terimler kısaca açıklanmaktadır</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202034500 +0000" stop="20260202040000 +0000" channel="trt-eba">
-    <title lang="tr">Sporcu Günlüğü</title>
-    <desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü&#x27;nde...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202040000 +0000" stop="20260202045000 +0000" channel="trt-eba">
-    <title lang="tr">Trt Eba Anaokulu</title>
-    <desc lang="tr">Uzman eğiticiler tarafından hazırlanan erken çocukluk eğitimi yayınları, Dünyanın en büyük duvarsız anaokulu sloganı ile okul öncesi çağındaki çocuklara görsel, duyusal ve zihinsel gelişim süreçleri için ihtiyaç duydukları eğitimi sağlamayı amaçlıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202045000 +0000" stop="20260202050000 +0000" channel="trt-eba">
-    <title lang="tr">Kozalak Anaokulu</title>
-    <desc lang="tr">Anaokulu öğrencilerine yönelik eğitici ve öğretici program.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202050000 +0000" stop="20260202051500 +0000" channel="trt-eba">
-    <title lang="tr">Okulda Sanat</title>
-    <desc lang="tr">Sanata ve müziğe tutkulu olan gençlerin okulda aldıkları sanat eğitimi, sanat uğruna sergiledikleri çabaları ve geleceğe ait hayalleri ekrana taşınıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202051500 +0000" stop="20260202053500 +0000" channel="trt-eba">
-    <title lang="tr">Türkçe - 1 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 1. Sınıflar için Türkçe Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202053500 +0000" stop="20260202054500 +0000" channel="trt-eba">
-    <title lang="tr">Hayatın Şifresi Sayılar</title>
-    <desc lang="tr">Serkan Şenalp, lunaparkta fizik ve matematiğin şifrelerini çözüyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202054500 +0000" stop="20260202060500 +0000" channel="trt-eba">
-    <title lang="tr">İngilizce - 2 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 2. Sınıflar için İngilizce Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202060500 +0000" stop="20260202061500 +0000" channel="trt-eba">
-    <title lang="tr">Bilim Merkezleri</title>
-    <desc lang="tr">Türkiye&#x27;nin öne çıkan bilim merkezleri tanıtılıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202061500 +0000" stop="20260202064500 +0000" channel="trt-eba">
-    <title lang="tr">Fen Bilimleri - 3 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 3. Sınıflar için Fen Bilimleri Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202064500 +0000" stop="20260202071500 +0000" channel="trt-eba">
-    <title lang="tr">Sosyal Bilgiler - 4 İlkokul</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 4. Sınıflar için Sosyal Bilgiler Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202071500 +0000" stop="20260202081500 +0000" channel="trt-eba">
-    <title lang="tr">Lgs&#x27;ye Doğru</title>
-    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202081500 +0000" stop="20260202083000 +0000" channel="trt-eba">
-    <title lang="tr">Haberimiz Olsun</title>
-    <desc lang="tr">Gençler, kamera önünde ve arkasında aktif rol alarak haberin hazırlık, çekim ve anlatım süreçlerine katılıyor ve medya okuryazarlıklarını geliştiriyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202083000 +0000" stop="20260202090000 +0000" channel="trt-eba">
-    <title lang="tr">Türkçe - 5</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 5. sınıflar için Türkçe dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202090000 +0000" stop="20260202093000 +0000" channel="trt-eba">
-    <title lang="tr">Sosyal Bilgiler - 6</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 6. sınıflar için Sosyal Bilgiler dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202093000 +0000" stop="20260202100000 +0000" channel="trt-eba">
-    <title lang="tr">Fen Bilimleri - 7</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 7. sınıflar için Fen Bilimleri dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202100000 +0000" stop="20260202103000 +0000" channel="trt-eba">
-    <title lang="tr">Din Kültürü Ve Ahlak Bilgisi - 8</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 8. sınıflar için Din Kültürü ve Ahlak Bilgisi dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202103000 +0000" stop="20260202110000 +0000" channel="trt-eba">
-    <title lang="tr">Özel Eğitim Türkçe</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan özel eğitim öğrencilerine yönelik Türkçe dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202110000 +0000" stop="20260202113000 +0000" channel="trt-eba">
-    <title lang="tr">İngilizce - 5</title>
-    <desc lang="tr">Milli Eğitim Bakanlığı tarafından ders müfredatına uygun olarak hazırlanan 5. sınıflar için İngilizce dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202113000 +0000" stop="20260202123000 +0000" channel="trt-eba">
-    <title lang="tr">Lgs&#x27;ye Doğru</title>
-    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202123000 +0000" stop="20260202124500 +0000" channel="trt-eba">
-    <title lang="tr">Kahramanlarbir Kurtuluş Hikâyesi</title>
-    <desc lang="tr">Anadolu&#x27;nun hürriyet sevdasını, vatanın dört bir yanında yükselen o eşsiz direniş ruhunu yeniden hatırlıyoruz. Bağımsızlık meşalesini elden ele taşıyan kahramanlarımızın destansı mücadelesi, tüm görkemiyle yakında TV ekranlarında izleyiciyle buluşuyor.Kuvayi Milliye saflarında kenetlenen bir milletin; Kara Fatma&#x27;dan Kılavuz Hatice&#x27;ye, Şerife Bacı&#x27;dan Halide Edip Adıvar&#x27;a, Şahin Bey&#x27;den Hasan Tahsin ve Telgrafçı Hamdi&#x27;ye kadar uzanan onurlu duruşuna tanıklık edeceksiniz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202124500 +0000" stop="20260202141500 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202141500 +0000" stop="20260202143000 +0000" channel="trt-eba">
-    <title lang="tr">Sporcu Günlüğü</title>
-    <desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü&#x27;nde...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202143000 +0000" stop="20260202150000 +0000" channel="trt-eba">
-    <title lang="tr">Genç Yetenekler</title>
-    <desc lang="tr">Müziğe ilgi duyan, hayalinde müzik olanve enstrümanlarıyla yol alan Genç Yetenekler...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202150000 +0000" stop="20260202153000 +0000" channel="trt-eba">
-    <title lang="tr">Türk Dili Ve Edebiyatı - 9</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 9. Sınıflar için Türk Dili ve Edebiyatı Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202153000 +0000" stop="20260202160000 +0000" channel="trt-eba">
-    <title lang="tr">Matematik - 9</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 9. Sınıflar için Matematik Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202160000 +0000" stop="20260202163000 +0000" channel="trt-eba">
-    <title lang="tr">Coğrafya - 10</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 10. Sınıflar için Coğrafya Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202163000 +0000" stop="20260202170000 +0000" channel="trt-eba">
-    <title lang="tr">Biyoloji - 10</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 10. Sınıflar için Biyoloji Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202170000 +0000" stop="20260202173000 +0000" channel="trt-eba">
-    <title lang="tr">Fizik - 11</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için Fizik Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202173000 +0000" stop="20260202180000 +0000" channel="trt-eba">
-    <title lang="tr">Kimya - 11</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için Kimya Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202180000 +0000" stop="20260202183000 +0000" channel="trt-eba">
-    <title lang="tr">Din Kültürü Ve Ahlak Bilgisi - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Din Kültürü ve Ahlak Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202183000 +0000" stop="20260202190000 +0000" channel="trt-eba">
-    <title lang="tr">İngilizce - 12</title>
-    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için İngilizce Dersi</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202190000 +0000" stop="20260202203000 +0000" channel="trt-eba">
-    <title lang="tr">Yks&#x27;ye Doğru</title>
-    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202203000 +0000" stop="20260202204500 +0000" channel="trt-eba">
-    <title lang="tr">Milli Parklar</title>
-    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260202204500 +0000" stop="20260202210000 +0000" channel="trt-eba">
-    <title lang="tr">Olimpiyat Yıldızları</title>
-    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
   <programme start="20260202000000 +0000" stop="20260202001500 +0000" channel="trt-genc">
     <title lang="tr">Sanata Dönüştür</title>
     <desc lang="tr">Geri dönüşümden ileri dönüşüme! Bu bölümde, geri dönüşüm sanatçısı Adnan Ceylan&#x27;ın atölyesindeyiz. Adnan Ceylan, nehirden topladığı odun parçalarını birer sanat eserine dönüştürüyor; ortaya, kaynağını doğadan alan estetik figürler çıkıyor. Dönüşüm başlar, doğa nefes alır, sanat konuşur!</desc>
@@ -22842,19 +23018,14 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260202080500 +0000" stop="20260202085000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Paralimpik Spor</title>
-    <desc lang="tr">Paralimpik Oyunlarının değerlendirmeleri ekranlarınıza geliyor</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260202085000 +0000" stop="20260202085500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Nedir, Nasıl Oynanır?</title>
-    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
+  <programme start="20260202083000 +0000" stop="20260202085500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Altın Kemer</title>
+    <desc lang="tr">Ata sporu yağlı güreşte önemli başarılara imza atmış isimlerin öykülerine yer veriliyor. Ayrıca bu branştaki gelişmeler ve müsabakalar aktarılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202085500 +0000" stop="20260202101500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Volkan G. - Metpack Alanya S.</title>
-    <desc lang="tr">Salon Hokeyi Süper Finali Erkekler Yarı Final</desc>
+    <desc lang="tr">Salon Hokeyi Süper Finali Erkekler Erkekler Yarı Final</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202101500 +0000" stop="20260202103000 +0000" channel="trt-spor-yildiz">
@@ -22868,8 +23039,7 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202104500 +0000" stop="20260202105500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Sormazsam Olmaz</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
+    <title lang="tr">Çare Spor</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202105500 +0000" stop="20260202121500 +0000" channel="trt-spor-yildiz">
@@ -22894,8 +23064,8 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202144500 +0000" stop="20260202151000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Sporun İkonları</title>
-    <desc lang="tr">Spor dünyasında başarılı işlere imza atmış sporcular ve önemli spor olayları hakkında bilgiler veriliyor.</desc>
+    <title lang="tr">Altın Kemer</title>
+    <desc lang="tr">Ata sporu yağlı güreşte önemli başarılara imza atmış isimlerin öykülerine yer veriliyor. Ayrıca bu branştaki gelişmeler ve müsabakalar aktarılıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260202151000 +0000" stop="20260202193000 +0000" channel="trt-spor-yildiz">
@@ -23603,8 +23773,8 @@ Tüm aile İskender için çabalarken, Cennet Ana hala İskender&#x27;e uzaktır
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202153000 +0000" stop="20260202173000 +0000" channel="tv100">
-    <title lang="tr">Kübra Par İle Ana Haber Bülteni</title>
-    <desc lang="tr">Kübra Par ile Ana Haber Bülteni, Türkiye ve dünyadan günün en önemli gelişmelerini, son dakika başlıklarını ve sıcak haberleri izleyiciyle buluşturuyor. Canlı bağlantılar, sahadan aktarımlar ve kısa analizlerle olayların arka planı ele alınıyor.</desc>
+    <title lang="tr">Başak Şengül İle Ana Haber Bülteni</title>
+    <desc lang="tr">Türkiye&#x27;den ve Dünyadan Siyasi, Ekonomik, Sosyal Gelişmelerin Yer Aldığı Geniş Haber Bülteni...</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202173000 +0000" stop="20260202203000 +0000" channel="tv100">
@@ -23682,441 +23852,6 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
     <title lang="tr">Kanıt</title>
     <desc lang="tr">Dizi, konsept danışmanlığını ve sunuculuğunu Kriminalist Prof. Dr. Sevil Atasoy&#x27;un yaptığı, yaşanmış gerçek suç hikâyelerinden esinlenilerek hazırlanmış. Dizide, zekice yapıldığına inanılan cinayetlerin, hırsızlıkların, adam kaçırmaların yani birçok suç olayının nasıl çözüldüğü ve hangi noktada kimlerin ne kadar etkisi olduğu ekrana getiriliyor.</desc>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260202020000 +0000" stop="20260202020500 +0000" channel="tv5">
-    <title lang="tr">Sabah Ezanı</title>
-    <desc lang="tr">Sabah Ezanı, günün ilk ışıklarıyla birlikte izleyicileri manevi bir atmosfere davet eder. Ezanın huzur veren sedasıyla kalpleri sakinleştirir, güne bilinçli ve dingin bir başlangıç sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202020500 +0000" stop="20260202025000 +0000" channel="tv5">
-    <title lang="tr">Kur&#x27;an-ı Kerim</title>
-    <desc lang="tr">Kur&#x27;an-ı Kerim, ayetlerin hikmetini ve ruhani derinliğini en güzel tilavetlerle ekrana taşır. Program, izleyicilere sükûnet, dinginlik ve içsel huzur kazandırmayı amaçlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202025000 +0000" stop="20260202032200 +0000" channel="tv5">
-    <title lang="tr">Evrad-ı Şerif</title>
-    <desc lang="tr">Evrad-ı Şerif, İslam kültüründe önemli bir yere sahip olan dua ve zikirleri izleyiciyle buluşturan özel bir yayındır. Sabah ve akşam vakitlerinde huzur arayanlar için hazırlanan program, kalplere ferahlık ve sükûnet sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202032200 +0000" stop="20260202032600 +0000" channel="tv5">
-    <title lang="tr">Esma-ül Hüsna</title>
-    <desc lang="tr">Esma-ül Hüsna, Allah&#x27;ın 99 güzel ismini anlamları, tecellileri ve insan hayatına yansımalarıyla birlikte ele alır. Her bölümde isimlerin Kur&#x27;an&#x27;daki bağlamı ve manevi hikmeti anlatılarak izleyicilere huzur veren bir atmosfer sunulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202032600 +0000" stop="20260202032700 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202032700 +0000" stop="20260202033000 +0000" channel="tv5">
-    <title lang="tr">Dil-âgâh</title>
-    <desc lang="tr">Dil-âgâh, klasik ve tasavvuf müziği örnekleri eşliğinde izleyicileri makamların, melodilerin ve kadim müzik mirasının derinliklerine doğru bir yolculuğa çıkarır. Program, müziğin tarihsel kökenlerini ve kültürel anlamını etkileyici bir dille ele alır.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202033000 +0000" stop="20260202034000 +0000" channel="tv5">
-    <title lang="tr">İslam Düşünürleri</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye zengin bir perspektif sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202034000 +0000" stop="20260202034500 +0000" channel="tv5">
-    <title lang="tr">Tarihten Yansıyanlar</title>
-    <desc lang="tr">Tarihten Yansıyanlar, uygarlıkların bıraktığı mirası, büyük dönüşümlerin ardındaki hikâyeleri ve geçmişin bugüne yansımalarını ele alan etkileyici bir belgeseldir. Her bölüm, tarihin bugünümüzü nasıl şekillendirdiğini anlamaya davet eder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202034500 +0000" stop="20260202045000 +0000" channel="tv5">
-    <title lang="tr">Mahmut Toptaş Sohbeti</title>
-    <desc lang="tr">Mahmut Toptaş&#x27;ın dini konular, günlük hayat ve manevi değerler üzerine yaptığı açıklayıcı ve rehberlik eden sohbetleri izleyicilerle buluşturan program.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260202045000 +0000" stop="20260202045500 +0000" channel="tv5">
-    <title lang="tr">Animasyon Kuşağı</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye derinlikli bir bakış sunar.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260202045500 +0000" stop="20260202045900 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202045900 +0000" stop="20260202050000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202050000 +0000" stop="20260202051700 +0000" channel="tv5">
-    <title lang="tr">Haber Turu</title>
-    <desc lang="tr">Haber Turu, günün öne çıkan gelişmelerini hızlı, sade ve güvenilir bir dille izleyiciye aktaran dinamik bir haber özetidir. Türkiye ve dünyadan en önemli başlıklar, kısa analizler ve net anlatımla tek programda bir araya getirilir. Yoğun gündemi takip etmek isteyenler için pratik ve anlaşılır bir panorama sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202051700 +0000" stop="20260202052300 +0000" channel="tv5">
-    <title lang="tr">Hava-Yol-Para Durumu</title>
-    <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202052300 +0000" stop="20260202052500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202052500 +0000" stop="20260202053000 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202053000 +0000" stop="20260202053500 +0000" channel="tv5">
-    <title lang="tr">Tarihten Yansıyanlar</title>
-    <desc lang="tr">Tarihten Yansıyanlar, uygarlıkların bıraktığı mirası, büyük dönüşümlerin ardındaki hikâyeleri ve geçmişin bugüne yansımalarını ele alan etkileyici bir belgeseldir. Her bölüm, tarihin bugünümüzü nasıl şekillendirdiğini anlamaya davet eder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202053500 +0000" stop="20260202055200 +0000" channel="tv5">
-    <title lang="tr">Haber Turu</title>
-    <desc lang="tr">Haber Turu, günün öne çıkan gelişmelerini hızlı, sade ve güvenilir bir dille izleyiciye aktaran dinamik bir haber özetidir. Türkiye ve dünyadan en önemli başlıklar, kısa analizler ve net anlatımla tek programda bir araya getirilir. Yoğun gündemi takip etmek isteyenler için pratik ve anlaşılır bir panorama sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202055200 +0000" stop="20260202055500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202055500 +0000" stop="20260202055900 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202055900 +0000" stop="20260202060000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202060000 +0000" stop="20260202065000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202065000 +0000" stop="20260202065400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202065400 +0000" stop="20260202065500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202065500 +0000" stop="20260202074500 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202074500 +0000" stop="20260202074900 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202074900 +0000" stop="20260202075000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202075000 +0000" stop="20260202084000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202084000 +0000" stop="20260202084400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202084400 +0000" stop="20260202084500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202084500 +0000" stop="20260202085500 +0000" channel="tv5">
-    <title lang="tr">İslam Düşünürleri</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye zengin bir perspektif sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202085500 +0000" stop="20260202090000 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202090000 +0000" stop="20260202091500 +0000" channel="tv5">
-    <title lang="tr">Haber Turu</title>
-    <desc lang="tr">Haber Turu, günün öne çıkan gelişmelerini hızlı, sade ve güvenilir bir dille izleyiciye aktaran dinamik bir haber özetidir. Türkiye ve dünyadan en önemli başlıklar, kısa analizler ve net anlatımla tek programda bir araya getirilir. Yoğun gündemi takip etmek isteyenler için pratik ve anlaşılır bir panorama sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202091500 +0000" stop="20260202092000 +0000" channel="tv5">
-    <title lang="tr">Hava-Yol-Para Durumu</title>
-    <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202092000 +0000" stop="20260202092500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202092500 +0000" stop="20260202092600 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202092600 +0000" stop="20260202093000 +0000" channel="tv5">
-    <title lang="tr">Dil-âgâh</title>
-    <desc lang="tr">Dil-âgâh, klasik ve tasavvuf müziği örnekleri eşliğinde izleyicileri makamların, melodilerin ve kadim müzik mirasının derinliklerine doğru bir yolculuğa çıkarır. Program, müziğin tarihsel kökenlerini ve kültürel anlamını etkileyici bir dille ele alır.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202093000 +0000" stop="20260202094500 +0000" channel="tv5">
-    <title lang="tr">Haber Turu</title>
-    <desc lang="tr">Haber Turu, günün öne çıkan gelişmelerini hızlı, sade ve güvenilir bir dille izleyiciye aktaran dinamik bir haber özetidir. Türkiye ve dünyadan en önemli başlıklar, kısa analizler ve net anlatımla tek programda bir araya getirilir. Yoğun gündemi takip etmek isteyenler için pratik ve anlaşılır bir panorama sunar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202094500 +0000" stop="20260202095000 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202095000 +0000" stop="20260202095500 +0000" channel="tv5">
-    <title lang="tr">Tarihten Yansıyanlar</title>
-    <desc lang="tr">Tarihten Yansıyanlar, uygarlıkların bıraktığı mirası, büyük dönüşümlerin ardındaki hikâyeleri ve geçmişin bugüne yansımalarını ele alan etkileyici bir belgeseldir. Her bölüm, tarihin bugünümüzü nasıl şekillendirdiğini anlamaya davet eder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202095500 +0000" stop="20260202095900 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202095900 +0000" stop="20260202100000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202100000 +0000" stop="20260202105000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202105000 +0000" stop="20260202105400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202105400 +0000" stop="20260202105500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202105500 +0000" stop="20260202114500 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202114500 +0000" stop="20260202114900 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202114900 +0000" stop="20260202115000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202115000 +0000" stop="20260202124000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202124000 +0000" stop="20260202124500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202124500 +0000" stop="20260202124900 +0000" channel="tv5">
-    <title lang="tr">Hava-Yol-Para Durumu</title>
-    <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202124900 +0000" stop="20260202125000 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202125000 +0000" stop="20260202125500 +0000" channel="tv5">
-    <title lang="tr">İslam Düşünürleri</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye zengin bir perspektif sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202125500 +0000" stop="20260202130000 +0000" channel="tv5">
-    <title lang="tr">Tarihten Yansıyanlar</title>
-    <desc lang="tr">Tarihten Yansıyanlar, uygarlıkların bıraktığı mirası, büyük dönüşümlerin ardındaki hikâyeleri ve geçmişin bugüne yansımalarını ele alan etkileyici bir belgeseldir. Her bölüm, tarihin bugünümüzü nasıl şekillendirdiğini anlamaya davet eder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202130000 +0000" stop="20260202135000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202135000 +0000" stop="20260202135400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202135400 +0000" stop="20260202135500 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202135500 +0000" stop="20260202144500 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202144500 +0000" stop="20260202144900 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202144900 +0000" stop="20260202145000 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202145000 +0000" stop="20260202154000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202154000 +0000" stop="20260202154500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202154500 +0000" stop="20260202154900 +0000" channel="tv5">
-    <title lang="tr">İslam Düşünürleri</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye zengin bir perspektif sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202154900 +0000" stop="20260202155000 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202155000 +0000" stop="20260202155500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202155500 +0000" stop="20260202160000 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202160000 +0000" stop="20260202164000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202164000 +0000" stop="20260202164400 +0000" channel="tv5">
-    <title lang="tr">Reklam</title>
-    <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202164400 +0000" stop="20260202164500 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202164500 +0000" stop="20260202171500 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202171500 +0000" stop="20260202172000 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202172000 +0000" stop="20260202172300 +0000" channel="tv5">
-    <title lang="tr">Hava-Yol-Para Durumu</title>
-    <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202172300 +0000" stop="20260202172500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202172500 +0000" stop="20260202173000 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202173000 +0000" stop="20260202182500 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202182500 +0000" stop="20260202183100 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202183100 +0000" stop="20260202183200 +0000" channel="tv5">
-    <title lang="tr">Ekonomi Terimleri</title>
-    <desc lang="tr">Ekonomi Terimleri, enflasyondan faiz oranlarına, bütçe açığından piyasa dinamiklerine kadar temel ekonomik kavramları herkesin kolayca anlayabileceği şekilde ele alır. Program, ekonomiyi yakından takip etmek isteyenler için pratik ve öğretici bir rehber sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202183200 +0000" stop="20260202192700 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202192700 +0000" stop="20260202193400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202193400 +0000" stop="20260202193500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202193500 +0000" stop="20260202203000 +0000" channel="tv5">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün en önemli gelişmelerini tarafsız, güvenilir ve hızlı bir şekilde izleyicilere aktaran kapsamlı bir haber bültenidir. Türkiye ve dünyadan sıcak gelişmeler, uzman yorumları ve canlı bağlantılarla ekrana gelir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202203000 +0000" stop="20260202203500 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202203500 +0000" stop="20260202204500 +0000" channel="tv5">
-    <title lang="tr">İslam Düşünürleri</title>
-    <desc lang="tr">İslam Düşünürleri, tarih boyunca İslam düşüncesine yön vermiş önemli isimlerin hayatlarını, eserlerini ve fikirlerini izleyiciyle buluşturur. Program, bu düşüncelerin günümüz dünyasındaki yansımalarını da ele alarak izleyiciye zengin bir perspektif sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260202204500 +0000" stop="20260202205000 +0000" channel="tv5">
-    <title lang="tr">Hatırla!</title>
-    <desc lang="tr">&quot;Hatırla!&quot;, geçmişe iz bırakan anları, unutulmaz sahneleri ve yıldızların hafızalara kazınmış hikâyelerini ekranlara taşıyan özel bir magazin programı. Duygusal anılar, nostaljik detaylar ve ünlü dünyasından çarpıcı hatıralar bu programda yeniden canlanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202205000 +0000" stop="20260202205400 +0000" channel="tv5">
-    <title lang="tr">Reklam+Sponsor</title>
-    <desc lang="tr">Reklam + Sponsor, medya dünyasında markaların bilinirliğini ve etkisini artıran stratejileri mercek altına alıyor. Reklamcılığın dönüşen yapısı, sponsorluk modellerinin evrimi ve sektörde öne çıkan yeni trendler; uzman görüşleri, başarı hikâyeleri ve dikkat çekici örneklerle ele alınıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260202205400 +0000" stop="20260202205500 +0000" channel="tv5">
-    <title lang="tr">Namaz Vakti</title>
-    <desc lang="tr">Namaz Vakti, günün beş vakit namaz saatlerini net ve sade bir şekilde hatırlatarak izleyiciyi ibadetin huzurlu atmosferine davet eder. Yoğun günlük tempo içinde vakit bilincini korumak isteyenler için hazırlanan bu kısa ama etkili yayın, ruhsal dengeyi destekler ve ibadet disiplininin sürdürülmesine yardımcı olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202205500 +0000" stop="20260203020000 +0000" channel="tv5">
-    <title lang="tr">Hava-Yol-Para Durumu</title>
-    <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260202002900 +0000" stop="20260202012100 +0000" channel="tv5-monde">
     <title lang="tr">Albanie, le secret des Balkans</title>
@@ -24810,41 +24545,6 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <title lang="tr">Ülkede Bu Gece</title>
     <desc lang="tr">Ülke&#x27;de Bu Gece, Türkiye ve dünyada gündeme oturan olayları ve günün sıcak haberlerini Ülke TV ekranlarına taşıyor. Siyaset, ekonomi, borsa, sağlık ve meclis gündemi alanında uzman yorumlarla ele alınıyor. Program, tarafsız ve doğru habercilik anlayışıyla izleyiciyi bilgilendiriyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202043000 +0000" stop="20260202074500 +0000" channel="ulusal-kanal">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Günaydın Türkiye ile sabahınızı güçlü ve güncel kılın. Gece boyu gelişen olaylar, siyasi açıklamalar, ekonomi verileri, uluslararası haberler, deprem ve afet durumu hızlıca özetleniyor. Canlı bağlantılar, uzman yorumları, trafik ve hava tahmini, pratik sabah bilgileri samimi bir anlatımla sunuluyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260202074500 +0000" stop="20260202081500 +0000" channel="ulusal-kanal">
-    <title lang="tr">Yalancının Mumu</title>
-    <desc lang="tr">Yalancının Mumu ile yalanın kısa ömrünü yakından görün. Farklı kesimlerden gelen gerçek olaylar, sahte vaatler, dolandırıcılık vakaları, sosyal medyadaki yalanlar, ilişkilerde gizlenen gerçekler detaylıca ele alınıyor. Konuklarla yapılan samimi itiraflar, uzman analizleri, doğruyu ortaya çıkaran belgeler ön planda. Bu program hem şaşırtıcı hem düşündürücü olsun, yalanın mumunun neden çabuk söndüğünü göstererek gerçeğin değerini hatırlatsın.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202081500 +0000" stop="20260202090000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Hukuk Zamanı</title>
-    <desc lang="tr">Hukuk Zamanı ile hukukun güncel yüzüne yakından bakın. Farklı alanlardan avukatlar, hukukçular, akademisyenler bir araya geliyor. Ceza davaları, aile hukuku, iş hukuku, tüketici hakları, anayasal meseleler detaylıca ele alınıyor. Günün öne çıkan davaları, yeni kanun değişiklikleri, vatandaşın merak ettiği hukuki sorular samimi ve net cevaplarla sunuluyor. Bu program hem bilgilendirsin hem de adalet duygusunu güçlendirsin.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260202090000 +0000" stop="20260202120000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Gündemin Nabzı</title>
-    <desc lang="tr">Gündemin Nabzı ile günün en kritik başlıklarını masaya yatırın. Farklı alanlardan uzmanlar, gazeteciler, siyasetçiler bir araya geliyor. Asıl meseleler, perde arkası detaylar, millî menfaatlere dair yorumlar, kamuoyunun tepkileri detaylıca ele alınıyor. Tarafsız ama cesur analizler bu programda.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202120000 +0000" stop="20260202144500 +0000" channel="ulusal-kanal">
-    <title lang="tr">Gün İçinden</title>
-    <desc lang="tr">Gün İçinden ile günün en önemli anlarını kaçırmayın. Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda. Bu program hem bilgilendirsin hem de gün ortasında nabzınızı tutsun, yurtsever bir gözle gündemi yorumlasın.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260202144500 +0000" stop="20260202200000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Dostoyevski</title>
-    <desc lang="tr">Rus edebiyatının başyapıtı Dostoyevski&#x27;nin derin dünyasına adım atın! Dram ve gerilimle dolu bu muhteşem yapım, suç ve insan ruhunun karanlık köşelerini keşfediyor. Her karakterin içsel çatışmalarına tanık olurken, ruhsal bir yolculuğa çıkmaya hazırlanın. &quot;Dostoyevski&quot; dizisi, her bölümüyle sizi ekran başına kilitleyecek! Bu unutulmaz macerayı kaçırmayın.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260202200000 +0000" stop="20260202210000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Kısa Film</title>
-    <desc lang="tr">Kısa Film, farklı bakış açılarıyla hazırlanmış, güçlü anlatımlara sahip kısa filmleri izleyiciyle buluşturuyor. Hayatın içinden kesitler, çarpıcı hikâyeler ve özgün anlatımlar, her bölümde izleyeni düşünmeye ve hissetmeye davet ediyor. Sinemanın kısa ama etkisi uzun hikâyeleri bu seçkide bir araya geliyor.</desc>
-    <category lang="tr">Film</category>
   </programme>
   <programme start="20260202000000 +0000" stop="20260202014500 +0000" channel="vav-tv">
     <title lang="tr">Doğu&#x27;dan Batı&#x27;ya Tarih</title>
