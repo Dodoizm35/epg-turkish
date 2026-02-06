@@ -289,10 +289,6 @@
     <display-name>EUROSPORT 2</display-name>
   </channel>
 
-  <channel id="ekol-sports">
-    <display-name>Ekol Sports</display-name>
-  </channel>
-
   <channel id="sports-tv">
     <display-name>SPORTS TV</display-name>
   </channel>
@@ -3062,76 +3058,224 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">A.Çorum - E.G.İ.A.Keçiörengücü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205144500 +0000" stop="20260205145900 +0000" channel="beinsports3.tr">
+  <programme start="20260206044500 +0000" stop="20260206054500 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205150000 +0000" stop="20260205164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">W. Wanderers - Bournemouth</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260205164500 +0000" stop="20260205165900 +0000" channel="beinsports3.tr">
+  <programme start="20260206044500 +0000" stop="20260206045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205170000 +0000" stop="20260205172900 +0000" channel="beinsports3.tr">
+  <programme start="20260206050000 +0000" stop="20260206060000 +0000" channel="beinsports3.tr">
     <title lang="tr">Chelsea - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205173000 +0000" stop="20260205175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Newcastle United</title>
+  <programme start="20260206050000 +0000" stop="20260206065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205180000 +0000" stop="20260205182900 +0000" channel="beinsports3.tr">
+  <programme start="20260206070000 +0000" stop="20260206080000 +0000" channel="beinsports3.tr">
+    <title lang="tr">W. Wanderers - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206070000 +0000" stop="20260206084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">W. Wanderers - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206084500 +0000" stop="20260206094500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206084500 +0000" stop="20260206085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206090000 +0000" stop="20260206100000 +0000" channel="beinsports3.tr">
     <title lang="tr">Manchester United - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205183000 +0000" stop="20260205185900 +0000" channel="beinsports3.tr">
+  <programme start="20260206090000 +0000" stop="20260206105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Manchester United - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206110000 +0000" stop="20260206120000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Newcastle United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206110000 +0000" stop="20260206124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Newcastle United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206124500 +0000" stop="20260206134500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206124500 +0000" stop="20260206125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="beinsports3.tr">
     <title lang="tr">Aston Villa - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205190000 +0000" stop="20260205192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Nottingham F. - Crystal Palace</title>
+  <programme start="20260206130000 +0000" stop="20260206145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205193000 +0000" stop="20260205195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Netbusters</title>
+  <programme start="20260206150000 +0000" stop="20260206160000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nottingham F.- Crystal Palace</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205200000 +0000" stop="20260205220000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20260206150000 +0000" stop="20260206164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nottingham F.- Crystal Palace</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205144500 +0000" stop="20260205145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  <programme start="20260206164500 +0000" stop="20260206174500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205150000 +0000" stop="20260205164400 +0000" channel="beinsports4.tr">
+  <programme start="20260206164500 +0000" stop="20260206165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206170000 +0000" stop="20260206180000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Man. City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206170000 +0000" stop="20260206172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Man. City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206173000 +0000" stop="20260206183000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Burnley</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206173000 +0000" stop="20260206175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Burnley</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206180000 +0000" stop="20260206190000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton Hove Albion - Everton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206180000 +0000" stop="20260206182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton Hove Albion - Everton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206183000 +0000" stop="20260206193000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United - Arsenal</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206183000 +0000" stop="20260206185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United - Arsenal</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206190000 +0000" stop="20260206200000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206190000 +0000" stop="20260206191400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206191500 +0000" stop="20260206201500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Preview</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206191500 +0000" stop="20260206194900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Preview</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206195000 +0000" stop="20260206205000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206195000 +0000" stop="20260206195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206200000 +0000" stop="20260206210000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United-Nottingham Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206200000 +0000" stop="20260206220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United-Nottingham Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206024500 +0000" stop="20260206025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206030000 +0000" stop="20260206044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de Marseille-Rennes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206044500 +0000" stop="20260206045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206050000 +0000" stop="20260206064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique Lyon - Laval</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206064500 +0000" stop="20260206065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206070000 +0000" stop="20260206084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Paris FC</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206084500 +0000" stop="20260206085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206090000 +0000" stop="20260206104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nice - Montpellier</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206104500 +0000" stop="20260206105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206110000 +0000" stop="20260206124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Toulouse - Amiens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205164500 +0000" stop="20260205165900 +0000" channel="beinsports4.tr">
+  <programme start="20260206124500 +0000" stop="20260206125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205170000 +0000" stop="20260205184400 +0000" channel="beinsports4.tr">
+  <programme start="20260206130000 +0000" stop="20260206144400 +0000" channel="beinsports4.tr">
     <title lang="tr">Troyes - Lens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205184500 +0000" stop="20260205185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260205190000 +0000" stop="20260205191400 +0000" channel="beinsports4.tr">
+  <programme start="20260206144500 +0000" stop="20260206145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205191500 +0000" stop="20260205195900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Coupe de France Maç Özetleri</title>
+  <programme start="20260206150000 +0000" stop="20260206164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de Marseille-Rennes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260205200000 +0000" stop="20260205220000 +0000" channel="beinsports4.tr">
+  <programme start="20260206164500 +0000" stop="20260206165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206170000 +0000" stop="20260206184400 +0000" channel="beinsports4.tr">
     <title lang="tr">Strasbourg - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206184500 +0000" stop="20260206191400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206191500 +0000" stop="20260206194400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Preview</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260206194500 +0000" stop="20260206214500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Lille</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260206020000 +0000" stop="20260206050000 +0000" channel="benguturk">
@@ -4042,12 +4186,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206003000 +0000" stop="20260206004000 +0000" channel="cartoon-network">
-    <title lang="tr">Kral Şakir</title>
-    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206004000 +0000" stop="20260206005500 +0000" channel="cartoon-network">
+  <programme start="20260206003000 +0000" stop="20260206005500 +0000" channel="cartoon-network">
     <title lang="tr">Kral Şakir</title>
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
@@ -4057,12 +4196,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206010500 +0000" stop="20260206012000 +0000" channel="cartoon-network">
-    <title lang="tr">Kral Şakir</title>
-    <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206012000 +0000" stop="20260206013000 +0000" channel="cartoon-network">
+  <programme start="20260206010500 +0000" stop="20260206013000 +0000" channel="cartoon-network">
     <title lang="tr">Kral Şakir</title>
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
@@ -4127,7 +4261,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Sevgi dolu, şarkı söyleyen, dans eden mor dinazor Barney ile tanışın.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206041500 +0000" stop="20260206043000 +0000" channel="cartoon-network">
+  <programme start="20260206041500 +0000" stop="20260206042000 +0000" channel="cartoon-network">
+    <title lang="tr">Barney’nin Dünyası</title>
+    <desc lang="tr">Sevgi dolu, şarkı söyleyen, dans eden mor dinazor Barney ile tanışın.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260206042000 +0000" stop="20260206043000 +0000" channel="cartoon-network">
     <title lang="tr">Barney’nin Dünyası</title>
     <desc lang="tr">Sevgi dolu, şarkı söyleyen, dans eden mor dinazor Barney ile tanışın.</desc>
     <category lang="tr">Çocuk</category>
@@ -4692,22 +4831,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206043000 +0000" stop="20260206043500 +0000" channel="cartoonito">
+  <programme start="20260206043000 +0000" stop="20260206044000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206043500 +0000" stop="20260206044500 +0000" channel="cartoonito">
+  <programme start="20260206044000 +0000" stop="20260206044500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206044500 +0000" stop="20260206045000 +0000" channel="cartoonito">
+  <programme start="20260206044500 +0000" stop="20260206045500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206045000 +0000" stop="20260206050000 +0000" channel="cartoonito">
+  <programme start="20260206045500 +0000" stop="20260206050000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4777,17 +4916,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Mr. Bean kendi elektriğini üreten, yanlışlıkla öğretmen olan ve kendisini daha birçok farklı çılgın maceralar içinde bulan bir insan!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206080000 +0000" stop="20260206081000 +0000" channel="cartoonito">
+  <programme start="20260206080000 +0000" stop="20260206080500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206081000 +0000" stop="20260206082000 +0000" channel="cartoonito">
+  <programme start="20260206080500 +0000" stop="20260206081500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206082000 +0000" stop="20260206083500 +0000" channel="cartoonito">
+  <programme start="20260206081500 +0000" stop="20260206082500 +0000" channel="cartoonito">
+    <title lang="tr">Grizzy and the Lemmings</title>
+    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260206082500 +0000" stop="20260206083500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4797,12 +4941,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206084000 +0000" stop="20260206084500 +0000" channel="cartoonito">
-    <title lang="tr">Grizzy and the Lemmings</title>
-    <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206084500 +0000" stop="20260206085500 +0000" channel="cartoonito">
+  <programme start="20260206084000 +0000" stop="20260206085500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -4892,12 +5031,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Bam liderliğindeki Batwheels - Batman, Robin ve Batgirl ile Gotham Şehri&#x27;ni savunan, duyarlı, süper güçlü suçla mücadele araçlarından oluşan harika bir grup.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206122500 +0000" stop="20260206123500 +0000" channel="cartoonito">
+  <programme start="20260206122500 +0000" stop="20260206124000 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206123500 +0000" stop="20260206125500 +0000" channel="cartoonito">
+  <programme start="20260206124000 +0000" stop="20260206125500 +0000" channel="cartoonito">
     <title lang="tr">Bugs Bunny Yapı Ustaları</title>
     <desc lang="tr">ACME İnşaat Şirketi&#x27;nde Bugs Bunny ve Lola Bunny, açıkçası bir inşaat sahasının yakınında bile olmaması gereken bir inşaat ekibini yönetiyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -4982,12 +5121,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206163000 +0000" stop="20260206163500 +0000" channel="cartoonito">
+  <programme start="20260206163000 +0000" stop="20260206164000 +0000" channel="cartoonito">
     <title lang="tr">Tom ve Jerry Şov</title>
     <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206163500 +0000" stop="20260206164500 +0000" channel="cartoonito">
+  <programme start="20260206164000 +0000" stop="20260206164500 +0000" channel="cartoonito">
     <title lang="tr">Tom ve Jerry Şov</title>
     <desc lang="tr">Fare kovalayan bir kedi! Farenin yaptığı oyunlar! Aralarındaki ki çılgın kovalamaca daha fantastik dünyalarda devam ediyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -5037,12 +5176,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206182000 +0000" stop="20260206182500 +0000" channel="cartoonito">
+  <programme start="20260206182000 +0000" stop="20260206183000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206182500 +0000" stop="20260206183500 +0000" channel="cartoonito">
+  <programme start="20260206183000 +0000" stop="20260206183500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5062,12 +5201,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206185500 +0000" stop="20260206190000 +0000" channel="cartoonito">
+  <programme start="20260206185500 +0000" stop="20260206190500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206190000 +0000" stop="20260206191000 +0000" channel="cartoonito">
+  <programme start="20260206190500 +0000" stop="20260206191000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5097,12 +5236,12 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206194500 +0000" stop="20260206195000 +0000" channel="cartoonito">
+  <programme start="20260206194500 +0000" stop="20260206195500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206195000 +0000" stop="20260206200000 +0000" channel="cartoonito">
+  <programme start="20260206195500 +0000" stop="20260206200000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5122,22 +5261,22 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206202000 +0000" stop="20260206202500 +0000" channel="cartoonito">
+  <programme start="20260206202000 +0000" stop="20260206203000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206202500 +0000" stop="20260206203500 +0000" channel="cartoonito">
+  <programme start="20260206203000 +0000" stop="20260206203500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206203500 +0000" stop="20260206204000 +0000" channel="cartoonito">
+  <programme start="20260206203500 +0000" stop="20260206204500 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206204000 +0000" stop="20260206205000 +0000" channel="cartoonito">
+  <programme start="20260206204500 +0000" stop="20260206205000 +0000" channel="cartoonito">
     <title lang="tr">Grizzy and the Lemmings</title>
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
@@ -5147,7 +5286,7 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <desc lang="tr">Doğal olarak hiçbir hayvan Grizzy&#x27;nin ayı ayrıcalıkları ile yarışmaya cesaret edemiyor. Lemmingler hariç; bir araya geldiklerinde ayı kadar büyük, güçlü ve akıllılar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260206205500 +0000" stop="20260206210500 +0000" channel="cartoonito">
+  <programme start="20260206205500 +0000" stop="20260206211000 +0000" channel="cartoonito">
     <title lang="tr">Kral Şakir</title>
     <desc lang="tr">Kral Şakir, bir aslan ailesinin çocukları Şakir ve Cananın, hayvanların yaşadığı modern şehir hayatında karşılaştıkları komik ve macera dolu hikayeleridir.</desc>
     <category lang="tr">Çocuk</category>
@@ -10309,566 +10448,6 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <desc lang="tr">Ekonomideki gelişmeler, enflasyon, faiz ve piyasalar Gün Ortası&#x27;nda; Türkiye ve dünya ekonomisi uzman analizleriyle ekranda.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260206000000 +0000" stop="20260206001500 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206001500 +0000" stop="20260206002500 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: Invite someone somewhere</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206002500 +0000" stop="20260206010000 +0000" channel="english-club-tv">
-    <title lang="tr">Figures of Speech: Cheryl&#x27;s kitchen / Idioms with the words EGGS, BACON, PEAS, MILK, BREAD and FRUIT</title>
-    <desc lang="tr">English Club TV is a unique educational network that has been helping people all around the world learn and improve their English for 10 years.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206010000 +0000" stop="20260206030000 +0000" channel="english-club-tv">
-    <title lang="tr">E.T. the Extra-Terrestrial</title>
-    <desc lang="tr">E.T. the Extra-Terrestrial (1982), directed by Steven Spielberg, is a heartwarming sci-fi classic about the friendship between a young boy and a stranded alien. The film stars Henry Thomas, Drew Barrymore, and Dee Wallace.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260206030000 +0000" stop="20260206043000 +0000" channel="english-club-tv">
-    <title lang="tr">I Don&#x27;t Know How She Does It</title>
-    <desc lang="tr">Kate Reddy is a working mother who has to balance busy work and home duties. All that multitasking makes her stressed and tired of her busy schedule. Everything becomes even more difficult when Kate gets a big assignment that requires her to stay away from home. Finally, Kate realizes she has to sacrifice something and decide what is more important to her.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260206043000 +0000" stop="20260206043500 +0000" channel="english-club-tv">
-    <title lang="tr">All About: interesting facts about futuristic cities</title>
-    <desc lang="tr">All About is a highly-informative educational program which provides interesting facts from every topic imaginable: science, politics, history, art, sports, society and more.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206043500 +0000" stop="20260206044000 +0000" channel="english-club-tv">
-    <title lang="tr">All About: interesting facts about weirdest animals</title>
-    <desc lang="tr">All About is a highly-informative educational program which provides interesting facts from every topic imaginable: science, politics, history, art, sports, society and more.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206044000 +0000" stop="20260206045000 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206045000 +0000" stop="20260206050000 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206050000 +0000" stop="20260206050500 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206050500 +0000" stop="20260206051000 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206051000 +0000" stop="20260206051500 +0000" channel="english-club-tv">
-    <title lang="tr">Sunny Songs</title>
-    <desc lang="tr">Fun songs with simple vocabulary are a great way to learn English. Numerous repetitions and a lively rhythm will help girls and boys from 2 years old to memorize the words. But even older children will enjoy following the adventures of the characters in the animated clips of the project.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206051500 +0000" stop="20260206052500 +0000" channel="english-club-tv">
-    <title lang="tr">Crafty Hands: Valentine&#x27;s card</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206052500 +0000" stop="20260206053500 +0000" channel="english-club-tv">
-    <title lang="tr">Okey-Dokey: Weather</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206053500 +0000" stop="20260206054000 +0000" channel="english-club-tv">
-    <title lang="tr">Once Upon A Time</title>
-    <desc lang="tr">A collection of animated stories and fairy tales for children and their parents.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206054000 +0000" stop="20260206054500 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206054500 +0000" stop="20260206055000 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206055000 +0000" stop="20260206060000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206060000 +0000" stop="20260206060500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206060500 +0000" stop="20260206062000 +0000" channel="english-club-tv">
-    <title lang="tr">Magic Science: Fire</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206062000 +0000" stop="20260206063000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Texas Salsa</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206063000 +0000" stop="20260206064000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Banana Bread</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206064000 +0000" stop="20260206065000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206065000 +0000" stop="20260206065500 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred: Spooky Boo</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;SPOOKY BOO&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206065500 +0000" stop="20260206070000 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;UNDERWATER&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206070000 +0000" stop="20260206071000 +0000" channel="english-club-tv">
-    <title lang="tr">Simple Phrases</title>
-    <desc lang="tr">In this episode, you will learn about the peculiarities of traveling by plane, order food delivery and go on hiking in the mountains.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206071000 +0000" stop="20260206072000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206072000 +0000" stop="20260206073000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206073000 +0000" stop="20260206073500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206073500 +0000" stop="20260206074500 +0000" channel="english-club-tv">
-    <title lang="tr">Jack of All Trades: Taxi drivers</title>
-    <desc lang="tr">English Club TV is a perfect chance to boost your language skills and learn English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206074500 +0000" stop="20260206075000 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Drawing different shapes</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206075000 +0000" stop="20260206075500 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Meeting elephants</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206075500 +0000" stop="20260206080000 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: The picnic in Paris</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206080000 +0000" stop="20260206081500 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206081500 +0000" stop="20260206082500 +0000" channel="english-club-tv">
-    <title lang="tr">Digital World</title>
-    <desc lang="tr">The Digital World project is a series of 34 programmes about modern technologies of the digital universe, thanks to which you can be the first to learn the latest news about new popular gadgets, appliances and devices that make the life of modern society more comfortable and technological.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206082500 +0000" stop="20260206083500 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206083500 +0000" stop="20260206084500 +0000" channel="english-club-tv">
-    <title lang="tr">Here and There</title>
-    <desc lang="tr">The educational programme on English Club TV reveals interesting little-known facts on every day topics.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206084500 +0000" stop="20260206090000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">How often does a family manage to find a TV programme that suits everyone if everyone has different interests? And there is only one remote control! The characters in this episode had to find an answer to this question.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206090000 +0000" stop="20260206090500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206090500 +0000" stop="20260206091000 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206091000 +0000" stop="20260206091500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206091500 +0000" stop="20260206092000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206092000 +0000" stop="20260206093500 +0000" channel="english-club-tv">
-    <title lang="tr">Let&#x27;s Talk: Christmas tree decorations</title>
-    <desc lang="tr">Let&#x27;s Talk Project will allow you to acquire colloquial skills, have dialogues with native speakers and learn necessary words and expressions.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260206093500 +0000" stop="20260206094500 +0000" channel="english-club-tv">
-    <title lang="tr">English In Focus: Different expressions with the word &quot;like&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206094500 +0000" stop="20260206095000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911: an abbreviation &quot;i.e.&quot;, BY accident, BRITISH versus ENGLISH</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206095000 +0000" stop="20260206095500 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206095500 +0000" stop="20260206100000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206100000 +0000" stop="20260206101500 +0000" channel="english-club-tv">
-    <title lang="tr">The Language of Business</title>
-    <desc lang="tr">English Club TV is a perfect opportunity to learn the language or boost the knowledge you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206101500 +0000" stop="20260206103000 +0000" channel="english-club-tv">
-    <title lang="tr">The Language of Business</title>
-    <desc lang="tr">English Club TV is a perfect opportunity to learn the language or boost the knowledge you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206103000 +0000" stop="20260206103500 +0000" channel="english-club-tv">
-    <title lang="tr">Business Words: Job titles</title>
-    <desc lang="tr">Business Words _ learn essential phrases and terms used in all areas of business.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206103500 +0000" stop="20260206104000 +0000" channel="english-club-tv">
-    <title lang="tr">Business Words: Idioms with the verb &quot;to think&quot;</title>
-    <desc lang="tr">Business Words _ learn essential phrases and terms used in all areas of business.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206104000 +0000" stop="20260206104500 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: Express surprise</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206104500 +0000" stop="20260206105000 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: Ask for approval</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206105000 +0000" stop="20260206105500 +0000" channel="english-club-tv">
-    <title lang="tr">Best Of the Best</title>
-    <desc lang="tr">Best Of the Best is a intriguing program with wise and inspiring quotes on various topics.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206105500 +0000" stop="20260206110000 +0000" channel="english-club-tv">
-    <title lang="tr">Best Of the Best</title>
-    <desc lang="tr">Best Of the Best is a intriguing program with wise and inspiring quotes on various topics.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206110000 +0000" stop="20260206110500 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206110500 +0000" stop="20260206111000 +0000" channel="english-club-tv">
-    <title lang="tr">Art Land</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206111000 +0000" stop="20260206111500 +0000" channel="english-club-tv">
-    <title lang="tr">Sunny Songs</title>
-    <desc lang="tr">Fun songs with simple vocabulary are a great way to learn English. Numerous repetitions and a lively rhythm will help girls and boys from 2 years old to memorize the words. But even older children will enjoy following the adventures of the characters in the animated clips of the project.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206111500 +0000" stop="20260206112500 +0000" channel="english-club-tv">
-    <title lang="tr">Crafty Hands: Valentine&#x27;s card</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206112500 +0000" stop="20260206113500 +0000" channel="english-club-tv">
-    <title lang="tr">Okey-Dokey: Weather</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206113500 +0000" stop="20260206114000 +0000" channel="english-club-tv">
-    <title lang="tr">Once Upon A Time</title>
-    <desc lang="tr">A collection of animated stories and fairy tales for children and their parents.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206114000 +0000" stop="20260206114500 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206114500 +0000" stop="20260206115000 +0000" channel="english-club-tv">
-    <title lang="tr">Words to Grow</title>
-    <desc lang="tr">Words to Grow _ is an educational, animated programme for kids. In each episode kids will learn new words in a fun way.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206115000 +0000" stop="20260206120000 +0000" channel="english-club-tv">
-    <title lang="tr">Phrase Puzzle</title>
-    <desc lang="tr">Phrase Puzzle is a series of colourful animated cartoons whose cheerful characters will help everyone learn basic phrases and vocabulary units to describe everyday activities and objects around them, as well as learn English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206120000 +0000" stop="20260206120500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206120500 +0000" stop="20260206122000 +0000" channel="english-club-tv">
-    <title lang="tr">Magic Science: Fire</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206122000 +0000" stop="20260206123000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Texas Salsa</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206123000 +0000" stop="20260206124000 +0000" channel="english-club-tv">
-    <title lang="tr">Yummy for Mummy: Banana Bread</title>
-    <desc lang="tr">If the young viewers want to surprise their Moms with something delicious and boost their English at the same time, then this is the program they must watch.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206124000 +0000" stop="20260206125000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around Kids</title>
-    <desc lang="tr">Life Around Kids is a series of animated cartoons that will help children, along with the fun characters in the episodes, study basic phrases and vocabulary to describe everyday situations and objects around them, as well as learn the English sentence structure.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206125000 +0000" stop="20260206125500 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred: Spooky Boo</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;SPOOKY BOO&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206125500 +0000" stop="20260206130000 +0000" channel="english-club-tv">
-    <title lang="tr">Alfred &amp; Wilfred</title>
-    <desc lang="tr">Go on an adventure with Alfred and Wilfred! In this episode _ &quot;UNDERWATER&quot;.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260206130000 +0000" stop="20260206131000 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206131000 +0000" stop="20260206132000 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206132000 +0000" stop="20260206133000 +0000" channel="english-club-tv">
-    <title lang="tr">Film Set</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have. This educational program is a fun combination of education and entertainment, where students can learn English with the help of movies. Enlarge your vocabulary with some new words and useful phrases while watching some parts of movies and doing fun creative tasks after.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260206133000 +0000" stop="20260206134000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206134000 +0000" stop="20260206140000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">In any production process, it is very important to allocate the right time and focus on the result. Will the characters of this series be able to overcome idle talk and achieve results? Let&#x27;s see.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206140000 +0000" stop="20260206141500 +0000" channel="english-club-tv">
-    <title lang="tr">English United</title>
-    <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206141500 +0000" stop="20260206142500 +0000" channel="english-club-tv">
-    <title lang="tr">3Ways2: Offer help</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206142500 +0000" stop="20260206150000 +0000" channel="english-club-tv">
-    <title lang="tr">Figures of Speech: River Thames / Idioms with the words TUNNEL, TUBE, DOME, LIFT and GRASS</title>
-    <desc lang="tr">English Club TV is a unique educational network that has been helping people all around the world learn and improve their English for 10 years.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206150000 +0000" stop="20260206151000 +0000" channel="english-club-tv">
-    <title lang="tr">This Day In History</title>
-    <desc lang="tr">This Day In History is a documentary series that looks back at historic events that took place on this day. We explore many different events that have had a lasting impact on society, whether in sport, politics, entertainment, art or science. Each episode is split into three parts, each featuring a short story about the event, letting viewers learn new English words and about fascinating pieces of history.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206151000 +0000" stop="20260206152000 +0000" channel="english-club-tv">
-    <title lang="tr">Keep Fit</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206152000 +0000" stop="20260206153000 +0000" channel="english-club-tv">
-    <title lang="tr">Keep Fit: Resistance band circuit</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206153000 +0000" stop="20260206153500 +0000" channel="english-club-tv">
-    <title lang="tr">What Did They Say: Brighton</title>
-    <desc lang="tr">English Club TV gives you a unique chance to learn English or improve your level in a fun and creative way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206153500 +0000" stop="20260206154000 +0000" channel="english-club-tv">
-    <title lang="tr">What Did They Say: Ralph</title>
-    <desc lang="tr">English Club TV gives you a unique chance to learn English or improve your level in a fun and creative way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206154000 +0000" stop="20260206154500 +0000" channel="english-club-tv">
-    <title lang="tr">What Did They Say: Edinburgh</title>
-    <desc lang="tr">English Club TV gives you a unique chance to learn English or improve your level in a fun and creative way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206154500 +0000" stop="20260206160000 +0000" channel="english-club-tv">
-    <title lang="tr">What Did They Say: Patrick</title>
-    <desc lang="tr">English Club TV gives you a unique chance to learn English or improve your level in a fun and creative way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206160000 +0000" stop="20260206160500 +0000" channel="english-club-tv">
-    <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206160500 +0000" stop="20260206161000 +0000" channel="english-club-tv">
-    <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206161000 +0000" stop="20260206163000 +0000" channel="english-club-tv">
-    <title lang="tr">Grammar Wise: Future Continuous Tense</title>
-    <desc lang="tr">English Club TV offers a perfect opportunity to improve your English and boost your skills.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206163000 +0000" stop="20260206164000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206164000 +0000" stop="20260206165000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: Boating Lake at Regent&#x27;s Park</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206165000 +0000" stop="20260206170000 +0000" channel="english-club-tv">
-    <title lang="tr">City Grammar: King&#x27;s Cross St. Pancras station</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206170000 +0000" stop="20260206171000 +0000" channel="english-club-tv">
-    <title lang="tr">Simple Phrases</title>
-    <desc lang="tr">In this episode, you will learn about the peculiarities of traveling by plane, order food delivery and go on hiking in the mountains.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206171000 +0000" stop="20260206172000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206172000 +0000" stop="20260206173000 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206173000 +0000" stop="20260206173500 +0000" channel="english-club-tv">
-    <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206173500 +0000" stop="20260206174500 +0000" channel="english-club-tv">
-    <title lang="tr">Jack of All Trades: Taxi drivers</title>
-    <desc lang="tr">English Club TV is a perfect chance to boost your language skills and learn English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206174500 +0000" stop="20260206175000 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Drawing different shapes</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206175000 +0000" stop="20260206175500 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: Meeting elephants</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206175500 +0000" stop="20260206180000 +0000" channel="english-club-tv">
-    <title lang="tr">Basic Lexis: The picnic in Paris</title>
-    <desc lang="tr">The backbone of a house is a stable base.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206180000 +0000" stop="20260206180500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206180500 +0000" stop="20260206181000 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206181000 +0000" stop="20260206181500 +0000" channel="english-club-tv">
-    <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206181500 +0000" stop="20260206182000 +0000" channel="english-club-tv">
-    <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206182000 +0000" stop="20260206183500 +0000" channel="english-club-tv">
-    <title lang="tr">Let&#x27;s Talk: Christmas tree decorations</title>
-    <desc lang="tr">Let&#x27;s Talk Project will allow you to acquire colloquial skills, have dialogues with native speakers and learn necessary words and expressions.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260206183500 +0000" stop="20260206184500 +0000" channel="english-club-tv">
-    <title lang="tr">English In Focus: Different expressions with the word &quot;like&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206184500 +0000" stop="20260206185000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911: an abbreviation &quot;i.e.&quot;, BY accident, BRITISH versus ENGLISH</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206185000 +0000" stop="20260206185500 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206185500 +0000" stop="20260206190000 +0000" channel="english-club-tv">
-    <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260206190000 +0000" stop="20260206203000 +0000" channel="english-club-tv">
-    <title lang="tr">Spy Kids 4: All the Time in the World</title>
-    <desc lang="tr">Spy Kids: All the Time in the World (2011) is an adventure-comedy directed by Robert Rodriguez. Starring Jessica Alba, Jillian Westwell, Jennifer Esposito, John Hamm. The new generation of Spy Kids teams up with their spy mother to stop a villain who can manipulate time, using clever gadgets, teamwork, and quick thinking to save the world.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260206203000 +0000" stop="20260206204500 +0000" channel="english-club-tv">
-    <title lang="tr">The Language of Business</title>
-    <desc lang="tr">English Club TV is a perfect opportunity to learn the language or boost the knowledge you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260206204500 +0000" stop="20260206210000 +0000" channel="english-club-tv">
-    <title lang="tr">The Language of Business</title>
-    <desc lang="tr">English Club TV is a perfect opportunity to learn the language or boost the knowledge you already have.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
   <programme start="20260206002000 +0000" stop="20260206010500 +0000" channel="epic-drama">
     <title lang="tr">Büyük Küçük Tüm Hayvanlar</title>
     <desc lang="tr">James Herriot Yorshire Vadisinde bir veteriner olma hayalinin peşinden gider; hayvanları tedavi etmenin aslında sahiplerini tedavi etmek anlamına geldiğini keşfeder ve çiftçileri memnun etmek zordur.</desc>
@@ -13840,6 +13419,66 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <title lang="tr">Gece Görüşü</title>
     <category lang="tr">Magazin</category>
   </programme>
+  <programme start="20260206043000 +0000" stop="20260206060000 +0000" channel="kanal-26">
+    <title lang="tr">Çizgi Film</title>
+    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260206060000 +0000" stop="20260206070000 +0000" channel="kanal-26">
+    <title lang="tr">Ara Haber Bülteni</title>
+    <desc lang="tr">Kanal 26&#x27;nın Ara Haber Bülteni, günün tam ortasında Eskişehir&#x27;den ve Türkiye&#x27;nin dört bir yanından öne çıkan haberleri ekrana taşır. Siyaset, ekonomi, kültür-sanat ve spordan son dakika gelişmeleriyle izleyiciye hızlı ve tarafsız bir haber akışı sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206070000 +0000" stop="20260206090000 +0000" channel="kanal-26">
+    <title lang="tr">Sabah Haberleri</title>
+    <desc lang="tr">Kanal 26&#x27;nın Sabah Haberleri, Eskişehir ve Türkiye gündeminden en sıcak gelişmeleri izleyiciyle buluşturur. Canlı bağlantılar, ekonomi ve hava durumu bilgileriyle güne doğru ve tarafsız bir başlangıç sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206090000 +0000" stop="20260206100000 +0000" channel="kanal-26">
+    <title lang="tr">Sürmanşet</title>
+    <desc lang="tr">Kanal 26&#x27;nın Sürmanşet programı, gündemin öne çıkan başlıklarını uzman yorumları ve detaylı analizlerle izleyiciye sunar. Siyasetten ekonomiye, toplumsal konulardan yerel gelişmelere kadar geniş bir yelpazede tarafsız ve objektif bir bakış açısı sağlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206100000 +0000" stop="20260206110000 +0000" channel="kanal-26">
+    <title lang="tr">İHA</title>
+    <desc lang="tr">İHA Kuşağı, Türkiye&#x27;nin dört bir yanından ve dünyadan servis edilen haberleri siyaset, ekonomi, spor, kültür-sanat ve yaşam başlıkları altında izleyiciye sunar. Hızlı ve güvenilir habercilik anlayışıyla gündemin nabzını tutar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206110000 +0000" stop="20260206120000 +0000" channel="kanal-26">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206120000 +0000" stop="20260206150000 +0000" channel="kanal-26">
+    <title lang="tr">Hodri Meydan</title>
+    <desc lang="tr">Kanal 26&#x27;nın Hodri Meydan programı, sunucular Muharrem Esen ve Aybüke İnce yönetiminde, her bölümde farklı konukları ağırlayarak Eskişehir&#x27;in yerel tartışmalarını ve güncel konuları ele alır. Uzmanlar, akademisyenler ve sivil toplum temsilcileriyle yapılan tartışmalar, izleyiciye bilgilendirici ve zengin bir içerim sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206150000 +0000" stop="20260206160000 +0000" channel="kanal-26">
+    <title lang="tr">Valilik Gündemi</title>
+    <desc lang="tr">Valilik Gündemi, Eskişehir Valiliği&#x27;nin il çapındaki çalışmalarını, yürütülen projeleri, resmi açıklamaları ve vatandaşları ilgilendiren uygulamaları izleyicilere sunar. Program, şehir yönetimine dair önemli bilgileri doğru ve şeffaf bir şekilde paylaşmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206160000 +0000" stop="20260206173000 +0000" channel="kanal-26">
+    <title lang="tr">Ara Haber Bülteni</title>
+    <desc lang="tr">Kanal 26&#x27;nın Ara Haber Bülteni, günün tam ortasında Eskişehir&#x27;den ve Türkiye&#x27;nin dört bir yanından öne çıkan haberleri ekrana taşır. Siyaset, ekonomi, kültür-sanat ve spordan son dakika gelişmeleriyle izleyiciye hızlı ve tarafsız bir haber akışı sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206173000 +0000" stop="20260206190000 +0000" channel="kanal-26">
+    <title lang="tr">Spor 26</title>
+    <desc lang="tr">Kanal 26&#x27;nın spor dünyasına odaklanan programı &quot;Spor 26&quot;, Eskişehir başta olmak üzere Türkiye ve dünyadan güncel spor gelişmelerini izleyiciyle buluşturuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260206190000 +0000" stop="20260206200000 +0000" channel="kanal-26">
+    <title lang="tr">3 Benzemez</title>
+    <desc lang="tr">Kanal 26&#x27;nın yeni ve farklı bakışa sahip programı &quot;3 Benzemez&quot;, Aybüke İnce, Hakkı Kutlu ve Onur Çavuşoğlu&#x27;nun katılımıyla ekrana geliyor! Farklı bakışaçıları ve renkli kişilikleriyle öne çıkan bu üç isim, gündemin öne çıkan olaylarını, son dakika gelişmelerini ve toplumun ilgisini çeken konuları derinlemesine yorumluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206200000 +0000" stop="20260206210000 +0000" channel="kanal-26">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260206043000 +0000" stop="20260206053000 +0000" channel="kanal-33">
     <title lang="tr">Haber</title>
     <desc lang="tr">Kanal 33&#x27;ün &quot;Haber&quot; bülteni, Mersin&#x27;den Türkiye&#x27;ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
@@ -14363,6 +14002,151 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <title lang="tr">Ada Haber</title>
     <desc lang="tr">Kıbrıs&#x27;tan ve dünyadan en sıcak gelişmeleri tarafsız, hızlı ve güvenilir bir şekilde izleyiciye sunan güncel bir haber programıdır. Siyaset, ekonomi, kültür ve spordaki önemli olaylar profesyonel bir bakışla ekrana taşınır. Doğruluk ve güven önceliğiyle Kıbrıs&#x27;ta gündemi belirleyen haber kaynağıdır.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206040000 +0000" stop="20260206042500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Çizgi Film</title>
+    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260206042500 +0000" stop="20260206043000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206043000 +0000" stop="20260206070000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Meltem Sonay İle Sabah Genç&#x27;te Sabah</title>
+    <desc lang="tr">Güne enerjik ve bilinçli bir başlangıç yapmak isteyen izleyiciler için hazırlanan modern bir sabah haber programı. Meltem Sonay&#x27;ın güçlü sunumuyla program; Türkiye ve dünyadan son dakika gelişmelerini, siyaset, ekonomi, kültür-sanat ve teknoloji başlıklarıyla kapsamlı biçimde ekrana taşır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206070000 +0000" stop="20260206072000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206072000 +0000" stop="20260206082000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Mahmut Doğan İle Gazete</title>
+    <desc lang="tr">Mahmut Doğan ile Gazete, önemli haberleri ve gelişmeleri izleyicilere aktaran bir haber programıdır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206082000 +0000" stop="20260206084000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206084000 +0000" stop="20260206090000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">BZK</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs&#x27;ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206090000 +0000" stop="20260206095000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Pozitif Haber</title>
+    <desc lang="tr">Yerel halkın desteğiyle hayata geçirilen yeni proje, kısa sürede büyük bir başarıya ulaştı. Hem istihdama katkı sağlayan hem de toplumsal dayanışmayı güçlendiren çalışma, bölge sakinlerinden tam not aldı. Yetkililer, benzer projelerin artarak devam edeceğini belirtti.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206095000 +0000" stop="20260206100000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206100000 +0000" stop="20260206105500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Çağan Balcan İle Dönüm Noktası</title>
+    <desc lang="tr">Hayatın dönüm noktalarını, ilham veren hikâyeleri ve güncel gelişmeleri mercek altına alıyoruz. Çağan Balcan&#x27;ın sunumuyla her bölümde farklı konuklar, samimi sohbetler ve düşündürücü analizlerle izleyicilerle buluşuyoruz. Kıbrıs Genç TV&#x27;de hayatı, kariyeri ve başarıyı birlikte keşfedin.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206105500 +0000" stop="20260206110000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206110000 +0000" stop="20260206125500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Yağmur Çal İle Perspektif</title>
+    <desc lang="tr">Günümüz gündemini sadece haber olarak değil, anlam ve yorum katarak ele alan bir analiz programıdır. Toplumsal meseleler, siyasi gelişmeler ve sosyal değişimler, uzman görüşleri ve farklı perspektiflerle izleyiciye aktarılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206125500 +0000" stop="20260206130000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Gailemiz Gelecek</title>
+    <desc lang="tr">Gailemiz Gelecek, toplumsal ve kültürel konuları ele alan, röportaj ve bilgi içerikli bir magazin programı.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206140000 +0000" stop="20260206143000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206143000 +0000" stop="20260206154500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Okan Karademir İle Birebir Spor</title>
+    <desc lang="tr">Güncel maç analizleri, özel röportajlar ve sıcak gelişmeler Okan Karademir&#x27;in tarafsız ve net anlatımıyla izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206154500 +0000" stop="20260206160000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206160000 +0000" stop="20260206164500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Ana Haber Bülteni</title>
+    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini tarafsız, doğru ve hızlı bir şekilde izleyiciye ulaştıran haber programıdır. Siyaset, ekonomi, spor ve kültür-sanat haberleri güçlü habercilik anlayışıyla sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206164500 +0000" stop="20260206170000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206170000 +0000" stop="20260206171500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">BZK</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs&#x27;ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206171500 +0000" stop="20260206172000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206172000 +0000" stop="20260206182000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Dünden Bugüne</title>
+    <desc lang="tr">Kıbrıs&#x27;ın yakın tarihine ışık tutan &quot;Dünden Bugüne&quot;, hafızalarda iz bırakan olayları ve tanıkları ekranlara taşıyor. Geçmişten günümüze uzanan bir bellek yolculuğu.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206182000 +0000" stop="20260206183000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206183000 +0000" stop="20260206193000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Neden Biz Burdayız</title>
+    <desc lang="tr">Neden Biz Burdayız, toplumsal ve kültürel meseleleri ele alan, bilgi ve magazin odaklı bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206193000 +0000" stop="20260206194000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam + Tanıtım</title>
+    <desc lang="tr">&quot;Reklam + Tanıtım&quot;, markaları, ürünleri ve projeleri en etkili biçimde ekrana taşıyan, yaratıcı fikirlerin ve pazarlama dünyasının nabzını tutan bir programdır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206194000 +0000" stop="20260206202500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Çağrı Ergin İle Sanata Çağrı</title>
+    <desc lang="tr">Çağrı Ergin&#x27;in sunumuyla Sanata Çağrı, sanat ve kültürü derinlemesine ele alan özel bir magazin programıdır. Sanatsal gelişmeler, kültürel etkinlikler ve sanatçılarla yapılan söyleşilerle izleyiciye hem bilgi hem ilham sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206202500 +0000" stop="20260206203500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260206203500 +0000" stop="20260206205000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">BZK</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs&#x27;ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260206205000 +0000" stop="20260206210000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260206030000 +0000" stop="20260206090000 +0000" channel="kibris-tv">
     <title lang="tr">Kibris TV</title>
@@ -18093,34 +17877,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260206040000 +0000" stop="20260206070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260206070000 +0000" stop="20260206120000 +0000" channel="power-tv">
+  <programme start="20260206070000 +0000" stop="20260206130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260206120000 +0000" stop="20260206130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260206130000 +0000" stop="20260206170000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260206170000 +0000" stop="20260206200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260206200000 +0000" stop="20260207050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260206000000 +0000" stop="20260206020000 +0000" channel="s-sport">
     <title lang="tr">İspanya Laliga</title>
@@ -19936,7 +19714,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206064500 +0000" stop="20260206070000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206070000 +0000" stop="20260206081500 +0000" channel="tgrt-haber">
@@ -19951,7 +19729,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206084500 +0000" stop="20260206090000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206090000 +0000" stop="20260206094500 +0000" channel="tgrt-haber">
@@ -19961,7 +19739,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206094500 +0000" stop="20260206100000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206100000 +0000" stop="20260206104500 +0000" channel="tgrt-haber">
@@ -19971,7 +19749,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206104500 +0000" stop="20260206110000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206110000 +0000" stop="20260206114500 +0000" channel="tgrt-haber">
@@ -19981,7 +19759,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206114500 +0000" stop="20260206120000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206120000 +0000" stop="20260206124500 +0000" channel="tgrt-haber">
@@ -19991,7 +19769,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206124500 +0000" stop="20260206130000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206130000 +0000" stop="20260206134500 +0000" channel="tgrt-haber">
@@ -20001,7 +19779,7 @@ Bu belgesel, blue jean fenomenine farklı bir bakış açısı sunuyor ve blue j
   </programme>
   <programme start="20260206134500 +0000" stop="20260206140000 +0000" channel="tgrt-haber">
     <title lang="tr">Hayatın içinden</title>
-    <desc lang="tr">Gündelik hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260206140000 +0000" stop="20260206143000 +0000" channel="tgrt-haber">
@@ -24924,6 +24702,64 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <title lang="tr">Başkent</title>
     <desc lang="tr">Ankara kulislerinde neler oluyor, iktidar ve muhalefet cephesi ile başkent&#x27;in gündemi Narin Yalçın&#x27;ın hazırladığı BAŞKENT programında.</desc>
     <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260206010000 +0000" stop="20260206020000 +0000" channel="tyt-turk">
+    <title lang="tr">Balçiçek İlter İle Sormazsam Olmaz</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206020000 +0000" stop="20260206030000 +0000" channel="tyt-turk">
+    <title lang="tr">Şampiyon Mutfakta</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206030000 +0000" stop="20260206043000 +0000" channel="tyt-turk">
+    <title lang="tr">Çizgi Film</title>
+    <desc lang="tr">Klasikleşmiş, sevilen çizgi filmler küçük izleyicileriyle buluşuyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260206043000 +0000" stop="20260206073000 +0000" channel="tyt-turk">
+    <title lang="tr">Cengiz Semercioğlu&#x27;nun Sabah Haberleri</title>
+    <desc lang="tr">Cengiz Semercioğlu, güncel gelişmelerden lifestyle haberlerine uzanan dopdolu bir içerikle sabahlarınıza keyif katıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206073000 +0000" stop="20260206093000 +0000" channel="tyt-turk">
+    <title lang="tr">Ebru Akel İle Türkiye Çiçek Açıyor</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206093000 +0000" stop="20260206100000 +0000" channel="tyt-turk">
+    <title lang="tr">TYT Türk E-Haber</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206100000 +0000" stop="20260206123000 +0000" channel="tyt-turk">
+    <title lang="tr">Derya Baykal ile Hayata Dair</title>
+    <desc lang="tr">Örgüden ahşap boyamaya, ev yaşamını kolaylaştıracak püf noktalarına kadar hayatı güzelleştiren fikirler bu programda yer alıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206123000 +0000" stop="20260206133000 +0000" channel="tyt-turk">
+    <title lang="tr">Şampiyon Mutfakta</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206133000 +0000" stop="20260206140000 +0000" channel="tyt-turk">
+    <title lang="tr">Milli ve Manevi Değerler</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206140000 +0000" stop="20260206154500 +0000" channel="tyt-turk">
+    <title lang="tr">Balçiçek İlter İle Sormazsam Olmaz</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206154500 +0000" stop="20260206170000 +0000" channel="tyt-turk">
+    <title lang="tr">TYT Ana Haber</title>
+    <desc lang="tr">Türkiye ve dünya gündeminden önemli başlıklar Emre Buga ile TYT Türk Ana Haber&#x27;de ekrana geliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260206170000 +0000" stop="20260206183000 +0000" channel="tyt-turk">
+    <title lang="tr">Seda Sayan İle Her Şey Masada</title>
+    <desc lang="tr">Eğlencenin, samimiyetin ve dopdolu sohbetlerin adresi Seda Sayan ile Her Şey Masada, ünlü konuklar, çarpıcı konular ve sıcacık anlarla ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260206183000 +0000" stop="20260206210000 +0000" channel="tyt-turk">
+    <title lang="tr">Bunu Konuşmak Lazım</title>
+    <desc lang="tr">Gazeteci Cengiz Semercioğlu birbirinden özel konuklarıyla ve espirili sunumuyla gecenize keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260206040000 +0000" stop="20260206080000 +0000" channel="ulke-tv">
     <title lang="tr">Ülke&#x27;de Bu Sabah</title>
