@@ -1583,6 +1583,176 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <desc lang="tr">Akit TV Başka Açıdan, güncel haberleri, siyaset ve toplumsal gelişmeleri farklı perspektiflerden izleyiciye sunan bir programdır. Uzman konuklar ve deneyimli sunucular eşliğinde hazırlanan program, analizler ve tartışmalarla olayları daha derinlemesine anlamayı sağlar, gündemi farklı açılardan değerlendirir.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260207000000 +0000" stop="20260207010000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207010000 +0000" stop="20260207020000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Latin America: In The Shadow of The U.S.: Coups</title>
+    <desc lang="tr">Cold War shadows fall across Latin America as U.S.-backed coups shatter democracies, spark brutal dictatorships, covert operations and revolutionary resistance.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207020000 +0000" stop="20260207023000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207023000 +0000" stop="20260207030000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Bangladesh - A Democratic Test</title>
+    <desc lang="tr">Sreenivasan Jain challenges BNP secretary Mirza Fakhrul on the whether the party and its leader really represent change after years of political wilderness.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260207030000 +0000" stop="20260207033000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">101 East: The Hunt For Asia&#x27;s Dinosaur Fossils P1</title>
+    <desc lang="tr">From Al Jazeera network, 101 East is a groundbreaking series of investigative documentaries, exploring hard-hitting, controversial stories across Asia and the Pacific, providing a voice to unheard citizens of this region. Winning numerous accolades, such as a Royal Television Society award, human rights awards and three Emmy nominations, the show sends journalists into the world&#x27;s most populous region to examine and expose stories of injustice and social disparities.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207040000 +0000" stop="20260207043000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207043000 +0000" stop="20260207050000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">UpFront</title>
+    <desc lang="tr">Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207050000 +0000" stop="20260207053000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207053000 +0000" stop="20260207060000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Inside Story</title>
+    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207060000 +0000" stop="20260207063000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207063000 +0000" stop="20260207070000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Witness: Please Enjoy Our Tragedies</title>
+    <desc lang="tr">Independent documentaries showcasing stories from the margin of society.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207070000 +0000" stop="20260207073000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207073000 +0000" stop="20260207080000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">People &amp; Power: From the Balkans With Guns</title>
+    <desc lang="tr">A current affairs documentary series from Al Jazeera, examining powerful presidents, prime ministers, governments, religious institutions, and businesses, investigating how they use, or abuse, their powerful positions. The series has been running since 2007, sending investigative journalists across the world to capture stories at their source, many of which are divisive, criminal, or discordant.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207080000 +0000" stop="20260207083000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207083000 +0000" stop="20260207090000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">The Stream</title>
+    <desc lang="tr">The programme aims to bring the social media at the center of the editorial process. The topics relate to social media and to what is in the public limelight on the different platforms such as Facebook, Twitter etc. It&#x27;s a look with a fresh eye from a different angle at the hottest issues of the day.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207090000 +0000" stop="20260207093000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207093000 +0000" stop="20260207100000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Counting the Cost</title>
+    <desc lang="tr">Weekly programme that gives viewers a chance to find out some of the most important business, finance and economics stories from around the world. Discover everything you need to know with the help from host Kamahl Santamaria.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207100000 +0000" stop="20260207110000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207110000 +0000" stop="20260207113000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207113000 +0000" stop="20260207120000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Inside Story</title>
+    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207120000 +0000" stop="20260207130000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Al Jazeera World: To Die For Palestine</title>
+    <desc lang="tr">Hear the emotional and captivating true stories from across the world in this series of documentries from the Al Jazeera Network. You will have a chance to find out something new about different people and places that make up our incredible world.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207140000 +0000" stop="20260207143000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207143000 +0000" stop="20260207150000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">UpFront</title>
+    <desc lang="tr">Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207150000 +0000" stop="20260207160000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207160000 +0000" stop="20260207163000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207163000 +0000" stop="20260207170000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Bangladesh - A Democratic Test</title>
+    <desc lang="tr">Sreenivasan Jain challenges BNP secretary Mirza Fakhrul on the whether the party and its leader really represent change after years of political wilderness.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260207170000 +0000" stop="20260207173000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207173000 +0000" stop="20260207180000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Inside Story</title>
+    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207180000 +0000" stop="20260207190000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207190000 +0000" stop="20260207193000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">News Live</title>
+    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207193000 +0000" stop="20260207200000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">The Listening Post</title>
+    <desc lang="tr">Fast-paced current affairs programme that investigates, analyses and critiques the world&#x27;s media and all the important news, explaining how they operate and what are the stories they cover. &#x27;&#x27;The Listening Post&#x27;&#x27; is created and hosted by Richard Gizbert.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207200000 +0000" stop="20260207210000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Witness: Dear Tomorrow</title>
+    <desc lang="tr">Independent documentaries showcasing stories from the margin of society.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
   <programme start="20260207000000 +0000" stop="20260207010000 +0000" channel="al-jazeera-english">
     <title lang="tr">News Bulletin</title>
     <desc lang="tr">Keep up with the latest news and main headlines, hot and happening events and reports from around the world with main emphasis on the Arab world developments. Take a glance at the top news stories of the day and beyond them, and have a look at hard work of correspondents and journalists working around the world.</desc>
@@ -3505,163 +3675,6 @@ sorumlu tutan Noyan, Memduh&#x27;un kızı Dünya&#x27;yı konağında hapsedip 
     <title lang="tr">Bloomberg Chief Future Officer</title>
     <desc lang="tr">Gina Goetter is the CFO and COO of Hasbro. She&#x27;s the architect of the company&#x27;s transformation, diversifying its manufacturing footprint and investing in Hasbro&#x27;s video game ambitions. S5, Ep7</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207000000 +0000" stop="20260207004500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akustikhane</title>
-    <desc lang="tr">Ünlü isimler akustik performanslarıyla Akustikhane’ye konuk oluyor, anılarını anlatıyor, soruları içtenlikle cevaplıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260207004500 +0000" stop="20260207011000 +0000" channel="bloomberg-ht">
-    <title lang="tr">The David Rubenstein Show</title>
-    <desc lang="tr">Ünlü Finansçı David Rubenstein iş dünyasında büyük başarılar elde etmiş işverenlerin ilginç hikayelerini ekrana getiriyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207011000 +0000" stop="20260207013500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Boat Show</title>
-    <desc lang="tr">The Boat Show, denize ve teknelere tutkuyla bağlı olanlara adanmış bir program. Uluslararası fuarların yanı sıra, marinaları da ziyaret eden ekip son teknolojiyle donatılmış lüks tekneleri tanıtıyorlar.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207013500 +0000" stop="20260207020000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Reklamarkası</title>
-    <desc lang="tr">Ender Merter&#x27;in sunduğu programda reklamların arka plan çalışmaları ekrana geliyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207020000 +0000" stop="20260207022500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Sürdürülebilir Gelecek</title>
-    <desc lang="tr">Sürdürülebilir bir dünya, bugünden atılacak adımlarla mümkün. Gelecek nesillere yaşanılır bir dünya bırakmak için neler yapılmalı? Ülkeler, şirketler ve bireyler hangi politikaları uygulamalı, ne gibi önlemler almalı?</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207022500 +0000" stop="20260207025000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Gelecek Enerji</title>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207025000 +0000" stop="20260207031000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akıllı Tarım</title>
-    <desc lang="tr">Üreticiden tüketiciye herkesi yakından ilgilendiren konularda sektörün nabzı tutulurken, her hafta farklı konu başlıkları enine boyuna tartışılıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207031000 +0000" stop="20260207040000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207040000 +0000" stop="20260207042500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Maden Dünyası</title>
-    <desc lang="tr">Altın, krom, nikel, gümüş, demir, bor, kömür, bazalt ve mermer... Yeraltı zenginliklerimiz konusunda bilinmeyenler, az bilinenler, yanlış bilinenler... Hepsi bu programda.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207042500 +0000" stop="20260207045000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Tarım Analiz</title>
-    <desc lang="tr">Tarım Analiz, gıda, tarım ve hayvancılık alanında üreticiden tüketiciye uzanan zincirin tüm halkalarındaki kesimlerin merak ettiği sorulara cevap arıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207045000 +0000" stop="20260207051500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Gündem Teknoloji</title>
-    <desc lang="tr">Teknoloji dünyasına yön veren Türk ve uluslararası firmaların yöneticileri Gündem Teknoloji&#x27;de. Dünya genelinde teknolojide trendler neler? Önümüzdeki 10 yıl içinde teknoloji dünyası nasıl değişecek? Türkiye&#x27;nin bilim ve teknolojideki vizyonunu daha da ileri taşımak için ne tür projelere ihtiyaç var? Hande Berktan her hafta konuklarıyla teknoloji gündemini ekranlara taşıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207051500 +0000" stop="20260207054000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Girişimcilik Dünyası</title>
-    <desc lang="tr">Türkiye&#x27;nin Girişimcilik eko-sisteminin tüm bileşenleri bu programda. Melek yatırımcılar ve mentorlar eşliğinde girişimcilerin hikayelerini paylaşıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207054000 +0000" stop="20260207070000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Spor Kulübü</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri, spor yazarları, sporun profesyonelleri bu programda buluşuyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260207070000 +0000" stop="20260207073000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Girişim Sahnesi</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260207073000 +0000" stop="20260207083000 +0000" channel="bloomberg-ht">
-    <title lang="tr">İş&#x27;te Zirve</title>
-    <desc lang="tr">Gözde Atasoy’un sunumu ile insana ve yaşama dair merak edilenlerin konuşulduğu İş’te Zirve’nin bu haftaki konuğu; Gen Türkiye Yönetim Kurulu Başkanı Nevzat Aydın oluyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207083000 +0000" stop="20260207090000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Otomotiv Zirvesi</title>
-    <desc lang="tr">İç pazar büyüklüğü ve ihracat değerleriyle lokomotif sektör haline gelen otomotive dair önemli gelişmeler, sektörün önde gelen yöneticileriyle Bloomberg HT&#x27;de ele alınıyor. Sürdürülebilirlik ve mobilite vizyonu ile otomotiv sektörüne ilişkin merak edilen tüm sorular bu programda yanıtlanıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207090000 +0000" stop="20260207093000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Değişime İnananlar</title>
-    <desc lang="tr">Bahar Taşkın Öztürk, iş dünyasının önde gelen liderleriyle yaptığı ilham verici sohbetlerde stratejiler ve başarı hikayeleriyle dönüşüm süreçlerine rehberlik ediyor. Değişime İnananlar&#x27;ın bu haftaki konuğu; Prof. Dr. Acar Baltaş oluyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207093000 +0000" stop="20260207100000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akıllı Tarım</title>
-    <desc lang="tr">Üreticiden tüketiciye herkesi yakından ilgilendiren konularda sektörün nabzı tutulurken, her hafta farklı konu başlıkları enine boyuna tartışılıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207100000 +0000" stop="20260207112500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Tarih Keyfi</title>
-    <desc lang="tr">Tarih nedir, tarihçi kimdir? Bir tarihçi nasıl yetişir ve nasıl yaşar?</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207112500 +0000" stop="20260207120000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Üst Düzey</title>
-    <desc lang="tr">Arzu Maliki iş ve ekonomi dünyasına yön veren isimleri Üst Düzey’de ağırlıyor. Şirketlerini yönetirken nasıl karar alıyorlar? Stratejilerini oluştururken nelere dikkat ediyorlar? Ekonomi gündemini nasıl yorumluyorlar?
- 
-İş hayatının karar alıcıları farklılık yaratan fikirlerini, planlarını ve hedeflerini canlı yayında anlatıyorlar.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207120000 +0000" stop="20260207123000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Sürdürülebilir Gelecek</title>
-    <desc lang="tr">Sürdürülebilir bir dünya, bugünden atılacak adımlarla mümkün. Gelecek nesillere yaşanılır bir dünya bırakmak için neler yapılmalı? Ülkeler, şirketler ve bireyler hangi politikaları uygulamalı, ne gibi önlemler almalı?</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207123000 +0000" stop="20260207130000 +0000" channel="bloomberg-ht">
-    <title lang="tr">İş&#x27;te Ezber Bozanlar</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207130000 +0000" stop="20260207134000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Yarının Zekası</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260207134000 +0000" stop="20260207151000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Pandora&#x27;nın Merakı</title>
-    <desc lang="tr">Eylül Görmüş ile Pandora&#x27;nın Merakı&#x27;nda sihirli kutu tekrar açılıyor ve içinde kalan umut, sanat yoluyla gün ışığına çıkıyor. Eylül Görmüş, kültür-sanat ve edebiyat dünyasının önemli isimlerini ağırlıyor.</desc>
-    <category lang="tr">Kültür &amp; Sanat</category>
-  </programme>
-  <programme start="20260207151000 +0000" stop="20260207160000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akustikhane</title>
-    <desc lang="tr">Ünlü isimler akustik performanslarıyla Akustikhane’ye konuk oluyor, anılarını anlatıyor, soruları içtenlikle cevaplıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260207160000 +0000" stop="20260207170000 +0000" channel="bloomberg-ht">
-    <title lang="tr">The Antiques Brothers</title>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207170000 +0000" stop="20260207180000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260207180000 +0000" stop="20260207190000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Ece Saruhan&#x27;la Oyuna Devam</title>
-    <desc lang="tr">Sanata, sanatçıya ve sosyal hayata dair her şey Ece Saruhan&#x27;la Oyuna Devam ile ekranlarda.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207190000 +0000" stop="20260207195000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akustikhane</title>
-    <desc lang="tr">Ünlü isimler akustik performanslarıyla Akustikhane’ye konuk oluyor, anılarını anlatıyor, soruları içtenlikle cevaplıyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260207195000 +0000" stop="20260207202000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Great British Railway Journeys</title>
-    <desc lang="tr">Michael, bu yolculukta İngiltere&#x27;yi yeniden keşfediyor. Farklı kültürlerden insanlarla tanışarak demiryollarının yıllar içinde getirdiği sosyal, politik ve kültürel değişimleri gözler önüne seriyor.</desc>
-    <category lang="tr">Gezi &amp; Seyahat</category>
-  </programme>
-  <programme start="20260207202000 +0000" stop="20260207204500 +0000" channel="bloomberg-ht">
-    <title lang="tr">The David Rubenstein Show</title>
-    <desc lang="tr">Ünlü Finansçı David Rubenstein iş dünyasında büyük başarılar elde etmiş işverenlerin ilginç hikayelerini ekrana getiriyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207204500 +0000" stop="20260207213500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260207035500 +0000" stop="20260207040000 +0000" channel="brt-1">
     <title lang="tr">İstiklal Marşı</title>
@@ -6391,6 +6404,301 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   <programme start="20260207205700 +0000" stop="20260207210000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Daha Yüksek Güç</title>
     <desc lang="tr">Gökyüzünde ne kadar yüksekteyseniz, rüzgar daha güçlü ve az türbülanslıdır. Ya bu rüzgar enerjisini alternatif enerji kaynağı olarak kullanabilseydik...Bu bölümde, düşük bir masrafla üç kilometre yükseklikten enerji transfer eden bir grup bilimadamıyla tanışıyoruz.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207000000 +0000" stop="20260207000200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207000200 +0000" stop="20260207003000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Day</title>
+    <desc lang="tr">The news as it happened, presented, clarified and analysed by experts and specialists. Studio-based and in-the field summaries and analysis of the events to have marked the previous twenty-four hours enable understanding and place within a wider context the issues that have shaped, focused and given direction over the course of the previous day.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207003000 +0000" stop="20260207010000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">REV</title>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from the world of cars, examining the latest news and events pertaining to vehicles. From test driving the latest vehicles to examining how engineering is changing to combat climate change, Rev explores every avenue of car-based news, keeping fellow petrol heads up to date with developments within the industry.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207010000 +0000" stop="20260207011500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207011500 +0000" stop="20260207013000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Dip</title>
+    <desc lang="tr">AI investment in the United States is nearly quadruple what China saw in the same decade. But both superpowers are seeing a ramp up of investment, not only from private firms, but also from government. Not only could this technology be the driving force of the next wave of innovation and change to business, but the defense industry is also keenly watching developments.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260207013000 +0000" stop="20260207020000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Tomorrow Today</title>
+    <desc lang="tr">If you are into cosmos and universe, then this show is made for you. Find out if it is possible to predict solar storms, whether plants are smart, if synthetic fuels can help protect environment, what are the results of the largest-ever polar expedition, and many more questions in different spheres of life.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207020000 +0000" stop="20260207020200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207020200 +0000" stop="20260207021500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207021500 +0000" stop="20260207030000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Notes from Caracas - Venezuelans in the Midst of the US Intervention</title>
+    <desc lang="tr">&#x27;Stolpersteine&#x27;, or &quot;stumbling stones&quot; placed in the pavement commemorate the victims of Nazism. The squares are made of brass and measure 10cm x 10cm. More than 100,000 of these memorial plaques have been laid in over 30 countries.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207030000 +0000" stop="20260207031500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207031500 +0000" stop="20260207033000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Science DW</title>
+    <desc lang="tr">In Germany&#x27;s Peene Valley wetlands, researchers are looking at what rewetting means for local mosquito populations _ especially in species that transmit viruses and parasites.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Omnivore - How Calico Crayfish are Threatening Species Diversity</title>
+    <desc lang="tr">They eat and reproduce at record speed _ calico crayfish. In its quest for more information about the species, this report finds tens of thousands of crayfish in just one pool along the upper Rhine River. Can this invasive creature still be stopped?</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207040000 +0000" stop="20260207041500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207041500 +0000" stop="20260207043000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207043000 +0000" stop="20260207050000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Euromaxx</title>
+    <desc lang="tr">Weekly lifestyle show on DW presents Europe at its best, starting from culture news to entertainment events, beautiful views of natural scenery and most fascinating modern art pieces. Enjoy Europe in its diversity, its absorbing insights and amazing lifestyle. Explore its best restaurants with most sophisticated cuisine, and extraordinary topics and captivating stories.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207050000 +0000" stop="20260207050200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207050200 +0000" stop="20260207053000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc lang="tr">Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact? Where can we find their exciting projects?</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207053000 +0000" stop="20260207060000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The 77 Percent</title>
+    <desc lang="tr">77 per cent of Africa&#x27;s population are below the age of thirty-five yet their interests are under-represented poltically and economically. This show aims to redress the balance by providing a voice to the largest demographic group on the continent. These dynamic younger people are politically engaged and will determine the future path their countries, and the continent as a whole, will follow in the twenty-first century. Presented by Eddy Micah Jr. and Wanjiku Mwaura.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207060000 +0000" stop="20260207061500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207061500 +0000" stop="20260207063000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Science DW</title>
+    <desc lang="tr">In Germany&#x27;s Peene Valley wetlands, researchers are looking at what rewetting means for local mosquito populations _ especially in species that transmit viruses and parasites.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207063000 +0000" stop="20260207070000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">REV</title>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from the world of cars, examining the latest news and events pertaining to vehicles. From test driving the latest vehicles to examining how engineering is changing to combat climate change, Rev explores every avenue of car-based news, keeping fellow petrol heads up to date with developments within the industry.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207070000 +0000" stop="20260207071500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207071500 +0000" stop="20260207073000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Sports Life</title>
+    <desc lang="tr">Sports Life explores the world of sport, bringing you updates, interviews and reports from across the globe. Sport has the power to break down barriers, improve lives, connect communities, and of course, improve health. The show delves into all aspects of sport, from professionals competing at the very top to everyday individuals simply enjoying a pastime, demonstrating how sport and life are regularly connected.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260207073000 +0000" stop="20260207080000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Tomorrow Today</title>
+    <desc lang="tr">If you are into cosmos and universe, then this show is made for you. Find out if it is possible to predict solar storms, whether plants are smart, if synthetic fuels can help protect environment, what are the results of the largest-ever polar expedition, and many more questions in different spheres of life.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207080000 +0000" stop="20260207081500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207081500 +0000" stop="20260207090000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Vietnam - Profiting from Communism</title>
+    <desc lang="tr">With its booming economy, Vietnam is considered Asia&#x27;s next tiger economy. Since the communist government decided to replace Marxism with capitalism, the country has undergone a transformation.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207090000 +0000" stop="20260207091500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207091500 +0000" stop="20260207093000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Sports Life</title>
+    <desc lang="tr">Sports Life explores the world of sport, bringing you updates, interviews and reports from across the globe. Sport has the power to break down barriers, improve lives, connect communities, and of course, improve health. The show delves into all aspects of sport, from professionals competing at the very top to everyday individuals simply enjoying a pastime, demonstrating how sport and life are regularly connected.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260207093000 +0000" stop="20260207100000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">In Good Shape</title>
+    <desc lang="tr">In Good Shape is the weekly health show on DW, entirely dedicated to health care. The show offers opportunities to receive tips and tools for a healthy lifestyle directly from experts.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207100000 +0000" stop="20260207101500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207101500 +0000" stop="20260207103000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207103000 +0000" stop="20260207110000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc lang="tr">Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact? Where can we find their exciting projects?</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207110000 +0000" stop="20260207110300 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207110300 +0000" stop="20260207120000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Opioids - Business &amp; Addiction: The Cartel of Pain</title>
+    <desc lang="tr">The United States has a huge drug problem: cheap opioids, thousands of deaths. President Trump blames Latin American cartels. But it all began 30 years ago, quite legally, in the United States.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207120000 +0000" stop="20260207121500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207121500 +0000" stop="20260207123000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207123000 +0000" stop="20260207130000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Euromaxx</title>
+    <desc lang="tr">Weekly lifestyle show on DW presents Europe at its best, starting from culture news to entertainment events, beautiful views of natural scenery and most fascinating modern art pieces. Enjoy Europe in its diversity, its absorbing insights and amazing lifestyle. Explore its best restaurants with most sophisticated cuisine, and extraordinary topics and captivating stories.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207130000 +0000" stop="20260207131500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207131500 +0000" stop="20260207140000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Urbana Animalis - How City Life Transforms Wildlife</title>
+    <desc lang="tr">Nature often struggles in the concrete jungles of growing cities. But many animals manage to adapt to the new conditions, thanks to changes in behavior, new survival strategies and, sometimes, even genetic changes.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207140000 +0000" stop="20260207141500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207141500 +0000" stop="20260207143000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Reporter: On Location</title>
+    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207143000 +0000" stop="20260207150000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The 77 Percent</title>
+    <desc lang="tr">77 per cent of Africa&#x27;s population are below the age of thirty-five yet their interests are under-represented poltically and economically. This show aims to redress the balance by providing a voice to the largest demographic group on the continent. These dynamic younger people are politically engaged and will determine the future path their countries, and the continent as a whole, will follow in the twenty-first century. Presented by Eddy Micah Jr. and Wanjiku Mwaura.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207150000 +0000" stop="20260207151500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207151500 +0000" stop="20260207153000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Asia 2050</title>
+    <desc lang="tr">Dhaka, the capital of Bangladesh, is one of the most air-polluted cities in the world. Often, Dhaka&#x27;s name appears at the top of the list of the world&#x27;s most air-polluted cities. But is there no way out of this?</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207153000 +0000" stop="20260207160000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Euromaxx</title>
+    <desc lang="tr">Weekly lifestyle show on DW presents Europe at its best, starting from culture news to entertainment events, beautiful views of natural scenery and most fascinating modern art pieces. Enjoy Europe in its diversity, its absorbing insights and amazing lifestyle. Explore its best restaurants with most sophisticated cuisine, and extraordinary topics and captivating stories.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207160000 +0000" stop="20260207161500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207161500 +0000" stop="20260207163000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Sports Life</title>
+    <desc lang="tr">Sports Life explores the world of sport, bringing you updates, interviews and reports from across the globe. Sport has the power to break down barriers, improve lives, connect communities, and of course, improve health. The show delves into all aspects of sport, from professionals competing at the very top to everyday individuals simply enjoying a pastime, demonstrating how sport and life are regularly connected.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260207163000 +0000" stop="20260207170000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207170000 +0000" stop="20260207171500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207171500 +0000" stop="20260207173000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207173000 +0000" stop="20260207180000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The 77 Percent</title>
+    <desc lang="tr">77 per cent of Africa&#x27;s population are below the age of thirty-five yet their interests are under-represented poltically and economically. This show aims to redress the balance by providing a voice to the largest demographic group on the continent. These dynamic younger people are politically engaged and will determine the future path their countries, and the continent as a whole, will follow in the twenty-first century. Presented by Eddy Micah Jr. and Wanjiku Mwaura.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260207180000 +0000" stop="20260207181500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207181500 +0000" stop="20260207183000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Reporter: On Location</title>
+    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207183000 +0000" stop="20260207190000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207190000 +0000" stop="20260207191500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207191500 +0000" stop="20260207200000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The French Foreign Legion: Rainforest Training Hell</title>
+    <desc lang="tr">The combat school in the rainforest. It&#x27;s one of the toughest training programs run by the Foreign Legion. In the 3rd Regiment, legionnaires and the special units of friendly armies are trained under particularly harsh conditions.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207200000 +0000" stop="20260207201500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260207201500 +0000" stop="20260207203000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Reporter: On Location</title>
+    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260207203000 +0000" stop="20260207210000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Afrimaxx</title>
+    <desc lang="tr">The weekly lifestyle magazine searches for inspiration and innovation in all areas of popular culture – from fashion and design through to architecture, art, food and travel. The focus is on outstanding individuals doing extraordinary things on the African continent.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260207002000 +0000" stop="20260207010500 +0000" channel="discovery-channel">
@@ -9697,126 +10005,6 @@ Usta sanatkârların sanat serüvenlerini ve ömür safahatından gönüllerinde
     <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260207033000 +0000" stop="20260207043000 +0000" channel="ekoturk">
-    <title lang="tr">Lojistik Dünyası</title>
-    <desc lang="tr">Ayşegül Ketenci ile Lojistik Dünyası&#x27;nda Türkiye&#x27;nin lojistikteki yeri, enerji ve üretim malları geçişi uzman analizleriyle Pazar 16.00&#x27;da EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207043000 +0000" stop="20260207050000 +0000" channel="ekoturk">
-    <title lang="tr">Marka Değeri</title>
-    <desc lang="tr">Eda Elif Özbek ile Marka Değeri&#x27;nde Türkiye ve dünyanın güçlü markaları, başarı hikâyeleri ve ekonomik değerleri her Pazar 18:30&#x27;da EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207050000 +0000" stop="20260207060000 +0000" channel="ekoturk">
-    <title lang="tr">Perspektif</title>
-    <desc lang="tr">Eda Elif Özbek ile Marka Değeri&#x27;nde Türkiye ve dünyanın güçlü markaları, başarı hikâyeleri ve ekonomik değerleri EKOTÜRK&#x27;te ekrana geliyor.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260207060000 +0000" stop="20260207070000 +0000" channel="ekoturk">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
-    <desc lang="tr">Fotoğrafın Öyküsü, fotoğrafların ardındaki hikâyeleri ve ilham kaynaklarını keşfeden sohbet programıdır. Fotoğrafçılar ve sanatçılar, her karedeki duygu ve anlatımı izleyicilerle paylaşır.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260207070000 +0000" stop="20260207080000 +0000" channel="ekoturk">
-    <title lang="tr">Akla Ziyan</title>
-    <desc lang="tr">Prof. Dr. Nevzat Tarhan ve Eda Özdemir ile Akla Ziyan, sağlıklı zihin, güçlü ilişkiler ve iletişim üzerine EKOTÜRK&#x27;te ekrana geliyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207080000 +0000" stop="20260207083000 +0000" channel="ekoturk">
-    <title lang="tr">Yapısal Parite</title>
-    <desc lang="tr">Yapı sektörü ve finans dünyasında yenilikler Yapısal Parite&#x27;de. Kıvanç İlhan ile Pazartesi 15.00&#x27;te EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207083000 +0000" stop="20260207090000 +0000" channel="ekoturk">
-    <title lang="tr">Yaşanabilir Dünya</title>
-    <desc lang="tr">Sibel Topaloğlu ile Yaşanabilir Dünya&#x27;da iklim değişikliği, küresel ısınma ve biyoçeşitlilik uzman konuklarla EKOTÜRK&#x27;te ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207090000 +0000" stop="20260207100000 +0000" channel="ekoturk">
-    <title lang="tr">Alkin Lakin</title>
-    <desc lang="tr">İki Kardeş. İkisi de ekonomist, ikisinin de Türkiye ve dünya ekonomisine dair söyleyecek çok sözü var… Bazen benzer, bazense taban tabana zıt ! Kerem Alkin ve Emre Alkin ile Alkin Lakin her Perşembe 21:30&#x27;da EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207100000 +0000" stop="20260207103000 +0000" channel="ekoturk">
-    <title lang="tr">İhracat Rotası</title>
-    <desc lang="tr">İhracat Rotası, Ekotürk ekranlarında dış ticaretin nabzını tutan özel bir programdır. Programda Türkiye&#x27;nin ihracat potansiyeli, sektörlerin yurt dışı açılımları ve firmaların küresel pazarlardaki başarı hikâyeleri ele alınır. Ekonomi ve ticarete ilgi duyanlar için yol gösterici içerikler sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207103000 +0000" stop="20260207110000 +0000" channel="ekoturk">
-    <title lang="tr">Gülşah Çınar ile Portreler</title>
-    <desc lang="tr">Gülşah Çınar&#x27;la Portreler, iş, sanat ve cemiyet hayatının öne çıkan isimleriyle samimi sohbetler ve çarpıcı anekdotlar sunuyor.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260207110000 +0000" stop="20260207120000 +0000" channel="ekoturk">
-    <title lang="tr">Işimiz Sağlık</title>
-    <desc lang="tr">Diş hekimi Erhan Özgür, İşimiz Sağlık&#x27;ta özel konu ve konuklarla sağlıkta fark yaratan bilgileri paylaşıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207120000 +0000" stop="20260207123000 +0000" channel="ekoturk">
-    <title lang="tr">Enerji Arenası</title>
-    <desc lang="tr">Lale Elmacıoğlu ile Enerji Arenası&#x27;nda, Bülent Şen ve sektör konuklarıyla enerji yatırımları, politikalar ve trendler EKOTÜRK&#x27;te masaya yatırılıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207123000 +0000" stop="20260207130000 +0000" channel="ekoturk">
-    <title lang="tr">Yapısal Parite</title>
-    <desc lang="tr">Yapı sektörü ve finans dünyasında yenilikler Yapısal Parite&#x27;de. Kıvanç İlhan ile Pazartesi 15.00&#x27;te EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="ekoturk">
-    <title lang="tr">Perspektif</title>
-    <desc lang="tr">Eda Elif Özbek ile Marka Değeri&#x27;nde Türkiye ve dünyanın güçlü markaları, başarı hikâyeleri ve ekonomik değerleri EKOTÜRK&#x27;te ekrana geliyor.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260207140000 +0000" stop="20260207143000 +0000" channel="ekoturk">
-    <title lang="tr">Marka Değeri</title>
-    <desc lang="tr">Eda Elif Özbek ile Marka Değeri&#x27;nde Türkiye ve dünyanın güçlü markaları, başarı hikâyeleri ve ekonomik değerleri her Pazar 18:30&#x27;da EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207143000 +0000" stop="20260207150000 +0000" channel="ekoturk">
-    <title lang="tr">Dış Ticarette Gündem</title>
-    <desc lang="tr">Program, dış ticaret dünyasındaki güncel gelişmeleri, ihracat ve ithalat verilerini, sektörlerin beklentilerini ve uzman görüşlerini ele alır. Piyasaları etkileyen kararlar, yeni pazar fırsatları ve küresel trendler net bir dille değerlendirilir. İzleyiciye yol gösteren analizler sunulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207150000 +0000" stop="20260207153000 +0000" channel="ekoturk">
-    <title lang="tr">Rapor</title>
-    <desc lang="tr">Dünya ve Türkiye ekonomisi sürekli değişiyor. Rapor programı, piyasalardaki son gelişmeleri, sektör analizlerini ve ekonomik trendleri izleyiciye detaylı şekilde sunuyor, finans ve ekonomi dünyasındaki önemli hareketleri takip etme imkânı sağlıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260207153000 +0000" stop="20260207160000 +0000" channel="ekoturk">
-    <title lang="tr">Yapay Zeka Kafası</title>
-    <desc lang="tr">Kaan Gülten ve Bilgi Özünal Yuva&#x27;dan klonlarla yapay zeka gelişmeleri, girişimci röportajları ve örnekler Yapay Zeka Kafası&#x27;nda, Salı 22.00&#x27;de EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207160000 +0000" stop="20260207170000 +0000" channel="ekoturk">
-    <title lang="tr">Akla Ziyan</title>
-    <desc lang="tr">Prof. Dr. Nevzat Tarhan ve Eda Özdemir ile Akla Ziyan, sağlıklı zihin, güçlü ilişkiler ve iletişim üzerine EKOTÜRK&#x27;te ekrana geliyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207170000 +0000" stop="20260207173000 +0000" channel="ekoturk">
-    <title lang="tr">Davranışsal Ekonomi</title>
-    <desc lang="tr">Davranışsal Ekonomi, insanların ekonomik kararlarını yalnızca mantıkla değil, psikolojik ve duygusal faktörlerle nasıl etkilediğini inceleyen bir alandır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207173000 +0000" stop="20260207183000 +0000" channel="ekoturk">
-    <title lang="tr">İktisattan Çıkış</title>
-    <desc lang="tr">Programda ekonomi uzmanları, akademisyenler ve sektör temsilcileri bir araya gelerek güncel ekonomik trendleri, piyasa hareketlerini ve kişisel finans stratejilerini detaylı şekilde izleyicilerle paylaşıyor. Tartışmalar, analizler ve örneklerle finans dünyasının karmaşık dinamikleri anlaşılır hale getiriliyor.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260207183000 +0000" stop="20260207193000 +0000" channel="ekoturk">
-    <title lang="tr">Soyut Şeyler Ekonomisi</title>
-    <desc lang="tr">Soyut Şeyler Ekonomisi, tarihsel, kültürel ve sanatsal değerlerimizi ekonomiye taşıyan konuklarla her hafta EKOTÜRK&#x27;te ekrana geliyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207193000 +0000" stop="20260207200000 +0000" channel="ekoturk">
-    <title lang="tr">Marka Değeri</title>
-    <desc lang="tr">Eda Elif Özbek ile Marka Değeri&#x27;nde Türkiye ve dünyanın güçlü markaları, başarı hikâyeleri ve ekonomik değerleri her Pazar 18:30&#x27;da EKOTÜRK&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207200000 +0000" stop="20260208033000 +0000" channel="ekoturk">
-    <title lang="tr">Pembe Masa</title>
-    <desc lang="tr">Özlem Esra Ada ile Pembe Masa Ekotürk&#x27;te.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
   <programme start="20260207000000 +0000" stop="20260207001500 +0000" channel="english-club-tv">
     <title lang="tr">English United</title>
     <desc lang="tr">Creative American teacher and blogger Luke Priddy introduces the intricacies of the American English and the cultural specifics of the United States.</desc>
@@ -11259,371 +11447,6 @@ Usta sanatkârların sanat serüvenlerini ve ömür safahatından gönüllerinde
     <title lang="tr">Gece Haberi</title>
     <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207000000 +0000" stop="20260207004000 +0000" channel="flash-haber">
-    <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207004000 +0000" stop="20260207005000 +0000" channel="flash-haber">
-    <title lang="tr">Konsol</title>
-    <desc lang="tr">Konsol Programı, oyun ve oyuncu dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Yeni çıkan oyunlar, konsol incelemeleri, turnuvalar, donanım tanıtımları ve uzman yorumlarıyla hem eğlenceli hem de bilgilendirici bir deneyim sunuyor. Oyunseverler için haberler, ipuçları ve öneriler tek çatı altında toplanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207005000 +0000" stop="20260207005500 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207005500 +0000" stop="20260207010000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207010000 +0000" stop="20260207014000 +0000" channel="flash-haber">
-    <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207014000 +0000" stop="20260207015500 +0000" channel="flash-haber">
-    <title lang="tr">Oto Flash</title>
-    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207015500 +0000" stop="20260207020000 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207020000 +0000" stop="20260207023000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207023000 +0000" stop="20260207024500 +0000" channel="flash-haber">
-    <title lang="tr">Ekonomi Hattı</title>
-    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207024500 +0000" stop="20260207030000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207030000 +0000" stop="20260207033000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207033000 +0000" stop="20260207034500 +0000" channel="flash-haber">
-    <title lang="tr">Bilim Hattı</title>
-    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207034500 +0000" stop="20260207040000 +0000" channel="flash-haber">
-    <title lang="tr">Yeşil Hat</title>
-    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207040000 +0000" stop="20260207043000 +0000" channel="flash-haber">
-    <title lang="tr">Gün Başlıyor</title>
-    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207043000 +0000" stop="20260207045900 +0000" channel="flash-haber">
-    <title lang="tr">Yeşil Hat</title>
-    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207045900 +0000" stop="20260207050000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207050000 +0000" stop="20260207053000 +0000" channel="flash-haber">
-    <title lang="tr">Gün Başlıyor</title>
-    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207053000 +0000" stop="20260207055900 +0000" channel="flash-haber">
-    <title lang="tr">Bilim Hattı</title>
-    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207055900 +0000" stop="20260207060000 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207060000 +0000" stop="20260207063000 +0000" channel="flash-haber">
-    <title lang="tr">Gün Başlıyor</title>
-    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207063000 +0000" stop="20260207064500 +0000" channel="flash-haber">
-    <title lang="tr">Oto Flash</title>
-    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207064500 +0000" stop="20260207065700 +0000" channel="flash-haber">
-    <title lang="tr">Flash Vizyon</title>
-    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207065700 +0000" stop="20260207070000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207070000 +0000" stop="20260207073000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207073000 +0000" stop="20260207075300 +0000" channel="flash-haber">
-    <title lang="tr">Donanım Günlüğü</title>
-    <desc lang="tr">Donanım Günlüğü, teknoloji dünyasındaki en yeni donanımları, performans testlerini ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Ekran kartlarından işlemcilere, oyun ekipmanlarından aksesuar incelemelerine kadar pek çok başlık sade ve anlaşılır bir dille ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207075300 +0000" stop="20260207075500 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207075500 +0000" stop="20260207080000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207080000 +0000" stop="20260207084000 +0000" channel="flash-haber">
-    <title lang="tr">Söz Masada</title>
-    <desc lang="tr">Söz Masada, gündemdeki sıcak gelişmeleri izleyiciye aktaran, haber ve analizleri bir araya getiren dinamik bir programdır. Siyaset, ekonomi ve sosyal konularda önemli bilgiler sunar, uzman yorumlarıyla olayları derinlemesine inceler.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207084000 +0000" stop="20260207085300 +0000" channel="flash-haber">
-    <title lang="tr">Tekno Flash</title>
-    <desc lang="tr">Tekno Flash, dijital dünyanın en yeni gelişmelerini izleyiciyle buluşturuyor. Yapay zekâ, yazılım, akıllı cihazlar, oyun sektörü ve sosyal medya trendleri sade ve anlaşılır bir dille ele alınıyor. Uzman yorumları ve özel röportajlarla zenginleşen program, teknoloji dünyasının rehberini sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207085300 +0000" stop="20260207085500 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207085500 +0000" stop="20260207090000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207090000 +0000" stop="20260207094000 +0000" channel="flash-haber">
-    <title lang="tr">Hafta Sonu</title>
-    <desc lang="tr">İzleyicilere hafta sonu gündemini, güncel haberleri, magazin gelişmelerini ve özel röportajları sunan bilgilendirici bir programdır. Sosyal olaylar, kültür-sanat etkinlikleri ve spor haberleri detaylı şekilde ele alınır. Program, bilgi ve eğlence sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207094000 +0000" stop="20260207095400 +0000" channel="flash-haber">
-    <title lang="tr">Kültür Sanat</title>
-    <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207095400 +0000" stop="20260207095600 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207095600 +0000" stop="20260207100000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207100000 +0000" stop="20260207104000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207104000 +0000" stop="20260207105500 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207105500 +0000" stop="20260207110000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207110000 +0000" stop="20260207114000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207114000 +0000" stop="20260207120000 +0000" channel="flash-haber">
-    <title lang="tr">Yeşil Hat</title>
-    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207120000 +0000" stop="20260207123000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207123000 +0000" stop="20260207124000 +0000" channel="flash-haber">
-    <title lang="tr">Konsol</title>
-    <desc lang="tr">Konsol Programı, oyun ve oyuncu dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Yeni çıkan oyunlar, konsol incelemeleri, turnuvalar, donanım tanıtımları ve uzman yorumlarıyla hem eğlenceli hem de bilgilendirici bir deneyim sunuyor. Oyunseverler için haberler, ipuçları ve öneriler tek çatı altında toplanıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207124000 +0000" stop="20260207125400 +0000" channel="flash-haber">
-    <title lang="tr">Bushcraft Baycan</title>
-    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207125400 +0000" stop="20260207125600 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207125600 +0000" stop="20260207130000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207130000 +0000" stop="20260207133000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207133000 +0000" stop="20260207134500 +0000" channel="flash-haber">
-    <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260207134500 +0000" stop="20260207135700 +0000" channel="flash-haber">
-    <title lang="tr">Flash Vizyon</title>
-    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207135700 +0000" stop="20260207140000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207140000 +0000" stop="20260207143000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207143000 +0000" stop="20260207144500 +0000" channel="flash-haber">
-    <title lang="tr">Oto Flash</title>
-    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207144500 +0000" stop="20260207150000 +0000" channel="flash-haber">
-    <title lang="tr">Ekonomi Hattı</title>
-    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207150000 +0000" stop="20260207151000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207151000 +0000" stop="20260207153300 +0000" channel="flash-haber">
-    <title lang="tr">Donanım Günlüğü</title>
-    <desc lang="tr">Donanım Günlüğü, teknoloji dünyasındaki en yeni donanımları, performans testlerini ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Ekran kartlarından işlemcilere, oyun ekipmanlarından aksesuar incelemelerine kadar pek çok başlık sade ve anlaşılır bir dille ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207153300 +0000" stop="20260207153500 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207153500 +0000" stop="20260207155000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207155000 +0000" stop="20260207160000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207160000 +0000" stop="20260207164500 +0000" channel="flash-haber">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini Türkiye ve dünyadan başlıklarla izleyiciye aktaran kapsamlı bir haber programıdır. Siyaset, ekonomi, güvenlik ve toplumsal olaylar detaylı biçimde ele alınırken, canlı bağlantılar, uzman yorumları ve özel röportajlarla içerik zenginleştirilir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207164500 +0000" stop="20260207170000 +0000" channel="flash-haber">
-    <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260207170000 +0000" stop="20260207173000 +0000" channel="flash-haber">
-    <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207173000 +0000" stop="20260207175900 +0000" channel="flash-haber">
-    <title lang="tr">Yeşil Hat</title>
-    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207175900 +0000" stop="20260207180000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207180000 +0000" stop="20260207183000 +0000" channel="flash-haber">
-    <title lang="tr">Şevval Şirin İle Güncel</title>
-    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207183000 +0000" stop="20260207185900 +0000" channel="flash-haber">
-    <title lang="tr">Bilim Hattı</title>
-    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207185900 +0000" stop="20260207190000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207190000 +0000" stop="20260207193000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207193000 +0000" stop="20260207194500 +0000" channel="flash-haber">
-    <title lang="tr">Spor Hattı</title>
-    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260207194500 +0000" stop="20260207200000 +0000" channel="flash-haber">
-    <title lang="tr">Ekonomi Hattı</title>
-    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207200000 +0000" stop="20260207203000 +0000" channel="flash-haber">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Flash haber, günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar derli toplu bir özet halinde ekrana taşınır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260207203000 +0000" stop="20260207204400 +0000" channel="flash-haber">
-    <title lang="tr">Bushcraft Baycan</title>
-    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207204400 +0000" stop="20260207205300 +0000" channel="flash-haber">
-    <title lang="tr">Flash Vizyon</title>
-    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260207205300 +0000" stop="20260207205500 +0000" channel="flash-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260207205500 +0000" stop="20260207210000 +0000" channel="flash-haber">
-    <title lang="tr">Kuş Bakışı</title>
-    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260207030000 +0000" stop="20260207050000 +0000" channel="fm-tv">
     <title lang="tr">Mukabele</title>
@@ -13627,6 +13450,18 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Güller ve Günahlar</title>
     <desc lang="tr">Zeynep, Kader&#x27;in evden kaçmasıyla darmadağın olur. Serhat&#x27;la birlikte Kader&#x27;i bulmak için her türlü yolu denerken Kader, vakit geçirdikçe Pelin&#x27;den korkmaya başlar. Ebru, evden ayrılıp Cihan&#x27;ın yanına yerleşirken Tibet, Serhat&#x27;a olan öfkesiyle ölümcül bir planı devreye sokar. Zeynep ve Serhat Tibet&#x27;in planına hazırlıksız yakalanırlar.</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260207030000 +0000" stop="20260207090000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260207090000 +0000" stop="20260207150000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260207150000 +0000" stop="20260207210000 +0000" channel="kanal-t">
+    <title lang="tr">Kanal T</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260207000000 +0000" stop="20260207003000 +0000" channel="kanal-v">
     <title lang="tr">Anlaşabilirsiniz</title>
@@ -17621,9 +17456,9 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <desc lang="tr">Sezon Lansmanı</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260207130000 +0000" stop="20260207150000 +0000" channel="s-sport">
-    <title lang="tr">Rayo Vallecano - Real Oviedo</title>
-    <desc lang="tr">İspanya Laliga 23. Hafta Maçı</desc>
+  <programme start="20260207140000 +0000" stop="20260207150000 +0000" channel="s-sport">
+    <title lang="tr">Euroleague</title>
+    <desc lang="tr">Özetler</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260207150000 +0000" stop="20260207151500 +0000" channel="s-sport">
@@ -19638,29 +19473,24 @@ Farah Pehlevi&#x27;nin hayatından yayınlanmamış arşiv görüntülerinin yer
     <title lang="tr">İHA Haber</title>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260207150000 +0000" stop="20260207163000 +0000" channel="tivi6">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Birbirinden farklı konularda ekranlara gelen belgeseller izleyenlerle buluşuyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207163000 +0000" stop="20260207170000 +0000" channel="tivi6">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Birbirinden farklı konularda ekranlara gelen belgeseller izleyenlerle buluşuyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260207170000 +0000" stop="20260207183000 +0000" channel="tivi6">
-    <title lang="tr">Yeşilçam Kuşağı</title>
-    <desc lang="tr">Yeşilçam sinemasının popüler filmleri izleyicilerle buluşuyor.</desc>
+  <programme start="20260207153000 +0000" stop="20260207170000 +0000" channel="tivi6">
+    <title lang="tr">Kutup Ayıları</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260207183000 +0000" stop="20260207194500 +0000" channel="tivi6">
-    <title lang="tr">Yabancı Sinema</title>
-    <desc lang="tr">Dünya sinemasının seçkin örnekleri ekrana geliyor.</desc>
+  <programme start="20260207170000 +0000" stop="20260207175000 +0000" channel="tivi6">
+    <title lang="tr">Bizimkiler</title>
+    <desc lang="tr">Bir apartmanda oturan, yöneticisinden kapıcısına kadar 7 farklı ailenin gündelik yaşamını, birbirleriyle ilişkilerini ve eksen ailenin, iş ve akrabalık ilişkilerini konu etmektedir.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260207194500 +0000" stop="20260207210000 +0000" channel="tivi6">
-    <title lang="tr">Yeşilçam Kuşağı</title>
-    <desc lang="tr">Yeşilçam sinemasının popüler filmleri izleyicilerle buluşuyor.</desc>
+  <programme start="20260207175000 +0000" stop="20260207195500 +0000" channel="tivi6">
+    <title lang="tr">Adsız Kılıç</title>
+    <desc lang="tr">Chosun Hanedanının son hükümdarı, kraliçe Myeongseong (Soo Ae) ile onun koruması ( Seung Woo Cho) arasındaki aşk anlatılmakta</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260207195500 +0000" stop="20260207210000 +0000" channel="tivi6">
+    <title lang="tr">Şehirler</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260207004000 +0000" stop="20260207012500 +0000" channel="tlc">
@@ -20571,9 +20401,14 @@ seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.
     <desc lang="tr">Kaçakçılığın her türüne karşı Türk Gümrük Muhafaza Teşkilatı tarafından 24 saat boyunca amansız yürütülen operasyonlar, kovalamacalar ve baskınlar... Hepsi ve daha fazlası &#x27;Gümrük 24 Saat&#x27; belgeselinde.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260207173500 +0000" stop="20260207183000 +0000" channel="trt-belgesel">
+  <programme start="20260207173500 +0000" stop="20260207180000 +0000" channel="trt-belgesel">
     <title lang="tr">Anadolu İnsanı</title>
     <desc lang="tr">Dünyanın merkezinde yer alan, kadim medeniyetlerin beşiği Anadolu... Benzersiz coğrafi güzellikleri kadar, içinde yaşadığı topraklara değer katan insanıyla da göz kamaştırıyor. Anadolu&#x27;da yedi bölgeye yayılan milyonlarca insanın; sabır, cesaret, fedakârlık, merhamet gibi farklı erdemler etrafında gelişen yaşam öyküleri, &#x27;Anadolu İnsanı&#x27; isimli programla TRT Belgesel ekranlarına taşınıyor. Türkiye&#x27;nin farklı bölgelerinden derlenen ve her bölümde birbirinden farklı hikâyelerin yer alacağı Anadolu İnsanı, bu coğrafyanın eşsiz güzelliğini ve destansı öykülerini çarpıcı bir dille izleyicilerle buluşturuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207180000 +0000" stop="20260207183000 +0000" channel="trt-belgesel">
+    <title lang="tr">Özdemir Bayraktar Belgeseli</title>
+    <desc lang="tr">Milli Teknoloji Hamlesi idealinin ve milli SİHA&#x27;ların öncü ismi Özdemir Bayraktar&#x27;ın anısına hazırlanan Özdemir Bayraktar Belgeseli ekranlara geliyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260207183000 +0000" stop="20260207185000 +0000" channel="trt-belgesel">
@@ -21424,6 +21259,207 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260207001500 +0000" stop="20260207004500 +0000" channel="trt-eba">
+    <title lang="tr">Felsefe - 11</title>
+    <desc lang="tr">Müfredata uygun olarak hazırlanan 11. Sınıflar için Felsefe Dersi</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207004500 +0000" stop="20260207011500 +0000" channel="trt-eba">
+    <title lang="tr">T.C. İnkilap Tarihi Ve Atatürkçülük - 12</title>
+    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için T.C. İnkılap Tarihi ve Atatürkçülük Dersi</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207011500 +0000" stop="20260207014500 +0000" channel="trt-eba">
+    <title lang="tr">Matematik - 12</title>
+    <desc lang="tr">Müfredata uygun olarak hazırlanan 12. Sınıflar için Matematik Dersi</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207014500 +0000" stop="20260207031500 +0000" channel="trt-eba">
+    <title lang="tr">Yks&#x27;ye Doğru</title>
+    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207031500 +0000" stop="20260207033000 +0000" channel="trt-eba">
+    <title lang="tr">Milli Parklar</title>
+    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207033000 +0000" stop="20260207034500 +0000" channel="trt-eba">
+    <title lang="tr">Olimpiyat Yıldızları</title>
+    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207034500 +0000" stop="20260207040000 +0000" channel="trt-eba">
+    <title lang="tr">Sporcu Günlüğü</title>
+    <desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü&#x27;nde...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207040000 +0000" stop="20260207045000 +0000" channel="trt-eba">
+    <title lang="tr">Trt Eba Anaokulu</title>
+    <desc lang="tr">Uzman eğiticiler tarafından hazırlanan erken çocukluk eğitimi yayınları, Dünyanın en büyük duvarsız anaokulu sloganı ile okul öncesi çağındaki çocuklara görsel, duyusal ve zihinsel gelişim süreçleri için ihtiyaç duydukları eğitimi sağlamayı amaçlıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207045000 +0000" stop="20260207050000 +0000" channel="trt-eba">
+    <title lang="tr">Kozalak Anaokulu</title>
+    <desc lang="tr">Anaokulu öğrencilerine yönelik eğitici ve öğretici program.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207050000 +0000" stop="20260207051500 +0000" channel="trt-eba">
+    <title lang="tr">Milli Parklar</title>
+    <desc lang="tr">Dört mevsimin yaşandığı Anadolu&#x27;da doğa güzellikleriyle ön plana çıkan ve korumaya alınmış milli parklarımızı ekranınıza getiriyoruz.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207051500 +0000" stop="20260207054500 +0000" channel="trt-eba">
+    <title lang="tr">Mavi Tutku</title>
+    <desc lang="tr">Sualtının büyülü dünyasını ekranlara taşıyan Mavi Tutku, Türkiye ve Dünya denizlerinden görüntülerle izleyici ile buluşuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207054500 +0000" stop="20260207061500 +0000" channel="trt-eba">
+    <title lang="tr">Genç Yetenekler</title>
+    <desc lang="tr">Müziğe ilgi duyan, hayalinde müzik olanve enstrümanlarıyla yol alan Genç Yetenekler...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207061500 +0000" stop="20260207063000 +0000" channel="trt-eba">
+    <title lang="tr">Beslenme Çantası</title>
+    <desc lang="tr">Diyetisyen ve sağlıklı beslenme uzmanı Andaç Yeşilyurt&#x27;un sunuculuğunu üstlendiği programda; çocukların verilen tariflerle yemek yapmayı eğlenerek öğrenmeleri vehayal gücü ile el becerilerini geliştirmeleri amaçlanmıştır. Program, çocukların ailelerine de sağlıklı beslenme tüyoları verirken her hafta başka bir çocuk beslenme çantasını doldurmak için kolları sıvadı. Beslenme uzmanının desteğiyle tariflerini hayata geçiren çocuklar hem hayallerindeki beslenme çantası içeriğini hazırladı hem de basit tariflerle gastronomi dünyasına adım atıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207063000 +0000" stop="20260207071500 +0000" channel="trt-eba">
+    <title lang="tr">Savunma Sanayiinin Yalnız Dehaları</title>
+    <desc lang="tr">Milli hamlelerle güçlenen Türk Savunma Sanayii bütün ilhamını onların öyküsünden aldı. Tüm engellere rağmen vazgeçmedi ve bu yola baş koydular. Savunma Sanayiinin Yalnız Dehaları belgeseli Nuri Demirağ, Vecihi Hürkuş, Nuri Killigil, Şakir Zümre ve Necmettin Erbakan&#x27;ın mücadele dolu yaşamlarını dökü - drama yoluyla aktarıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207071500 +0000" stop="20260207081500 +0000" channel="trt-eba">
+    <title lang="tr">Lgs&#x27;ye Doğru</title>
+    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207081500 +0000" stop="20260207083000 +0000" channel="trt-eba">
+    <title lang="tr">Olimpiyat Yıldızları</title>
+    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207083000 +0000" stop="20260207095000 +0000" channel="trt-eba">
+    <title lang="tr">Yks&#x27;ye Doğru</title>
+    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207095000 +0000" stop="20260207100000 +0000" channel="trt-eba">
+    <title lang="tr">Teknoloji Yolculuğumuz</title>
+    <desc lang="tr">Türkiye&#x27;nin bilim ve teknoloji alanında öncülük eden yerli ve milli kuruluşları tanıtılıyo</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207100000 +0000" stop="20260207101000 +0000" channel="trt-eba">
+    <title lang="tr">Bilim Merkezleri</title>
+    <desc lang="tr">Türkiye&#x27;nin öne çıkan bilim merkezleri tanıtılıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207101000 +0000" stop="20260207103000 +0000" channel="trt-eba">
+    <title lang="tr">Bizim Şehrin Çocukları</title>
+    <desc lang="tr">Köy yaşamının rutininde yer alan işlerin şehirde doğup büyüyen çocuklarca tecrübe edildiği, ayrıca keyifli, dinamik ve bilgi dolu içeriklerin yer aldığı program izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207103000 +0000" stop="20260207110000 +0000" channel="trt-eba">
+    <title lang="tr">Bilimin Ev Hali</title>
+    <desc lang="tr">Bilim sadece üniversiteler ve araştırma merkezleri ile sınırlı değil. Bilim her yerde... Evinizde, mutfağınızda, işyerinizde, kullandığınız tüm araçlarda...Etrafınızdaki her şey bir fikrin, bir düşüncenin, bir keşfin ürünü...
+İşte bu motivasyonla Bilimin Ev Hali&#x27; ni hazırladık. Bu seri size etrafınızdaki dünyanın nasıl çalıştığını anlatacak. Eğlenceli bir biçimde...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207110000 +0000" stop="20260207113000 +0000" channel="trt-eba">
+    <title lang="tr">Mavi Tutku</title>
+    <desc lang="tr">Sualtının büyülü dünyasını ekranlara taşıyan Mavi Tutku, Türkiye ve Dünya denizlerinden görüntülerle izleyici ile buluşuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207113000 +0000" stop="20260207120000 +0000" channel="trt-eba">
+    <title lang="tr">Genç Yetenekler</title>
+    <desc lang="tr">Müziğe ilgi duyan, hayalinde müzik olanve enstrümanlarıyla yol alan Genç Yetenekler...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207120000 +0000" stop="20260207121500 +0000" channel="trt-eba">
+    <title lang="tr">Beslenme Çantası</title>
+    <desc lang="tr">Diyetisyen ve sağlıklı beslenme uzmanı Andaç Yeşilyurt&#x27;un sunuculuğunu üstlendiği programda; çocukların verilen tariflerle yemek yapmayı eğlenerek öğrenmeleri vehayal gücü ile el becerilerini geliştirmeleri amaçlanmıştır. Program, çocukların ailelerine de sağlıklı beslenme tüyoları verirken her hafta başka bir çocuk beslenme çantasını doldurmak için kolları sıvadı. Beslenme uzmanının desteğiyle tariflerini hayata geçiren çocuklar hem hayallerindeki beslenme çantası içeriğini hazırladı hem de basit tariflerle gastronomi dünyasına adım atıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207121500 +0000" stop="20260207130000 +0000" channel="trt-eba">
+    <title lang="tr">Savunma Sanayiinin Yalnız Dehaları</title>
+    <desc lang="tr">Milli hamlelerle güçlenen Türk Savunma Sanayii bütün ilhamını onların öyküsünden aldı. Tüm engellere rağmen vazgeçmedi ve bu yola baş koydular. Savunma Sanayiinin Yalnız Dehaları belgeseli Nuri Demirağ, Vecihi Hürkuş, Nuri Killigil, Şakir Zümre ve Necmettin Erbakan&#x27;ın mücadele dolu yaşamlarını dökü - drama yoluyla aktarıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="trt-eba">
+    <title lang="tr">Lgs&#x27;ye Doğru</title>
+    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207140000 +0000" stop="20260207141500 +0000" channel="trt-eba">
+    <title lang="tr">Olimpiyat Yıldızları</title>
+    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207141500 +0000" stop="20260207153500 +0000" channel="trt-eba">
+    <title lang="tr">Yks&#x27;ye Doğru</title>
+    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207153500 +0000" stop="20260207154500 +0000" channel="trt-eba">
+    <title lang="tr">Teknoloji Yolculuğumuz</title>
+    <desc lang="tr">Türkiye&#x27;nin bilim ve teknoloji alanında öncülük eden yerli ve milli kuruluşları tanıtılıyo</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207154500 +0000" stop="20260207160000 +0000" channel="trt-eba">
+    <title lang="tr">Okulda Sanat</title>
+    <desc lang="tr">Sanata ve müziğe tutkulu olan gençlerin okulda aldıkları sanat eğitimi, sanat uğruna sergiledikleri çabaları ve geleceğe ait hayalleri ekrana taşınıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207160000 +0000" stop="20260207161500 +0000" channel="trt-eba">
+    <title lang="tr">Evde Tek Başıma</title>
+    <desc lang="tr">Ailesi çalışan ve okuldan sonra evde tek başına kalmak zorunda olan öğrencilerin aileleri gelene kadar evde yaşadıkları süreçler ekrana geliyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207161500 +0000" stop="20260207163500 +0000" channel="trt-eba">
+    <title lang="tr">Bizim Şehrin Çocukları</title>
+    <desc lang="tr">Köy yaşamının rutininde yer alan işlerin şehirde doğup büyüyen çocuklarca tecrübe edildiği, ayrıca keyifli, dinamik ve bilgi dolu içeriklerin yer aldığı program izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207163500 +0000" stop="20260207164500 +0000" channel="trt-eba">
+    <title lang="tr">Bilim Merkezleri</title>
+    <desc lang="tr">Türkiye&#x27;nin öne çıkan bilim merkezleri tanıtılıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207164500 +0000" stop="20260207171500 +0000" channel="trt-eba">
+    <title lang="tr">Mavi Tutku</title>
+    <desc lang="tr">Sualtının büyülü dünyasını ekranlara taşıyan Mavi Tutku, Türkiye ve Dünya denizlerinden görüntülerle izleyici ile buluşuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260207171500 +0000" stop="20260207174500 +0000" channel="trt-eba">
+    <title lang="tr">Genç Yetenekler</title>
+    <desc lang="tr">Müziğe ilgi duyan, hayalinde müzik olanve enstrümanlarıyla yol alan Genç Yetenekler...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207174500 +0000" stop="20260207180000 +0000" channel="trt-eba">
+    <title lang="tr">Beslenme Çantası</title>
+    <desc lang="tr">Diyetisyen ve sağlıklı beslenme uzmanı Andaç Yeşilyurt&#x27;un sunuculuğunu üstlendiği programda; çocukların verilen tariflerle yemek yapmayı eğlenerek öğrenmeleri vehayal gücü ile el becerilerini geliştirmeleri amaçlanmıştır. Program, çocukların ailelerine de sağlıklı beslenme tüyoları verirken her hafta başka bir çocuk beslenme çantasını doldurmak için kolları sıvadı. Beslenme uzmanının desteğiyle tariflerini hayata geçiren çocuklar hem hayallerindeki beslenme çantası içeriğini hazırladı hem de basit tariflerle gastronomi dünyasına adım atıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207180000 +0000" stop="20260207184500 +0000" channel="trt-eba">
+    <title lang="tr">Savunma Sanayiinin Yalnız Dehaları</title>
+    <desc lang="tr">Milli hamlelerle güçlenen Türk Savunma Sanayii bütün ilhamını onların öyküsünden aldı. Tüm engellere rağmen vazgeçmedi ve bu yola baş koydular. Savunma Sanayiinin Yalnız Dehaları belgeseli Nuri Demirağ, Vecihi Hürkuş, Nuri Killigil, Şakir Zümre ve Necmettin Erbakan&#x27;ın mücadele dolu yaşamlarını dökü - drama yoluyla aktarıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207184500 +0000" stop="20260207194500 +0000" channel="trt-eba">
+    <title lang="tr">Lgs&#x27;ye Doğru</title>
+    <desc lang="tr">Liselere Giriş Sınavı&#x27;na hazırlanmakta olan öğrencilerin örnek soru ve çözümleri ile sınavlara uzaktan eğitimle kolaylıkla hazırlanmaları sağlanıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207194500 +0000" stop="20260207200000 +0000" channel="trt-eba">
+    <title lang="tr">Olimpiyat Yıldızları</title>
+    <desc lang="tr">OLİMPİYATLARA KATILMA HAKKI ALMIŞ VE ALMAYA YAKIN SPORCULARIN HAZIRLIKLARI VE GÜNLÜK HAYATLARINI KONU ALIR</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260207200000 +0000" stop="20260207212000 +0000" channel="trt-eba">
+    <title lang="tr">Yks&#x27;ye Doğru</title>
+    <desc lang="tr">Yükseköğretim Kurumları Sınavı&#x27;na hazırlanan öğrenciler için sınav müfredatına uygun olarak Milli Eğitim Bakanlığı öğretmenlerinin anlatımlarıyla yapımı gerçekleşen YKS&#x27;ye Doğru TRT EBA ekranında yer alıyor</desc>
+    <category lang="tr">Eğitim</category>
   </programme>
   <programme start="20260207000000 +0000" stop="20260207000500 +0000" channel="trt-genc">
     <title lang="tr">Doğada 1 Dakika</title>
@@ -22910,6 +22946,11 @@ Hüseyin, yeni tip ağıtçılık işine girer. Bu durum Nergis&#x27;in danışa
     <title lang="tr">Devlet Kuşu</title>
     <desc lang="tr">Yoksul mahallede yaşayan Mustafa, komşusu Aynur&#x27;a âşıktır fakat bir gün zengin bir işadamı ve kızı Hülya mahalleye gelir. Hülya Mustafa&#x27;ya ilgi duyar ve Mustafa, ailesini kurtarmak için zengin dünyasına çekilir. Paranın ve aşkın peşinde seçim yapmak zorunda kalır.</desc>
     <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260207140000 +0000" stop="20260207210000 +0000" channel="tv-ekstra-ufc">
+    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
+    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260207000000 +0000" stop="20260207030000 +0000" channel="tv-info">
     <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
