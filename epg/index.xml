@@ -1592,50 +1592,50 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <desc lang="tr">Akit TV Öğle Bülteni, günün ilk yarısında yaşanan önemli gelişmeleri izleyiciyle buluşturur. Ülke ve dünya gündemi, politika, ekonomi, kültür-sanat ve yaşam haberleri canlı bağlantılar, uzman yorumları ve deneyimli muhabirlerle aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209110000 +0000" stop="20260209120000 +0000" channel="akit-tv">
+  <programme start="20260209110000 +0000" stop="20260209113000 +0000" channel="akit-tv">
     <title lang="tr">Gün Ortası</title>
     <desc lang="tr">Akit TV Gün Ortası, günün ortasında izleyicilere ülke ve dünya gündemindeki önemli gelişmeleri sunar. Politika, ekonomi, kültür-sanat ve yaşam konuları canlı bağlantılar, uzman yorumları ve deneyimli sunucular eşliğinde detaylı ve anlaşılır biçimde ele alınır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209120000 +0000" stop="20260209123000 +0000" channel="akit-tv">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260209123000 +0000" stop="20260209130000 +0000" channel="akit-tv">
+  <programme start="20260209113000 +0000" stop="20260209120000 +0000" channel="akit-tv">
     <title lang="tr">Ekonomi Ajandası</title>
     <desc lang="tr">Akit TV Ekonomi Ajandası, finans dünyasındaki son gelişmeleri ve ekonomik gündemi izleyiciyle buluşturur. Döviz, borsa, faiz ve yatırım konuları; ekonomi uzmanları ve analistlerin yorumlarıyla ele alınır. Güncel veriler ve canlı bağlantılarla piyasalar detaylı şekilde analiz edilir.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209130000 +0000" stop="20260209140000 +0000" channel="akit-tv">
+  <programme start="20260209120000 +0000" stop="20260209130000 +0000" channel="akit-tv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209140000 +0000" stop="20260209150000 +0000" channel="akit-tv">
+  <programme start="20260209130000 +0000" stop="20260209140000 +0000" channel="akit-tv">
     <title lang="tr">Haber 16</title>
     <desc lang="tr">Haber, gündemin nabzını tutan doğru, tarafsız ve hızlı bir haber programıdır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, çevre, teknoloji ve daha birçok alandaki önemli gelişmeler canlı bağlantılar, özel haberler ve uzman yorumlarla izleyiciye sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209150000 +0000" stop="20260209154500 +0000" channel="akit-tv">
+  <programme start="20260209140000 +0000" stop="20260209143000 +0000" channel="akit-tv">
     <title lang="tr">Akşama Doğru</title>
     <desc lang="tr">Akşama Doğru, günün ilerleyen saatlerinde yaşanan önemli gelişmeleri izleyiciyle buluşturur. Politika, ekonomi, toplumsal olaylar ve kültür-sanat gündemi; uzman konuklar, analizler ve canlı bağlantılarla detaylı şekilde ele alınır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209154500 +0000" stop="20260209170000 +0000" channel="akit-tv">
+  <programme start="20260209143000 +0000" stop="20260209153000 +0000" channel="akit-tv">
     <title lang="tr">İş ve Ekonomi</title>
     <desc lang="tr">Paranın yönü, zamlar, vergiler, dış yatırımlar, ekonominin lokomotif sektörlerinde olup bitenler, şirketlerden haberler, piyasaların kapanış rakamları, yatırımcıya rehber olacak tüyolar Sami Türkkan &#x27;ın sunumu ve uzman değerlendirmeleri eşliğinde İş ve Ekonomi programında.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209170000 +0000" stop="20260209183000 +0000" channel="akit-tv">
+  <programme start="20260209153000 +0000" stop="20260209173000 +0000" channel="akit-tv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Akit TV Ana Haber, günün en önemli gelişmelerini ve ülke ile dünya gündemini kapsamlı şekilde izleyiciye sunar. Politika, ekonomi, toplumsal olaylar ve kültür-sanat alanındaki kritik haberler; deneyimli sunucular, uzman yorumları ve canlı bağlantılarla aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209183000 +0000" stop="20260209213000 +0000" channel="akit-tv">
-    <title lang="tr">Söz Meydanı</title>
-    <desc lang="tr">Söz Meydanı, Türkiye&#x27;nin geleceğini gençlerin bakış açısıyla ele alan bir programdır. Siyaset, toplum, eğitim ve ülkeyi ilgilendiren başlıklar gençlerin görüşleriyle tartışılır. Farklı düşünceler özgürce ifade edilir ve güncel konular derinlemesine incelenir.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260209173000 +0000" stop="20260209203000 +0000" channel="akit-tv">
+    <title lang="tr">Gündem Analiz</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki kritik başlıkları objektif ve kapsamlı bir yaklaşımla ele alır. Siyasi, ekonomik ve toplumsal gelişmeler uzman konukların katkılarıyla detaylandırılır. İzleyicilere hem güncel bilgiyi hem de derinlemesine analizleri bir arada sunarak karar verme süreçlerine ışık tutmayı hedefler.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260209203000 +0000" stop="20260210040000 +0000" channel="akit-tv">
+    <title lang="tr">Gece Ajansı</title>
+    <desc lang="tr">Günden Kalanlar, günün siyasi gündemi, önemli gelişmeleri ve farklı bakış açılarını ekrana taşıyan bir programdır. Canlı bağlantılar, son dakika haberleri ve konuk yorumlarıyla izleyiciye detaylı ve kapsamlı bir haber sunar. Gece boyunca gündem hız kesmeden izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260209000000 +0000" stop="20260209010000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">Newshour</title>
@@ -3061,6 +3061,158 @@ Ali, otoriter babası Faik Aydan&#x27;ın baskıları ve Karanoğlu ailesinin k�
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260209084500 +0000" stop="20260209085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209124400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209124500 +0000" stop="20260209125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209130000 +0000" stop="20260209144400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Manisa FK - Boluspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209144500 +0000" stop="20260209165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Gaziantep F.K. - Kasımpaşa</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209193000 +0000" stop="20260209213000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209084500 +0000" stop="20260209085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Burnley - West Ham United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209104500 +0000" stop="20260209105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209110000 +0000" stop="20260209125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Brentford</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209130000 +0000" stop="20260209144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton H. A.-Crystal Palace</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209144500 +0000" stop="20260209145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209150000 +0000" stop="20260209165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Manchester City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United-Nottingham Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209173000 +0000" stop="20260209175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. United-Tottenham Hotspur</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209180000 +0000" stop="20260209182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Arsenal - Sunderland</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209183000 +0000" stop="20260209185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Wolverhampton W. - Chelsea</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209190000 +0000" stop="20260209192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Aston Villa</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209193000 +0000" stop="20260209195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209200000 +0000" stop="20260209220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209084500 +0000" stop="20260209085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nice - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209104500 +0000" stop="20260209105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209110000 +0000" stop="20260209124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Havre - Strasbourg</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209124500 +0000" stop="20260209125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209130000 +0000" stop="20260209144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Auxerre - Paris FC</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209144500 +0000" stop="20260209145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209150000 +0000" stop="20260209164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">PSG- Olympique de Marseille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209164500 +0000" stop="20260209165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209173000 +0000" stop="20260209175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209180000 +0000" stop="20260209182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lens - Rennes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209183000 +0000" stop="20260209185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Lorient</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209190000 +0000" stop="20260209192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nantes - Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209193000 +0000" stop="20260209195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nice - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209200000 +0000" stop="20260209202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Havre - Strasbourg</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260209203000 +0000" stop="20260209223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260209050000 +0000" stop="20260209070000 +0000" channel="benguturk">
     <title lang="tr">Sevde Namalan ile Bu Sabah</title>
     <desc lang="tr">Sevde Namalan ile Bu Sabah, Bengütürk&#x27;te gündem, analiz ve sıcak konuları izleyicilerle buluşturan bilgilendirici sabah programıdır.</desc>
@@ -3207,29 +3359,25 @@ Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgaz
     <desc lang="tr">Kapadokya&#x27;nın nefes kesen güzelliklerinde geçen aşk hikayesinde taşlar yerinden oynuyor, dengeler değişiyor. Kara bulutlar dolaşırken yeni aşklar, yeni heyecanlar, dargınlıklar, entrikalar zirveye çıkıyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260209100000 +0000" stop="20260209120000 +0000" channel="bi-kanal">
-    <title lang="tr">Karagül</title>
-    <desc lang="tr">Doğulu zengin bir ailenin oğlu Murat, İstanbul&#x27;da zarif eşi  Ebru ve 3 çocuğuyla mutlu bir hayat sürmektedir. Bu peri masalı Murat&#x27;ın aniden ortadan kaybolmasıyla Ebru ve çocuklar için büyük bir yıkıma dönüşür.
-
-Murat&#x27;ın kayboluşunun ardından Murat&#x27;ın memleketi Halfeti&#x27;ye giden Ebru, kocasının kendinden gizlediği iflas gerçeğiyle yüzleşir. Diğer yandan eşinin ailesiyle mücadele etmek zorunda kalır. İstanbul&#x27;dan gelen bu narin ve iyi yetişmiş kadın, karagül gibi bu topraklarda kalmak için direnecek mi yoksa tüm bu mücadeleden vazgeçip kendi yolunu mu çizecek?</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
   <programme start="20260209120000 +0000" stop="20260209140000 +0000" channel="bi-kanal">
-    <title lang="tr">Lale Devri</title>
-    <desc lang="tr">Geleneklerine bağlı, Anadolulu Ilgaz Ailesi, Lale Devri’nin zirvesindeyken, İstanbullu ve cemiyet hayatının tanınan ailesi Taşkıranlar, Lale Devri’nin son demlerini yaşamaktadır. Ve iki ailenin yolu iş hayatının tam ortasında, büyük bir aşkla kesişir. 
-
-Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgazlar aralarındaki sorunları çözüp gerçek bir aile olabilecek mi?</desc>
-    <category lang="tr">Dizi</category>
+    <title lang="tr">Adanaspor - Kahramanmaraş</title>
+    <desc lang="tr">TFF 2. Lig karşılaşması ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260209140000 +0000" stop="20260209160000 +0000" channel="bi-kanal">
     <title lang="tr">Beyaz Köle</title>
     <desc lang="tr">Victoria Quintero, El Edén arazisinin sahibi Don Domingo Quintero ve eşi Elena&#x27;nın kızı olarak doğar. Birkaç hafta içinde, Quintero arazisini isteyen komşu toprak sahibi ve tüccar Nicols Parreo tarafından kasıtlı olarak başlatılan bir yangında ebeveynleri ölür. Victoria, siyah dadı Lorenza ve kocası Toms tarafından kurtarılır. Victoria, kızları Milagros ve Rosita ile birlikte ormanın derinliklerindeki bir palenque&#x27;ye götürülür ve burada on iki yıl boyunca bir köle olarak büyür.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260209160000 +0000" stop="20260209200000 +0000" channel="bi-kanal">
+  <programme start="20260209160000 +0000" stop="20260209183000 +0000" channel="bi-kanal">
     <title lang="tr">Can Bağı</title>
     <desc lang="tr">Mahinur Aydın ve Aras Yılmazer’in hayatları, birkaç yıl önce yaşanan dramatik bir hastane hatasıyla derin bir şekilde bağlanmıştır. Şu anda zor bir hayat süren Mahinur, kontrolcü kocası Kenan ve kızları Bade ile sürekli dış zorluklarla yüzleşmektedir.</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260209183000 +0000" stop="20260209200000 +0000" channel="bi-kanal">
+    <title lang="tr">Ölüler Akvaryumu</title>
+    <desc lang="tr">Bilimsel bir kaza sonucu akvaryumdaki deniz canlıları zombiye dönüşür.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260209200000 +0000" stop="20260209204500 +0000" channel="bi-kanal">
     <title lang="tr">Lig Özetleri</title>
@@ -7660,6 +7808,46 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <title lang="tr">Denetim Altında</title>
     <desc lang="tr">Ekipler her gün restoranlardaki ve gıda sektöründeki hijyen standartlarını kontrol ederek İtalyan vatandaşlarının sağlığını korur.</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260209040000 +0000" stop="20260209090000 +0000" channel="dream-turk">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209091500 +0000" channel="dream-turk">
+    <title lang="tr">Dream 10</title>
+    <desc lang="tr">Dream 10, listelerde öne çıkan ve dinleyicilerin favorisi olan en popüler 10 şarkıyı geri sayım formatında ekrana taşıyor. Güncel hitler, güçlü klipler ve müzik dünyasından öne çıkan notlar eşliğinde izleyiciye tempolu ve keyifli bir izleme deneyimi sunan program, müziğin nabzını tutuyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209091500 +0000" stop="20260209100000 +0000" channel="dream-turk">
+    <title lang="tr">Yepyeni</title>
+    <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209100000 +0000" stop="20260209140000 +0000" channel="dream-turk">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209140000 +0000" stop="20260209143000 +0000" channel="dream-turk">
+    <title lang="tr">Yepyeni</title>
+    <desc lang="tr">Yepyeni, Türk müzik dünyasına taze bir soluk getiren en yeni şarkıları ve klipleri müzikseverlerle buluşturuyor. Güncel çıkışlar ve yeni sesler programda bir araya geliyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209143000 +0000" stop="20260209160000 +0000" channel="dream-turk">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209160000 +0000" stop="20260209163000 +0000" channel="dream-turk">
+    <title lang="tr">Dream 10</title>
+    <desc lang="tr">Dream 10, listelerde öne çıkan ve dinleyicilerin favorisi olan en popüler 10 şarkıyı geri sayım formatında ekrana taşıyor. Güncel hitler, güçlü klipler ve müzik dünyasından öne çıkan notlar eşliğinde izleyiciye tempolu ve keyifli bir izleme deneyimi sunan program, müziğin nabzını tutuyor.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260209163000 +0000" stop="20260210040000 +0000" channel="dream-turk">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260209000000 +0000" stop="20260209000200 +0000" channel="duck-tv">
     <title lang="tr">Beaver Family</title>
@@ -13475,17 +13663,27 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Haber Global ekranında hafta içi sabah saatlerinde yayınlanan Yeni Gün programı gece boyunca yaşanan önemli gelişmeleri izleyiciye sunar. Gündemdeki son dakika haberleri, ekonomi, siyaset ve toplumla ilgili başlıklar sade ve akıcı anlatımla ele alınır. İzleyici günün haberlerini kapsamlı bir bakışla takip eder.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209090000 +0000" stop="20260209125500 +0000" channel="haber-global">
+  <programme start="20260209090000 +0000" stop="20260209120000 +0000" channel="haber-global">
     <title lang="tr">Gündem</title>
     <desc lang="tr">Hafta içi her gün yayınlanan ve Türkiye ile dünyada yaşanan önemli gelişmeleri izleyiciye aktaran haber programıdır. Son dakika haberleri, politika, toplum ve ekonomi gündeminden öne çıkan başlıklar sade bir dille ele alınıyor. İzleyici günün gelişmelerini hızlı ve derli toplu şekilde takip ediyor.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260209120000 +0000" stop="20260209125500 +0000" channel="haber-global">
+    <title lang="tr">Bugün</title>
+    <desc lang="tr">Haber Global Bugün hafta içi her gün yayınlanan ve Türkiye ile dünyada gün ortasında yaşanan önemli gelişmeleri izleyiciye aktaran haber programıdır. Siyaset, ekonomi ve toplumsal olaylardan öne çıkan başlıklar sade ve anlaşılır bir dille sunuluyor. Son dakika haberleri ve günün önemli gelişmeleriyle...</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260209125500 +0000" stop="20260209130000 +0000" channel="haber-global">
     <title lang="tr">Hava Durumu</title>
     <desc lang="tr">Haber Global Hava Durumu programı Türkiye&#x27;nin çeşitli şehirlerinde beklenen hava koşullarını izleyiciyle paylaşıyor. Sıcaklık değerleri, yağış ihtimali ve bölgesel tahminler günlük ve haftalık olarak ele alınıyor. İzleyici planlarını yaparken ihtiyaç duyduğu hava bilgilerini sade ve anlaşılır bir dille alıyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260209130000 +0000" stop="20260209160000 +0000" channel="haber-global">
+  <programme start="20260209130000 +0000" stop="20260209140000 +0000" channel="haber-global">
+    <title lang="tr">Bugün</title>
+    <desc lang="tr">Haber Global Bugün hafta içi her gün yayınlanan ve Türkiye ile dünyada gün ortasında yaşanan önemli gelişmeleri izleyiciye aktaran haber programıdır. Siyaset, ekonomi ve toplumsal olaylardan öne çıkan başlıklar sade ve anlaşılır bir dille sunuluyor. Son dakika haberleri ve günün önemli gelişmeleriyle...</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209140000 +0000" stop="20260209160000 +0000" channel="haber-global">
     <title lang="tr">Günün Nabzı</title>
     <desc lang="tr">Haber Global&#x27;de, deneyimli televizyon habercisi Saynur Tezel, hafta içi her gün günün nabzını tutuyor. Siyaset, ekonomi, diplomasi, strateji ve toplumsal gelişmelere dair bilinmesi gereken ne varsa &quot;Günün Nabzı&quot;nda ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
@@ -13495,15 +13693,10 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Salih Nayman ile Türkiye ve dünyadan kritik gelişmeleri, son dakika haberlerini ve gündemin öne çıkan başlıklarını aktarılır. Muhabirler sahadaki sıcak gelişmeleri canlı bağlantılarla iletir, siyasetten ekonomiye, spordan gündem maddelerine kadar önemli haberler objektif bir şekilde izleyiciye sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209170000 +0000" stop="20260209190000 +0000" channel="haber-global">
+  <programme start="20260209170000 +0000" stop="20260209210000 +0000" channel="haber-global">
     <title lang="tr">Mesele</title>
     <desc lang="tr">Mesele Haber Global ekranlarında akşam saatlerinde izleyiciyle buluşan, Türkiye ve dünyayı etkileyen önemli gelişmeleri mercek altına alan bir tartışma programıdır. Çatışmalar, gerilimler, politika gündemi ve sonuçları uzman ağırlıklı değerlendirmelerle ele alınıyor.</desc>
     <category lang="tr">Politika</category>
-  </programme>
-  <programme start="20260209190000 +0000" stop="20260209210000 +0000" channel="haber-global">
-    <title lang="tr">Kontra</title>
-    <desc lang="tr">Haber Global Kontra sporseverlere futbol dünyasının nabzını tutan bir program sunuyor. Performans değerlendirmeleri, takımların durumu ve güncel transfer haberleri gibi gündemdeki başlıklar canlı yorumlarla masaya yatırılıyor. Heyecan ve spor tutkusunu bir arada izleyiciye aktaran yayın, haftanın futbol gündemini çarpıcı bir dille ele alıyor.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260209010000 +0000" stop="20260209011500 +0000" channel="haberturk">
     <title lang="tr">Haber Bülteni</title>
@@ -13573,8 +13766,8 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260209170000 +0000" stop="20260209200000 +0000" channel="haberturk">
-    <title lang="tr">Açık ve Net</title>
-    <desc lang="tr">Gündeme dair kafalarda oluşan soruların açık ve net yanıtları bu programda ekrana geliyor.</desc>
+    <title lang="tr">Nedir Ne Değildir?</title>
+    <desc lang="tr">Faruk Aksoy, en çok merak edilen konuları gündeme getiriyor. Dünyanın ve Türkiye&#x27;nin gündemi, uzmanlarla birlikte masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260209200000 +0000" stop="20260209220000 +0000" channel="haberturk">
@@ -14359,10 +14552,15 @@ Cihan&#x27;dan vazgeçemeyeceğini bilen Alya ise Boran&#x27;la süren kavgasın
     <desc lang="tr">Gündem Özel, gündemin en sıcak gelişmelerini, en çok konuşulan konuları ve merak edilen detayları tarafsız bir bakış açısıyla izleyiciye aktarıyor. Alanında uzman konukların katılımıyla yapılan kapsamlı analizler, özel röportajlar ve derinlemesine incelemelerle gündeme ışık tutuyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260209120000 +0000" stop="20260209140000 +0000" channel="kibris-ada-tv">
+  <programme start="20260209120000 +0000" stop="20260209123000 +0000" channel="kibris-ada-tv">
     <title lang="tr">Haber 15</title>
     <desc lang="tr">Gündemin nabzını tutan, doğru ve tarafsız habercilik anlayışıyla izleyicilerine güvenilir bilgi sunan bir yayın. Siyasetten ekonomiye, kültürden spora kadar her alandaki gelişmeleri anında ekranlara taşıyor. Canlı bağlantılar, uzman yorumlar ve röportajlarla haberin merkezinden en güncel bilgileri paylaşıyor.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260209123000 +0000" stop="20260209140000 +0000" channel="kibris-ada-tv">
+    <title lang="tr">Ebru Seven Ile Merak Ettiklerimiz</title>
+    <desc lang="tr">Ebru Seven ile Merak Ettiklerimiz, izleyicilerin merak ettiği konuları kapsamlı ve anlaşılır biçimde ele alıyor. Programda güncel gelişmeler, şaşırtıcı bilgiler ve ilginç detaylar Ebru Seven&#x27;in sunumuyla ekrana taşınıyor. Konuklar, röportajlar ve özel dosyalarla izleyici merak ettiği soruların yanıtlarını buluyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260209140000 +0000" stop="20260209150000 +0000" channel="kibris-ada-tv">
     <title lang="tr">Haber Ajansı</title>
@@ -14379,19 +14577,14 @@ Cihan&#x27;dan vazgeçemeyeceğini bilen Alya ise Boran&#x27;la süren kavgasın
     <desc lang="tr">Star Kıbrıs Gündem Özel, gündemin önemli başlıklarını derinlemesine ele alan ve kamuoyunun merak ettiği konuları tarafsız biçimde inceleyen özel bir haber programıdır. Alanında uzman konuklar, canlı bağlantılar ve özel röportajlarla Kıbrıs gündeminin nabzını tutar, izleyiciye güvenilir bilgi sunar.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="kibris-ada-tv">
+  <programme start="20260209170000 +0000" stop="20260209200000 +0000" channel="kibris-ada-tv">
     <title lang="tr">Kıbrıs Gündemi</title>
     <desc lang="tr">Kıbrıs Gündemi, Kuzey Kıbrıs Türk Cumhuriyeti ve Doğu Akdeniz&#x27;de yaşanan siyasi, ekonomik ve toplumsal gelişmeleri mercek altına alıyor. Alanında uzman konuklar, güncel olayları derinlemesine değerlendirirken, izleyiciye doğru ve tarafsız bilgi sunuyor. Kıbrıs&#x27;ın nabzı bu programda tutuluyor.</desc>
     <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260209180000 +0000" stop="20260209190000 +0000" channel="kibris-ada-tv">
-    <title lang="tr">Gündem Özel</title>
-    <desc lang="tr">Gündem Özel, gündemin en sıcak gelişmelerini, en çok konuşulan konuları ve merak edilen detayları tarafsız bir bakış açısıyla izleyiciye aktarıyor. Alanında uzman konukların katılımıyla yapılan kapsamlı analizler, özel röportajlar ve derinlemesine incelemelerle gündeme ışık tutuyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260209190000 +0000" stop="20260209210000 +0000" channel="kibris-ada-tv">
-    <title lang="tr">Haber Ajansı</title>
-    <desc lang="tr">Gündemi yakından takip etmek isteyenler için güvenilir bir haber bültenidir. Siyaset, ekonomi, kültür-sanat ve spor alanlarındaki günün öne çıkan gelişmeleri tarafsız ve hızlı biçimde ekrana taşır. Canlı bağlantılar, uzman konuk yorumları ve son dakika haberleriyle izleyiciye doğru ve güncel bilgiyi sunar.</desc>
+  <programme start="20260209200000 +0000" stop="20260209210000 +0000" channel="kibris-ada-tv">
+    <title lang="tr">Ada Haber</title>
+    <desc lang="tr">Kıbrıs&#x27;tan ve dünyadan en sıcak gelişmeleri tarafsız, hızlı ve güvenilir bir şekilde izleyiciye sunan güncel bir haber programıdır. Siyaset, ekonomi, kültür ve spordaki önemli olaylar profesyonel bir bakışla ekrana taşınır. Doğruluk ve güven önceliğiyle Kıbrıs&#x27;ta gündemi belirleyen haber kaynağıdır.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260209040000 +0000" stop="20260209042500 +0000" channel="kibris-genc-tv">
@@ -14649,6 +14842,111 @@ Cihan&#x27;dan vazgeçemeyeceğini bilen Alya ise Boran&#x27;la süren kavgasın
     <title lang="tr">Spor Gündemi</title>
     <desc lang="tr">Spor dünyasındaki gelişmeler, maç özetleri ve öne çıkan performanslar bu içerikte ele alınıyor. Sade ve akıcı bir anlatımla sunulan bilgiler, izleyiciye güncel spor olaylarını takip etme imkânı ve geniş bir bakış açısı sağlıyor.</desc>
     <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260209000000 +0000" stop="20260209010000 +0000" channel="krt-tv">
+    <title lang="tr">En iyisi</title>
+    <desc lang="tr">KRT TV&#x27;de gündemdeki farklı konuları, tartışmalı meseleleri ve toplumun merak ettiği başlıkları izleyiciyle buluşturuyor. Her bölümde güncel örnekler, olayların arka planı ve açıklayıcı değerlendirmeler sade bir dille ele alınarak izleyiciye aktarılır; izleyici hem bilgi hem de kavrayış kazanıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209010000 +0000" stop="20260209020000 +0000" channel="krt-tv">
+    <title lang="tr">Necmi İnce ile Zirvedekiler</title>
+    <desc lang="tr">Necmi İnce ile Zirvedekiler, alanında fark yaratan isimlerin başarı yolculuklarını ekrana taşıyor. İş dünyasından sanata, girişimcilikten liderliğe uzanan hikâyeler samimi bir dille aktarılıyor. İzleyiciye ilham veren, motive edici bir perspektif sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209020000 +0000" stop="20260209030000 +0000" channel="krt-tv">
+    <title lang="tr">Estetik</title>
+    <desc lang="tr">Estetik programı, estetik cerrahi ve medikal estetik uygulamalarına dair merak edilen temel konuları ve modern güzellik tekniklerini izleyiciyle buluşturuyor. Fatih Dağdelen&#x27;in sunumuyla burun estetiği, yüz germe ve benzeri popüler uygulamaların süreçleri, nedenleri ve sonuçları sade ve açıklayıcı bir dille ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209030000 +0000" stop="20260209040000 +0000" channel="krt-tv">
+    <title lang="tr">Yaşamını Tasarla</title>
+    <desc lang="tr">Kişisel gelişim, yaşam kalitesi ve farkındalık odaklı konular bu programda ele alınıyor. Günlük hayatı daha bilinçli ve dengeli yaşamak isteyenler için ilham veren içerikler sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209040000 +0000" stop="20260209050000 +0000" channel="krt-tv">
+    <title lang="tr">Kaliteli Yaşamın Sırları</title>
+    <desc lang="tr">Yaşam kalitesi, sağlık, farkındalık ve günlük alışkanlıkların yaşam üzerindeki etkilerini izleyiciye anlatıyor. Sağlıklı seçimler, bilinçli yaşam ipuçları ve sürdürülebilir alışkanlıklar sade ve akıcı bir anlatımla ekrana taşınarak izleyiciyi daha dengeli bir yaşam tarzı için düşünmeye davet ediyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209050000 +0000" stop="20260209060000 +0000" channel="krt-tv">
+    <title lang="tr">En iyisi</title>
+    <desc lang="tr">KRT TV&#x27;de gündemdeki farklı konuları, tartışmalı meseleleri ve toplumun merak ettiği başlıkları izleyiciyle buluşturuyor. Her bölümde güncel örnekler, olayların arka planı ve açıklayıcı değerlendirmeler sade bir dille ele alınarak izleyiciye aktarılır; izleyici hem bilgi hem de kavrayış kazanıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209060000 +0000" stop="20260209070000 +0000" channel="krt-tv">
+    <title lang="tr">Enerjide Bilgi Net</title>
+    <desc lang="tr">Enerji dünyasındaki güncel gelişmeler, piyasaları etkileyen kararlar ve sektörel trendler bu programda ele alınıyor. Uzman analizleriyle enerjiye dair merak edilen konular anlaşılır bir dille izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="krt-tv">
+    <title lang="tr">Necmi İnce ile Zirvedekiler</title>
+    <desc lang="tr">Necmi İnce ile Zirvedekiler, alanında fark yaratan isimlerin başarı yolculuklarını ekrana taşıyor. İş dünyasından sanata, girişimcilikten liderliğe uzanan hikâyeler samimi bir dille aktarılıyor. İzleyiciye ilham veren, motive edici bir perspektif sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209080000 +0000" stop="20260209090000 +0000" channel="krt-tv">
+    <title lang="tr">Hafıza</title>
+    <desc lang="tr">Geçmişten günümüze iz bırakan olayları, yaşam öykülerini ve tarihî kesitleri konuklar ve anlatımlarla ele alıyor. Programda farklı dönemlerden anekdotlar, önemli kişilerin deneyimleri ve geçmişin günümüze yansıyan etkileri sade ve akıcı bir anlatımla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209090000 +0000" stop="20260209100000 +0000" channel="krt-tv">
+    <title lang="tr">İşte Başarı</title>
+    <desc lang="tr">İş dünyasında öne çıkan başarı hikâyeleri, girişimcilik deneyimleri ve kariyer stratejileri bu programda ele alınıyor. Profesyonel hayatta fark yaratmanın yolları, gerçek örnekler ve uzman görüşleriyle aktarılıyor. İzleyiciye ilham veren, yol gösterici bir perspektif sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209100000 +0000" stop="20260209110000 +0000" channel="krt-tv">
+    <title lang="tr">Yaşamını Tasarla</title>
+    <desc lang="tr">Kişisel gelişim, yaşam kalitesi ve farkındalık odaklı konular bu programda ele alınıyor. Günlük hayatı daha bilinçli ve dengeli yaşamak isteyenler için ilham veren içerikler sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209110000 +0000" stop="20260209120000 +0000" channel="krt-tv">
+    <title lang="tr">Kaliteli Yaşamın Sırları</title>
+    <desc lang="tr">Yaşam kalitesi, sağlık, farkındalık ve günlük alışkanlıkların yaşam üzerindeki etkilerini izleyiciye anlatıyor. Sağlıklı seçimler, bilinçli yaşam ipuçları ve sürdürülebilir alışkanlıklar sade ve akıcı bir anlatımla ekrana taşınarak izleyiciyi daha dengeli bir yaşam tarzı için düşünmeye davet ediyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209120000 +0000" stop="20260209130000 +0000" channel="krt-tv">
+    <title lang="tr">Zaman Dışı</title>
+    <desc lang="tr">Zaman Dışı programı gündemdeki sıradan tartışma kalıplarının ötesine çıkarak farklı fikirleri, merak uyandıran meseleleri ve sınırların ötesine geçen analizleri izleyiciyle buluşturuyor. Her bölümde zamana, topluma ve bilinenden başka bakış açılarına odaklanan konular sade ve akıcı bir anlatımla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209130000 +0000" stop="20260209140000 +0000" channel="krt-tv">
+    <title lang="tr">Hafıza</title>
+    <desc lang="tr">Geçmişten günümüze iz bırakan olayları, yaşam öykülerini ve tarihî kesitleri konuklar ve anlatımlarla ele alıyor. Programda farklı dönemlerden anekdotlar, önemli kişilerin deneyimleri ve geçmişin günümüze yansıyan etkileri sade ve akıcı bir anlatımla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209140000 +0000" stop="20260209150000 +0000" channel="krt-tv">
+    <title lang="tr">Uzman Rehberi</title>
+    <desc lang="tr">Uzman Rehberi, KRT TV&#x27;de uzman konukların katılımıyla güncel ve merak edilen konuları analiz eden bir programdır. Belirli sektörler, ekonomi, sağlık, teknoloji veya sosyal meseleler gibi başlıklar uzman bakış açısıyla ele alınarak izleyiciye sade, net ve aydınlatıcı bir anlatımla sunulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209150000 +0000" stop="20260209160000 +0000" channel="krt-tv">
+    <title lang="tr">En iyisi</title>
+    <desc lang="tr">KRT TV&#x27;de gündemdeki farklı konuları, tartışmalı meseleleri ve toplumun merak ettiği başlıkları izleyiciyle buluşturuyor. Her bölümde güncel örnekler, olayların arka planı ve açıklayıcı değerlendirmeler sade bir dille ele alınarak izleyiciye aktarılır; izleyici hem bilgi hem de kavrayış kazanıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209160000 +0000" stop="20260209170000 +0000" channel="krt-tv">
+    <title lang="tr">Enerjide Bilgi Net</title>
+    <desc lang="tr">Enerji dünyasındaki güncel gelişmeler, piyasaları etkileyen kararlar ve sektörel trendler bu programda ele alınıyor. Uzman analizleriyle enerjiye dair merak edilen konular anlaşılır bir dille izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="krt-tv">
+    <title lang="tr">Hafıza</title>
+    <desc lang="tr">Geçmişten günümüze iz bırakan olayları, yaşam öykülerini ve tarihî kesitleri konuklar ve anlatımlarla ele alıyor. Programda farklı dönemlerden anekdotlar, önemli kişilerin deneyimleri ve geçmişin günümüze yansıyan etkileri sade ve akıcı bir anlatımla izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209180000 +0000" stop="20260209190000 +0000" channel="krt-tv">
+    <title lang="tr">Zaman Dışı</title>
+    <desc lang="tr">Zaman Dışı programı gündemdeki sıradan tartışma kalıplarının ötesine çıkarak farklı fikirleri, merak uyandıran meseleleri ve sınırların ötesine geçen analizleri izleyiciyle buluşturuyor. Her bölümde zamana, topluma ve bilinenden başka bakış açılarına odaklanan konular sade ve akıcı bir anlatımla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209190000 +0000" stop="20260209200000 +0000" channel="krt-tv">
+    <title lang="tr">Kaliteli Yaşamın Sırları</title>
+    <desc lang="tr">Yaşam kalitesi, sağlık, farkındalık ve günlük alışkanlıkların yaşam üzerindeki etkilerini izleyiciye anlatıyor. Sağlıklı seçimler, bilinçli yaşam ipuçları ve sürdürülebilir alışkanlıklar sade ve akıcı bir anlatımla ekrana taşınarak izleyiciyi daha dengeli bir yaşam tarzı için düşünmeye davet ediyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209200000 +0000" stop="20260209210000 +0000" channel="krt-tv">
+    <title lang="tr">Yaşamını Tasarla</title>
+    <desc lang="tr">Kişisel gelişim, yaşam kalitesi ve farkındalık odaklı konular bu programda ele alınıyor. Günlük hayatı daha bilinçli ve dengeli yaşamak isteyenler için ilham veren içerikler sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260209002500 +0000" stop="20260209012000 +0000" channel="love-nature">
     <title lang="tr">Bizim Gibi Hayvanlar</title>
@@ -18129,13 +18427,18 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260209173000 +0000" stop="20260209193000 +0000" channel="s-sport-2">
-    <title lang="tr">Atalanta - Cremoense</title>
+    <title lang="tr">Atalanta - Cremonese</title>
     <desc lang="tr">İtalya Serie A 24. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260209193000 +0000" stop="20260209194500 +0000" channel="s-sport-2">
     <title lang="tr">Özetler</title>
     <desc lang="tr">Maç Özeti</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260209194500 +0000" stop="20260209214500 +0000" channel="s-sport-2">
+    <title lang="tr">Roma - Cagliari</title>
+    <desc lang="tr">İtalya Serie A 24. hafta maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260209030000 +0000" stop="20260209040000 +0000" channel="semerkand">
@@ -23037,7 +23340,7 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260209164500 +0000" stop="20260209170000 +0000" channel="trt-turk">
-    <title lang="tr">Mikrofon Senin Norveç</title>
+    <title lang="tr">Mikrofon Senin Finlandiya</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="trt-turk">
@@ -23434,33 +23737,114 @@ Bayram ve Esmeray, duygularını birbirlerine itiraf etmişken başlarına yeni 
     <desc lang="tr">Türkiye ve dünyada yaşanan güncel gelişmeleri uzman konuklar ve yorumlarla ele alır. Siyaset, ekonomi ve toplum gündemindeki başlıklar net ve anlaşılır bir dille değerlendirilir. İzleyiciye olayların arka planını görme imkânı sunan program, gündemi yakından takip etmek isteyenler için rehber niteliği taşır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260209000000 +0000" stop="20260209030000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+  <programme start="20260209000000 +0000" stop="20260209004500 +0000" channel="tv-4">
+    <title lang="tr">Tarihi Rotalar</title>
+    <desc lang="tr">Ömer Kokal, Anadolu&#x27;nun tarihî ve kültürel zenginliklerini efsaneler, söylenceler ve rivayetlerle harmanlayarak izleyiciye keşif dolu bir yolculuk sunuyor. Tarihi Rotalar, kadim medeniyetlerin izlerini sürerken, gizli hikâyeleri ve kuşaktan kuşağa aktarılan anlatıları gün yüzüne çıkarıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209004500 +0000" stop="20260209011500 +0000" channel="tv-4">
+    <title lang="tr">Benim Hikayem</title>
+    <desc lang="tr">Benim Hikayem, her sporcunun kendi mücadele ve başarı öyküsünü ekrana taşıyan özel bir programdır. İzleyiciler, sporcuların hem saha içindeki başarılarını hem de sahadışındaki zorluklarını öğrenirken ilham alıyor. Tutku, azim ve zafer dolu hikâyelerle dolu bir spor deneyimi sunuyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260209011500 +0000" stop="20260209014500 +0000" channel="tv-4">
+    <title lang="tr">Kolay Mı Sandın</title>
+    <desc lang="tr">Tuğba Akıncı, her gün farklı bir mesleğin perde arkasına giriyor, işin inceliklerini öğreniyor ve bizzat deneyimliyor. Kolay gibi görünen işlerin ne kadar emek ve beceri gerektirdiğini gösteren program, sürpriz anlar, eğlenceli denemeler ve bol kahkaha ile izleyicileri ekran başına çekiyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209014500 +0000" stop="20260209021500 +0000" channel="tv-4">
+    <title lang="tr">Şeflerin Mutfağı</title>
+    <desc lang="tr">Usta şeflerin maharetli ellerinde hayat bulan eşsiz tatlar, özenli sunumlarla izleyiciye ulaşıyor. &quot;Şeflerin Mutfağı&quot;, şeflerin başarı dolu kariyer öykülerini, mutfaktaki disiplinlerini ve paylaştıkları özel tarifleriyle hem ilham veriyor hem de lezzet dolu bir gastronomi yolculuğuna davet ediyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209021500 +0000" stop="20260209023000 +0000" channel="tv-4">
+    <title lang="tr">Gökyüzünden Rehber</title>
+    <desc lang="tr">Gece göğünün büyüsüne tanık olun. Farklı kültürlerin yıldız haritaları, antik medeniyetlerin takımyıldız yorumları, modern astronominin keşifleri, meteor yağmurları, gezegen hareketleri detaylıca ele alınıyor. Gökyüzünün hem bilimsel hem manevi anlamnın insan hayatına etkisi sunuluyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260209023000 +0000" stop="20260209040000 +0000" channel="tv-4">
+    <title lang="tr">Gerçek</title>
+    <desc lang="tr">Gerçek, Selma ile kocası Kemal&#x27;in mutlu evliliğinin arkasındaki sırlarla yüzleşmesini anlatan dramatik suç ve gerilim filmidir. Selma, Kemal&#x27;in geçmişini araştırdıkça gizemli olaylar ve kayıplar ortaya çıkar. Aşk ve güven temaları, gerilimle iç içe ilerlerken beklenmedik gelişmeler izleyiciyi ekrana bağlar.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260209030000 +0000" stop="20260209060000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
+  <programme start="20260209040000 +0000" stop="20260209041500 +0000" channel="tv-4">
+    <title lang="tr">Ataman&#x27;la Devri Alem</title>
+    <desc lang="tr">Dünyanın farklı köşelerine uzanan keşif dolu bir yolculuğa davet ediyor. Şehirlerin ruhu, yerel kültürler, gelenekler, lezzetler ve insan hikâyeleri samimi bir anlatımla ekrana taşınıyor. Program, izleyicilere sadece gezilecek yerleri değil, o coğrafyaların yaşam tarzını tanıtmayı amaçlıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209041500 +0000" stop="20260209060000 +0000" channel="tv-4">
+    <title lang="tr">Gülerken Ağlayanlar</title>
+    <desc lang="tr">Film, hayata tutunmaya çalışan insanların aşk, fedakârlık ve hayal kırıklıklarıyla örülü hikâyesini anlatır. Kahkaha ile hüznün iç içe geçtiği olaylar boyunca karakterler, mutluluk arayışında acıyla yüzleşir ve yaşamın çelişkilerini deneyimler.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260209060000 +0000" stop="20260209064500 +0000" channel="tv-4">
+    <title lang="tr">Tarihi Rotalar</title>
+    <desc lang="tr">Ömer Kokal, Anadolu&#x27;nun tarihî ve kültürel zenginliklerini efsaneler, söylenceler ve rivayetlerle harmanlayarak izleyiciye keşif dolu bir yolculuk sunuyor. Tarihi Rotalar, kadim medeniyetlerin izlerini sürerken, gizli hikâyeleri ve kuşaktan kuşağa aktarılan anlatıları gün yüzüne çıkarıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209064500 +0000" stop="20260209074500 +0000" channel="tv-4">
+    <title lang="tr">Tuğçe&#x27;nin Mutfağı</title>
+    <desc lang="tr">Tuğçe Kurt, &quot;Tuğçe&#x27;nin Mutfağı&quot;nda herkesin kolaylıkla yapabileceği, lezzetli tariflerin püf noktalarını sizinle paylaşırken, yemek bloggerları, ev hanımları ve şefleri mutfağında ağırlıyor, özel tariflerinin sırlarını izleyicileri ile paylaşıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260209060000 +0000" stop="20260209090000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260209074500 +0000" stop="20260209083000 +0000" channel="tv-4">
+    <title lang="tr">Metrekare</title>
+    <desc lang="tr">Dekorasyon ve mimari programı, evinizi daha estetik, işlevsel ve huzurlu hâle getirmenin yollarını ekrana taşıyor. Duvar renklerinden eşya yerleşimine, küçük dokunuşlarla büyük değişimlere kadar her konu, uzman önerileri ve ilham veren örneklerle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209090000 +0000" stop="20260209120000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260209083000 +0000" stop="20260209084500 +0000" channel="tv-4">
+    <title lang="tr">Mutlu Kahvaltılar</title>
+    <desc lang="tr">Mutlu Kahvaltılar, Türev Uludağ&#x27;ın sunumuyla ekranlara gelen bir programdır. Dünya mutfağından kahvaltı örnekleri, ev yapımı reçel tarifleri ve geleneksel kahvaltılıklar izleyiciye sunulur. Program, tariflerin yanı sıra kahvaltı kültürünün tarihçesini ve farklı coğrafyalardaki çeşitliliğini de aktarır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209120000 +0000" stop="20260209150000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260209084500 +0000" stop="20260209090000 +0000" channel="tv-4">
+    <title lang="tr">Kolay Mı Sandın</title>
+    <desc lang="tr">Tuğba Akıncı, her gün farklı bir mesleğin perde arkasına giriyor, işin inceliklerini öğreniyor ve bizzat deneyimliyor. Kolay gibi görünen işlerin ne kadar emek ve beceri gerektirdiğini gösteren program, sürpriz anlar, eğlenceli denemeler ve bol kahkaha ile izleyicileri ekran başına çekiyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209150000 +0000" stop="20260209180000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260209090000 +0000" stop="20260209110000 +0000" channel="tv-4">
+    <title lang="tr">Üç Arkadaş</title>
+    <desc lang="tr">Memduh Ün&#x27;ün yönettiği Üç Arkadaş, farklı hayatlardan gelen üç dostun dayanışma ve fedakârlıkla örülü yaşam mücadelesini konu alır. Sevgi, dostluk ve insan olmanın değerini vurgulayan film, izleyiciye sıcak ve duygusal anlar yaşatır.</desc>
+    <category lang="tr">Film</category>
   </programme>
-  <programme start="20260209180000 +0000" stop="20260210000000 +0000" channel="tv-info">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260209110000 +0000" stop="20260209120000 +0000" channel="tv-4">
+    <title lang="tr">Süper Kumbara</title>
+    <desc lang="tr">Süper Kumbara, çocukların merak ettiği konuları eğlenceli ve anlaşılır bir dille ekrana taşıyor. Bilim, sanat, teknoloji ve günlük yaşam gibi çeşitli alanlarda içerikler sunan program, hem öğretici hem de keyifli bir infotainment deneyimi sağlıyor. Dinamik sunumuyla çocukların öğrenirken eğlenmesini sağlıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209120000 +0000" stop="20260209121500 +0000" channel="tv-4">
+    <title lang="tr">Tatlı Tuzlu</title>
+    <desc lang="tr">Tatlı Tuzlu da Özge Şahin, sempatik ve samimi üslubuyla mutfağa konuk oluyor. Her bölümde bir tatlı bir de tuzlu tarifini izleyicilerle paylaşan Şahin, pratik yöntemler, püf noktaları ve sunum tüyolarıyla herkesin evinde rahatlıkla yapabileceği lezzetleri ekrana taşıyor. Program, yemek yapmayı sevenlere ilham veriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209121500 +0000" stop="20260209131500 +0000" channel="tv-4">
+    <title lang="tr">Gezmek Olsun</title>
+    <desc lang="tr">Yıldız Yakar, arabasını ve parasını bir kenara bırakıp her hafta yapımcısının verdiği bütçeyle İstanbul&#x27;u keşfe çıkıyor. Toplu taşımayı kullanıyor, pazarlık yapıyor, aç kalıyor, çok yürüyor ama asla pes etmiyor. Sıcak, samimi ve bol eğlenceli bir gezme deneyimi sunuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260209131500 +0000" stop="20260209150000 +0000" channel="tv-4">
+    <title lang="tr">Gülizar</title>
+    <desc lang="tr">Hulki Saner&#x27;in yönettiği Gülizar, Emel Sayın&#x27;ın canlandırdığı saf ve temiz kalpli bir genç kadının hayat mücadelesini anlatır. Aşk, fedakârlık ve toplumsal baskılar arasında kalan Gülizar&#x27;ın hikâyesi, izleyiciye derin bir duygu yoğunluğu yaşatır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260209150000 +0000" stop="20260209170000 +0000" channel="tv-4">
+    <title lang="tr">Gülerken Ağlayanlar</title>
+    <desc lang="tr">Film, hayata tutunmaya çalışan insanların aşk, fedakârlık ve hayal kırıklıklarıyla örülü hikâyesini anlatır. Kahkaha ile hüznün iç içe geçtiği olaylar boyunca karakterler, mutluluk arayışında acıyla yüzleşir ve yaşamın çelişkilerini deneyimler.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260209170000 +0000" stop="20260209190000 +0000" channel="tv-4">
+    <title lang="tr">Tuzak</title>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260209190000 +0000" stop="20260209204500 +0000" channel="tv-4">
+    <title lang="tr">Gülizar</title>
+    <desc lang="tr">Hulki Saner&#x27;in yönettiği Gülizar, Emel Sayın&#x27;ın canlandırdığı saf ve temiz kalpli bir genç kadının hayat mücadelesini anlatır. Aşk, fedakârlık ve toplumsal baskılar arasında kalan Gülizar&#x27;ın hikâyesi, izleyiciye derin bir duygu yoğunluğu yaşatır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260209204500 +0000" stop="20260209210000 +0000" channel="tv-4">
+    <title lang="tr">Ataman&#x27;la Devri Alem</title>
+    <desc lang="tr">Dünyanın farklı köşelerine uzanan keşif dolu bir yolculuğa davet ediyor. Şehirlerin ruhu, yerel kültürler, gelenekler, lezzetler ve insan hikâyeleri samimi bir anlatımla ekrana taşınıyor. Program, izleyicilere sadece gezilecek yerleri değil, o coğrafyaların yaşam tarzını tanıtmayı amaçlıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260209003000 +0000" stop="20260209021500 +0000" channel="tv100">
     <title lang="tr">Kale Arkası</title>
@@ -24641,15 +25025,15 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <desc lang="tr">Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260209144500 +0000" stop="20260209160000 +0000" channel="ulusal-kanal">
+  <programme start="20260209144500 +0000" stop="20260209200000 +0000" channel="ulusal-kanal">
     <title lang="tr">Dostoyevski</title>
     <desc lang="tr">Rus edebiyatının başyapıtı Dostoyevski&#x27;nin derin dünyasına adım atın. Dram ve gerilimle dolu bu muhteşem yapım, suç ve insan ruhunun karanlık köşelerini keşfediyor. Her karakterin içsel çatışmalarına tanık olurken, ruhsal bir yolculuğa çıkmaya hazırlanın. &quot;Dostoyevski&quot; dizisi, her bölümüyle sizi ekran başına kilitleyecek.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260209160000 +0000" stop="20260209210000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı&#x27;nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye&#x27;den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260209200000 +0000" stop="20260209210000 +0000" channel="ulusal-kanal">
+    <title lang="tr">Kısa Film</title>
+    <desc lang="tr">Kısa Film ile kısa filmin gücüne tanık olun. Farklı türlerden seçilen yapımlar, aşk acısı, yalnızlık, toplumsal eleştiri, mizah, deneysel anlatımlar detaylıca ele alınıyor. Yönetmenlerin kısa sürede yarattığı yoğun duygu, özgün kurgu teknikleri, festival başarıları samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260209000000 +0000" stop="20260209014500 +0000" channel="vav-tv">
     <title lang="tr">Doğu&#x27;dan Batı&#x27;ya Tarih</title>
