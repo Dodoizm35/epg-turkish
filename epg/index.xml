@@ -4044,12 +4044,17 @@ gelişmeler...</desc>
     <desc lang="tr">Genç İş, genç girişimcilerin başarı hikâyelerini, iş dünyasındaki fırsatları ve kariyer tavsiyelerini izleyiciye sunan bir programdır. İlham verici röportajlar, yenilikçi fikirler ve sektörel analizler paylaşılır. Genç izleyicilere kendi iş ve kariyer yolculuklarında rehberlik ederken bilgi kazandırıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="brt-2">
+  <programme start="20260210170000 +0000" stop="20260210173000 +0000" channel="brt-2">
+    <title lang="tr">Sanatın Sesi</title>
+    <desc lang="tr">Sanatın Sesi, resimden heykele, müzikten tiyatroya sanatın tüm alanlarını ekranlara taşıyan bir programdır. Her bölümde sanatçılarla röportajlar, eserlerin arka planı ve yaratıcı süreçler sunulur. İzleyici sanatı yalnızca izlemekle kalmaz, arkasındaki duygu ve emeği de keşfeder.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210173000 +0000" stop="20260210183000 +0000" channel="brt-2">
     <title lang="tr">Eğitime Dair Herşey</title>
     <desc lang="tr">Eğitim alanına dair öne çıkan konular bu içerikte ele alınıyor. Öğretim yöntemleri, öğrenme süreçleri ve eğitimde yaşanan güncel gelişmeler sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye bilinçli ve bütüncül bir bakış açısı kazandırılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="brt-2">
+  <programme start="20260210183000 +0000" stop="20260210190000 +0000" channel="brt-2">
     <title lang="tr">Yaşama Sanatı</title>
     <desc lang="tr">Günlük hayatın içinde daha dengeli ve bilinçli bir yaşam sürmeye dair konular bu içerikte ele alınıyor. Kişisel gelişim, farkındalık ve yaşam kalitesini artıran öneriler sade bir anlatımla aktarılırken, izleyiciye kendine ve çevresine farklı bir gözle bakma imkânı sunuluyor.</desc>
     <category lang="tr">Magazin</category>
@@ -6613,7 +6618,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260210170000 +0000" stop="20260210172400 +0000" channel="da-vinci">
     <title lang="tr">İcatlar Dünyası: Penguen Robotu</title>
-    <desc lang="tr">Sunucu Alie Ward; yenilikçi bir sörf parkını, havada süzülen şişirilebilir bir balığı, 3 boyutlu basılmış heykelleri ve araştırmacılar için penguen dünyasına yeni bir bakış açısı getiren yavru penguen robotunu tanıtıyor.</desc>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260210172400 +0000" stop="20260210172700 +0000" channel="da-vinci">
@@ -6628,7 +6633,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260210173000 +0000" stop="20260210175400 +0000" channel="da-vinci">
     <title lang="tr">İcatlar Dünyası: Lüks Ağaç Evleri</title>
-    <desc lang="tr">Sunucu Alie Ward; ağaçlara köşkler yapan bir mucidi, parmak ucu ışıklarını, suyu filtreleyen bir kitabı, ve araştırmacılar için penguen dünyasına yeni bir bakış açısı getiren bir yavru penguen robotunu tanıtıyor.</desc>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260210175400 +0000" stop="20260210175700 +0000" channel="da-vinci">
@@ -6648,37 +6653,37 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260210185400 +0000" stop="20260210190000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Seyyar Sera</title>
-    <desc lang="tr">Zephyr projesinin bilimadamları ormanları sıfır etki ve uygun maliyetle yeşertecek olan birmobil-sera geliştiriyorlar. Bu &quot;mobil orman çocuk yuvası&quot; doğa üzerinde beklenen pozitif etkiyi yaratacak mı?</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210190000 +0000" stop="20260210192100 +0000" channel="da-vinci">
     <title lang="tr">Bilimi Kendin Yap: Oklahoma Bilim Müzesi 1</title>
-    <desc lang="tr">Oklahoma&#x27;daki harika Bilim Müzesi&#x27;nde sunucu Steve Spangler, boya yapabilen bir çamaşır makinesi robotu ve ağla bir insanı yakalayabilen dev bir Zincir Reaksiyon Makinesi gibi ustaca icatların nasıl yaratılacağını gösteriyor!</desc>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260210192100 +0000" stop="20260210192400 +0000" channel="da-vinci">
     <title lang="tr">Futuris: İyileştiren Zehirler</title>
-    <desc lang="tr">Kobra gibi zehirli hayvanlar tehlikelidir ama aynı zamanda hastalıkların tedavisini için yardımcı da olabiliyorlar. Araştırmacıların 203 farklı türden 4000 toksini çıkarıp, tanımlayıp, sınıflandırdıklarını göstereceğiz. Zehir bazlı ilaçlar yoksa bir tedavi mi?</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210192400 +0000" stop="20260210193000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Koca Çanta Teorisi</title>
-    <desc lang="tr">Temiz su bazı yerlerde bol miktarken bazı yerlerde değildir. Acaba temiz suyu hesaplı bir yolla ihtiyacı olanlara taşımanın bir yolu var mı? Bu bölümde, bir şilebe bağlı dayanıklı plastikten üretilme yüzen bir torba olacak. İşe yarayacak mı?</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210193000 +0000" stop="20260210195100 +0000" channel="da-vinci">
     <title lang="tr">Bilimi Kendin Yap: Tulsa</title>
-    <desc lang="tr">Sunucu Steve Spangler çılgın deneylerini Oklahoma, Tulsa&#x27;da sahnede canlı olarak gerçekleştiriyor. Tuvalet Kağıdı Topu yapmayı gösteriyor ve tozdan ateş yaratmanın sırrını ortaya çıkarıyor.</desc>
+    <desc lang="tr">Bilimi Kendin Yap, bilimi günlük hayatla bağdaştırarak eğlenceli deneylerin nasıl gerçekleştirileceğini anlatan öğretici bir programdır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260210195100 +0000" stop="20260210195400 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Daha az atık, Daha çok Tat</title>
-    <desc lang="tr">Balık filetolar standart hallerine getirilirken balığın çoğu güzel yeri ziyan oluyor. Microbiologlar bu parçaları kullanmak için bir metod geliştiriyorlar. Bunun için kullandıkları bakteri, leziz yemekler ortaya çıkarıyor.</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210195400 +0000" stop="20260210200000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Tehlikeli Bir Hayata Kırmızı Kart</title>
-    <desc lang="tr">Maç izlerken nasıl formda kalabiliriz? EuroFIT projesi araştırmacıları bunu yapabilmek için yenilikçi teknolojiler geliştiriyorlar. Bu bölümde, bunun nasıl olduğunu görmek için Londra&#x27;da Arsenal ve Lizbon&#x27;daki Benfica&#x27;nın antremanlarına katılacağız.</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210200000 +0000" stop="20260210202100 +0000" channel="da-vinci">
@@ -6688,12 +6693,12 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260210202100 +0000" stop="20260210202700 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Ekstrem Risklerle Yüzleşme</title>
-    <desc lang="tr">Bir deprem yada tsunami durumunda, bunların nükleer reaktör ve kimyasal yapılar gibi kritik yapılar üzerindeki etkisi nedir? STREST projesinin bilimadamları, felaketleri simüle etmek ve yapılar üzerindeki etkilerini test etmek için dijital aletler kullanıyorlar.</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210202700 +0000" stop="20260210203000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Akıllı Hayvan Çiftliği</title>
-    <desc lang="tr">Algortimler nasıl domuzların sağlığını arttırırabilir? Scientists of the EU-PLF projesinin araştırmacıları bu sorunun cevabını aramakta ve çiftçilerin büyükbaşlarının sağlık durumlarını kontrol edebilmeleri için sofistike bir platfom geliştirdiler.</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210203000 +0000" stop="20260210205100 +0000" channel="da-vinci">
@@ -6703,13 +6708,298 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260210205100 +0000" stop="20260210205700 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Seyyar Sera</title>
-    <desc lang="tr">Zephyr projesinin bilimadamları ormanları sıfır etki ve uygun maliyetle yeşertecek olan birmobil-sera geliştiriyorlar. Bu &quot;mobil orman çocuk yuvası&quot; doğa üzerinde beklenen pozitif etkiyi yaratacak mı?</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260210205700 +0000" stop="20260210210000 +0000" channel="da-vinci">
     <title lang="tr">Futuris: Meşgul Dahi ve Koruyucu Robotlar</title>
-    <desc lang="tr">Eşekarıları, eşekler, ve şahinler sadece hayvan değillerdir: onlar insanları Alp&#x27;ler gibi tehlikeli ortamlardan kurtarabilmek için dizayn edilmiş robotlardır. Bu bölümde, bu prototiplerin test edildiği İtalya&#x27;daki Aosta Vadisine gideceğiz.</desc>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210000000 +0000" stop="20260210000200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210000200 +0000" stop="20260210003000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Day</title>
+    <desc lang="tr">The news as it happened, presented, clarified and analysed by experts and specialists. Studio-based and in-the field summaries and analysis of the events to have marked the previous twenty-four hours enable understanding and place within a wider context the issues that have shaped, focused and given direction over the course of the previous day.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210003000 +0000" stop="20260210010000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco Africa</title>
+    <desc lang="tr">Eco Africa highlights the innovative and inspiring projects from across Africa and Europe that are being put into practice in a a bid to tackle climate change and support our depleting environments. This series explores the different concepts being used to help sustain our future, such as alternative resources, biodiversity conservation and the future of travel.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210010000 +0000" stop="20260210011500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210011500 +0000" stop="20260210020000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Antilles - In the Grip of Volcanoes</title>
+    <desc lang="tr">There are around 1,500 known active volcanoes worldwide. A volcano is considered active if it has erupted in the last 10,000 years. Around 40 to 60 volcanoes erupt every year.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210020000 +0000" stop="20260210020200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210020200 +0000" stop="20260210023000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Day</title>
+    <desc lang="tr">The news as it happened, presented, clarified and analysed by experts and specialists. Studio-based and in-the field summaries and analysis of the events to have marked the previous twenty-four hours enable understanding and place within a wider context the issues that have shaped, focused and given direction over the course of the previous day.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210023000 +0000" stop="20260210030000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">REV</title>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from the world of cars, examining the latest news and events pertaining to vehicles. From test driving the latest vehicles to examining how engineering is changing to combat climate change, Rev explores every avenue of car-based news, keeping fellow petrol heads up to date with developments within the industry.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210030000 +0000" stop="20260210031500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210031500 +0000" stop="20260210033000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Best of DW-online Content</title>
+    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210033000 +0000" stop="20260210040000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Close up: The Current Affairs Documentary</title>
+    <desc lang="tr">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210040000 +0000" stop="20260210041500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210041500 +0000" stop="20260210050000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Antilles - In the Grip of Volcanoes</title>
+    <desc lang="tr">There are around 1,500 known active volcanoes worldwide. A volcano is considered active if it has erupted in the last 10,000 years. Around 40 to 60 volcanoes erupt every year.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210050000 +0000" stop="20260210050200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210050200 +0000" stop="20260210053000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Day</title>
+    <desc lang="tr">The news as it happened, presented, clarified and analysed by experts and specialists. Studio-based and in-the field summaries and analysis of the events to have marked the previous twenty-four hours enable understanding and place within a wider context the issues that have shaped, focused and given direction over the course of the previous day.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210053000 +0000" stop="20260210060000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco India</title>
+    <desc lang="tr">Consumption of goods by people is drastically influencing environment. Eco India is a DW program entirely dedicated to Indian subcontinent and it looks at possibilities to strike a balance, and make consumption more sustainable, in such way to avoid point of no return.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210060000 +0000" stop="20260210061500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210061500 +0000" stop="20260210063000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Best of DW-online Content</title>
+    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210063000 +0000" stop="20260210070000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Arts Unveiled: Experiencing and understanding the art world</title>
+    <desc lang="tr">Arts Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future. Who are the artists? What are their greatest works of art? And how are they having an impact? Where can we find their exciting projects?</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260210070000 +0000" stop="20260210071500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210071500 +0000" stop="20260210080000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Urbana Animalis - How City Life Transforms Wildlife</title>
+    <desc lang="tr">Nature often struggles in the concrete jungles of growing cities. But many animals manage to adapt to the new conditions, thanks to changes in behavior, new survival strategies and, sometimes, even genetic changes.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210080000 +0000" stop="20260210081500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210081500 +0000" stop="20260210083000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Choices</title>
+    <desc lang="tr">Find a job, have a family, make money – what if this is not your dream, but your parents&#x27; idea and your community&#x27;s norms? With the help of your role model, you will find out: can you make your own choices?</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260210083000 +0000" stop="20260210090000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco Africa</title>
+    <desc lang="tr">Eco Africa highlights the innovative and inspiring projects from across Africa and Europe that are being put into practice in a a bid to tackle climate change and support our depleting environments. This series explores the different concepts being used to help sustain our future, such as alternative resources, biodiversity conservation and the future of travel.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210090000 +0000" stop="20260210091500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210091500 +0000" stop="20260210094500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Close up: The Current Affairs Documentary</title>
+    <desc lang="tr">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210094500 +0000" stop="20260210100000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Reporter: On Location</title>
+    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260210100000 +0000" stop="20260210101500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210101500 +0000" stop="20260210103000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Asia 2050</title>
+    <desc lang="tr">By 2050, the future of Bangladesh&#x27;s coastal communities faces a defining challenge. As climate change accelerates coastal erosion, we travel to two contrasting regions — a sea beach and a coastal river area — to explore the unique protection needs of the people living there. Through conversations with Abdullah and Rabeya, two local voices, we hear their hopes and expectations for a safer tomorrow.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260210103000 +0000" stop="20260210110000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Tomorrow Today</title>
+    <desc lang="tr">Science show on DW provides its viewers a weekly dose of useful scientific information regarding various areas. If you are into cosmos and universe, then this show is made for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210110000 +0000" stop="20260210111500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210111500 +0000" stop="20260210120000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The World of the Amish - Between Tradition and Temptation</title>
+    <desc lang="tr">The Amish still live as they did in the 17th century: without electricity, phones or cars. While many continue to resist the temptations of the modern world, others are breaking away from the group.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210120000 +0000" stop="20260210121500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210121500 +0000" stop="20260210124500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Close up: The Current Affairs Documentary</title>
+    <desc lang="tr">The mayor of Budapest, Gergely Karácsony, is facing criminal charges. In defiance of President Viktor Orbán&#x27;s ban, he organized a Pride march in the city on 28 June 2025—the largest such event ever held in Hungary.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210124500 +0000" stop="20260210130000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Shift</title>
+    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210130000 +0000" stop="20260210131500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210131500 +0000" stop="20260210133000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Interview</title>
+    <desc lang="tr">Munich Security Conference 2026 will kick off on February 13. DW&#x27;s chief political correspondent Nina Haase speaks with Wolfgang Ischinger, Chairman of the MSC, about the state of transatlantic relations, whether US Vice President JD Vance will attend after his widely debated speech last year, and why politicians from the far-right AfD were invited.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260210133000 +0000" stop="20260210140000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco India</title>
+    <desc lang="tr">Consumption of goods by people is drastically influencing environment. Eco India is a DW program entirely dedicated to Indian subcontinent and it looks at possibilities to strike a balance, and make consumption more sustainable, in such way to avoid point of no return.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210140000 +0000" stop="20260210141500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210141500 +0000" stop="20260210143000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Her - Women in Asia</title>
+    <desc lang="tr">Digitization is changing the world dramatically. What does that mean for Women in Asia? What role do they play in that process? In this edition, HER portrays three women whose lives have been significantly shaped by technology. Take hip-hopper Niana Guerrero. Aged just 15, she is the most followed TikTokker in her country, the Philippines, and one of the biggest YouTube stars in Southeast Asia.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210143000 +0000" stop="20260210150000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Global 3000</title>
+    <desc lang="tr">Refugees returning to Syria face destroyed homes, lost family members, and the struggle to rebuild in Yarmouk. Meanwhile, Kazakhstan moves toward a new nuclear plant despite the legacy of Soviet-era nuclear testing.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210150000 +0000" stop="20260210151500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210151500 +0000" stop="20260210153000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Interview</title>
+    <desc lang="tr">Munich Security Conference 2026 will kick off on February 13. DW&#x27;s chief political correspondent Nina Haase speaks with Wolfgang Ischinger, Chairman of the MSC, about the state of transatlantic relations, whether US Vice President JD Vance will attend after his widely debated speech last year, and why politicians from the far-right AfD were invited.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260210153000 +0000" stop="20260210160000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Tomorrow Today</title>
+    <desc lang="tr">Science show on DW provides its viewers a weekly dose of useful scientific information regarding various areas. If you are into cosmos and universe, then this show is made for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210160000 +0000" stop="20260210161500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210161500 +0000" stop="20260210164500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Close up: The Current Affairs Documentary</title>
+    <desc lang="tr">The mayor of Budapest, Gergely Karácsony, is facing criminal charges. In defiance of President Viktor Orbán&#x27;s ban, he organized a Pride march in the city on 28 June 2025—the largest such event ever held in Hungary.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260210164500 +0000" stop="20260210170000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Reporter: On Location</title>
+    <desc lang="tr">It is all about dedicated reporters who are at the top table of world affairs and provide on-the-spot commentary from different parts of Germany, Europe and around the globe. On-the-ground reporters are always close to the action, and cover international events or curious facts of daily life.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260210170000 +0000" stop="20260210171500 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210171500 +0000" stop="20260210173000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Interview</title>
+    <desc lang="tr">Munich Security Conference 2026 will kick off on February 13. DW&#x27;s chief political correspondent Nina Haase speaks with Wolfgang Ischinger, Chairman of the MSC, about the state of transatlantic relations, whether US Vice President JD Vance will attend after his widely debated speech last year, and why politicians from the far-right AfD were invited.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260210173000 +0000" stop="20260210180000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">REV</title>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from within the car industry, examining the latest news, vehicles, stories and events.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210180000 +0000" stop="20260210183000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210183000 +0000" stop="20260210190000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco Africa</title>
+    <desc lang="tr">Eco Africa highlights the innovative and inspiring projects from across Africa and Europe that are being put into practice in a a bid to tackle climate change and support our depleting environments. This series explores the different concepts being used to help sustain our future, such as alternative resources, biodiversity conservation and the future of travel.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210190000 +0000" stop="20260210190200 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210190200 +0000" stop="20260210193000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Eco India</title>
+    <desc lang="tr">Consumption of goods by people is drastically influencing environment. Eco India is a DW program entirely dedicated to Indian subcontinent and it looks at possibilities to strike a balance, and make consumption more sustainable, in such way to avoid point of no return.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210193000 +0000" stop="20260210200000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">Tomorrow Today</title>
+    <desc lang="tr">Science show on DW provides its viewers a weekly dose of useful scientific information regarding various areas. If you are into cosmos and universe, then this show is made for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210200000 +0000" stop="20260210203000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">DW News</title>
+    <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260210203000 +0000" stop="20260210210000 +0000" channel="deutsche-welle-english">
+    <title lang="tr">The Day</title>
+    <desc lang="tr">The news as it happened, presented, clarified and analysed by experts and specialists. Studio-based and in-the field summaries and analysis of the events to have marked the previous twenty-four hours enable understanding and place within a wider context the issues that have shaped, focused and given direction over the course of the previous day.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260210002000 +0000" stop="20260210010500 +0000" channel="discovery-channel">
     <title lang="tr">Hurda Avcıları</title>
@@ -13730,101 +14020,6 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260210043000 +0000" stop="20260210053000 +0000" channel="kanal-33">
-    <title lang="tr">Haber</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Haber&quot; bülteni, Mersin&#x27;den Türkiye&#x27;ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210053000 +0000" stop="20260210060000 +0000" channel="kanal-33">
-    <title lang="tr">Gün Bugün</title>
-    <desc lang="tr">Kanal 33&#x27;ün haber ve analiz programı &quot;Gün Bugün&quot;, Mersin başta olmak üzere Türkiye ve dünyadan öne çıkan gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210060000 +0000" stop="20260210063000 +0000" channel="kanal-33">
-    <title lang="tr">Gün Bugün</title>
-    <desc lang="tr">Kanal 33&#x27;ün haber ve analiz programı &quot;Gün Bugün&quot;, Mersin başta olmak üzere Türkiye ve dünyadan öne çıkan gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210063000 +0000" stop="20260210083000 +0000" channel="kanal-33">
-    <title lang="tr">Gün Bugün</title>
-    <desc lang="tr">Kanal 33&#x27;ün haber ve analiz programı &quot;Gün Bugün&quot;, Mersin başta olmak üzere Türkiye ve dünyadan öne çıkan gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210083000 +0000" stop="20260210090000 +0000" channel="kanal-33">
-    <title lang="tr">Tekrar</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Tekrar&quot; kuşağı, gün içerisinde yayınlanan programları kaçıran izleyiciler için yeniden ekrana taşıyor. Haber bültenlerinden söyleşi programlarına, kültür-sanat içeriklerinden tartışma ve analizlere kadar birçok yayın, tekrar kuşağında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210090000 +0000" stop="20260210100000 +0000" channel="kanal-33">
-    <title lang="tr">Tekrar</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Tekrar&quot; kuşağı, gün içerisinde yayınlanan programları kaçıran izleyiciler için yeniden ekrana taşıyor. Haber bültenlerinden söyleşi programlarına, kültür-sanat içeriklerinden tartışma ve analizlere kadar birçok yayın, tekrar kuşağında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210100000 +0000" stop="20260210110000 +0000" channel="kanal-33">
-    <title lang="tr">Haber 13</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Haber&quot; bülteni, Mersin&#x27;den Türkiye&#x27;ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210110000 +0000" stop="20260210120000 +0000" channel="kanal-33">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Gündem&quot; programı, Mersin&#x27;den Türkiye&#x27;ye uzanan geniş bir çerçevede günün en önemli gelişmelerini derinlemesine ele alıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210120000 +0000" stop="20260210130000 +0000" channel="kanal-33">
-    <title lang="tr">Haber 15</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Haber&quot; bülteni, Mersin&#x27;den Türkiye&#x27;ye ve dünyaya uzanan en güncel gelişmeleri izleyiciyle buluşturuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210130000 +0000" stop="20260210140000 +0000" channel="kanal-33">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260210140000 +0000" stop="20260210144500 +0000" channel="kanal-33">
-    <title lang="tr">Haber Saati</title>
-    <desc lang="tr">Türkiye&#x27;nin dört bir yanından ve dünyadan sıcak gelişmeler; siyaset, ekonomi, spor, kültür-sanat ve toplumsal olaylar başlıkları altında ekrana taşınıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210144500 +0000" stop="20260210150000 +0000" channel="kanal-33">
-    <title lang="tr">Gündemin Nabzı</title>
-    <desc lang="tr">Kanal 33&#x27;ün tartışma ve analiz programı &quot;Gündemin Nabzı&quot;, Türkiye&#x27;nin ve Mersin&#x27;in gündemini belirleyen konuları masaya yatırıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210150000 +0000" stop="20260210160000 +0000" channel="kanal-33">
-    <title lang="tr">İftar Saati</title>
-    <desc lang="tr">Ramazan ayına özel program &quot;İftar Saati&quot;, izleyicilere iftar öncesi huzurlu ve keyifli bir zaman dilimi sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210160000 +0000" stop="20260210170000 +0000" channel="kanal-33">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">&quot;Ana Haber&quot;, günün tüm önemli gelişmelerini tarafsız ve güvenilir habercilik anlayışıyla izleyicilere sunuyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="kanal-33">
-    <title lang="tr">Tekrar</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Tekrar&quot; kuşağı, gün içerisinde yayınlanan programları kaçıran izleyiciler için yeniden ekrana taşıyor. Haber bültenlerinden söyleşi programlarına, kültür-sanat içeriklerinden tartışma ve analizlere kadar birçok yayın, tekrar kuşağında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="kanal-33">
-    <title lang="tr">Haber Saati</title>
-    <desc lang="tr">Türkiye&#x27;nin dört bir yanından ve dünyadan sıcak gelişmeler; siyaset, ekonomi, spor, kültür-sanat ve toplumsal olaylar başlıkları altında ekrana taşınıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260210190000 +0000" stop="20260210200000 +0000" channel="kanal-33">
-    <title lang="tr">Tekrar</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Tekrar&quot; kuşağı, gün içerisinde yayınlanan programları kaçıran izleyiciler için yeniden ekrana taşıyor. Haber bültenlerinden söyleşi programlarına, kültür-sanat içeriklerinden tartışma ve analizlere kadar birçok yayın, tekrar kuşağında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210200000 +0000" stop="20260210203000 +0000" channel="kanal-33">
-    <title lang="tr">Tekrar</title>
-    <desc lang="tr">Kanal 33&#x27;ün &quot;Tekrar&quot; kuşağı, gün içerisinde yayınlanan programları kaçıran izleyiciler için yeniden ekrana taşıyor. Haber bültenlerinden söyleşi programlarına, kültür-sanat içeriklerinden tartışma ve analizlere kadar birçok yayın, tekrar kuşağında izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210203000 +0000" stop="20260211043000 +0000" channel="kanal-33">
-    <title lang="tr">Haber Saati</title>
-    <desc lang="tr">Türkiye&#x27;nin dört bir yanından ve dünyadan sıcak gelişmeler; siyaset, ekonomi, spor, kültür-sanat ve toplumsal olaylar başlıkları altında ekrana taşınıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
   <programme start="20260210040000 +0000" stop="20260210044500 +0000" channel="kanal-7">
     <title lang="tr">Kanal 7&#x27;de Sabah</title>
     <desc lang="tr">Günün ilk saatlerinde öne çıkan sıcak haberleri, gündemin perde arkasını ve uzman yorumlarını ekrana taşıyor. Alanında yetkin konuklarla yapılan değerlendirmelerle izleyicilere hem keyifli hem bilgilendirici bir yayın sunarak güne güçlü ve bilinçli başlangıç yapmaları sağlanıyor, bilgilenmeleri destekleniyor.</desc>
@@ -14461,33 +14656,48 @@ Cihan&#x27;dan vazgeçemeyeceğini bilen Alya ise Boran&#x27;la süren kavgasın
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260210140000 +0000" stop="20260210150000 +0000" channel="kontv">
-    <title lang="tr">Otostart</title>
-    <desc lang="tr">Otostart, otomobil dünyasındaki yenilikleri, test sürüşlerini, teknolojik gelişmeleri ve sektördeki güncel haberleri izleyiciye anlaşılır ve detaylı bir şekilde sunan bir bilgi programıdır. Programda araç incelemeleri, sürüş deneyimleri ve otomobil tutkunlarını ilgilendiren farklı konular ele alınır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260210150000 +0000" stop="20260210163000 +0000" channel="kontv">
     <title lang="tr">Sora Sora Yarışma</title>
     <desc lang="tr">Sora Sora Yarışma izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260210163000 +0000" stop="20260210174000 +0000" channel="kontv">
+  <programme start="20260210150000 +0000" stop="20260210160000 +0000" channel="kontv">
+    <title lang="tr">Cengiz Acar&#x27;la Derin Tarih</title>
+    <desc lang="tr">Cengiz Acar&#x27;la Derin Tarih, Kon TV ekranlarında tarih meraklılarını ekrana kilitleyen özel bir programdır. Osmanlı&#x27;dan Cumhuriyet&#x27;e, yakın tarihten gizli kalmış olaylara kadar pek çok konu Cengiz Acar&#x27;ın güçlü anlatımıyla işleniyor. Program, olayların arka planını, etkilerini tanıklarla gözler önüne seriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260210160000 +0000" stop="20260210163000 +0000" channel="kontv">
+    <title lang="tr">Sıcak Saatler</title>
+    <desc lang="tr">Gün içinde yaşanan en önemli gelişmeler, anbean takip edilerek izleyiciye aktarılıyor. Son dakika bilgileri, öne çıkan başlıklar ve uzman değerlendirmeleriyle gündemin nabzı tutuluyor. Hızlı, güvenilir ve sade anlatımıyla haberleri kaçırmadan izleme imkânı sunuyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260210163000 +0000" stop="20260210173400 +0000" channel="kontv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260210174000 +0000" stop="20260210183000 +0000" channel="kontv">
+  <programme start="20260210173400 +0000" stop="20260210173600 +0000" channel="kontv">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, ülke genelindeki ve bölgesel hava koşullarını detaylı ve anlaşılır şekilde izleyiciye sunar. Sıcaklık, yağış, rüzgâr ve diğer hava olayları hakkında güncel bilgiler verilir. Mevsimsel tahminler ve olası uyarılar da aktarılır, günlük yaşam için güvenilir bir rehberdir.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260210173600 +0000" stop="20260210174000 +0000" channel="kontv">
+    <title lang="tr">Spor Haber</title>
+    <desc lang="tr">Futbol ve diğer spor dallarındaki güncel gelişmeleri, maç sonuçlarını, öne çıkan haberleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir spor programıdır. Program izleyiciyi spor dünyasındaki önemli gelişmelerden haberdar ederken, spor gündemini kapsamlı bir şekilde izleyicinin takip etmesini sağlar.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260210174000 +0000" stop="20260210184000 +0000" channel="kontv">
     <title lang="tr">İyilikle Sevindir</title>
     <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260210183000 +0000" stop="20260210200000 +0000" channel="kontv">
+  <programme start="20260210184000 +0000" stop="20260210200000 +0000" channel="kontv">
     <title lang="tr">Tarihin Kadrajından</title>
     <desc lang="tr">Tarihe tanıklık eden fotoğraflar ve görsel kayıtlar bu belgeselde ele alınıyor. Her kare, yaşanmışlıkları ve dönemin ruhunu yansıtırken, olayların arka planı sade ve anlaşılır bir dille izleyiciye aktarılıyor. Görseller üzerinden yapılan anlatım, geçmişi daha yakından hissettirmeyi amaçlıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260210200000 +0000" stop="20260210210000 +0000" channel="kontv">
     <title lang="tr">Türk Filmi</title>
-    <desc lang="tr">Karakterlerin yaşadıkları ve hikâyenin gelişimi bu içerikte ele alınıyor. Duygusal sahneler ve dramatik olay örgüsü sade bir anlatımla aktarılırken, izleyiciye hem eğlenceli hem de etkileyici bir izleme deneyimi sunuluyor.</desc>
+    <desc lang="tr">Türk Filmi, duygusal, dramatik ve komik temaları bir araya getirerek Türk sinemasının zengin örneklerini izleyiciyle buluşturuyor. Film boyunca karakterlerin yaşamları, ilişkileri ve çatışmaları etkileyici bir anlatımla ekrana taşınıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260210000000 +0000" stop="20260210010000 +0000" channel="krt-tv">
@@ -17679,6 +17889,82 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
+  <programme start="20260210000000 +0000" stop="20260210010000 +0000" channel="number1-turk">
+    <title lang="tr">Love Song</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210010000 +0000" stop="20260210020000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210020000 +0000" stop="20260210040000 +0000" channel="number1-turk">
+    <title lang="tr">Love Song</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210040000 +0000" stop="20260210060000 +0000" channel="number1-turk">
+    <title lang="tr">Sabah Enerjisi</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210060000 +0000" stop="20260210070000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210070000 +0000" stop="20260210080000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210080000 +0000" stop="20260210090000 +0000" channel="number1-turk">
+    <title lang="tr">#Tbt</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210090000 +0000" stop="20260210100000 +0000" channel="number1-turk">
+    <title lang="tr">Ateşle</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210100000 +0000" stop="20260210110000 +0000" channel="number1-turk">
+    <title lang="tr">Trend Setter</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210110000 +0000" stop="20260210120000 +0000" channel="number1-turk">
+    <title lang="tr">Unutulmayanlar</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210120000 +0000" stop="20260210130000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210130000 +0000" stop="20260210140000 +0000" channel="number1-turk">
+    <title lang="tr">#Tbt</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210140000 +0000" stop="20260210150000 +0000" channel="number1-turk">
+    <title lang="tr">Dijital Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210150000 +0000" stop="20260210160000 +0000" channel="number1-turk">
+    <title lang="tr">Ateşle</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210160000 +0000" stop="20260210170000 +0000" channel="number1-turk">
+    <title lang="tr">Unutulmayanlar</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="number1-turk">
+    <title lang="tr">Dijital Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210190000 +0000" stop="20260210200000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260210200000 +0000" stop="20260210220000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
   <programme start="20260210020000 +0000" stop="20260210030000 +0000" channel="number1-tv">
     <title lang="tr">NR1 TOP 20</title>
     <desc lang="tr">NR1 TV&#x27;DE HAFTA BOYUNCA EN COK YAYINLANAN 20 VIDEO KLIBIN GERI SAYIMI NR1 TOP 20&#x27;DE.</desc>
@@ -19817,7 +20103,7 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
   </programme>
   <programme start="20260210160000 +0000" stop="20260210170000 +0000" channel="tele1">
     <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Murat Taylan&#x27;ın sunduğu Gerçeğin İzinde, kamuoyunda merak uyandıran olayları, üzeri örtülen dosyaları ve yanıtı bulunmamış soruları derinlemesine ele alır. Tanıklıklar, belgeler ve uzman görüşleriyle olayların perde arkası aydınlatılır. Program, izleyiciyi yalnızca izlemeye değil, sorgulamaya ve düşünmeye de davet eder.</desc>
+    <desc lang="tr">Hafta içi her gün TELE1 ekranında Murat Taylan&#x27;ın sunduğu Ana Haber, Türkiye ve dünyadan günün öne çıkan gelişmelerini izleyiciye sade ve güvenilir bir şekilde aktarıyor. Program, siyasetten ekonomiye, toplum ve yaşam gündeminden önemli olaylara kadar her detayı kapsıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260210170000 +0000" stop="20260210180000 +0000" channel="tele1">
