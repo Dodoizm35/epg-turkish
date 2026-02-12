@@ -225,6 +225,10 @@
     <display-name>TVNET</display-name>
   </channel>
 
+  <channel id="akit-tv">
+    <display-name>AKİT TV</display-name>
+  </channel>
+
   <channel id="benguturk">
     <display-name>BENGÜTÜRK</display-name>
   </channel>
@@ -1334,45 +1338,13 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <title lang="tr">Yatırım Dünyası</title>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260212060000 +0000" stop="20260212071500 +0000" channel="a-para">
+  <programme start="20260212060000 +0000" stop="20260212070000 +0000" channel="a-para">
     <title lang="tr">Paranın Rotası</title>
     <category lang="tr">Finans</category>
   </programme>
-  <programme start="20260212071500 +0000" stop="20260212075500 +0000" channel="a-para">
-    <title lang="tr">Ekonomi Notları</title>
-    <desc lang="tr">Küresel piyasalarda son açıklanan veriler aktarılırken, dünya piyasalarını ilgilendiren haberler uzman konuklarla değerlendiriliyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260212075500 +0000" stop="20260212080000 +0000" channel="a-para">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260212080000 +0000" stop="20260212085500 +0000" channel="a-para">
-    <title lang="tr">Piyasa Saati</title>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260212085500 +0000" stop="20260212090000 +0000" channel="a-para">
-    <title lang="tr">Yatırım Dünyası</title>
+  <programme start="20260212070000 +0000" stop="20260212110000 +0000" channel="a-para">
+    <title lang="tr">Merkez Bankası Özel Yayın</title>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212093000 +0000" channel="a-para">
-    <title lang="tr">Tarladan Sofraya</title>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260212093000 +0000" stop="20260212100000 +0000" channel="a-para">
-    <title lang="tr">Araba Sevdası</title>
-    <desc lang="tr">Otomotiv sektöründeki güncel tablo, uzman konuklar eşliğinde değerlendiriliyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260212100000 +0000" stop="20260212105500 +0000" channel="a-para">
-    <title lang="tr">Yatırım Günlüğü</title>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260212105500 +0000" stop="20260212110000 +0000" channel="a-para">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Hava Durumu</category>
   </programme>
   <programme start="20260212110000 +0000" stop="20260212115500 +0000" channel="a-para">
     <title lang="tr">Piyasa Gündemi</title>
@@ -1441,9 +1413,18 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <title lang="tr">Nostalji</title>
     <category lang="tr">Diğer</category>
   </programme>
+  <programme start="20260212010000 +0000" stop="20260212020000 +0000" channel="a-spor">
+    <title lang="tr">Avrupa&#x27;dan Futbol</title>
+    <desc lang="tr">Avrupa&#x27;dan Futbol&#x27;da, Avrupa liglerinde oynanan maçlardan görüntüler, takımların son durumları ve oyuncuların performansları değerlendiriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212020000 +0000" stop="20260212030000 +0000" channel="a-spor">
+    <title lang="tr">Spor Gündemi</title>
+    <desc lang="tr">Gündeme ilişkin haberler ve gelişen spor olayları ekrana yansıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260212030000 +0000" stop="20260212050000 +0000" channel="a-spor">
-    <title lang="tr">ZTK Özetler</title>
-    <desc lang="tr">Ziraat Türkiye Kupası&#x27;nda oynanan maçlardan özet görüntüler ekrana geliyor.</desc>
+    <title lang="tr">Avrupa&#x27;da Türk Takımları</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260212050000 +0000" stop="20260212080000 +0000" channel="a-spor">
@@ -1466,24 +1447,19 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <desc lang="tr">Gündeme ilişkin haberler ve gelişen spor olayları ekrana yansıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260212150000 +0000" stop="20260212174500 +0000" channel="a-spor">
+  <programme start="20260212150000 +0000" stop="20260212170000 +0000" channel="a-spor">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Spor dünyasında yaşanan tüm gelişmeler, Ana Haber&#x27;de ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260212174500 +0000" stop="20260212183000 +0000" channel="a-spor">
-    <title lang="tr">Transfer Raporu</title>
-    <desc lang="tr">Takımların gündemindeki futbolcular, dedikodular ve biten transferler, Transfer Raporu&#x27;nda konuşuluyor.</desc>
+  <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="a-spor">
+    <title lang="tr">Avrupa&#x27;dan Futbol</title>
+    <desc lang="tr">Avrupa&#x27;dan Futbol&#x27;da, Avrupa liglerinde oynanan maçlardan görüntüler, takımların son durumları ve oyuncuların performansları değerlendiriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260212183000 +0000" stop="20260212184500 +0000" channel="a-spor">
-    <title lang="tr">Devre Arası</title>
-    <desc lang="tr">Devre Arası&#x27;nda, maçın ilk yarısı değerlendiriliyor. Spor yazarlarının ve antrenörlerin görüşleri izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260212184500 +0000" stop="20260212200000 +0000" channel="a-spor">
-    <title lang="tr">Transfer Raporu</title>
-    <desc lang="tr">Takımların gündemindeki futbolcular, dedikodular ve biten transferler, Transfer Raporu&#x27;nda konuşuluyor.</desc>
+  <programme start="20260212180000 +0000" stop="20260212200000 +0000" channel="a-spor">
+    <title lang="tr">Futbol Meydanı</title>
+    <desc lang="tr">Haftanın olayları Futbol Meydanı&#x27;nda yorumlanıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260212200000 +0000" stop="20260212230000 +0000" channel="a-spor">
@@ -1549,6 +1525,66 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <title lang="tr">Eşkıya Dünyaya Hükümdar Olmaz</title>
     <desc lang="tr">Türkiye&#x27;nin en güçlü ailesi olan Çakırbeyliler&#x27;in karşısında bu sefer daha zorlu bir sınav vardır: Avrupa&#x27;nın en büyüğü olmak... Bakalım, güç savaşlarında kazanan taraf kim olacak, dünyayı sömüren güçler mi, onlara başkaldıran Çakırbeyliler mi?</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260212040000 +0000" stop="20260212073000 +0000" channel="akit-tv">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, Akit TV sabah kuşağında izleyiciye güne güncel ve enerjik bir başlangıç sunuyor. Günün öne çıkan haberleri, ekonomi, politika, kültür-sanat ve yaşam konuları deneyimli sunucular ve uzman yorumlarıyla ele alınıyor. Canlı bağlantılarla gündem anbean aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212073000 +0000" stop="20260212090000 +0000" channel="akit-tv">
+    <title lang="tr">Manşetlerin Dili</title>
+    <desc lang="tr">Manşetlerin Dili, gazete manşetleri üzerinden gündemin en sıcak gelişmelerini ve tartışma yaratan olayları ekrana taşıyan bir analiz programıdır. Güncel haberler, farklı bakış açıları ve yorumlarla ele alınarak izleyiciye kapsamlı bir gündem değerlendirmesi sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212100000 +0000" channel="akit-tv">
+    <title lang="tr">Öğle Bülteni</title>
+    <desc lang="tr">Akit TV Öğle Bülteni, günün ilk yarısında yaşanan önemli gelişmeleri izleyiciyle buluşturur. Ülke ve dünya gündemi, politika, ekonomi, kültür-sanat ve yaşam haberleri canlı bağlantılar, uzman yorumları ve deneyimli muhabirlerle aktarılır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212100000 +0000" stop="20260212110000 +0000" channel="akit-tv">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Akit TV Gün Ortası, günün ortasında izleyicilere ülke ve dünya gündemindeki önemli gelişmeleri sunar. Politika, ekonomi, kültür-sanat ve yaşam konuları canlı bağlantılar, uzman yorumları ve deneyimli sunucular eşliğinde detaylı ve anlaşılır biçimde ele alınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212110000 +0000" stop="20260212113000 +0000" channel="akit-tv">
+    <title lang="tr">Haber Bülteni</title>
+    <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212113000 +0000" stop="20260212120000 +0000" channel="akit-tv">
+    <title lang="tr">Ekonomi Ajandası</title>
+    <desc lang="tr">Akit TV Ekonomi Ajandası, finans dünyasındaki son gelişmeleri ve ekonomik gündemi izleyiciyle buluşturur. Döviz, borsa, faiz ve yatırım konuları; ekonomi uzmanları ve analistlerin yorumlarıyla ele alınır. Güncel veriler ve canlı bağlantılarla piyasalar detaylı şekilde analiz edilir.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212120000 +0000" stop="20260212130000 +0000" channel="akit-tv">
+    <title lang="tr">Haber Bülteni</title>
+    <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212130000 +0000" stop="20260212140000 +0000" channel="akit-tv">
+    <title lang="tr">Haber 16</title>
+    <desc lang="tr">Haber, gündemin nabzını tutan doğru, tarafsız ve hızlı bir haber programıdır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, çevre, teknoloji ve daha birçok alandaki önemli gelişmeler canlı bağlantılar, özel haberler ve uzman yorumlarla izleyiciye sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212140000 +0000" stop="20260212143000 +0000" channel="akit-tv">
+    <title lang="tr">Akşama Doğru</title>
+    <desc lang="tr">Akşama Doğru, günün ilerleyen saatlerinde yaşanan önemli gelişmeleri izleyiciyle buluşturur. Politika, ekonomi, toplumsal olaylar ve kültür-sanat gündemi; uzman konuklar, analizler ve canlı bağlantılarla detaylı şekilde ele alınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212143000 +0000" stop="20260212153000 +0000" channel="akit-tv">
+    <title lang="tr">İş ve Ekonomi</title>
+    <desc lang="tr">Paranın yönü, zamlar, vergiler, dış yatırımlar, ekonominin lokomotif sektörlerinde olup bitenler, şirketlerden haberler, piyasaların kapanış rakamları, yatırımcıya rehber olacak tüyolar Sami Türkkan &#x27;ın sunumu ve uzman değerlendirmeleri eşliğinde İş ve Ekonomi programında.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212153000 +0000" stop="20260212173000 +0000" channel="akit-tv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Akit TV Ana Haber, günün en önemli gelişmelerini ve ülke ile dünya gündemini kapsamlı şekilde izleyiciye sunar. Politika, ekonomi, toplumsal olaylar ve kültür-sanat alanındaki kritik haberler; deneyimli sunucular, uzman yorumları ve canlı bağlantılarla aktarılır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212173000 +0000" stop="20260212210000 +0000" channel="akit-tv">
+    <title lang="tr">Söz Meydanı</title>
+    <desc lang="tr">Söz Meydanı, Türkiye&#x27;nin geleceğini gençlerin bakış açısıyla ele alan bir programdır. Siyaset, toplum, eğitim ve ülkeyi ilgilendiren başlıklar gençlerin görüşleriyle tartışılır. Farklı düşünceler özgürce ifade edilir ve güncel konular derinlemesine incelenir.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">Newshour</title>
@@ -3009,68 +3045,72 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">A.Villa - Brighton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211044500 +0000" stop="20260211045900 +0000" channel="beinsports3.tr">
+  <programme start="20260212044500 +0000" stop="20260212045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211050000 +0000" stop="20260211064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham - Manchester United</title>
+  <programme start="20260212050000 +0000" stop="20260212064400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211064500 +0000" stop="20260211065900 +0000" channel="beinsports3.tr">
+  <programme start="20260212064500 +0000" stop="20260212065900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211070000 +0000" stop="20260211084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Sunderland</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260211084500 +0000" stop="20260211085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260211090000 +0000" stop="20260211105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Manchester City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260211110000 +0000" stop="20260211124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham Hotspur-Newcastle U.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260211124500 +0000" stop="20260211125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260211130000 +0000" stop="20260211144400 +0000" channel="beinsports3.tr">
+  <programme start="20260212070000 +0000" stop="20260212084400 +0000" channel="beinsports3.tr">
     <title lang="tr">Chelsea - Leeds United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211144500 +0000" stop="20260211145900 +0000" channel="beinsports3.tr">
+  <programme start="20260212084500 +0000" stop="20260212085900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211150000 +0000" stop="20260211164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Everton - Bournemouth</title>
+  <programme start="20260212090000 +0000" stop="20260212104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Manchester City - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211164500 +0000" stop="20260211165900 +0000" channel="beinsports3.tr">
+  <programme start="20260212104500 +0000" stop="20260212105900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211170000 +0000" stop="20260211184400 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham - Manchester United</title>
+  <programme start="20260212110000 +0000" stop="20260212124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Brighton H.A.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211184500 +0000" stop="20260211191900 +0000" channel="beinsports3.tr">
+  <programme start="20260212124500 +0000" stop="20260212125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212130000 +0000" stop="20260212144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nottingham Forest-W.Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212144500 +0000" stop="20260212145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212150000 +0000" stop="20260212164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Crystal Palace - Burnley</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212164500 +0000" stop="20260212165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212170000 +0000" stop="20260212184400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Liverpool</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260212184500 +0000" stop="20260212194900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211192000 +0000" stop="20260211192900 +0000" channel="beinsports3.tr">
+  <programme start="20260212195000 +0000" stop="20260212195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260211193000 +0000" stop="20260211213000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Manchester City - Fulham</title>
+  <programme start="20260212200000 +0000" stop="20260212220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260211024500 +0000" stop="20260211025900 +0000" channel="beinsports4.tr">
@@ -5810,91 +5850,6 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <title lang="tr">Bluey</title>
     <desc lang="tr">Heeler&#x27;ların evinin üstüne şiddetli yaz yağmuru yağarken Bluey ön bahçedeki suya baraj yapmaya kararlıdır, annesi ise sürekli olarak eve çamur taşımasını engellemeye çalışır. 18/73</desc>
     <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="ciftci-tv">
-    <title lang="tr">Baş Çoban</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212010000 +0000" stop="20260212020000 +0000" channel="ciftci-tv">
-    <title lang="tr">Kuşçu</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212020000 +0000" stop="20260212030000 +0000" channel="ciftci-tv">
-    <title lang="tr">Ekimden Hasada</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212030000 +0000" stop="20260212040000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çobanın Sesi</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212040000 +0000" stop="20260212050000 +0000" channel="ciftci-tv">
-    <title lang="tr">Köy Hasreti</title>
-    <desc lang="tr">Mehmet Arkan&#x27;ın sunumuyla Köy Hasreti Cumartesi Günü Saat 20:00&#x27;de Çiftçi TV&#x27;de!</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212050000 +0000" stop="20260212060000 +0000" channel="ciftci-tv">
-    <title lang="tr">Dersimiz Hayvancılık</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212060000 +0000" stop="20260212070000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çiftçiden Haber</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212070000 +0000" stop="20260212080000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çiftçiden Haber</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212080000 +0000" stop="20260212090000 +0000" channel="ciftci-tv">
-    <title lang="tr">Tarımda Gelecek Vizyonu</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212100000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çömez Köylü</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212100000 +0000" stop="20260212110000 +0000" channel="ciftci-tv">
-    <title lang="tr">Akdeniz&#x27;de Tarım</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212110000 +0000" stop="20260212120000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çobanla Baş Başa</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212120000 +0000" stop="20260212130000 +0000" channel="ciftci-tv">
-    <title lang="tr">Tarladan Bahçeye</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212130000 +0000" stop="20260212140000 +0000" channel="ciftci-tv">
-    <title lang="tr">Bir Hayvancılık Hikayesi</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212140000 +0000" stop="20260212150000 +0000" channel="ciftci-tv">
-    <title lang="tr">Türk Aslanları</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212150000 +0000" stop="20260212160000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çiftlik Rutinleri</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212160000 +0000" stop="20260212170000 +0000" channel="ciftci-tv">
-    <title lang="tr">Arılara Fısıldayan Adam</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="ciftci-tv">
-    <title lang="tr">Çiftlik Dedektifi</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212180000 +0000" stop="20260212190000 +0000" channel="ciftci-tv">
-    <title lang="tr">Üretimin Arka Yüzü</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212190000 +0000" stop="20260212200000 +0000" channel="ciftci-tv">
-    <title lang="tr">İşimiz Keçi</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260212200000 +0000" stop="20260212210000 +0000" channel="ciftci-tv">
-    <title lang="tr">Tarıma Dair</title>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260212001000 +0000" stop="20260212005000 +0000" channel="cnbc-e">
     <title lang="tr">Ece Sükan İle 3S</title>
@@ -12150,6 +12105,589 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <title lang="tr">Gündem Sohbeti</title>
     <category lang="tr">Magazin</category>
   </programme>
+  <programme start="20260212000000 +0000" stop="20260212001500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212001500 +0000" stop="20260212003000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212003000 +0000" stop="20260212003300 +0000" channel="france-24-arabic">
+    <title lang="tr">Flash</title>
+    <desc lang="tr">A 3-minute news recap live from the newsroom</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212003300 +0000" stop="20260212005600 +0000" channel="france-24-arabic">
+    <title lang="tr">Maghreb Face-Off</title>
+    <desc lang="tr">Two experts debate on major topics that stir the Maghreb region.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212005600 +0000" stop="20260212010000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212010000 +0000" stop="20260212011500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212011500 +0000" stop="20260212012200 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212012200 +0000" stop="20260212013000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212013000 +0000" stop="20260212014500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212014500 +0000" stop="20260212020000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212020000 +0000" stop="20260212021500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212021500 +0000" stop="20260212030000 +0000" channel="france-24-arabic">
+    <title lang="tr">The Debate</title>
+    <desc lang="tr">Taoufik Mjaied and his guest panel debate the topic of the day. Viewers and web users can interact directly with the journalists and their guests using social networks.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212030000 +0000" stop="20260212031500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212031500 +0000" stop="20260212033000 +0000" channel="france-24-arabic">
+    <title lang="tr">Correspondents</title>
+    <desc lang="tr">France 24 correspondents from around the world present a series of reports on various topics such as health, education, tourism and others in different countries.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212033000 +0000" stop="20260212034500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212034500 +0000" stop="20260212040000 +0000" channel="france-24-arabic">
+    <title lang="tr">Health First</title>
+    <desc lang="tr">With guest doctors and presented by Sonitta Nader, a programme dedicated to health and well-being.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212040000 +0000" stop="20260212041500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212041500 +0000" stop="20260212050000 +0000" channel="france-24-arabic">
+    <title lang="tr">Press Club</title>
+    <desc lang="tr">Journalists from France 24 and MCD look at the events that have made the headlines</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212050000 +0000" stop="20260212051400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212051400 +0000" stop="20260212051500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212051500 +0000" stop="20260212053000 +0000" channel="france-24-arabic">
+    <title lang="tr">Secret Paris</title>
+    <desc lang="tr">France 24 invites its viewers to discover the French capital through its most mysterious places and secrets.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212053000 +0000" stop="20260212054400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212054400 +0000" stop="20260212054500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212054500 +0000" stop="20260212060000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212060000 +0000" stop="20260212061300 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212061300 +0000" stop="20260212061400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212061400 +0000" stop="20260212062000 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212062000 +0000" stop="20260212062600 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212062600 +0000" stop="20260212063000 +0000" channel="france-24-arabic">
+    <title lang="tr">L&#x27;instant mobile</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212063000 +0000" stop="20260212064300 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212064300 +0000" stop="20260212064400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212064400 +0000" stop="20260212065000 +0000" channel="france-24-arabic">
+    <title lang="tr">The Observers</title>
+    <desc lang="tr">The Observers present a collaborative weekly news show produced exclusively with content provided by amateurs.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212065000 +0000" stop="20260212070000 +0000" channel="france-24-arabic">
+    <title lang="tr">Santé</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212070000 +0000" stop="20260212071500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212071500 +0000" stop="20260212072100 +0000" channel="france-24-arabic">
+    <title lang="tr">International Chronical</title>
+    <desc lang="tr">France 24 international editors analyse a key issue in the international news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212072100 +0000" stop="20260212073000 +0000" channel="france-24-arabic">
+    <title lang="tr">In the Press</title>
+    <desc lang="tr">An exhaustive overview of the world newspaper headlines. Debates and stories of the day presented live from the newsroom.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212073000 +0000" stop="20260212074000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212074000 +0000" stop="20260212074500 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212074500 +0000" stop="20260212075100 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212075100 +0000" stop="20260212075700 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212075700 +0000" stop="20260212080000 +0000" channel="france-24-arabic">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">A 3-minute news recap live from the newsroom</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212080000 +0000" stop="20260212081500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212081500 +0000" stop="20260212082100 +0000" channel="france-24-arabic">
+    <title lang="tr">International Chronical</title>
+    <desc lang="tr">France 24 international editors analyse a key issue in the international news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212082100 +0000" stop="20260212083000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212083000 +0000" stop="20260212084000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212084000 +0000" stop="20260212084500 +0000" channel="france-24-arabic">
+    <title lang="tr">In the Press</title>
+    <desc lang="tr">An exhaustive overview of the world newspaper headlines. Debates and stories of the day presented live from the newsroom.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212084500 +0000" stop="20260212085100 +0000" channel="france-24-arabic">
+    <title lang="tr">Bab El Web</title>
+    <desc lang="tr">A daily round-up of the news as seen on social networks in the Arabic-speaking world</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212085100 +0000" stop="20260212085500 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212085500 +0000" stop="20260212090000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212091400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212091400 +0000" stop="20260212091500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212091500 +0000" stop="20260212092100 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212092100 +0000" stop="20260212093000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212093000 +0000" stop="20260212094400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212094400 +0000" stop="20260212094500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212094500 +0000" stop="20260212100000 +0000" channel="france-24-arabic">
+    <title lang="tr">The 51%</title>
+    <desc lang="tr">The 51% is devoted to the women and men who get things moving in a world that is still largely dominated by the male gender.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212100000 +0000" stop="20260212101300 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212101300 +0000" stop="20260212110000 +0000" channel="france-24-arabic">
+    <title lang="tr">Press Club</title>
+    <desc lang="tr">Journalists from France 24 and MCD look at the events that have made the headlines</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212110000 +0000" stop="20260212111500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212111500 +0000" stop="20260212111600 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212111600 +0000" stop="20260212113000 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212113000 +0000" stop="20260212114500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212114500 +0000" stop="20260212114600 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212114600 +0000" stop="20260212115800 +0000" channel="france-24-arabic">
+    <title lang="tr">Secret Paris</title>
+    <desc lang="tr">France 24 invites its viewers to discover the French capital through its most mysterious places and secrets.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212115800 +0000" stop="20260212120000 +0000" channel="france-24-arabic">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">A 3-minute news recap live from the newsroom</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212120000 +0000" stop="20260212121100 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212121100 +0000" stop="20260212121700 +0000" channel="france-24-arabic">
+    <title lang="tr">International Chronical</title>
+    <desc lang="tr">France 24 international editors analyse a key issue in the international news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212121700 +0000" stop="20260212122200 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212122200 +0000" stop="20260212123000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212123000 +0000" stop="20260212124600 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212124600 +0000" stop="20260212125200 +0000" channel="france-24-arabic">
+    <title lang="tr">Tech</title>
+    <desc lang="tr">Hasnae Malih presents a daily round-up of the tech news hitting the headlines.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212125200 +0000" stop="20260212125600 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212125600 +0000" stop="20260212130000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212130000 +0000" stop="20260212131500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212131500 +0000" stop="20260212132000 +0000" channel="france-24-arabic">
+    <title lang="tr">L&#x27;invité de Paris direct</title>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212132000 +0000" stop="20260212132500 +0000" channel="france-24-arabic">
+    <title lang="tr">Truth or Fake</title>
+    <desc lang="tr">A show dedicated to debunking fake news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212132500 +0000" stop="20260212133000 +0000" channel="france-24-arabic">
+    <title lang="tr">L&#x27;instant mobile</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212133000 +0000" stop="20260212134000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212134000 +0000" stop="20260212134500 +0000" channel="france-24-arabic">
+    <title lang="tr">International Chronical</title>
+    <desc lang="tr">France 24 international editors analyse a key issue in the international news.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212134500 +0000" stop="20260212135100 +0000" channel="france-24-arabic">
+    <title lang="tr">Santé</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212135100 +0000" stop="20260212135500 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212135500 +0000" stop="20260212135700 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212135700 +0000" stop="20260212140000 +0000" channel="france-24-arabic">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">A 3-minute news recap live from the newsroom</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212140000 +0000" stop="20260212141400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212141400 +0000" stop="20260212141500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212141500 +0000" stop="20260212143000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reporters</title>
+    <desc lang="tr">Reporters presents various reports by team of correspondents from all over the world regarding hot button issues. Directly from the suburbs of Ghana&#x27;s capital Accra or from Chile, Israel or USA, from any place of the globe the reporters tell latest stories and highlight what is going on.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212143000 +0000" stop="20260212144400 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212144400 +0000" stop="20260212144500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212144500 +0000" stop="20260212150000 +0000" channel="france-24-arabic">
+    <title lang="tr">Down to Earth</title>
+    <desc lang="tr">&quot;Down to Earth&quot; travels across the globe to meet those searching for sustainable solutions to our changing world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212150000 +0000" stop="20260212151000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212151000 +0000" stop="20260212160000 +0000" channel="france-24-arabic">
+    <title lang="tr">Taboos</title>
+    <desc lang="tr">A society magazine which covers topics rarely discussed due to social pressure.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260212160000 +0000" stop="20260212160900 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212160900 +0000" stop="20260212161000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212161000 +0000" stop="20260212162200 +0000" channel="france-24-arabic">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">The latest trends in the world of photography, music, film, literature and fashion.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212162200 +0000" stop="20260212162600 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212162600 +0000" stop="20260212163000 +0000" channel="france-24-arabic">
+    <title lang="tr">Reportages</title>
+    <desc lang="tr">A report on a major news issue.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212163000 +0000" stop="20260212163900 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212163900 +0000" stop="20260212164000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212164000 +0000" stop="20260212165200 +0000" channel="france-24-arabic">
+    <title lang="tr">France in Focus</title>
+    <desc lang="tr">An in-depth look at the political and social events shaping France.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212165200 +0000" stop="20260212170000 +0000" channel="france-24-arabic">
+    <title lang="tr">Santé</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212170000 +0000" stop="20260212171500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212171500 +0000" stop="20260212172300 +0000" channel="france-24-arabic">
+    <title lang="tr">Zoom Machrek</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212172300 +0000" stop="20260212173000 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212173000 +0000" stop="20260212174500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212174500 +0000" stop="20260212175000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212175000 +0000" stop="20260212180000 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212180000 +0000" stop="20260212181000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212181000 +0000" stop="20260212185300 +0000" channel="france-24-arabic">
+    <title lang="tr">The Debate</title>
+    <desc lang="tr">Taoufik Mjaied and his guest panel debate the topic of the day. Viewers and web users can interact directly with the journalists and their guests using social networks.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212185300 +0000" stop="20260212190000 +0000" channel="france-24-arabic">
+    <title lang="tr">The World in Images</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212190000 +0000" stop="20260212191500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212191500 +0000" stop="20260212193000 +0000" channel="france-24-arabic">
+    <title lang="tr">Top Story</title>
+    <desc lang="tr">A guest decodes the event of the day</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212193000 +0000" stop="20260212194500 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212194500 +0000" stop="20260212195000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212195000 +0000" stop="20260212195600 +0000" channel="france-24-arabic">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212195600 +0000" stop="20260212200000 +0000" channel="france-24-arabic">
+    <title lang="tr">L&#x27;instant mobile</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212200000 +0000" stop="20260212202000 +0000" channel="france-24-arabic">
+    <title lang="tr">News</title>
+    <desc lang="tr">Round of all the stock market news and share prices</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260212202000 +0000" stop="20260212202400 +0000" channel="france-24-arabic">
+    <title lang="tr">Economie Maghreb</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260212202400 +0000" stop="20260212203000 +0000" channel="france-24-arabic">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212203000 +0000" stop="20260212205300 +0000" channel="france-24-arabic">
+    <title lang="tr">Maghreb Face-Off</title>
+    <desc lang="tr">Two experts debate on major topics that stir the Maghreb region.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260212205300 +0000" stop="20260212210000 +0000" channel="france-24-arabic">
+    <title lang="tr">Maghreb Focus</title>
+    <desc lang="tr">A long format report dedicated to the Maghreb region, followed by an analysis with journalist and the presenter.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260212000000 +0000" stop="20260212001500 +0000" channel="france-24-english">
     <title lang="tr">News</title>
     <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
@@ -13703,7 +14241,7 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260212170000 +0000" stop="20260212211500 +0000" channel="kanal-d">
     <title lang="tr">İnci Taneleri</title>
-    <desc lang="tr">Geçmişin karanlığı peşini bırakmazken Azem, ailesi ve Dilber&#x27;le sınanan hayatını ayakta tutmaya çalışıyor.</desc>
+    <desc lang="tr">Cihan ile Reyyaz karşı karşıya gelir. Cihan, babasının intikamından vazgeçmeye niyetli değildir. Ancak gelen beklenmedik bir haber, ikisi için de her şeyi değiştirecek bir dönüm noktası olacaktır. Ardında yaşanan kaosu öğrenen Azem, yine iki zor seçenek arasında kalır. Nehir, babasının yokluğunda savrulmaya devam ederken, Dilber hiç ummadığı anda bir kere daha geçmişiyle yüzleşmek zorunda kalır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260212030000 +0000" stop="20260212090000 +0000" channel="kanal-t">
@@ -16803,27 +17341,27 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212051900 +0000" stop="20260212054100 +0000" channel="nicktoons">
+  <programme start="20260212051900 +0000" stop="20260212054200 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212054100 +0000" stop="20260212060300 +0000" channel="nicktoons">
+  <programme start="20260212054200 +0000" stop="20260212060400 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">After SpongeBob and Patrick eat a secret snack experiment, Plankton must reverse the monstrous side effects. // Mr. Krabs needs to find a babysitter for little Pearl, but she proves too much for the campers to handle.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212060300 +0000" stop="20260212061500 +0000" channel="nicktoons">
+  <programme start="20260212060400 +0000" stop="20260212061600 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
-    <desc lang="tr">After SpongeBob and Patrick eat a secret snack experiment, Plankton must reverse the monstrous side effects.</desc>
+    <desc lang="tr">SpongeBob and Patrick find buried treasure at camp, but Mr. Krabs becomes desperate to get his claws on it.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212061500 +0000" stop="20260212063700 +0000" channel="nicktoons">
+  <programme start="20260212061600 +0000" stop="20260212063800 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">When an unsatisfied anchovy strays from his brothers, SpongeBob and Patrick must help him find his true identity. // SpongeBob is sent to time out on behalf of his buddy, so Patrick does what he can to rectify the situation.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212063700 +0000" stop="20260212070000 +0000" channel="nicktoons">
+  <programme start="20260212063800 +0000" stop="20260212070000 +0000" channel="nicktoons">
     <title lang="tr">The Casagrandes</title>
     <desc lang="tr">The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.</desc>
     <category lang="tr">Çocuk</category>
@@ -16833,22 +17371,22 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212072200 +0000" stop="20260212074400 +0000" channel="nicktoons">
+  <programme start="20260212072200 +0000" stop="20260212074500 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212074400 +0000" stop="20260212080600 +0000" channel="nicktoons">
+  <programme start="20260212074500 +0000" stop="20260212080700 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212080600 +0000" stop="20260212082800 +0000" channel="nicktoons">
+  <programme start="20260212080700 +0000" stop="20260212082900 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212082800 +0000" stop="20260212085100 +0000" channel="nicktoons">
+  <programme start="20260212082900 +0000" stop="20260212085100 +0000" channel="nicktoons">
     <title lang="tr">Tales of the Teenage Mutant Ninja Turtles</title>
     <desc lang="tr">To save his brothers, Mikey needs the help of Bishop&#x27;s intern, ROD. But Rod wants something in return... to be turned into a MUTANT! To save the day, Mikey has to become... RESPONSIBLE.</desc>
     <category lang="tr">Çocuk</category>
@@ -16868,77 +17406,77 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">During Pearl&#x27;s birthday party, circumstance forces Krabs to relive his traumatic past as a clown and step into the shoes once more. // While living in the Pontoon cabin, Mo learns to enjoy the strange new world of role-playing games.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212094700 +0000" stop="20260212100900 +0000" channel="nicktoons">
+  <programme start="20260212094700 +0000" stop="20260212101000 +0000" channel="nicktoons">
     <title lang="tr">Kamp Koral: SpongeBob&#x27;s Under Years</title>
     <desc lang="tr">When Kamp Koral&#x27;s mascot competition heats up, SpongeBob and Patrick&#x27;s friendship will be tested like never before. // A prideful bet has Squidward and Krabs playing their best through the campers&#x27; unorthodox, incredibly dangerous golf course.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212100900 +0000" stop="20260212103100 +0000" channel="nicktoons">
+  <programme start="20260212101000 +0000" stop="20260212103200 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212103100 +0000" stop="20260212105300 +0000" channel="nicktoons">
+  <programme start="20260212103200 +0000" stop="20260212105400 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212105300 +0000" stop="20260212111600 +0000" channel="nicktoons">
+  <programme start="20260212105400 +0000" stop="20260212111600 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212111600 +0000" stop="20260212112900 +0000" channel="nicktoons">
+  <programme start="20260212111600 +0000" stop="20260212112800 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212112900 +0000" stop="20260212115100 +0000" channel="nicktoons">
+  <programme start="20260212112800 +0000" stop="20260212115100 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212115100 +0000" stop="20260212121400 +0000" channel="nicktoons">
+  <programme start="20260212115100 +0000" stop="20260212121300 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">After Patrick eats life-threatening chum, SpongeBob helps him check off his bucket list. // Patrick devolves back into a baby so he can keep his childhood toys.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212121400 +0000" stop="20260212123600 +0000" channel="nicktoons">
+  <programme start="20260212121300 +0000" stop="20260212123500 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">A classic villain returns to his former lair, only to find the Star Family inhabiting it. // The Patrick Show rebrands for a younger audience.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212123600 +0000" stop="20260212125800 +0000" channel="nicktoons">
+  <programme start="20260212123500 +0000" stop="20260212125800 +0000" channel="nicktoons">
     <title lang="tr">Max  and  the Midknights</title>
     <desc lang="tr">As Max and the Midknights struggle to complete their quest, Mumblin reappears with shocking news, revealing the truth about King Conrad&#x27;s disappearance, and they soon learn that the threat to Byjovia is even closer than they thought!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212125800 +0000" stop="20260212132100 +0000" channel="nicktoons">
+  <programme start="20260212125800 +0000" stop="20260212132000 +0000" channel="nicktoons">
     <title lang="tr">The Adventures of Kid Danger</title>
     <desc lang="tr">Join superheroes Kid Danger, Captain Man, and the rest of their crew as they take their sharp wit and amazing crime fighting skills on fun, thrilling adventures like never seen before!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212132100 +0000" stop="20260212133300 +0000" channel="nicktoons">
+  <programme start="20260212132000 +0000" stop="20260212133200 +0000" channel="nicktoons">
     <title lang="tr">The Adventures of Kid Danger</title>
     <desc lang="tr">Captain Man  and  Kid Danger race against the clock to stop Daddy Longlegs from unleashing his army of spiders on Swellview.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212133300 +0000" stop="20260212135200 +0000" channel="nicktoons">
+  <programme start="20260212133200 +0000" stop="20260212135100 +0000" channel="nicktoons">
     <title lang="tr">Sonic Prime</title>
     <desc lang="tr">Sonic tells Nine about Ghost Hill, its shard, and its blueprint to reassemble the Paradox Prism to restart the real world. But all Nine hears is: there&#x27;s a fourth shard. Nine wants it to fix the world.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212135200 +0000" stop="20260212140400 +0000" channel="nicktoons">
+  <programme start="20260212135100 +0000" stop="20260212140500 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">A family of dummies move into the Star home.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212140400 +0000" stop="20260212142600 +0000" channel="nicktoons">
+  <programme start="20260212140500 +0000" stop="20260212142700 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">The Star family finds themselves getting smaller and smaller. // Patrick&#x27;s evil twin cousin shows up to ruin Patrick&#x27; reputation.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212142600 +0000" stop="20260212144900 +0000" channel="nicktoons">
+  <programme start="20260212142700 +0000" stop="20260212144900 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Tinkle, Ouchie, and Pinkeye must venture back home together after being taken away by mistake. // Patrick gets injured, so his family members take turns hosting the show.</desc>
     <category lang="tr">Çocuk</category>
@@ -16948,17 +17486,17 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea sponge Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest adventures.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212150100 +0000" stop="20260212152300 +0000" channel="nicktoons">
+  <programme start="20260212150100 +0000" stop="20260212152400 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea sponge Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest adventures.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212152300 +0000" stop="20260212154500 +0000" channel="nicktoons">
+  <programme start="20260212152400 +0000" stop="20260212154600 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents: A New Wish</title>
     <desc lang="tr">Dev&#x27;s dad, tech magnate Dale Dimmadome, creates an app designed to track kids&#x27; wants at the annual Founder&#x27;s Day Festival, but Hazel shows up as an anomaly thanks to Cosmo and Wanda&#x27;s wish granting. Dale programs giant robots to track her down.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212154500 +0000" stop="20260212160800 +0000" channel="nicktoons">
+  <programme start="20260212154600 +0000" stop="20260212160800 +0000" channel="nicktoons">
     <title lang="tr">The Loud House</title>
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
@@ -16968,32 +17506,32 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">Ever wonder what it&#x27;s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212163100 +0000" stop="20260212165200 +0000" channel="nicktoons">
+  <programme start="20260212163100 +0000" stop="20260212165000 +0000" channel="nicktoons">
     <title lang="tr">Sonic Prime</title>
     <desc lang="tr">Sonic tells Nine about Ghost Hill, its shard, and its blueprint to reassemble the Paradox Prism to restart the real world. But all Nine hears is: there&#x27;s a fourth shard. Nine wants it to fix the world.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212165200 +0000" stop="20260212170700 +0000" channel="nicktoons">
+  <programme start="20260212165000 +0000" stop="20260212170400 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212170700 +0000" stop="20260212172800 +0000" channel="nicktoons">
+  <programme start="20260212170400 +0000" stop="20260212172700 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212172800 +0000" stop="20260212175000 +0000" channel="nicktoons">
+  <programme start="20260212172700 +0000" stop="20260212175000 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212175000 +0000" stop="20260212181200 +0000" channel="nicktoons">
+  <programme start="20260212175000 +0000" stop="20260212181300 +0000" channel="nicktoons">
     <title lang="tr">SpongeBob SquarePants</title>
     <desc lang="tr">SpongeBob SquarePants is a cartoon series starring the yellow sea spong Spongebob who lives deep in the ocean in the underwater town called Bikini Bottom. Together with his buddy the pink starfish Patrick, he experiences the craziest and most exciting adventures. Spongebob has a very energetic and optimistic character and works as a chef in restaurant &#x27;The Krusty Krab&#x27; where he makes the best burgers of the bottom of the sea.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212181200 +0000" stop="20260212183500 +0000" channel="nicktoons">
+  <programme start="20260212181300 +0000" stop="20260212183500 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">After Patrick eats life-threatening chum, SpongeBob helps him check off his bucket list. // Patrick devolves back into a baby so he can keep his childhood toys.</desc>
     <category lang="tr">Çocuk</category>
@@ -17003,37 +17541,37 @@ Dünya’nın farklı yerlerinden farklı avcılar izleyeceksiniz ancak hepsinin
     <desc lang="tr">After Plankton forgets who he is, the Dartfish family adopts him.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212184700 +0000" stop="20260212190200 +0000" channel="nicktoons">
+  <programme start="20260212184700 +0000" stop="20260212190000 +0000" channel="nicktoons">
     <title lang="tr">The Patrick Star Show</title>
     <desc lang="tr">Patrick and Squidina help the Flim-Flam brothers hunt the ghost that haunts their house.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212190200 +0000" stop="20260212192600 +0000" channel="nicktoons">
+  <programme start="20260212190000 +0000" stop="20260212192500 +0000" channel="nicktoons">
     <title lang="tr">Max  and  the Midknights</title>
     <desc lang="tr">As Max and the Midknights struggle to complete their quest, Mumblin reappears with shocking news, revealing the truth about King Conrad&#x27;s disappearance, and they soon learn that the threat to Byjovia is even closer than they thought!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212192600 +0000" stop="20260212194900 +0000" channel="nicktoons">
+  <programme start="20260212192500 +0000" stop="20260212194900 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents</title>
     <desc lang="tr">The Fairly OddParents tells about the ten year old boy Timmy that lives in the fictional town Dimmsdale where he has a hard time. His life is constantly miserable because his parents are rarely home, he is babysat by Vicky, a 16-year-old torturous babysitter, he is bullied daily, and is tormented by his teacher, Mr. Crocker. But everything changes when he receives two fairy godparents: Cosmo, his wife Wanda, and later their son, Poof. Timmy learns that his fairy godparents are capable of granting him any wish he wants within certain limits. However, Timmy&#x27;s immature nature causes him to sometimes ask for wishes that unintentionally result in disaster.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212194900 +0000" stop="20260212200800 +0000" channel="nicktoons">
+  <programme start="20260212194900 +0000" stop="20260212201200 +0000" channel="nicktoons">
     <title lang="tr">The Fairly OddParents</title>
     <desc lang="tr">The Fairly OddParents tells about the ten year old boy Timmy that lives in the fictional town Dimmsdale where he has a hard time. His life is constantly miserable because his parents are rarely home, he is babysat by Vicky, a 16-year-old torturous babysitter, he is bullied daily, and is tormented by his teacher, Mr. Crocker. But everything changes when he receives two fairy godparents: Cosmo, his wife Wanda, and later their son, Poof. Timmy learns that his fairy godparents are capable of granting him any wish he wants within certain limits. However, Timmy&#x27;s immature nature causes him to sometimes ask for wishes that unintentionally result in disaster.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212200800 +0000" stop="20260212203100 +0000" channel="nicktoons">
+  <programme start="20260212201200 +0000" stop="20260212203400 +0000" channel="nicktoons">
     <title lang="tr">The Penguins of Madagascar</title>
     <desc lang="tr">The Penguins of Madagascar is an animated series in which the penguins Skipper, Kowalski, Private and Rico experience adventure in Central Park Zoo. The series is based on characters from the movie Madagascar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212203100 +0000" stop="20260212205400 +0000" channel="nicktoons">
+  <programme start="20260212203400 +0000" stop="20260212205700 +0000" channel="nicktoons">
     <title lang="tr">The Penguins of Madagascar</title>
     <desc lang="tr">The Penguins of Madagascar is an animated series in which the penguins Skipper, Kowalski, Private and Rico experience adventure in Central Park Zoo. The series is based on characters from the movie Madagascar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212205400 +0000" stop="20260212211700 +0000" channel="nicktoons">
+  <programme start="20260212205700 +0000" stop="20260212212000 +0000" channel="nicktoons">
     <title lang="tr">Kung Fu Panda: Legends of Awesomeness</title>
     <desc lang="tr">Po the Panda trains, battles, learns, teaches, stumbles, gabs and &#x27;geeks out&#x27; as the newest hero in the Valley of Peace. Now living in his permanent home at the Jade Palace with the rest of the Furious Five, Po will have to take on new responsibilities and face brand-new adversaries (not seen in the movies) in his continuing education as the Dragon Warrior...for being the Dragon Warrior is not a destination, it&#x27;s a journey (unfortunately for Po, that journey is uphill).</desc>
     <category lang="tr">Çocuk</category>
@@ -17091,7 +17629,7 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
   </programme>
   <programme start="20260212170000 +0000" stop="20260212210000 +0000" channel="now">
     <title lang="tr">Halef</title>
-    <desc lang="tr">Yelduran ve Kordağlı, Urfa&#x27;daki iki büyük, köklü ailedir. Aralarındaki yıllardır süren husumet, Serhat ve Yıldız&#x27;ın evlenmesi üzerine yapılan bir akitle son bulmuştur. Ancak ailesinden uzak yaşayan ve İstanbul&#x27;da başarılı bir cerrah olan Serhat, bu evliliği hiçbir zaman istememiştir. Üstelik yakın zamanda yurtdışına yerleşme planı yapıyordur. Fakat Serhat&#x27;ın hayatı, Melek&#x27;le tanışınca tamamen değişir. Melek&#x27;e âşık olur ve onunla evlenip İstanbul&#x27;da yeni bir hayat kurmak ister. Ancak Serhat&#x27;ın Urfa&#x27;ya dönüşü, Melek de dahil olmak üzere herkesin hayatını kökten değiştirecektir.</desc>
+    <desc lang="tr">Serhat&#x27;ın sahte riskli gebelik olayını öğrenmesi, Melek ve Sultan&#x27;ı köşeye sıkıştırır. Bu büyük ifşa, iki kadın arasında yeni bir hesaplaşmanın fitilini ateşler. Köşeye sıkışan sadece onlar değildir; Yıldırım, tanık olduğu öpüşmenin karşılığında Yıldız&#x27;a çok ağır yaptırımlarla ödetmeye kararlıdır. Yıldırım&#x27;ın yaptığı şantaj, Serhat&#x27;ı hamlesiz bıraksa da Serhat pes etmez. Ziyan Ağa ve Yıldırım&#x27;ı bitirecek o kritik açığı bulmak için tehlikeli bir misilleme başlatır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260212040000 +0000" stop="20260212060000 +0000" channel="nr1-rap">
@@ -19469,6 +20007,70 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
     <desc lang="tr">Bir dağ kulübesinde doğup büyüyen Dicle, acımasız abilerinin baskısı yüzünden adeta tutsak bir hayat sürmektedir. Annesiyle yaşadığı kulübenin bahçesinden öteye hiç çıkmamış, dünyaya çok yabancı kalmıştır. Bir gün bölgede yaşanan deprem nedeniyle yolu, İstanbul&#x27;daki konforlu hayatını geride bırakıp vicdan borcuyla askerliğini yapan Erkan&#x27;la kesişir. Kader, Dicle ve Erkan&#x27;ın yolunu dökülen kanla bağlar ve Erkan, Dicle&#x27;yi töre cinayetinden korumak için onunla evlenmek zorunda kalır. Dicle, saf kalbiyle bu evliliği gerçek sanırken, Erkan&#x27;ı askerden dönüşünde ailesinin planladığı başka bir evlilik beklemektedir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
+  <programme start="20260212063000 +0000" stop="20260212082500 +0000" channel="tabii-spor">
+    <title lang="tr">Napoli - Fiorentina/Comö</title>
+    <desc lang="tr">Coppa İtalia Çeyrek Final Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212082500 +0000" stop="20260212085000 +0000" channel="tabii-spor">
+    <title lang="tr">Tüm Zamanların En İyileri</title>
+    <desc lang="tr">Kendi branşlarında önemli başarılara imza atmış sporcuların kariyerleri ve yaşam yolculukları ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212085000 +0000" stop="20260212085500 +0000" channel="tabii-spor">
+    <title lang="tr">2026 Kış Olimpiyat Oyunları Branş Tanıtımları</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212085500 +0000" stop="20260212104000 +0000" channel="tabii-spor">
+    <title lang="tr">Heart of Midlothian - Hibernian</title>
+    <desc lang="tr">İskoçya Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212104000 +0000" stop="20260212110500 +0000" channel="tabii-spor">
+    <title lang="tr">Yenilmezler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212110500 +0000" stop="20260212125000 +0000" channel="tabii-spor">
+    <title lang="tr">Atalanta - Juventus</title>
+    <desc lang="tr">Coppa İtalia Çeyrek Final Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212125000 +0000" stop="20260212131500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi Magazin</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212131500 +0000" stop="20260212143000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Şampiyonlar Ligi 8. Hafta Özetler</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212143000 +0000" stop="20260212143500 +0000" channel="tabii-spor">
+    <title lang="tr">2026 Kış Olimpiyat Oyunları Branş Tanıtımları</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212143500 +0000" stop="20260212162000 +0000" channel="tabii-spor">
+    <title lang="tr">Inter - Torino</title>
+    <desc lang="tr">Coppa İtalia Çeyrek Final Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212162000 +0000" stop="20260212173500 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Özetler</title>
+    <desc lang="tr">UEFA Avrupa Ligi karşılaşmalarından özet görüntüler ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212173500 +0000" stop="20260212180000 +0000" channel="tabii-spor">
+    <title lang="tr">UEFA Avrupa Ligi Magazin 10. Bölüm</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212180000 +0000" stop="20260212194500 +0000" channel="tabii-spor">
+    <title lang="tr">Bologna - Lazio</title>
+    <desc lang="tr">Coppa İtalia Çeyrek Final Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260212194500 +0000" stop="20260212213000 +0000" channel="tabii-spor">
+    <title lang="tr">FCSB - Fenerbahçe</title>
+    <desc lang="tr">UEFA Avrupa Ligi Futbol Karşılaşması</desc>
+    <category lang="tr">Spor</category>
+  </programme>
   <programme start="20260212013700 +0000" stop="20260212022700 +0000" channel="tabii-tv">
     <title lang="tr">Kuzenlerim</title>
     <desc lang="tr">Meltem, Metin&#x27;den kaçınmak için şekilden şekle girer. Çiğdem kendisini Feridun&#x27;a fazla kaptırmamaya çalışır.</desc>
@@ -19691,26 +20293,6 @@ Konu kudretli Roma İmparatorluğu&#x27;na gelince, onun gelecek nesillere en b�
     <title lang="tr">Anlatılmamış Kutup Savaşları</title>
     <desc lang="tr">6 bölümlük belgesel serisi, II. Dünya Savaşı sırasında yaşanan ve az bilinen olayları anlatıyor. Çok az bilinen fotoğraflar, bilinmeyen detaylar ve II. Dünya Savaşı&#x27;nda meydana gelen olaylar gün yüzüne çıkıyor. Bu ilk belgesel dizisinde kuzey halkının II. Dünya Savaşı&#x27;ndaki rolünü ve önemini keşfedin.</desc>
     <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260212030000 +0000" stop="20260212070000 +0000" channel="tarim-tv">
-    <title lang="tr">Tarım Orman Ekranı</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260212070000 +0000" stop="20260212110000 +0000" channel="tarim-tv">
-    <title lang="tr">Tarım Orman Ekranı</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260212110000 +0000" stop="20260212150000 +0000" channel="tarim-tv">
-    <title lang="tr">Tarım Orman Ekranı</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260212150000 +0000" stop="20260212190000 +0000" channel="tarim-tv">
-    <title lang="tr">Tarım Orman Ekranı</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260212190000 +0000" stop="20260212230000 +0000" channel="tarim-tv">
-    <title lang="tr">Tarım Orman Ekranı</title>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260212040000 +0000" stop="20260212050000 +0000" channel="tele1">
     <title lang="tr">Başrol</title>
@@ -20442,191 +21024,6 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Or
     <title lang="tr">A. Madrid - Manchester United</title>
     <desc lang="tr">Kadınlar Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260212000000 +0000" stop="20260212003000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212003000 +0000" stop="20260212010000 +0000" channel="trt-arabi">
-    <title lang="tr">Tafaul</title>
-    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212010000 +0000" stop="20260212014000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212014000 +0000" stop="20260212020000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260212020000 +0000" stop="20260212023000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212023000 +0000" stop="20260212030000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212030000 +0000" stop="20260212033000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212033000 +0000" stop="20260212040000 +0000" channel="trt-arabi">
-    <title lang="tr">For My Right</title>
-    <desc lang="tr">Weekly programme on basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212040000 +0000" stop="20260212044000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212044000 +0000" stop="20260212050000 +0000" channel="trt-arabi">
-    <title lang="tr">Fil Iqtisad</title>
-    <desc lang="tr">A specialized Arabic language business show tackling economic, business and financial news and issues in Turkiye and the MENA region.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212050000 +0000" stop="20260212054000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212054000 +0000" stop="20260212060000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212060000 +0000" stop="20260212070000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212070000 +0000" stop="20260212074000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212074000 +0000" stop="20260212080000 +0000" channel="trt-arabi">
-    <title lang="tr">For My Right</title>
-    <desc lang="tr">Weekly programme on basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212080000 +0000" stop="20260212090000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212094000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212094000 +0000" stop="20260212100000 +0000" channel="trt-arabi">
-    <title lang="tr">Fil Iqtisad</title>
-    <desc lang="tr">A specialized Arabic language business show tackling economic, business and financial news and issues in Turkiye and the MENA region.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212100000 +0000" stop="20260212104000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212104000 +0000" stop="20260212110000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260212110000 +0000" stop="20260212114000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212114000 +0000" stop="20260212120000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212120000 +0000" stop="20260212130000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212130000 +0000" stop="20260212134000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212134000 +0000" stop="20260212140000 +0000" channel="trt-arabi">
-    <title lang="tr">Documentary</title>
-    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212140000 +0000" stop="20260212143000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212143000 +0000" stop="20260212150000 +0000" channel="trt-arabi">
-    <title lang="tr">Tafaul</title>
-    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212150000 +0000" stop="20260212154000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212154000 +0000" stop="20260212160000 +0000" channel="trt-arabi">
-    <title lang="tr">Fil Iqtisad</title>
-    <desc lang="tr">A specialized Arabic language business show tackling economic, business and financial news and issues in Turkiye and the MENA region.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212160000 +0000" stop="20260212164000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212164000 +0000" stop="20260212170000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212180000 +0000" stop="20260212183000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212183000 +0000" stop="20260212190000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212190000 +0000" stop="20260212200000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212200000 +0000" stop="20260212204000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260212204000 +0000" stop="20260212210000 +0000" channel="trt-arabi">
-    <title lang="tr">Tafaul</title>
-    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260212000500 +0000" stop="20260212003500 +0000" channel="trt-avaz">
     <title lang="tr">Yesevi Sohbetleri</title>
@@ -21375,89 +21772,89 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260212000000 +0000" stop="20260212001000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Duyarlı Tilki</title>
-    <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260212001000 +0000" stop="20260212002500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Şef Lina</title>
-    <desc lang="tr">Lina ve annesi Tuba&#x27;nın keyifli mutfağına davetlisiniz!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260212002500 +0000" stop="20260212003500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Benim Adım Mucize</title>
-    <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260212003500 +0000" stop="20260212004500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Şeker Hoca</title>
     <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212004500 +0000" stop="20260212010000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212001000 +0000" stop="20260212002500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Geri Dön Çufi</title>
     <desc lang="tr">Furkan ve arkadaşları, mahallelerindeki eski oyuncakları tamir ediyorlar. Peki Furkan kaybettiği oyuncağı Çufi’yi bulabilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212010000 +0000" stop="20260212011500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212002500 +0000" stop="20260212004000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aslan Parçası Cesur</title>
     <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212011500 +0000" stop="20260212012500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212004000 +0000" stop="20260212005000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Benim Adım Mucize</title>
+    <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260212005000 +0000" stop="20260212005500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Kara İle Keçe</title>
     <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212012500 +0000" stop="20260212014000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">7 Kıtadan İyilik Habercileri</title>
-    <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260212014000 +0000" stop="20260212015000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212005500 +0000" stop="20260212010500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Galip Mülayim</title>
     <desc lang="tr">Galip Mülayim ve arkadaşlarının, dinimizin esaslarını öğrenirken neler yaşadıklarına gelin birlikte tanık olalım.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212015000 +0000" stop="20260212020500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212010500 +0000" stop="20260212012000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">7 Kıtadan İyilik Habercileri</title>
+    <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260212012000 +0000" stop="20260212013500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Dikkat Balonu</title>
     <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212020500 +0000" stop="20260212021500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212013500 +0000" stop="20260212015000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
+    <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260212015000 +0000" stop="20260212020000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Gugular</title>
     <desc lang="tr">Bilge Degu, şefkatli Agu, güçlü Bagu, çılgın Hagu ve minik Çogu ile tanışmaya hazır mısınız?  
 Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212021500 +0000" stop="20260212023000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
-    <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260212023000 +0000" stop="20260212024500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
-    <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260212024500 +0000" stop="20260212025000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212020000 +0000" stop="20260212020500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Temel&#x27;den Öğreniyorum</title>
     <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212025000 +0000" stop="20260212030000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212020500 +0000" stop="20260212022000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro</title>
+    <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260212022000 +0000" stop="20260212023000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260212030000 +0000" stop="20260212031500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260212023000 +0000" stop="20260212024500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Fülfül Hac Yolunda</title>
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
+  <programme start="20260212024500 +0000" stop="20260212030000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
+    <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260212030000 +0000" stop="20260212031500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Yumurcalı</title>
+    <desc lang="tr">Aşağı Yumurcalı ve Yukarı Yumurcalı mahalleleri arasında geçen eğlenceli, heyecan dolu bir köy hikâyesine hazır olun!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
   <programme start="20260212031500 +0000" stop="20260212032000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Duyarlı Tilki</title>
-    <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
+    <title lang="tr">Miş Mış</title>
+    <desc lang="tr">Hayal gücüyle dolu bir ailenin maceralarına hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260212032000 +0000" stop="20260212032700 +0000" channel="trt-diyanet-cocuk">
@@ -23198,15 +23595,10 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <desc lang="tr">Bir aile nasıl kurulur, evlilik yoluna giderken nelere dikkat edilmelidir... Bu ve buna benzer aile dair her şey bu programda konuşuluyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260212100000 +0000" stop="20260212104000 +0000" channel="trt-turk">
+  <programme start="20260212100000 +0000" stop="20260212105000 +0000" channel="trt-turk">
     <title lang="tr">Beni Böyle Sev</title>
     <desc lang="tr">Beni Böyle Sev... Genç yaşlarında, ilk görüşte birbirlerine âşık olan üniversite öğrencisi bir çiftin hikâyesi...</desc>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260212104000 +0000" stop="20260212105000 +0000" channel="trt-turk">
-    <title lang="tr">Allah Başka Dert Vermesin</title>
-    <desc lang="tr">Allah Başka Dert Vermesin, izleyicilere insan psikolojisi hakkında soru - cevap şeklinde açıklayıcı bilgilerin sunulduğu ve insanın iyilik halini arttırmaya yönelik pratik bilgilerin paylaşıldığı bir programdır. Her bölümde farklı bir konu ele alınmaktadır, sade ve gerçek hayat örnekleri ile örneklendirilerek her insanın hayatı boyunca karşılaştığı psikolojik halleri ve durumları ele alır. Program tüm yaş gruplarına hitap etmektedir.</desc>
-    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260212105000 +0000" stop="20260212110000 +0000" channel="trt-turk">
     <title lang="tr">Mikrofon Senin Finlandiya</title>
@@ -23240,9 +23632,9 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260212150500 +0000" stop="20260212154500 +0000" channel="trt-turk">
-    <title lang="tr">Rafet El Roman İle Her Şey Yolunda</title>
-    <desc lang="tr">Sevilen sanatçı Rafet El Roman, birbirinden değerli konuklarını arabasında ağırlıyor ve Avrupa sokaklarında keyifli bir sohbet eşliğinde yolculuğa çıkıyor...</desc>
-    <category lang="tr">Haber</category>
+    <title lang="tr">Misafir Kapıda</title>
+    <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
+    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260212154500 +0000" stop="20260212160000 +0000" channel="trt-turk">
     <title lang="tr">Mikrofon Senin Norveç</title>
@@ -23254,7 +23646,7 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260212164500 +0000" stop="20260212170000 +0000" channel="trt-turk">
-    <title lang="tr">Mikrofon Senin Finlandiya</title>
+    <title lang="tr">Mikrofon Senin İngiltere</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260212170000 +0000" stop="20260212180000 +0000" channel="trt-turk">
