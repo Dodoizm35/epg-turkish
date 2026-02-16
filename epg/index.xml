@@ -3233,10 +3233,15 @@ Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgaz
     <desc lang="tr">Victoria Quintero, El Edén arazisinin sahibi Don Domingo Quintero ve eşi Elena&#x27;nın kızı olarak doğar. Birkaç hafta içinde, Quintero arazisini isteyen komşu toprak sahibi ve tüccar Nicols Parreo tarafından kasıtlı olarak başlatılan bir yangında ebeveynleri ölür. Victoria, siyah dadı Lorenza ve kocası Toms tarafından kurtarılır. Victoria, kızları Milagros ve Rosita ile birlikte ormanın derinliklerindeki bir palenque&#x27;ye götürülür ve burada on iki yıl boyunca bir köle olarak büyür.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260216160000 +0000" stop="20260216200000 +0000" channel="bi-kanal">
+  <programme start="20260216160000 +0000" stop="20260216183000 +0000" channel="bi-kanal">
     <title lang="tr">Can Bağı</title>
     <desc lang="tr">Mahinur Aydın ve Aras Yılmazer’in hayatları, birkaç yıl önce yaşanan dramatik bir hastane hatasıyla derin bir şekilde bağlanmıştır. Şu anda zor bir hayat süren Mahinur, kontrolcü kocası Kenan ve kızları Bade ile sürekli dış zorluklarla yüzleşmektedir.</desc>
     <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260216183000 +0000" stop="20260216200000 +0000" channel="bi-kanal">
+    <title lang="tr">Mega Piton Yaratığa Karşı</title>
+    <desc lang="tr">Dev pitonlar timsah popülasyonunu tehdit ederken, Florida Everglades&#x27;de büyük bir kriz ortaya çıkar.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260216200000 +0000" stop="20260216204500 +0000" channel="bi-kanal">
     <title lang="tr">Lig Özetleri</title>
@@ -6809,7 +6814,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260216153000 +0000" stop="20260216160000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Global 3000</title>
-    <desc lang="tr">Global Us provides unexpected insights and exemplary solutions _ it offers perspectives for a rapidly changing world. The focus is on people _ those who want change, drive it forward and inspire others.</desc>
+    <desc lang="tr">With short haul flights booming and night trains disappearing, a Berlin start up has designed mini cabins to help sleepers become more affordable. Plus: how abandoned fish farms are polluting the seas.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260216160000 +0000" stop="20260216161500 +0000" channel="deutsche-welle-english">
@@ -6858,8 +6863,8 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260216193000 +0000" stop="20260216200000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Under the Baobab</title>
-    <desc lang="tr">Arrested and thrust into the spotlight over what authorities called the unlawful possession of voters&#x27; data—an allegation she vehemently rejects—Bireete delivers a gripping account of her ordeal: from her relentless warnings about election irregularities, the compromised biometric voter kits, to the moment she was held past the lawful 48 hour limit and disappeared into a month long confinement.</desc>
+    <title lang="tr">Berlin Briefing</title>
+    <desc lang="tr">Did US Secretary of State Marco Rubio just send Europe a political Valentine&#x27;s card? And after all the ups and downs, are Europeans ready to rebuild trust in their longtime partner? How do Germany and its European allies protect their interests and wield their leverage in a multipolar world, in which they depend on both the US and China?</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260216200000 +0000" stop="20260216203000 +0000" channel="deutsche-welle-english">
@@ -13449,7 +13454,7 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Tarih 101, tarih olaylarını akademik ve derinlemesine anlatan, çeşitli formatlarda içerikler sunuyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260216205200 +0000" stop="20260217205900 +0000" channel="gzt-tv">
+  <programme start="20260216205200 +0000" stop="20260216210300 +0000" channel="gzt-tv">
     <title lang="tr">İlker Yaşar</title>
     <category lang="tr">Belgesel</category>
   </programme>
@@ -18266,13 +18271,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260216200000 +0000" stop="20260216205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260216205900 +0000" stop="20260217040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260216003000 +0000" stop="20260216013000 +0000" channel="s-sport">
     <title lang="tr">ESPN Belgeseli</title>
@@ -19731,9 +19736,19 @@ Bir düğün gecesinde ortadan kaybolan sefirin kızı, tam dokuz yıl sonra, ba
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260216170000 +0000" stop="20260216210000 +0000" channel="star-tv">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&#x27;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260216170000 +0000" stop="20260216184500 +0000" channel="star-tv">
+    <title lang="tr">Bitirim İkili 3</title>
+    <desc lang="tr">Müfettiş Lee ve geveze ortağı Carter&#x27;ın yolu bu kez Paris&#x27;te siyasi komploların döndüğü bir muammanın ortasına düşer.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260216184500 +0000" stop="20260216203000 +0000" channel="star-tv">
+    <title lang="tr">Bitirim İkili 3</title>
+    <desc lang="tr">Müfettiş Lee ve geveze ortağı Carter&#x27;ın yolu bu kez Paris&#x27;te siyasi komploların döndüğü bir muammanın ortasına düşer.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260216203000 +0000" stop="20260216230000 +0000" channel="star-tv">
+    <title lang="tr">Sevdiğim Sensin</title>
+    <desc lang="tr">Bir dağ kulübesinde doğup büyüyen Dicle, acımasız abilerinin baskısı yüzünden adeta tutsak bir hayat sürmektedir. Annesiyle yaşadığı kulübenin bahçesinden öteye hiç çıkmamış, dünyaya çok yabancı kalmıştır. Bir gün bölgede yaşanan deprem nedeniyle yolu, İstanbul&#x27;daki konforlu hayatını geride bırakıp vicdan borcuyla askerliğini yapan Erkan&#x27;la kesişir. Kader, Dicle ve Erkan&#x27;ın yolunu dökülen kanla bağlar ve Erkan, Dicle&#x27;yi töre cinayetinden korumak için onunla evlenmek zorunda kalır. Dicle, saf kalbiyle bu evliliği gerçek sanırken, Erkan&#x27;ı askerden dönüşünde ailesinin planladığı başka bir evlilik beklemektedir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260216063000 +0000" stop="20260216090000 +0000" channel="tabii-spor">
@@ -25197,7 +25212,7 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <title lang="tr">Siyaset Masası</title>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260216203000 +0000" stop="20260216210000 +0000" channel="tyt-turk">
+  <programme start="20260216203000 +0000" stop="20260216220000 +0000" channel="tyt-turk">
     <title lang="tr">Siyaset Masası</title>
     <category lang="tr">Tartışma</category>
   </programme>
