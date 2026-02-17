@@ -3162,6 +3162,98 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260217024500 +0000" stop="20260217025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217030000 +0000" stop="20260217044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Montpellier - Le Mans</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217044500 +0000" stop="20260217045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217050000 +0000" stop="20260217064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Rennes - Paris Saint-Germain</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217064500 +0000" stop="20260217065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217070000 +0000" stop="20260217084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Nantes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217084500 +0000" stop="20260217085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217090000 +0000" stop="20260217104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M.  - Strasbourg</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217104500 +0000" stop="20260217105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217110000 +0000" stop="20260217124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Brest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217124500 +0000" stop="20260217125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217130000 +0000" stop="20260217144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris FC - Lens</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217144500 +0000" stop="20260217145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217150000 +0000" stop="20260217164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Havre - Toulouse</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217164500 +0000" stop="20260217165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217170000 +0000" stop="20260217172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Auxerre</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217173000 +0000" stop="20260217175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Angers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217180000 +0000" stop="20260217182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique Lyon - Nice</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217183000 +0000" stop="20260217185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Rennes - Paris Saint-Germain</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217190000 +0000" stop="20260217192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Nantes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217193000 +0000" stop="20260217195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217200000 +0000" stop="20260217202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260217203000 +0000" stop="20260217223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260217050000 +0000" stop="20260217070000 +0000" channel="benguturk">
     <title lang="tr">Sevde Namalan ile Bu Sabah</title>
     <desc lang="tr">Sevde Namalan ile Bu Sabah, Bengütürk&#x27;te gündem, analiz ve sıcak konuları izleyicilerle buluşturan bilgilendirici sabah programıdır.</desc>
@@ -14624,6 +14716,18 @@ Ali&#x27;nin duruşması gelip çatmıştır. Herkes hakimin vereceği kararı b
     <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
+  <programme start="20260217030000 +0000" stop="20260217090000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260217090000 +0000" stop="20260217150000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260217150000 +0000" stop="20260217210000 +0000" channel="kibris-tv">
+    <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260217010000 +0000" stop="20260217020000 +0000" channel="kontv">
     <title lang="tr">Düzlem</title>
     <desc lang="tr">Gündemdeki gelişmeler, önemli olaylar ve toplumsal konular bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak izleyiciye olayların nedenleri ve sonuçları aktarılırken, güncel haberleri takip etme imkânı sunuluyor.</desc>
@@ -17529,31 +17633,6 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
     <desc lang="tr">Mükerrem ve Nüzhet yangından kurtulurken, Halit hastanede gözlerini açar. Halit&#x27;in Mükerrem üzerindeki baskıları artar. Başsavcı Defne, kızını korumak için geleceğini yakar. Seniha, Mükerrem&#x27;i abisinden korumaya çalışırken bir yandan savcı Cihan&#x27;la yeni bir yola girer. Halit&#x27;in baskılarına dayanamayan Mükerrem, bebeğin ondan olmadığını söyler. Nüzhet, kulübeyi yakanın Nalan olduğunu öğrenir ve boşanmak ister. Kaybedecek bir şeyi kalmayan Nalan, aşkı için canından vazgeçmeyi göze alır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260217040000 +0000" stop="20260217060000 +0000" channel="nr1-rap">
-    <title lang="tr">Günaydın</title>
-    <desc lang="tr">Güne pozitif notalarla merhaba demek için en doğru adres, duygularını serbest bırak müziğe kulak ver.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260217060000 +0000" stop="20260217110000 +0000" channel="nr1-rap">
-    <title lang="tr">Arabeskçe</title>
-    <desc lang="tr">Her şarkı bir sır, her söz bir acı, Damar Kutusu&#x27;nda buluşuyor. Arabeskin en özel parçaları, duyguların kutusundan size geliyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260217110000 +0000" stop="20260217160000 +0000" channel="nr1-rap">
-    <title lang="tr">Damar Saati</title>
-    <desc lang="tr">Her şarkıda ayrı bir sızı, her notada bambaşka bir hikâye, Kalbine dokunan en güzel arabesk parçalar Damar Saati&#x27;nde seninle</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260217160000 +0000" stop="20260217200000 +0000" channel="nr1-rap">
-    <title lang="tr">Çilingir Sofrası</title>
-    <desc lang="tr">Sohbetin, dostluğun ve müziğin en güzel hali: Çilingir Sofrası. Her şarkı bir yudum, her nota bir hatıra, Çilingir Sofrası&#x27;na bekleriz</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260217200000 +0000" stop="20260218040000 +0000" channel="nr1-rap">
-    <title lang="tr">Damar Kutusu</title>
-    <desc lang="tr">Her şarkı bir sır, her söz bir acı, Damar Kutusu&#x27;nda buluşuyor. Arabeskin en özel parçaları, duyguların kutusundan size geliyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
   <programme start="20260217000000 +0000" stop="20260217003000 +0000" channel="ntv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Türkiye&#x27;den ve dünyadan önemli gelişmeler, Haber Bülteni ile ekrana geliyor. Önemli gelişmeler, gündemde öne çıkan konular ve son dakika gelişmeleri izleyiciye aktarılıyor.</desc>
@@ -17932,6 +18011,82 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260217000000 +0000" stop="20260217010000 +0000" channel="number1-turk">
+    <title lang="tr">Love Song</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217010000 +0000" stop="20260217020000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217020000 +0000" stop="20260217040000 +0000" channel="number1-turk">
+    <title lang="tr">Love Song</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217040000 +0000" stop="20260217060000 +0000" channel="number1-turk">
+    <title lang="tr">Sabah Enerjisi</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217060000 +0000" stop="20260217070000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217070000 +0000" stop="20260217080000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217080000 +0000" stop="20260217090000 +0000" channel="number1-turk">
+    <title lang="tr">#Tbt</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="number1-turk">
+    <title lang="tr">Ateşle</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217100000 +0000" stop="20260217110000 +0000" channel="number1-turk">
+    <title lang="tr">Trend Setter</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217110000 +0000" stop="20260217120000 +0000" channel="number1-turk">
+    <title lang="tr">Unutulmayanlar</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217120000 +0000" stop="20260217130000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217130000 +0000" stop="20260217140000 +0000" channel="number1-turk">
+    <title lang="tr">#Tbt</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217140000 +0000" stop="20260217150000 +0000" channel="number1-turk">
+    <title lang="tr">Dijital Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217150000 +0000" stop="20260217160000 +0000" channel="number1-turk">
+    <title lang="tr">Ateşle</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217160000 +0000" stop="20260217170000 +0000" channel="number1-turk">
+    <title lang="tr">Unutulmayanlar</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217170000 +0000" stop="20260217180000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217180000 +0000" stop="20260217190000 +0000" channel="number1-turk">
+    <title lang="tr">Dijital Hits</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217190000 +0000" stop="20260217200000 +0000" channel="number1-turk">
+    <title lang="tr">Hit&#x27;s 20</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260217200000 +0000" stop="20260217220000 +0000" channel="number1-turk">
+    <title lang="tr">New Arrival</title>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260217020000 +0000" stop="20260217030000 +0000" channel="number1-tv">
     <title lang="tr">NR1 TOP 20</title>
@@ -19840,7 +19995,7 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260217195500 +0000" stop="20260217215000 +0000" channel="tabii-spor">
-    <title lang="tr">Benfica Real Madrid</title>
+    <title lang="tr">Benfica - Real Madrid</title>
     <desc lang="tr">UEFA Şampiyonlar Ligi Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
