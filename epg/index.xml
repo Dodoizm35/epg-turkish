@@ -3148,11 +3148,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Maç önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219170000 +0000" stop="20260219193000 +0000" channel="beinsports2.tr">
+  <programme start="20260219170000 +0000" stop="20260219192900 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - A.G.Pendikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219193100 +0000" stop="20260219213100 +0000" channel="beinsports2.tr">
+  <programme start="20260219193000 +0000" stop="20260219213000 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -7087,7 +7087,7 @@ Gündem değiştirecek analizler, farklı bakış açıları, özgün değerlend
   </programme>
   <programme start="20260219193000 +0000" stop="20260219200000 +0000" channel="deutsche-welle-english">
     <title lang="tr">To the Point</title>
-    <desc lang="tr">Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that&#x27;s making news. It&#x27;s controversy and confrontation. It&#x27;s background and analysis. It&#x27;s the issues that are moving our world. What do you think? Your opinion counts!</desc>
+    <desc lang="tr">Military pressure while negotiations are still underway: Is this the United States&#x27; master strategy for dealing with Iran, or a dangerous gamble? Are we really talking about nuclear containment, or is a push for regime change hiding in plain sight? Our guests: Hans-Jakob Schindler (ICCT); Mahtab Gholizadeh (Iranian Journalist); Daniel Gerlach (Middle-East analyst)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260219200000 +0000" stop="20260219203000 +0000" channel="deutsche-welle-english">
@@ -13649,6 +13649,11 @@ Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin
     <desc lang="tr">Minibricks, özellikle minyatür diorama yapımı konusunda içerik üretiyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
+  <programme start="20260219204000 +0000" stop="20260219210000 +0000" channel="gzt-tv">
+    <title lang="tr">Minibricks</title>
+    <desc lang="tr">Minibricks, özellikle minyatür diorama yapımı konusunda içerik üretiyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
   <programme start="20260219030000 +0000" stop="20260219050000 +0000" channel="haber-global">
     <title lang="tr">Türkiye&#x27;de Sabah</title>
     <desc lang="tr">Türkiye&#x27;de Sabah, Haber Global ekranında sabah kuşağında yayınlanan ve gece boyunca yaşanan önemli gelişmeleri izleyiciye aktaran bir haber programıdır. Gündemde öne çıkan başlıklar, son dakika haberleri ve gündemi belirleyen konular sade bir anlatımla ele alınıyor.</desc>
@@ -18597,13 +18602,13 @@ Ceyda Düvenci soruyor, ünlü isimler bugüne sıra dışı hikayelerini samimi
   </programme>
   <programme start="20260219200000 +0000" stop="20260219205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260219205900 +0000" stop="20260220040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260219000000 +0000" stop="20260219020000 +0000" channel="s-sport">
     <title lang="tr">Euroleague</title>
@@ -24154,7 +24159,7 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   </programme>
   <programme start="20260219173000 +0000" stop="20260219180000 +0000" channel="trt-turk">
     <title lang="tr">Misafir Kapıda</title>
-    <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
+    <desc lang="tr">Program, tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri (enstrüman çalma, resim yapma vb. gibi) detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260219180000 +0000" stop="20260219181500 +0000" channel="trt-turk">
@@ -24185,7 +24190,7 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
   </programme>
   <programme start="20260219203000 +0000" stop="20260219210000 +0000" channel="trt-turk">
     <title lang="tr">Ramazan Güzeldir</title>
-    <desc lang="tr">Ramazan ayı için yapılan ve bu kutsal ayı eğlenceli bir dil ile anlatan &#x27;Ramazan Güzeldir&#x27; TRT TÜRK ekranlarında.</desc>
+    <desc lang="tr">Ramazan ayı için yapılan ve bu kutsal ayı eğlenceli bir dil ile anlatan &#x27;Ramazan Güzeldir&#x27; TRT Türk ekranlarında.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260219000000 +0000" stop="20260219003000 +0000" channel="trt-world">
