@@ -2067,12 +2067,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Ayrılıklar, dargınlıklar, kayıplar, özlemler, kavuşmalar ve sevinçler... Hayata dair birçok şey bu programda... Stüdyoda ağırlanan konuklar; dertlerini, sıkıntılarını veya isteklerini paylaşıyorlar. Esra Erol, uzmanların da katılımıyla dertlere derman olmaya çalışıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260220153000 +0000" stop="20260220163000 +0000" channel="atv">
+  <programme start="20260220153000 +0000" stop="20260220163500 +0000" channel="atv">
     <title lang="tr">Nihat Hatipoğlu ile İftar</title>
     <desc lang="tr">Prof. Dr. Nihat Hatipoğlu ile İftar programında birbirinden değerli konuklar, Mekke ve Medine’den özel görüntüler, ilahiler ve kasidelerle gönüller huzur buluyor. Peygamber Efendimizin ve sahabenin hayatından çok özel kesitler, her derdin devası dualar, abdestten namaza, oruçtan zekâta merak edilen sorular ve cevaplarla dolu dolu bir Ramazan programı ekrana taşınıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260220163000 +0000" stop="20260220170000 +0000" channel="atv">
+  <programme start="20260220163500 +0000" stop="20260220170000 +0000" channel="atv">
     <title lang="tr">ATV Ana Haber</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler ve gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
@@ -3082,128 +3082,84 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260219044500 +0000" stop="20260219045900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260220050000 +0000" stop="20260220065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.Ümraniyespor - Boluspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219050000 +0000" stop="20260219064400 +0000" channel="beinsports2.tr">
+  <programme start="20260220070000 +0000" stop="20260220085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">İstanbulspor - E.Erokspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260220090000 +0000" stop="20260220125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Serikspor - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219064500 +0000" stop="20260219084500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219084600 +0000" stop="20260219100900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219101000 +0000" stop="20260219102900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219103000 +0000" stop="20260219125900 +0000" channel="beinsports2.tr">
+  <programme start="20260220130000 +0000" stop="20260220145900 +0000" channel="beinsports2.tr">
     <title lang="tr">S.G.Sarıyerspor - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219144400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - Bandırmaspor</title>
+  <programme start="20260220150000 +0000" stop="20260220165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">İ.A.Vanspor FK - S.Bodrum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219144500 +0000" stop="20260219145500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260220170000 +0000" stop="20260220185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">AdanaDemirspor - Ö.Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219145600 +0000" stop="20260219163900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Serikspor - A.Çorum FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219164000 +0000" stop="20260219165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219170000 +0000" stop="20260219192900 +0000" channel="beinsports2.tr">
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - A.G.Pendikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219193000 +0000" stop="20260219213000 +0000" channel="beinsports2.tr">
-    <title lang="tr">S.G.Sarıyerspor - Amed S.F.</title>
+  <programme start="20260220024500 +0000" stop="20260220025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219044500 +0000" stop="20260219045900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260220030000 +0000" stop="20260220044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Brest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219050000 +0000" stop="20260219064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Chelsea - Brentford</title>
+  <programme start="20260220044500 +0000" stop="20260220045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219064500 +0000" stop="20260219065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260220050000 +0000" stop="20260220064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris FC - Lens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219070000 +0000" stop="20260219085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham H. - West Ham United</title>
+  <programme start="20260220064500 +0000" stop="20260220065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219090000 +0000" stop="20260219104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Crystal Palace</title>
+  <programme start="20260220070000 +0000" stop="20260220105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Sezon Öncesi...</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219104500 +0000" stop="20260219105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260220110000 +0000" stop="20260220111400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Geniş Özet: Formula 2 Katar</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219110000 +0000" stop="20260219124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Leeds United - Fulham</title>
+  <programme start="20260220111500 +0000" stop="20260220112900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Geniş Özet: Formula 2 Katar</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219124500 +0000" stop="20260219125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260220113000 +0000" stop="20260220114400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Geniş Özet: Formula 2 Abu Dabi</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Aston Villa - Everton</title>
+  <programme start="20260220114500 +0000" stop="20260220115900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Geniş Özet: Formula 2 Abu Dabi</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219144500 +0000" stop="20260219145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260220120000 +0000" stop="20260220155900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Sezon Öncesi...</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219150000 +0000" stop="20260219164800 +0000" channel="beinsports3.tr">
-    <title lang="tr">Wolverhampton W. - Arsenal</title>
+  <programme start="20260220160000 +0000" stop="20260220201400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Sezon Öncesi...</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260219164900 +0000" stop="20260219165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219170000 +0000" stop="20260219172900 +0000" channel="beinsports3.tr">
-    <title lang="tr">B. Hove Albion - Bournemouth</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219173000 +0000" stop="20260219175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man. United - Manchester City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219180000 +0000" stop="20260219182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Burnley</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219183000 +0000" stop="20260219185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Chelsea - Brentford</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219190000 +0000" stop="20260219192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham H. - West Ham United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219193000 +0000" stop="20260219195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Crystal Palace</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260219200000 +0000" stop="20260219220000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20260220201500 +0000" stop="20260220221500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Sezon Öncesi...</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260220050000 +0000" stop="20260220080000 +0000" channel="benguturk">
@@ -18487,34 +18443,28 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260220040000 +0000" stop="20260220070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260220070000 +0000" stop="20260220120000 +0000" channel="power-tv">
+  <programme start="20260220070000 +0000" stop="20260220130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260220120000 +0000" stop="20260220130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260220130000 +0000" stop="20260220170000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260220170000 +0000" stop="20260220200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260220200000 +0000" stop="20260221050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260220000000 +0000" stop="20260220020000 +0000" channel="s-sport">
     <title lang="tr">Euroleague</title>
