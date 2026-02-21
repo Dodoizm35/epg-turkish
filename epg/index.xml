@@ -2980,6 +2980,74 @@ Ali, aşkı için her şeyi göze almışken Rosa, Ali&#x27;yi korumak için kal
     <desc lang="tr">The latest news from the BBC.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260221150000 +0000" stop="20260221164400 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.H.Iğdır FK - E.Erokspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221164500 +0000" stop="20260221165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221170000 +0000" stop="20260221185400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Boluspor - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221185500 +0000" stop="20260221205500 +0000" channel="beinsports2.tr">
+    <title lang="tr">Saint-Étienne - Laval</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221145000 +0000" stop="20260221145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221150000 +0000" stop="20260221165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Burnley</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221170000 +0000" stop="20260221171900 +0000" channel="beinsports3.tr">
+    <title lang="tr">En İyi Frikik Goller</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221172000 +0000" stop="20260221172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221173000 +0000" stop="20260221192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham United - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221193000 +0000" stop="20260221194900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Under The Skin</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221195000 +0000" stop="20260221201400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221201500 +0000" stop="20260221221500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. City - Newcastle United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221150000 +0000" stop="20260221152900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Olympique de Marseille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221153000 +0000" stop="20260221155900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Preview</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221160000 +0000" stop="20260221175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lens - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221180000 +0000" stop="20260221200400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Toulouse - Paris FC</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260221200500 +0000" stop="20260221220500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris Saint-Germain - Metz</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260221070000 +0000" stop="20260221090000 +0000" channel="benguturk">
     <title lang="tr">Hafta Sonu Bülteni</title>
     <desc lang="tr">Hafta Sonu Bülteni hafta boyunca gündemde öne çıkan başlıkları sizlerle buluşturuyor. Son dakika gelişmeleri, analizler ve uzman yorumlarıyla haberleri anlaşılır ve sade bir dille sunuyor. Hafta sonunuzu güncel bilgilerle planlayın ve takipte kalın.</desc>
@@ -18116,13 +18184,13 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
   </programme>
   <programme start="20260221160000 +0000" stop="20260221200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260221200000 +0000" stop="20260221230000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260221000000 +0000" stop="20260221023000 +0000" channel="s-sport">
     <title lang="tr">Cleveland Cavaliers - Charlotte Hornets</title>
