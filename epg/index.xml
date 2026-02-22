@@ -3063,6 +3063,54 @@ Ali, aşkı için her şeyi göze almışken Rosa, Ali&#x27;yi korumak için kal
     <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260222160000 +0000" stop="20260222161900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Under The Skin</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222162000 +0000" stop="20260222162900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222163000 +0000" stop="20260222182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Arsenal</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222183000 +0000" stop="20260222185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222190000 +0000" stop="20260222204400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nottingham Forest - Liverpool</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222204500 +0000" stop="20260222224500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222160000 +0000" stop="20260222161400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222161500 +0000" stop="20260222181400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222181500 +0000" stop="20260222184400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Toulouse - Paris FC</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222184500 +0000" stop="20260222191400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris Saint-Germain - Metz</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222191500 +0000" stop="20260222194400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lens - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260222194500 +0000" stop="20260222214500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260222070000 +0000" stop="20260222080000 +0000" channel="benguturk">
     <title lang="tr">Hafta Sonu Bülteni</title>
     <desc lang="tr">Hafta Sonu Bülteni hafta boyunca gündemde öne çıkan başlıkları sizlerle buluşturuyor. Son dakika gelişmeleri, analizler ve uzman yorumlarıyla haberleri anlaşılır ve sade bir dille sunuyor. Hafta sonunuzu güncel bilgilerle planlayın ve takipte kalın.</desc>
@@ -11773,6 +11821,382 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
     <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260222000000 +0000" stop="20260222003000 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222003000 +0000" stop="20260222004500 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222004500 +0000" stop="20260222005500 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222005500 +0000" stop="20260222010000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222010000 +0000" stop="20260222013000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222013000 +0000" stop="20260222014500 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222014500 +0000" stop="20260222015900 +0000" channel="flash-haber">
+    <title lang="tr">Bushcraft Baycan</title>
+    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222015900 +0000" stop="20260222020000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222020000 +0000" stop="20260222023000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222023000 +0000" stop="20260222025900 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222025900 +0000" stop="20260222030000 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222030000 +0000" stop="20260222033000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222033000 +0000" stop="20260222035900 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222035900 +0000" stop="20260222040000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222040000 +0000" stop="20260222043000 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222043000 +0000" stop="20260222045900 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222045900 +0000" stop="20260222050000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222050000 +0000" stop="20260222053000 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222053000 +0000" stop="20260222055900 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222055900 +0000" stop="20260222060000 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222060000 +0000" stop="20260222063000 +0000" channel="flash-haber">
+    <title lang="tr">Gün Başlıyor</title>
+    <desc lang="tr">Gün Başlıyor, izleyicilerin güne doğru ve güvenilir bilgilerle başlamasını sağlıyor. Türkiye ve dünyadan güncel gelişmeler, ekonomi, hava durumu, sağlık ve spor başlıkları sade bir dille sunuluyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222063000 +0000" stop="20260222064500 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222064500 +0000" stop="20260222065700 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222065700 +0000" stop="20260222070000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222070000 +0000" stop="20260222073000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222073000 +0000" stop="20260222075500 +0000" channel="flash-haber">
+    <title lang="tr">Donanım Günlüğü</title>
+    <desc lang="tr">Donanım Günlüğü, teknoloji dünyasındaki en yeni donanımları, performans testlerini ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Ekran kartlarından işlemcilere, oyun ekipmanlarından aksesuar incelemelerine kadar pek çok başlık sade ve anlaşılır bir dille ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222075500 +0000" stop="20260222075700 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222075700 +0000" stop="20260222080000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222080000 +0000" stop="20260222084000 +0000" channel="flash-haber">
+    <title lang="tr">Gündem Arası</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222084000 +0000" stop="20260222085300 +0000" channel="flash-haber">
+    <title lang="tr">Tekno Flash</title>
+    <desc lang="tr">Tekno Flash, dijital dünyanın en yeni gelişmelerini izleyiciyle buluşturuyor. Yapay zekâ, yazılım, akıllı cihazlar, oyun sektörü ve sosyal medya trendleri sade ve anlaşılır bir dille ele alınıyor. Uzman yorumları ve özel röportajlarla zenginleşen program, teknoloji dünyasının rehberini sunuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222085300 +0000" stop="20260222085500 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222085500 +0000" stop="20260222090000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222090000 +0000" stop="20260222094000 +0000" channel="flash-haber">
+    <title lang="tr">Hafta Sonu</title>
+    <desc lang="tr">İzleyicilere hafta sonu gündemini, güncel haberleri, magazin gelişmelerini ve özel röportajları sunan bilgilendirici bir programdır. Sosyal olaylar, kültür-sanat etkinlikleri ve spor haberleri detaylı şekilde ele alınır. Program, bilgi ve eğlence sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222094000 +0000" stop="20260222095400 +0000" channel="flash-haber">
+    <title lang="tr">Kültür Sanat</title>
+    <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222095400 +0000" stop="20260222095600 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222095600 +0000" stop="20260222100000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222100000 +0000" stop="20260222104000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222104000 +0000" stop="20260222105500 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222105500 +0000" stop="20260222110000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222110000 +0000" stop="20260222114000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222114000 +0000" stop="20260222120000 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222120000 +0000" stop="20260222123000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222123000 +0000" stop="20260222124000 +0000" channel="flash-haber">
+    <title lang="tr">Memleket Sofrası</title>
+    <desc lang="tr">Memleket Sofrası, Anadolu&#x27;nun farklı yörelerinden seçilen ev yemeklerini misafirlerine sunan geleneksel bir Türk mutfağı restoranıdır. Samimi atmosferi, taze malzemeleri ve uygun fiyatlı menüsüyle ailelerin ve çalışanların tercih ettiği bir mekândır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222124000 +0000" stop="20260222125400 +0000" channel="flash-haber">
+    <title lang="tr">Bushcraft Baycan</title>
+    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222125400 +0000" stop="20260222125600 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222125600 +0000" stop="20260222130000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222130000 +0000" stop="20260222133000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222133000 +0000" stop="20260222134500 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260222134500 +0000" stop="20260222135700 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222135700 +0000" stop="20260222140000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222140000 +0000" stop="20260222143000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222143000 +0000" stop="20260222144500 +0000" channel="flash-haber">
+    <title lang="tr">Oto Flash</title>
+    <desc lang="tr">Oto Flash, otomobil dünyasındaki en güncel gelişmeleri, yeni çıkan modelleri ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Test sürüşleri, teknik detaylar ve kullanıcı deneyimleriyle araçlar tüm yönleriyle ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222144500 +0000" stop="20260222150000 +0000" channel="flash-haber">
+    <title lang="tr">Konsol</title>
+    <desc lang="tr">Konsol Programı, oyun ve oyuncu dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Yeni çıkan oyunlar, konsol incelemeleri, turnuvalar, donanım tanıtımları ve uzman yorumlarıyla hem eğlenceli hem de bilgilendirici bir deneyim sunuyor. Oyunseverler için haberler, ipuçları ve öneriler tek çatı altında toplanıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222150000 +0000" stop="20260222151000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222151000 +0000" stop="20260222153500 +0000" channel="flash-haber">
+    <title lang="tr">Donanım Günlüğü</title>
+    <desc lang="tr">Donanım Günlüğü, teknoloji dünyasındaki en yeni donanımları, performans testlerini ve dikkat çeken yenilikleri izleyiciyle buluşturuyor. Ekran kartlarından işlemcilere, oyun ekipmanlarından aksesuar incelemelerine kadar pek çok başlık sade ve anlaşılır bir dille ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222153500 +0000" stop="20260222153700 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222153700 +0000" stop="20260222153800 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222153800 +0000" stop="20260222155300 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222155300 +0000" stop="20260222155500 +0000" channel="flash-haber">
+    <title lang="tr">İstanbul İçin İftar Vakti: (18:53 EZAN)</title>
+    <desc lang="tr">İstanbul İçin İftar Vakti, Ramazan ayında İstanbul&#x27;daki iftar saatlerini izleyicilere sunan özel bir yayındır. Program, günlük iftar vakitlerini paylaşarak izleyicilerin ibadetlerini düzenli şekilde yerine getirmelerine yardımcı olur ve Ramazan ruhunu yaşatır.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260222155500 +0000" stop="20260222160500 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222160500 +0000" stop="20260222162000 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222162000 +0000" stop="20260222163000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222163000 +0000" stop="20260222171500 +0000" channel="flash-haber">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ana Haber, günün en önemli gelişmelerini Türkiye ve dünyadan başlıklarla izleyiciye aktaran kapsamlı bir haber programıdır. Siyaset, ekonomi, güvenlik ve toplumsal olaylar detaylı biçimde ele alınırken, canlı bağlantılar, uzman yorumları ve özel röportajlarla içerik zenginleştirilir.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222171500 +0000" stop="20260222173000 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260222173000 +0000" stop="20260222175900 +0000" channel="flash-haber">
+    <title lang="tr">Bilim Hattı</title>
+    <desc lang="tr">Bilim Hattı, uzman konuklar ve bilim insanlarıyla yapılan röportajlar, deneyler ve teknoloji dünyasındaki yeniliklerle izleyiciyi bilimin merkezine taşıyor. Evrenin sırlarından günlük hayattaki bilimsel olaylara kadar geniş bir yelpazede içerikler ilgi çekici bir dille anlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222175900 +0000" stop="20260222180000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222180000 +0000" stop="20260222183000 +0000" channel="flash-haber">
+    <title lang="tr">Şevval Şirin İle Güncel</title>
+    <desc lang="tr">Şevval Şirin ile Güncel, Türkiye ve dünyadan en sıcak gelişmeleri gündem başlıkları altında izleyiciyle buluşturuyor. Siyaset, ekonomi, sağlık, kültür-sanat, spor ve toplumsal olaylar; canlı bağlantılar, özel röportajlar ve uzman yorumlarıyla ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222183000 +0000" stop="20260222185900 +0000" channel="flash-haber">
+    <title lang="tr">Yeşil Hat</title>
+    <desc lang="tr">Yeşil Hat, çevre ve doğa odaklı içeriğiyle sürdürülebilir yaşamın önemini izleyiciyle buluşturuyor. Programda iklim değişikliği, çevre sorunları, yenilenebilir enerji, geri dönüşüm ve ekolojik yaşam gibi başlıklar ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222185900 +0000" stop="20260222190000 +0000" channel="flash-haber">
+    <title lang="tr">Kuş Bakışı</title>
+    <desc lang="tr">Kuş Bakışı, doğal yaşam alanlarını, şehirleri ve kültürel mirası benzersiz bir perspektiften ekrana taşıyor. Havadan çekimlerle zenginleşen anlatım, izleyiciyi farklı coğrafyalara götürürken her bölümü görsel bir keşfe dönüştürüyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260222190000 +0000" stop="20260222193000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222193000 +0000" stop="20260222194500 +0000" channel="flash-haber">
+    <title lang="tr">Spor Hattı</title>
+    <desc lang="tr">Spor Hattı, futbol başta olmak üzere tüm spor dallarından öne çıkan gelişmeleri, maç özetlerini ve kritik anları izleyiciyle buluşturuyor. Transfer haberleri, puan durumları ve uzman yorumlarıyla spor gündemi net bir şekilde ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260222194500 +0000" stop="20260222200000 +0000" channel="flash-haber">
+    <title lang="tr">Ekonomi Hattı</title>
+    <desc lang="tr">Ekonomi Hattı, Türkiye ve dünya piyasalarındaki son gelişmeleri izleyiciyle buluşturuyor. Döviz kurları, borsa hareketleri, yatırım trendleri ve iş dünyasındaki yenilikler uzman konukların yorumlarıyla detaylı biçimde ele alınıyor. .</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222200000 +0000" stop="20260222203000 +0000" channel="flash-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün öne çıkan gelişmelerini hızlı ve anlaşılır bir yayın anlayışıyla izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde yaşanan önemli olaylar, son dakika gelişmeleri ve dikkat çeken başlıklar bir özet halinde ekrana taşınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260222203000 +0000" stop="20260222204400 +0000" channel="flash-haber">
+    <title lang="tr">Bushcraft Baycan</title>
+    <desc lang="tr">Bushcraft Baycan&#x27;da Taner Baycan, doğada hayatta kalma tekniklerinden kamp becerilerine, barınak yapımından ateş yakma yöntemlerine kadar pek çok konuyu uygulamalı olarak anlatıyor. Doğanın sunduğu imkânları doğru kullanmayı öğreten program, izleyicilere doğayla uyum içinde yaşamanın ve onu korumanın önemini hatırlatıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222204400 +0000" stop="20260222205300 +0000" channel="flash-haber">
+    <title lang="tr">Flash Vizyon</title>
+    <desc lang="tr">Flash Vizyon, sinema, dizi, müzik ve sahne dünyasındaki en güncel gelişmeleri izleyiciyle buluşturuyor. Ünlü isimlerle yapılan röportajlar, kamera arkası görüntüleri ve kulis bilgileriyle magazin gündemi ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260222205300 +0000" stop="20260222205500 +0000" channel="flash-haber">
+    <title lang="tr">Hava Durumu</title>
+    <desc lang="tr">Hava Durumu, Türkiye&#x27;nin dört bir yanından gelen güncel meteorolojik verilerle izleyiciyi bilgilendiriyor. Sıcaklıklar, yağış ihtimalleri, rüzgâr durumu ve bölgesel değişimler sade bir anlatımla ekrana taşınıyor.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260222205500 +0000" stop="20260222210000 +0000" channel="flash-haber">
+    <title lang="tr">Kısa Bir Mola</title>
+    <category lang="tr">Magazin</category>
+  </programme>
   <programme start="20260222030000 +0000" stop="20260222050000 +0000" channel="fm-tv">
     <title lang="tr">Mukabele</title>
     <category lang="tr">Magazin</category>
@@ -18092,18 +18516,18 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260222160000 +0000" stop="20260222170000 +0000" channel="power-tv">
     <title lang="tr">Power Rocks</title>
-    <desc lang="tr">Rock müziğin en sert ve en efsanevi halleri Power Rocks&#x27;ta! Klasiğinden yenisine, tüm rock burada.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Müzik tarihinin en iyi rock parçaları her hafta sonu Power Rock&#x27;ta!</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260222170000 +0000" stop="20260222200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260222200000 +0000" stop="20260223040000 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260222003000 +0000" stop="20260222013000 +0000" channel="s-sport">
     <title lang="tr">Probull Riders</title>
