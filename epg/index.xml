@@ -3039,40 +3039,28 @@ Ali, aşkı için her şeyi göze almışken Rosa, Ali&#x27;yi korumak için kal
     <desc lang="tr">The latest news from the BBC.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221164400 +0000" channel="beinsports2.tr">
+  <programme start="20260222050000 +0000" stop="20260222065900 +0000" channel="beinsports2.tr">
     <title lang="tr">A.H.Iğdır FK - E.Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260221164500 +0000" stop="20260221165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221185400 +0000" channel="beinsports2.tr">
+  <programme start="20260222070000 +0000" stop="20260222102900 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260221185500 +0000" stop="20260221205500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Saint-Étienne - Laval</title>
+  <programme start="20260222103000 +0000" stop="20260222135900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Z.Kayserispor - H.Antalyaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221152900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Olympique de Marseille</title>
+  <programme start="20260222140000 +0000" stop="20260222165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">C.Palace - Wolves</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260221153000 +0000" stop="20260221155900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Preview</title>
+  <programme start="20260222170000 +0000" stop="20260222192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">M.F.Karagümrük - Samsunspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260221160000 +0000" stop="20260221175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lens - Monaco</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260221180000 +0000" stop="20260221200400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Toulouse - Paris FC</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260221200500 +0000" stop="20260221220500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint-Germain - Metz</title>
+  <programme start="20260222193000 +0000" stop="20260222213000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260222070000 +0000" stop="20260222080000 +0000" channel="benguturk">
@@ -18475,23 +18463,23 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260222050000 +0000" stop="20260222160000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260222160000 +0000" stop="20260222170000 +0000" channel="power-tv">
     <title lang="tr">Power Rocks</title>
-    <desc lang="tr">Müzik tarihinin en iyi rock parçaları her hafta sonu Power Rock&#x27;ta!</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Rock müziğin en sert ve en efsanevi halleri Power Rocks&#x27;ta! Klasiğinden yenisine, tüm rock burada.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260222170000 +0000" stop="20260222200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260222200000 +0000" stop="20260223040000 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260222003000 +0000" stop="20260222013000 +0000" channel="s-sport">
     <title lang="tr">Probull Riders</title>
