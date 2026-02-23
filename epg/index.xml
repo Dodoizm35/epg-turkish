@@ -293,10 +293,6 @@
     <display-name>SPORTS TV</display-name>
   </channel>
 
-  <channel id="tv-ekstra-ufc">
-    <display-name>TV+ Ekstra UFC</display-name>
-  </channel>
-
   <channel id="trt-belgesel">
     <display-name>TRT BELGESEL</display-name>
   </channel>
@@ -3160,52 +3156,200 @@ Hastanede bulunan bir kanıt, iki aile arasındaki imkansız aşkın kapıların
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260222050000 +0000" stop="20260222065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A.H.Iğdır FK - E.Erokspor</title>
+  <programme start="20260223044500 +0000" stop="20260223045900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222070000 +0000" stop="20260222102900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Boluspor - İstanbulspor</title>
+  <programme start="20260223050000 +0000" stop="20260223064400 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.Çorum FK - E.Ümraniyespor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222103000 +0000" stop="20260222135900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Z.Kayserispor - H.Antalyaspor</title>
+  <programme start="20260223064500 +0000" stop="20260223082900 +0000" channel="beinsports2.tr">
+    <title lang="tr">S.Bodrum FK - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222140000 +0000" stop="20260222165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">C.Palace - Wolves</title>
+  <programme start="20260223083000 +0000" stop="20260223102900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Erzurumspor FK - Serikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222170000 +0000" stop="20260222192900 +0000" channel="beinsports2.tr">
-    <title lang="tr">M.F.Karagümrük - Samsunspor</title>
+  <programme start="20260223103000 +0000" stop="20260223123900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Ö.Sivasspor - Sakaryaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222193000 +0000" stop="20260222213000 +0000" channel="beinsports2.tr">
+  <programme start="20260223124000 +0000" stop="20260223163900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223164000 +0000" stop="20260223165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Amed S.F. - İ.A.Vanspor FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223193000 +0000" stop="20260223213000 +0000" channel="beinsports2.tr">
     <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222160000 +0000" stop="20260222161900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Under The Skin</title>
+  <programme start="20260223044500 +0000" stop="20260223045900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222162000 +0000" stop="20260222162900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Maç Önü</title>
+  <programme start="20260223050000 +0000" stop="20260223064400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Leeds United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222163000 +0000" stop="20260222182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham Hotspur - Arsenal</title>
+  <programme start="20260223064500 +0000" stop="20260223065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222183000 +0000" stop="20260222185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20260223070000 +0000" stop="20260223084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford-Brighton Hove Albion</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222190000 +0000" stop="20260222204400 +0000" channel="beinsports3.tr">
+  <programme start="20260223084500 +0000" stop="20260223085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223090000 +0000" stop="20260223104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham United - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223104500 +0000" stop="20260223105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223110000 +0000" stop="20260223124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223124500 +0000" stop="20260223125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223130000 +0000" stop="20260223144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Crystal Palace - W. Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223144500 +0000" stop="20260223145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223150000 +0000" stop="20260223164400 +0000" channel="beinsports3.tr">
     <title lang="tr">Nottingham Forest - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260222204500 +0000" stop="20260222224500 +0000" channel="beinsports3.tr">
+  <programme start="20260223164500 +0000" stop="20260223165900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223184400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham Hotspur - Arsenal</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223184500 +0000" stop="20260223194900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223195000 +0000" stop="20260223195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223200000 +0000" stop="20260223220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Everton - Manchester United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223024500 +0000" stop="20260223025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223030000 +0000" stop="20260223044400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Saint-Etienne - Laval</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223044500 +0000" stop="20260223045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223050000 +0000" stop="20260223064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nice - Lorient</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223064500 +0000" stop="20260223065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Coupe de France Goller</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223070000 +0000" stop="20260223084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nantes - Havre</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223084500 +0000" stop="20260223085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223090000 +0000" stop="20260223104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223104500 +0000" stop="20260223105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223110000 +0000" stop="20260223124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Auxerre - Rennes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223124500 +0000" stop="20260223125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223130000 +0000" stop="20260223144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223144500 +0000" stop="20260223145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223150000 +0000" stop="20260223164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nice - Lorient</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223164500 +0000" stop="20260223165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223173000 +0000" stop="20260223175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Olympique de Marseille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223180000 +0000" stop="20260223182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lens - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223183000 +0000" stop="20260223185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Toulouse - Paris FC</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260223192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris Saint-Germain - Metz</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223193000 +0000" stop="20260223195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Auxerre - Rennes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223200000 +0000" stop="20260223202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260223203000 +0000" stop="20260223223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260223050000 +0000" stop="20260223070000 +0000" channel="benguturk">
@@ -24156,28 +24300,33 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223015000 +0000" stop="20260223032500 +0000" channel="trt1">
+  <programme start="20260223015000 +0000" stop="20260223032000 +0000" channel="trt1">
     <title lang="tr">Sahur Bereketi</title>
     <desc lang="tr">Sahur Bereketi, birbirinden değerli konukların samimi ve içten sohbetleri, şiirleri, ilahi dinletileri ve Kur&#x27;an-ı Kerim tilavetleri ile izleyiciyle buluşuyor. 
 Sahur bereketi Dursun Ali Erzincanlı&#x27;nın sunumuyla Ramazan boyunca ekrana geliyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260223032500 +0000" stop="20260223033000 +0000" channel="trt1">
+  <programme start="20260223032000 +0000" stop="20260223041500 +0000" channel="trt1">
     <title lang="tr">Kur&#x27;an-ı Kerim Hatm-i Şerif</title>
     <desc lang="tr">Kur&#x27;an-ı Kerim&#x27;den her gün bir cüzün okunduğu programda, Ramazan boyunca Kur&#x27;an-ı Kerim&#x27;in tamamı hatmediliyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260223033000 +0000" stop="20260223062000 +0000" channel="trt1">
+  <programme start="20260223041500 +0000" stop="20260223055000 +0000" channel="trt1">
     <title lang="tr">Kalk Gidelim</title>
     <desc lang="tr">Mustafa Ali genç yaşında İstanbul&#x27;a gelmiş ve çok zengin olmuştur. Ailesinin karşı koymasına rağmen İstanbullu sosyetik bir güzelle evlenmiştir. Bundan sonra Mustafa Ali işlerini fabrika kuracak kadar büyütüp zenginlik yolunda emin adımlarla yürürken ailesini ve doğup büyüdüğü köyünü ihmal etmiştir. Mustafa Ali&#x27;nin şirketi de büyümüş zirveye çıkmıştır fakat yanlış kararlar Mustafa Ali’nin çöküşünü hızlandırmıştır. Sonunda iflas bayrağını çekmek zorunda kalan Mustafa Ali, tatile gidiyoruz bahanesiyle ailesini topladığı gibi köyün yolunu tutar.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260223062000 +0000" stop="20260223073000 +0000" channel="trt1">
+  <programme start="20260223055000 +0000" stop="20260223070000 +0000" channel="trt1">
     <title lang="tr">Adını Sen Koy</title>
     <desc lang="tr">Ömer altı aylık ömrü kalan kardeşinin mutluluğu için hiç beklemediği anda mecburi bir oyunun içinde bulur kendini... Bambaşka bir dünyadan gelen Zehra ile evlenmek zorundadır. Altı aylık sözleşmeli, formalite bir evlilik yapacak, bunun için Zehra&#x27;ya istediği parayı ödeyecek, onun altı ayını satın alacaktır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260223073000 +0000" stop="20260223101500 +0000" channel="trt1">
+  <programme start="20260223070000 +0000" stop="20260223073000 +0000" channel="trt1">
+    <title lang="tr">Kur&#x27;an&#x27;ın Mesajı</title>
+    <desc lang="tr">Kur&#x27;an&#x27;ın Mesajı programı İlahi Kelam&#x27;ın yorumlanmasıyla, kalpleri aydınlatan, gönüllere huzur veren mesajlarını izleyicilere ulaştırıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260223073000 +0000" stop="20260223102000 +0000" channel="trt1">
     <title lang="tr">Alişan ile Hayata Gülümse</title>
     <desc lang="tr">Alişan ile Hayata Gülümse programı, alanında uzman isimler, Yeşilçam ve sahnelerin birbirinden ünlü isimler ile yurdun dört bir yanından konukları ağırlıyor.
 
@@ -24185,7 +24334,7 @@ Programda uzman isimler, sağlıkla ilgili merak edilenleri anlatıyor, önemli 
 Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyhan Budakçı’dan püf noktalarıyla pratik ve lezzetli yemek tarifleri Alişan ile Hayata Gülümse&#x27;de yer alıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260223101500 +0000" stop="20260223111500 +0000" channel="trt1">
+  <programme start="20260223102000 +0000" stop="20260223111500 +0000" channel="trt1">
     <title lang="tr">Seksenler</title>
     <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com&#x27;u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... 
 
@@ -24194,7 +24343,7 @@ Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyh
   </programme>
   <programme start="20260223111500 +0000" stop="20260223123000 +0000" channel="trt1">
     <title lang="tr">Vefa Sultan</title>
-    <desc lang="tr">İstanbul’un manevi sultanlarından Muslihuddin Mustafa’nın (Vefa Sultan) ilme adanmış hayatını anlatan yapım, dönemin sosyal ve kültürel yapısını etkileyici bir atmosferle ekrana taşıyor.</desc>
+    <desc lang="tr">Vefa Sultan, yeni sezonunda Muslihuddin Mustafa’nın Hac vazifesi sonrası pirlik yolculuğuna ve İstanbul’daki mürşitlik dönemine odaklanıyor. Şehre döndüğünde dergâhın duvarlarını aşan sorumluluklarla karşılaşan Vefa Sultan, büyüyen şehrin karmaşasında kaybolan ruhlara rehberlik ederek onları kendi hakikatlerine kavuşturuyor. İnsanın kendi nefsiyle verdiği büyük savaşı sarsıcı bir dille işleyen dizi, merhamet ve adalet arasındaki ince çizgide etkileyici bir manevi serüven sunuyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260223123000 +0000" stop="20260223130000 +0000" channel="trt1">
@@ -24224,7 +24373,7 @@ Kardeşlik köprülerinin kurulduğu, komşuluk bağlarının güçlendiği ve y
     <desc lang="tr">Her gün farklı mecralarda birçok haberle karşılaşıyoruz. Peki bu haberler ne kadar doğru? Haberlerin doğru mu yoksa çarpıtma mı olduğunu nasıl anlayabiliriz?</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223170000 +0000" stop="20260223220000 +0000" channel="trt1">
+  <programme start="20260223170000 +0000" stop="20260223211500 +0000" channel="trt1">
     <title lang="tr">Cennetin Çocukları</title>
     <desc lang="tr">Ramazan ayının gelişiyle birlikte Arafköy&#x27;ü tatlı bir telaş sarmıştır. Kasabalı nasıl hazırlıklar yapacaktır? Arafköy&#x27;de Ramazan nasıl geçecektir?
 
@@ -24447,36 +24596,6 @@ Bayram ve Esmeray kaçmış, Aytekin ise peşlerine düşmüştür. İkili, Ayte
     <title lang="tr">Ataman&#x27;la Devri Alem</title>
     <desc lang="tr">Dünyanın farklı köşelerine uzanan keşif dolu bir yolculuğa davet ediyor. Şehirlerin ruhu, yerel kültürler, gelenekler, lezzetler ve insan hikâyeleri samimi bir anlatımla ekrana taşınıyor. Program, izleyicilere sadece gezilecek yerleri değil, o coğrafyaların yaşam tarzını tanıtmayı amaçlıyor.</desc>
     <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260223010000 +0000" stop="20260223030000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223030000 +0000" stop="20260223050000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223050000 +0000" stop="20260223070000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223070000 +0000" stop="20260223141000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223141000 +0000" stop="20260223180000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223180000 +0000" stop="20260223210000 +0000" channel="tv-ekstra-ufc">
-    <title lang="tr">Sporun En İyileri TV+’ta izlenir</title>
-    <desc lang="tr">Sporun En İyileri TV+’ta izlenir!</desc>
-    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260223000000 +0000" stop="20260223030000 +0000" channel="tv-ramazan">
     <title lang="tr">Hayırlı Ramazanlar</title>
