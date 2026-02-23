@@ -489,10 +489,6 @@
     <display-name>TMB TV</display-name>
   </channel>
 
-  <channel id="tivi6">
-    <display-name>TİVİ6</display-name>
-  </channel>
-
   <channel id="tyt-turk">
     <display-name>TYT TÜRK</display-name>
   </channel>
@@ -13789,7 +13785,7 @@ Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin
     <desc lang="tr">Farklı ülkeleri gezip deneyimliyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
   </programme>
-  <programme start="20260223203500 +0000" stop="20260224205900 +0000" channel="gzt-tv">
+  <programme start="20260223203500 +0000" stop="20260223210400 +0000" channel="gzt-tv">
     <title lang="tr">Fuat Diri</title>
     <desc lang="tr">Farklı ülkeleri gezip deneyimliyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
@@ -15014,27 +15010,26 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">İsmailce, izleyiciye Türkiye&#x27;nin farklı bölgelerindeki yaşamı, kültürel değerleri ve toplumsal dinamikleri detaylı ve anlaşılır bir şekilde sunan bir belgesel programıdır. Programda yöresel yaşam, gelenekler, günlük yaşam hikâyeleri ve toplumsal değişimler ele alınır.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223163000 +0000" channel="kontv">
+  <programme start="20260223150000 +0000" stop="20260223161000 +0000" channel="kontv">
     <title lang="tr">Düzlem</title>
     <desc lang="tr">Gündemdeki gelişmeler, önemli olaylar ve toplumsal konular bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak izleyiciye olayların nedenleri ve sonuçları aktarılırken, güncel haberleri takip etme imkânı sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223163000 +0000" stop="20260223174000 +0000" channel="kontv">
+  <programme start="20260223161000 +0000" stop="20260223163400 +0000" channel="kontv">
+    <title lang="tr">İyilikle Sevindir</title>
+    <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223163400 +0000" stop="20260223180000 +0000" channel="kontv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223174000 +0000" stop="20260223183000 +0000" channel="kontv">
-    <title lang="tr">Sora Sora Yarışma</title>
-    <desc lang="tr">Sora Sora Yarışma izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260223180000 +0000" stop="20260223184500 +0000" channel="kontv">
+    <title lang="tr">Vuslat</title>
+    <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260223183000 +0000" stop="20260223200000 +0000" channel="kontv">
-    <title lang="tr">Spor Gündemi</title>
-    <desc lang="tr">Spor dünyasındaki gelişmeler, maç özetleri ve öne çıkan performanslar bu içerikte ele alınıyor. Sade ve akıcı bir anlatımla sunulan bilgiler, izleyiciye güncel spor olaylarını takip etme imkânı ve geniş bir bakış açısı sağlıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223200000 +0000" stop="20260223210000 +0000" channel="kontv">
+  <programme start="20260223184500 +0000" stop="20260223210000 +0000" channel="kontv">
     <title lang="tr">Spor Gündemi</title>
     <desc lang="tr">Spor dünyasındaki gelişmeler, maç özetleri ve öne çıkan performanslar bu içerikte ele alınıyor. Sade ve akıcı bir anlatımla sunulan bilgiler, izleyiciye güncel spor olaylarını takip etme imkânı ve geniş bir bakış açısı sağlıyor.</desc>
     <category lang="tr">Spor</category>
@@ -18689,13 +18684,13 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260223200000 +0000" stop="20260223205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260223205900 +0000" stop="20260224040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260223020000 +0000" stop="20260223040000 +0000" channel="s-sport">
     <title lang="tr">Cleveland Cavaliers - Oklahoma City Thunder</title>
@@ -20144,9 +20139,8 @@ Bir düğün gecesinde ortadan kaybolan sefirin kızı, tam dokuz yıl sonra, ba
   </programme>
   <programme start="20260223141500 +0000" stop="20260223151500 +0000" channel="star-tv">
     <title lang="tr">Pelin ve Tahsin Mutfakta</title>
-    <desc lang="tr">Ramazan ayı boyunca ekranlarda olacak programda Pelin Karahan ve Şef Tahsin Küçük, izleyiciler için birbirinden lezzetli iftar ve sahur menüleri hazırlıyor. Kolayca ulaşılabilen malzemelerle hazırlanan pratik tarifler, sofralara lezzet katıyor.
-Şef Tahsin Küçük; Türk ve Anadolu mutfağının yanı sıra dünya mutfağından da özel tarifler sunarken, Pelin Karahan mutfağa olan ilgisi ve el lezzetiyle kimi zaman şefe eşlik ediyor, kimi zaman da kendi tarifleriyle programa renk katıyor.
-Keyifli sohbetleriyle dikkat çeken ikili; yemeklere dair özel hikâyeleri ve mutfağın püf noktalarını izleyicilerle paylaşıyor.</desc>
+    <desc lang="tr">Başarılı oyuncu ve sunucu Pelin Karahan ile ünlü şef Tahsin Küçük&#x27;ün ev sahipliğini üstlendiği Pelin ve Tahsin Mutfakta, Ramazan ayı boyunca Star ekranlarında izleyiciyle buluşuyor.
+Pelin Karahan ve Şef Tahsin Küçük, bugün iftar sofralarınız için çok lezzetli Tatlılı Ekşili Tavukun yanında Erişteli Yeşil Mercimekli Bulgur Pilavı hazırlıyor. Ardından iftardan sonra ağzınızı tatlandıracak Haşhaşlı Frambuazlı Trileçe tarifi ekranlara geliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260223151500 +0000" stop="20260223160000 +0000" channel="star-tv">
@@ -20161,7 +20155,13 @@ Keyifli sohbetleriyle dikkat çeken ikili; yemeklere dair özel hikâyeleri ve m
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223170000 +0000" stop="20260223215000 +0000" channel="star-tv">
+  <programme start="20260223170000 +0000" stop="20260223193000 +0000" channel="star-tv">
+    <title lang="tr">Torontolu Adam</title>
+    <desc lang="tr">Beceriksiz bir girişimcinin hayatı, dünyanın en ölümcül suikastçılarından biri olan ve Torontolu Adam olarak bilinen gizemli bir adamla karıştırılmasıyla altüst olur.
+Airbnb&#x27;de yaşanan talihsiz bir karışıklık, bu iki yabancıyı aynı çatı altında buluşturur. Kimliklerin karışmasıyla sıradan adam kendini tehlikeli bir komplonun tam ortasında bulur. Artık hayatta kalabilmek ve bu karmaşadan çıkabilmek için, istemese de bu acımasız suikastçıyla birlikte hareket etmek zorundadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260223193000 +0000" stop="20260223213000 +0000" channel="star-tv">
     <title lang="tr">Torontolu Adam</title>
     <desc lang="tr">Beceriksiz bir girişimcinin hayatı, dünyanın en ölümcül suikastçılarından biri olan ve Torontolu Adam olarak bilinen gizemli bir adamla karıştırılmasıyla altüst olur.
 Airbnb&#x27;de yaşanan talihsiz bir karışıklık, bu iki yabancıyı aynı çatı altında buluşturur. Kimliklerin karışmasıyla sıradan adam kendini tehlikeli bir komplonun tam ortasında bulur. Artık hayatta kalabilmek ve bu karmaşadan çıkabilmek için, istemese de bu acımasız suikastçıyla birlikte hareket etmek zorundadır.</desc>
@@ -20676,81 +20676,6 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
     <desc lang="tr">Televizyon, dijital platformlar ve basın dünyasında yaşanan gelişmeler bu programda ele alınır. Yayınlar, içerikler ve gündem yaratan olaylar; yorumlar ve değerlendirmelerle birlikte izleyiciye aktarılır.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260223003400 +0000" stop="20260223021500 +0000" channel="tivi6">
-    <title lang="tr">Okyanus Dünyası</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223021500 +0000" stop="20260223031200 +0000" channel="tivi6">
-    <title lang="tr">Sahur Bereketi</title>
-    <desc lang="tr">Lütfi Doğan ile Sahur Bereketi</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260223031200 +0000" stop="20260223042100 +0000" channel="tivi6">
-    <title lang="tr">Hatim</title>
-    <desc lang="tr">HATİM 5.KISIM</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260223042100 +0000" stop="20260223050000 +0000" channel="tivi6">
-    <title lang="tr">Orman Gezegeni 11</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223050000 +0000" stop="20260223070000 +0000" channel="tivi6">
-    <title lang="tr">Küçük Şövalye Trenk</title>
-    <desc lang="tr">10 yaşındaki Trenk, kötü kalpli derebeyi Sir Wertolt için adeta köle gibi çalışan bir köylü çocuğudur. Bu sırada baş gösteren bir ejderha sorunu nedeniyle bir turnuva düzenlenmiştir ve ejderhayı yenmeyi başaran kişiye bir dileğini gerçekleştirme sözü verilmiştir</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223070000 +0000" stop="20260223090000 +0000" channel="tivi6">
-    <title lang="tr">Kanun Benim</title>
-    <desc lang="tr">Kanunsuzluk ve karmaşanın hüküm sürdüğü kasabalara seyyah olarak giden iki arkadaş Virgil Cole ve Everett Hitch, gittikleri yerlerde kanun adamı olarak görev yaparlar</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223090000 +0000" stop="20260223100000 +0000" channel="tivi6">
-    <title lang="tr">Resiften Yağmur Ormanına</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223100000 +0000" stop="20260223105300 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">Br apartmanda oturan, yöneticisinden kapıcısına kadar 7 farklı ailenin gündelik yaşamını, birbirleriyle ilişkilerini ve eksen ailenin, iş ve akrabalık ilişkilerini konu etmektedir.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260223105300 +0000" stop="20260223132700 +0000" channel="tivi6">
-    <title lang="tr">Terminatör 1</title>
-    <desc lang="tr">Başrolünde Arnold Schwarzenegger, Sarah Connor&#x27;ı öldürmek için 2029&#x27;dan 1984&#x27;e zamanda geriye gönderilen sibernetik bir suikastçı olan Terminatör rolündedir. Doğmamış oğlu, kıyamet sonrası bir gelecekte düşmanca bir yapay zeka olan Skynet tarafından insanlığı yok olmaktan kurtaracaktır.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223132700 +0000" stop="20260223150000 +0000" channel="tivi6">
-    <title lang="tr">Şehirler</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223150000 +0000" stop="20260223160500 +0000" channel="tivi6">
-    <title lang="tr">İftar Bereketi</title>
-    <desc lang="tr">Muhammed Ocakoğlu ile İftar Bereketi</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260223160500 +0000" stop="20260223170000 +0000" channel="tivi6">
-    <title lang="tr">Sihir Adası</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223170000 +0000" stop="20260223180000 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">Bizimkiler 209.BÖLÜM</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260223180000 +0000" stop="20260223190800 +0000" channel="tivi6">
-    <title lang="tr">Söz Hakkı</title>
-    <desc lang="tr">Fatih Demirtaş ile Söz Hakkı</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260223190800 +0000" stop="20260223210000 +0000" channel="tivi6">
-    <title lang="tr">Hayat Mücadelesi</title>
-    <desc lang="tr">Belgesel Kuşağı</desc>
-    <category lang="tr">Film</category>
-  </programme>
   <programme start="20260223003000 +0000" stop="20260223011500 +0000" channel="tlc">
     <title lang="tr">En Kötü Kabusun</title>
     <desc lang="tr">Genç anne Tennyson, para için evine giren birinin saldırısına uğrar, saldırgan kaçar. Polis, geri gelmeyeceğinden emindir ancak Tennyson endişelenmekte haklıdır.</desc>
@@ -21056,23 +20981,23 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260223090000 +0000" stop="20260223093000 +0000" channel="trt-2">
-    <title lang="tr">Sûret</title>
-    <desc lang="tr">Sûret programında fotoğrafçılık açısından bir belge niteliği taşıyan tarihi fotoğraflar ve albümler üzerinden zamanın ruhunu ve dokusunu hissediyor ve dönemin şartlarını anlıyoruz.</desc>
+    <title lang="tr">Hayat Sanat</title>
+    <desc lang="tr">Hafta içi her gün yayınlanan programda, kültür ve sanat haberleri; konserler, sergiler, festivaller, son çıkan kitaplar, tiyatro oyunları, fuarlar, gösterime giren filmler ekrana geliyor.</desc>
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
-  <programme start="20260223093000 +0000" stop="20260223103000 +0000" channel="trt-2">
-    <title lang="tr">Nazar ile Manzara</title>
-    <desc lang="tr">&#x27;Nazar ile Manzara&#x27;, düşünce tarihimizden hareketle bilgi, sanat, felsefe ve bilimin derinliklerine inen bir medeniyet okuması. Bakışın derinliğini, anlamın katmanlarını ve hakikatin izlerini sürerek, geçmişin bilgisini bugünün sorularıyla buluşturuyor.</desc>
-    <category lang="tr">Kültür &amp; Sanat</category>
-  </programme>
-  <programme start="20260223103000 +0000" stop="20260223110000 +0000" channel="trt-2">
+  <programme start="20260223093000 +0000" stop="20260223100000 +0000" channel="trt-2">
     <title lang="tr">Bir Resim Bir Hikaye</title>
     <desc lang="tr">Bir Resim Bir Hikaye&#x27;de ressam Mahir Güven, ve konuğu seçtikleri resmin ressamını, resmin içindeki duyguları, düşünceleri ve onu görenlerdeki uyandırdığı etkileri tartışıyorlar.</desc>
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
-  <programme start="20260223110000 +0000" stop="20260223113000 +0000" channel="trt-2">
-    <title lang="tr">Hayat Sanat</title>
-    <desc lang="tr">Hafta içi her gün yayınlanan programda, kültür ve sanat haberleri; konserler, sergiler, festivaller, son çıkan kitaplar, tiyatro oyunları, fuarlar, gösterime giren filmler ekrana geliyor.</desc>
+  <programme start="20260223100000 +0000" stop="20260223103000 +0000" channel="trt-2">
+    <title lang="tr">Koca Sinan</title>
+    <desc lang="tr">Osmanlı Devleti&#x27;nin en önemli mimarı Mimar Sinan&#x27;ın yaşantısı ve eserleri, Koca Sinan belgeseli ile seyirciyle buluşuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260223103000 +0000" stop="20260223113000 +0000" channel="trt-2">
+    <title lang="tr">Nazar ile Manzara</title>
+    <desc lang="tr">&#x27;Nazar ile Manzara&#x27;, düşünce tarihimizden hareketle bilgi, sanat, felsefe ve bilimin derinliklerine inen bir medeniyet okuması. Bakışın derinliğini, anlamın katmanlarını ve hakikatin izlerini sürerek, geçmişin bilgisini bugünün sorularıyla buluşturuyor.</desc>
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
   <programme start="20260223113000 +0000" stop="20260223114500 +0000" channel="trt-2">
@@ -21087,22 +21012,22 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
   </programme>
   <programme start="20260223140000 +0000" stop="20260223143000 +0000" channel="trt-2">
     <title lang="tr">Ramazan Sosyolojisi</title>
-    <desc lang="tr">Ramazan Sosyolojisi programında bu bölüm farklı coğrafyalardaki Müslüman toplumların Ramazan&#x27;da nasıl bir niyet birliği içinde buluştuğu Mehmet Dilbaz ile ele alınıyor.</desc>
+    <desc lang="tr">Niyetten sabra, toplumsal bağlardan zaman algısına kadar hayatın içinden pek çok kavramı, kıymetli konuklarla sosyolojik ve kültürel açıdan ele alan programda; Ramazan ayının anlamları ve yansımaları derinlemesine konuşuluyor. Ayrıca geleneksel sanatların seçkin örnekleri ekrana taşınıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260223143000 +0000" stop="20260223150000 +0000" channel="trt-2">
-    <title lang="tr">Sanatçının Şehri</title>
-    <desc lang="tr">Sanatın farklı dallarında faaliyet gösteren sanatçılar, yaşadıkları şehirlerin sanat hayatlarına etkilerini anlatıyorlar.</desc>
-    <category lang="tr">Kültür &amp; Sanat</category>
-  </programme>
-  <programme start="20260223150000 +0000" stop="20260223153000 +0000" channel="trt-2">
-    <title lang="tr">Medeniyetin İşaret Taşları</title>
-    <desc lang="tr">Zamana yön veren muvakkithanelerden saat kulelerine; bilim tarihinde yer tutan rubu tahtasından rasathanelere; yüksek bir kültürün mirası kuş evlerinden su kemerlerine, medeniyetimizin işaret taşlarının izi sürülüyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260223153000 +0000" stop="20260223160000 +0000" channel="trt-2">
     <title lang="tr">Sinem Çapraz ile Lezzet Atlası</title>
     <desc lang="tr">Antik çağlardan günümüze kadar uzanan yemeklerin, mutfak kültüründeki gelişmelerin ve tarihi mekanların hikayelerinin anlatıldığı ‘&#x27;Sinem Çapraz ile Lezzet Atlası&#x27;&#x27; bu hafta Nevşehir&#x27;de...</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260223150000 +0000" stop="20260223153000 +0000" channel="trt-2">
+    <title lang="tr">Hayat Sanat</title>
+    <desc lang="tr">Hafta içi her gün yayınlanan programda, kültür ve sanat haberleri; konserler, sergiler, festivaller, son çıkan kitaplar, tiyatro oyunları, fuarlar, gösterime giren filmler ekrana geliyor.</desc>
+    <category lang="tr">Kültür &amp; Sanat</category>
+  </programme>
+  <programme start="20260223153000 +0000" stop="20260223160000 +0000" channel="trt-2">
+    <title lang="tr">Medeniyetin İşaret Taşları</title>
+    <desc lang="tr">Zamana yön veren muvakkithanelerden saat kulelerine; bilim tarihinde yer tutan rubu tahtasından rasathanelere; yüksek bir kültürün mirası kuş evlerinden su kemerlerine, medeniyetimizin işaret taşlarının izi sürülüyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260223160000 +0000" stop="20260223163000 +0000" channel="trt-2">
@@ -21121,8 +21046,8 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
   <programme start="20260223180000 +0000" stop="20260223183000 +0000" channel="trt-2">
-    <title lang="tr">Hayat Sanat</title>
-    <desc lang="tr">Hafta içi her gün yayınlanan programda, kültür ve sanat haberleri; konserler, sergiler, festivaller, son çıkan kitaplar, tiyatro oyunları, fuarlar, gösterime giren filmler ekrana geliyor.</desc>
+    <title lang="tr">Sûret</title>
+    <desc lang="tr">Sûret programında fotoğrafçılık açısından bir belge niteliği taşıyan tarihi fotoğraflar ve albümler üzerinden zamanın ruhunu ve dokusunu hissediyor ve dönemin şartlarını anlıyoruz.</desc>
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
   <programme start="20260223183000 +0000" stop="20260223204500 +0000" channel="trt-2">
@@ -21132,7 +21057,7 @@ Peter Lee, düzen, birlik ve askeri hakimiyet yaratan güçlü Tokugawa Şogunlu
   </programme>
   <programme start="20260223204500 +0000" stop="20260223213000 +0000" channel="trt-2">
     <title lang="tr">Kilit Taşı</title>
-    <desc lang="tr">Osmanlı modernleşmesinin mimari eksen üzerinden ele alındığı Kilit Taşı programında bu hafta Süleyman Seyfi Öğün ve Ali Günvar, 1789&#x27;daki Fransız İhtilali&#x27;ni Avrupa tarihi ve Osmanlı İmparatorluğu modernleşmesi açısından belirleyici bir kırılma olarak ele alıyor.</desc>
+    <desc lang="tr">Ali Günvar ve Süleyman Seyfi Öğün&#x27;ün birlikte sunduğu Kilit Taşı&#x27;nda, Osmanlı modernleşmesi mimari üzerinden okunuyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260223004500 +0000" stop="20260223021500 +0000" channel="trt-3">
@@ -23635,7 +23560,8 @@ Ji bo hûn hemû geşedanan bi zimanê xwe bişopînin, her roj di saet 19:00&#x
   </programme>
   <programme start="20260223190000 +0000" stop="20260223203000 +0000" channel="trt-kurdi">
     <title lang="tr">Kasidebej (Qesîdebêj)</title>
-    <category lang="tr">Diğer</category>
+    <desc lang="tr">Birbirinden güzel kasideler ekrana taşınıyor.</desc>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260223203000 +0000" stop="20260223213000 +0000" channel="trt-kurdi">
     <title lang="tr">Hz. Yusuf (Hz. Yusuf)</title>
@@ -23987,63 +23913,59 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
 ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x27;nda...</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260223115000 +0000" stop="20260223124000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223115000 +0000" stop="20260223115500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Nedir, Nasıl Oynanır?</title>
+    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260223115500 +0000" stop="20260223140000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">ATP 500 Dubai Açık</title>
+    <desc lang="tr">ATP 500 Dubai Açık Tenis Turnuvası ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260223140000 +0000" stop="20260223145000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Paralimpik Spor</title>
     <desc lang="tr">Paralimpik Oyunlarının değerlendirmeleri ekranlarınıza geliyor</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260223124000 +0000" stop="20260223134500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223145000 +0000" stop="20260223145500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Kadraj</title>
+    <desc lang="tr">Spor tarihine damga vurmuş isimler, olaylar ve anlar ele alınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260223145500 +0000" stop="20260223170000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">ATP 500 Dubai Açık</title>
+    <desc lang="tr">ATP 500 Dubai Açık Tenis Turnuvası ekrana geliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223180500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Toprak Razgatlıoğlu-Elturko</title>
     <desc lang="tr">Türk motosiklet yarışçısı Toprak Razgatlıoğlu&#x27;nun yaşamı ve spordaki başarıları...</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260223134500 +0000" stop="20260223141000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223180500 +0000" stop="20260223183000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Albümdeki Yıldızlar</title>
     <desc lang="tr">Önemli başarılara imza atmış sporcularla sohbet ediliyor. Ayrıca onların çocukluklarından bugüne yaşamlarını fotoğraf kareleri eşliğinde öğreniyoruz.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223141000 +0000" stop="20260223143000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223183000 +0000" stop="20260223185000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Oyunu Başlatanlar</title>
     <desc lang="tr">Farklı spor branşlarında başarılara imza atmış kadın hakemleri yakından tanıyoruz.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260223143000 +0000" stop="20260223145000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223185000 +0000" stop="20260223191000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sporun Ritmi</title>
     <desc lang="tr">Farklı spor branşları tanıtılıyor ve bu sporların uzmanlarıyla sohbetler gerçekleştiriliyor. Ayrıca sağlıklı beslenmeye ve sağlığa dair önemli bilgilere de yer veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260223145000 +0000" stop="20260223150000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">6.adam</title>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223150000 +0000" stop="20260223151500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Yurt içi ve yurt dışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260223151500 +0000" stop="20260223155000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Pedalın Senfonisi</title>
-    <desc lang="tr">Bisiklet sporunun ruhuna, hikayelerine ve bisiklete gönül vermiş kişilerle yapılan röportajlara yer veriliyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223155000 +0000" stop="20260223173000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Nilüfer B. - SKKP Handball B.</title>
-    <desc lang="tr">Hentbol EHF Cup Son 16 Maçı</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223173000 +0000" stop="20260223181500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260223191000 +0000" stop="20260223195500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">2026 Kış Olimpiyat Oyunları Kapanış Töreni</title>
     <desc lang="tr">İtalya&#x27;nın Milano ve Cortina kentlerinde yapılan 2026 Kış Olimpiyat Oyunları kapanış töreni ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260223181500 +0000" stop="20260223201500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Gebze B. - Galatasaray H.</title>
-    <desc lang="tr">2025 - 2026 Sezonu SMS Grup Efeler Ligi</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223201500 +0000" stop="20260223211000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Paralimpik Spor</title>
-    <desc lang="tr">Paralimpik Oyunlarının değerlendirmeleri ekranlarınıza geliyor</desc>
+  <programme start="20260223195500 +0000" stop="20260223212500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Nilüfer B. - SKKP Handball B.</title>
+    <desc lang="tr">Hentbol EHF Cup Son 16 Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260223001500 +0000" stop="20260223005500 +0000" channel="trt-turk">
@@ -24492,14 +24414,14 @@ Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyh
     <desc lang="tr">Program, bu yıl da Ramazan ayının manevi havasına ayrı bir değer katıp izleyicilere Kur&#x27;an ziyafeti yaşatıyor.</desc>
     <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
-  <programme start="20260223144500 +0000" stop="20260223160000 +0000" channel="trt1">
+  <programme start="20260223144500 +0000" stop="20260223161000 +0000" channel="trt1">
     <title lang="tr">Ramazan Sevinci</title>
     <desc lang="tr">Mustafa Demirci&#x27;nin sunumuyla izleyiciyle buluşacak Ramazan Sevinci, başı rahmet, ortası mağfiret, sonu kurtuluş olan mübarek ayın bereketini ekranlara taşıyor.
 
 Kardeşlik köprülerinin kurulduğu, komşuluk bağlarının güçlendiği ve yardımlaşmanın anlam kazandığı Ramazan günlerinde Ramazan Sevinci, manevi atmosferi paylaşmak ve bu kutlu ayın sevincine ortak olmak isteyenleri ekran başına davet ediyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260223160000 +0000" stop="20260223165500 +0000" channel="trt1">
+  <programme start="20260223161000 +0000" stop="20260223165500 +0000" channel="trt1">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
@@ -25806,56 +25728,66 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260223124500 +0000" stop="20260223130000 +0000" channel="tvnet">
-    <title lang="tr">Spor</title>
-    <desc lang="tr">Spor tutkunları için hazırlanan program, Türkiye ve dünyadaki önemli karşılaşmaları, turnuvaları ve gelişmeleri ekrana taşır. Maç analizleri, skorlar ve uzman yorumları izleyiciye detaylı biçimde aktarılır. Program, spor gündemini güncel ve anlaşılır bir şekilde sunar.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223130000 +0000" stop="20260223134500 +0000" channel="tvnet">
-    <title lang="tr">Haber Merkezi</title>
-    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260223134500 +0000" stop="20260223140000 +0000" channel="tvnet">
-    <title lang="tr">Günden Kareler</title>
-    <desc lang="tr">Hayat akıp giderken, her fotoğraf bir hatıra ve hikaye taşır. Günden Kareler, bu anları ekrana taşıyarak izleyiciye duygusal ve samimi bir deneyim sunar. Fotoğraflar üzerinden insanların yaşadığı mutluluk, şaşkınlık ve sürprizler ekranlara taşınır ve izleyici anın içine dahil olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260223140000 +0000" stop="20260223144500 +0000" channel="tvnet">
-    <title lang="tr">Haber Merkezi</title>
-    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260223144500 +0000" stop="20260223150000 +0000" channel="tvnet">
-    <title lang="tr">Spor</title>
-    <desc lang="tr">Spor tutkunları için hazırlanan program, Türkiye ve dünyadaki önemli karşılaşmaları, turnuvaları ve gelişmeleri ekrana taşır. Maç analizleri, skorlar ve uzman yorumları izleyiciye detaylı biçimde aktarılır. Program, spor gündemini güncel ve anlaşılır bir şekilde sunar.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260223150000 +0000" stop="20260223154500 +0000" channel="tvnet">
-    <title lang="tr">Haber Merkezi</title>
-    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260223154500 +0000" stop="20260223160000 +0000" channel="tvnet">
     <title lang="tr">Editör Anlatıyor</title>
     <desc lang="tr">Editör Anlatıyor, güncel olayları, merak edilen konuları ve gündem başlıklarını genç izleyici için anlaşılır ve keyifli bir şekilde ele alıyor. Programda haberlerin perde arkası, ilginç bilgiler ve uzman yorumlarıyla sunuluyor; izleyiciler hem bilgilendiriliyor hem de eğlenceli bir deneyim yaşıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260223160000 +0000" stop="20260223170000 +0000" channel="tvnet">
-    <title lang="tr">19. Saat</title>
-    <desc lang="tr">19. Saat Ana Haber, izleyiciyi günün tüm önemli haberleri ve spor olaylarıyla buluşturur. Cüneyt Özdemir&#x27;in sunumuyla akıcı bir anlatım ve farklı dil kullanımıyla haberler aktarılır. Hafta içi her gün saat 19.00&#x27;da ekranlarda yayınlanan program, gündemin öne çıkan gelişmelerini anlaşılır biçimde sunar ve izleyicinin habere dair merakını giderir.</desc>
+  <programme start="20260223130000 +0000" stop="20260223132000 +0000" channel="tvnet">
+    <title lang="tr">Haber Merkezi</title>
+    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223132000 +0000" stop="20260223134500 +0000" channel="tvnet">
+    <title lang="tr">40 Öncü</title>
+    <desc lang="tr">Bugün 40 Öncü&#x27;de, farklı sektörlerden öncü isimler bir araya geliyor. Güncel konuların ve önemli gündem maddelerinin detaylı analizleri, uzman görüşleriyle izleyiciye aktarılıyor. Program, düşündüren sohbetleri ve bilgilendirici içerikleriyle tartışma kültürünü ekrana taşıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260223134500 +0000" stop="20260223140000 +0000" channel="tvnet">
+    <title lang="tr">40 Öncü</title>
+    <desc lang="tr">Bugün 40 Öncü&#x27;de, farklı sektörlerden öncü isimler bir araya geliyor. Güncel konuların ve önemli gündem maddelerinin detaylı analizleri, uzman görüşleriyle izleyiciye aktarılıyor. Program, düşündüren sohbetleri ve bilgilendirici içerikleriyle tartışma kültürünü ekrana taşıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260223140000 +0000" stop="20260223143000 +0000" channel="tvnet">
+    <title lang="tr">Haber Merkezi</title>
+    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223143000 +0000" stop="20260223150000 +0000" channel="tvnet">
+    <title lang="tr">Bir Başka Ramazan</title>
+    <desc lang="tr">Bugün Bir Başka Ramazan&#x27;da, ramazan ayının özel ritüelleri, kültürel gelenekler ve insan hikâyeleri ekrana geliyor. Program, izleyiciye hem bilgilendirici hem de sıcak bir atmosfer sunuyor, ramazan coşkusunu ekran başına taşıyor. Röportajlar ve renkli içeriklerle ayın ruhu hissediliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223150000 +0000" stop="20260223151000 +0000" channel="tvnet">
+    <title lang="tr">Haber Merkezi</title>
+    <desc lang="tr">Hafta içi her gün, izleyiciler Haber Merkezi ile günün tüm önemli gelişmelerini takip eder. Sıcak başlıklar, canlı bağlantılar ve uzman konuk yorumlarıyla haberler detaylı biçimde aktarılır. Program, gündemin önemli noktalarını anlaşılır ve tarafsız biçimde sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223151000 +0000" stop="20260223154000 +0000" channel="tvnet">
+    <title lang="tr">Bir Başka Ramazan</title>
+    <desc lang="tr">Bugün Bir Başka Ramazan&#x27;da, ramazan ayının özel ritüelleri, kültürel gelenekler ve insan hikâyeleri ekrana geliyor. Program, izleyiciye hem bilgilendirici hem de sıcak bir atmosfer sunuyor, ramazan coşkusunu ekran başına taşıyor. Röportajlar ve renkli içeriklerle ayın ruhu hissediliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223154000 +0000" stop="20260223163000 +0000" channel="tvnet">
+    <title lang="tr">Bir Başka Ramazan (AKŞAM EZANI: 18:54)</title>
+    <desc lang="tr">Bugün Bir Başka Ramazan&#x27;da, ramazan ayının özel ritüelleri, kültürel gelenekler ve insan hikâyeleri ekrana geliyor. Program, izleyiciye hem bilgilendirici hem de sıcak bir atmosfer sunuyor, ramazan coşkusunu ekran başına taşıyor. Röportajlar ve renkli içeriklerle ayın ruhu hissediliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260223163000 +0000" stop="20260223170000 +0000" channel="tvnet">
+    <title lang="tr">Hayati Beyitler</title>
+    <desc lang="tr">Klasik şiirin derinlikli dili, &quot;Hayati Beyitler&quot;de bugünün meseleleriyle birlikte ele alınıyor. Programda seçilen beyitler yalnızca edebi yönüyle değil, taşıdığı düşünce ve hayat tecrübesiyle de değerlendiriliyor. Kültür tarihimizden süzülen dizeler, sade ve anlaşılır bir anlatımla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260223170000 +0000" stop="20260223173000 +0000" channel="tvnet">
-    <title lang="tr">19. Saat</title>
-    <desc lang="tr">19. Saat Ana Haber, izleyiciyi günün tüm önemli haberleri ve spor olaylarıyla buluşturur. Cüneyt Özdemir&#x27;in sunumuyla akıcı bir anlatım ve farklı dil kullanımıyla haberler aktarılır. Hafta içi her gün saat 19.00&#x27;da ekranlarda yayınlanan program, gündemin öne çıkan gelişmelerini anlaşılır biçimde sunar ve izleyicinin habere dair merakını giderir.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün sıcak gelişmeleri Türkiye ve dünyadan başlıklarla Ana Haber&#x27;de aktarılır. Siyaset, ekonomi, toplum ve kültür gündemi; canlı bağlantılar ve sahadan haberlerle ele alınır. Gelişmeler bağlamı ve arka planıyla değerlendirilir. Amaç, izleyiciye doğru ve güvenilir bilgiyi zamanında ulaştırmaktır.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260223173000 +0000" stop="20260223180000 +0000" channel="tvnet">
-    <title lang="tr">Net Bakış</title>
-    <desc lang="tr">Türkiye ve dünyanın konuştuğu meselelere objektif yaklaşımlar, somut veriler ışığında sağlam temelli yorumlar ve neden-sonuç bağlamı. Serhat İbrahimoğlu moderatörlüğünde Mete Yarar, Nedim Şener ve Ali Saydam&#x27;ın yorumlarıyla NET BAKIŞ her pazartesi saat 20.45&#x27;te TVNET&#x27;te.</desc>
-    <category lang="tr">Tartışma</category>
+  <programme start="20260223173000 +0000" stop="20260223174500 +0000" channel="tvnet">
+    <title lang="tr">Belgesel Kuşağı</title>
+    <desc lang="tr">Belgesel Kuşağı, araştırmacı gazeteciliği görsel hikaye anlatımıyla bir araya getiriyor. Her bölümde gerçek olaylar derinlemesine ele alınırken, izleyiciye dünyayı, insanı ve yaşananları daha iyi anlama imkanı sunuluyor. Akıcı anlatımıyla merak uyandıran yapımlar ekrana güçlü bir perspektif taşıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260223180000 +0000" stop="20260223183000 +0000" channel="tvnet">
+  <programme start="20260223174500 +0000" stop="20260223183000 +0000" channel="tvnet">
     <title lang="tr">Net Bakış</title>
     <desc lang="tr">Türkiye ve dünyanın konuştuğu meselelere objektif yaklaşımlar, somut veriler ışığında sağlam temelli yorumlar ve neden-sonuç bağlamı. Serhat İbrahimoğlu moderatörlüğünde Mete Yarar, Nedim Şener ve Ali Saydam&#x27;ın yorumlarıyla NET BAKIŞ her pazartesi saat 20.45&#x27;te TVNET&#x27;te.</desc>
     <category lang="tr">Tartışma</category>
@@ -25865,15 +25797,15 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <desc lang="tr">Türkiye ve dünyanın konuştuğu meselelere objektif yaklaşımlar, somut veriler ışığında sağlam temelli yorumlar ve neden-sonuç bağlamı. Serhat İbrahimoğlu moderatörlüğünde Mete Yarar, Nedim Şener ve Ali Saydam&#x27;ın yorumlarıyla NET BAKIŞ her pazartesi saat 20.45&#x27;te TVNET&#x27;te.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260223190000 +0000" stop="20260223195000 +0000" channel="tvnet">
+  <programme start="20260223190000 +0000" stop="20260223193000 +0000" channel="tvnet">
     <title lang="tr">Net Bakış</title>
     <desc lang="tr">Türkiye ve dünyanın konuştuğu meselelere objektif yaklaşımlar, somut veriler ışığında sağlam temelli yorumlar ve neden-sonuç bağlamı. Serhat İbrahimoğlu moderatörlüğünde Mete Yarar, Nedim Şener ve Ali Saydam&#x27;ın yorumlarıyla NET BAKIŞ her pazartesi saat 20.45&#x27;te TVNET&#x27;te.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260223195000 +0000" stop="20260223200000 +0000" channel="tvnet">
-    <title lang="tr">Editör Anlatıyor</title>
-    <desc lang="tr">Editör Anlatıyor, güncel olayları, merak edilen konuları ve gündem başlıklarını genç izleyici için anlaşılır ve keyifli bir şekilde ele alıyor. Programda haberlerin perde arkası, ilginç bilgiler ve uzman yorumlarıyla sunuluyor; izleyiciler hem bilgilendiriliyor hem de eğlenceli bir deneyim yaşıyor.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260223193000 +0000" stop="20260223200000 +0000" channel="tvnet">
+    <title lang="tr">Net Bakış</title>
+    <desc lang="tr">Türkiye ve dünyanın konuştuğu meselelere objektif yaklaşımlar, somut veriler ışığında sağlam temelli yorumlar ve neden-sonuç bağlamı. Serhat İbrahimoğlu moderatörlüğünde Mete Yarar, Nedim Şener ve Ali Saydam&#x27;ın yorumlarıyla NET BAKIŞ her pazartesi saat 20.45&#x27;te TVNET&#x27;te.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260223200000 +0000" stop="20260223210000 +0000" channel="tvnet">
     <title lang="tr">Günün Ardından</title>
@@ -26070,10 +26002,10 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <desc lang="tr">Rus edebiyatının başyapıtı Dostoyevski&#x27;nin derin dünyasına adım atın. Dram ve gerilimle dolu bu muhteşem yapım, suç ve insan ruhunun karanlık köşelerini keşfediyor. Her karakterin içsel çatışmalarına tanık olurken, ruhsal bir yolculuğa çıkmaya hazırlanın. &quot;Dostoyevski&quot; dizisi, her bölümüyle sizi ekran başına kilitleyecek.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260223160000 +0000" stop="20260223210000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı&#x27;nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye&#x27;den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260223200000 +0000" stop="20260223210000 +0000" channel="ulusal-kanal">
+    <title lang="tr">Kısa Film</title>
+    <desc lang="tr">Kısa Film ile kısa filmin gücüne tanık olun. Farklı türlerden seçilen yapımlar, aşk acısı, yalnızlık, toplumsal eleştiri, mizah, deneysel anlatımlar detaylıca ele alınıyor. Yönetmenlerin kısa sürede yarattığı yoğun duygu, özgün kurgu teknikleri, festival başarıları samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260223000000 +0000" stop="20260223003000 +0000" channel="vav-tv">
     <title lang="tr">Nihat Hatipoğlu ile Resulullah&#x27;ın İzinde</title>
