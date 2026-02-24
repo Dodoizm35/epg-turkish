@@ -489,6 +489,10 @@
     <display-name>TMB TV</display-name>
   </channel>
 
+  <channel id="tivi6">
+    <display-name>TİVİ6</display-name>
+  </channel>
+
   <channel id="tyt-turk">
     <display-name>TYT TÜRK</display-name>
   </channel>
@@ -10720,7 +10724,7 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224131000 +0000" stop="20260224131500 +0000" channel="english-club-tv">
     <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
+    <desc lang="tr">Easy Talk is an educational English program designed to make learning simple and enjoyable.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224131500 +0000" stop="20260224132000 +0000" channel="english-club-tv">
@@ -10750,7 +10754,7 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224140000 +0000" stop="20260224140500 +0000" channel="english-club-tv">
     <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
+    <desc lang="tr">By exploring frequent mistakes in English, the show teaches correct usage in practical and relatable contexts.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224140500 +0000" stop="20260224141500 +0000" channel="english-club-tv">
@@ -10760,7 +10764,7 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224141500 +0000" stop="20260224142500 +0000" channel="english-club-tv">
     <title lang="tr">English United</title>
-    <desc lang="tr">American teacher and blogger Luke Priddy guides viewers through American English while decoding daily language habits and cultural codes. From slang to social norms, he connects how people speak with how life, media, and values in the United States shape communication.</desc>
+    <desc lang="tr">English United teaches English using interactive lessons and practical examples. Episodes focus on vocabulary, sentence structures, and common expressions, allowing viewers to practice speaking, listening, and pronunciation while building confidence in daily communication.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224142500 +0000" stop="20260224143500 +0000" channel="english-club-tv">
@@ -10770,7 +10774,7 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224143500 +0000" stop="20260224150000 +0000" channel="english-club-tv">
     <title lang="tr">English In Focus: Idiomatic expressions with the noun &quot;Plate&quot;</title>
-    <desc lang="tr">English Club TV is a perfect chance to learn English or to improve the skills you already have.</desc>
+    <desc lang="tr">English In Focus guides viewers through practical English learning with an emphasis on vocabulary, grammar, and sentence structures.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224150000 +0000" stop="20260224151000 +0000" channel="english-club-tv">
@@ -10795,12 +10799,12 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224153500 +0000" stop="20260224154000 +0000" channel="english-club-tv">
     <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
+    <desc lang="tr">Designed for urgent and everyday situations, English 911 helps viewers learn essential English phrases, vocabulary, and communication strategies.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224154000 +0000" stop="20260224154500 +0000" channel="english-club-tv">
     <title lang="tr">English 911</title>
-    <desc lang="tr">English 911 on English Club TV offers urgent assistance for Intermediate learners in learning English.</desc>
+    <desc lang="tr">Designed for urgent and everyday situations, English 911 helps viewers learn essential English phrases, vocabulary, and communication strategies.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224154500 +0000" stop="20260224160000 +0000" channel="english-club-tv">
@@ -10810,67 +10814,67 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224160000 +0000" stop="20260224160500 +0000" channel="english-club-tv">
     <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
+    <desc lang="tr">By exploring frequent mistakes in English, the show teaches correct usage in practical and relatable contexts.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224160500 +0000" stop="20260224161000 +0000" channel="english-club-tv">
     <title lang="tr">Wrong&amp;right</title>
-    <desc lang="tr">Wrong&amp;Right _ is a series of short animated videos that will show you the most common mistakes in English grammar, phonetics and vocabulary and help you avoid them in your own speech.</desc>
+    <desc lang="tr">By exploring frequent mistakes in English, the show teaches correct usage in practical and relatable contexts.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224161000 +0000" stop="20260224162000 +0000" channel="english-club-tv">
     <title lang="tr">City Grammar: Regent&#x27;s Canal</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
+    <desc lang="tr">Focusing on English grammar in real-life urban contexts, the program uses city scenarios to demonstrate sentence structures, tenses, and common expressions.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224162000 +0000" stop="20260224163000 +0000" channel="english-club-tv">
     <title lang="tr">City Grammar: Camden Market</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
+    <desc lang="tr">Focusing on English grammar in real-life urban contexts, the program uses city scenarios to demonstrate sentence structures, tenses, and common expressions.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224163000 +0000" stop="20260224164000 +0000" channel="english-club-tv">
     <title lang="tr">City Grammar: Pirate Castle</title>
-    <desc lang="tr">English Club TV is a unique educational channel, your chance to learn English and to improve the skills you already have.</desc>
+    <desc lang="tr">Focusing on English grammar in real-life urban contexts, the program uses city scenarios to demonstrate sentence structures, tenses, and common expressions.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224164000 +0000" stop="20260224170000 +0000" channel="english-club-tv">
     <title lang="tr">English Up: London art</title>
-    <desc lang="tr">English Club TV is an amazing chance to learn English and to boost the knowledge you already have.</desc>
+    <desc lang="tr">English Up guides viewers through gradual English learning using practical examples, exercises, and real-life contexts.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224170000 +0000" stop="20260224171000 +0000" channel="english-club-tv">
     <title lang="tr">Simple Phrases</title>
-    <desc lang="tr">Simple Phrases _ a series of animated episodes aimed at improving spoken English skills based on situational dialogues.</desc>
+    <desc lang="tr">Simple Phrases helps viewers master English expressions used in daily life, work, travel, and social interactions.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224171000 +0000" stop="20260224171500 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224171500 +0000" stop="20260224172000 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224172000 +0000" stop="20260224172500 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224172500 +0000" stop="20260224173000 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224173000 +0000" stop="20260224173500 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224173500 +0000" stop="20260224174000 +0000" channel="english-club-tv">
     <title lang="tr">Life Around</title>
-    <desc lang="tr">Life Around _ a series of animated films that will help you learn and memorize basic collocations and phrases for communicating on everyday topics and describing everyday situations.</desc>
+    <desc lang="tr">Life Around takes viewers on a journey through daily life, cultural events, and social situations while teaching English in a practical and enjoyable way.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224174000 +0000" stop="20260224174500 +0000" channel="english-club-tv">
@@ -10895,22 +10899,22 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
   </programme>
   <programme start="20260224180000 +0000" stop="20260224180500 +0000" channel="english-club-tv">
     <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
+    <desc lang="tr">Coffee Chat is an educational and enjoyable program designed to improve English skills through real life situations and meaningful conversations.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224180500 +0000" stop="20260224181000 +0000" channel="english-club-tv">
     <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
+    <desc lang="tr">Coffee Chat is an educational and enjoyable program designed to improve English skills through real life situations and meaningful conversations.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224181000 +0000" stop="20260224181500 +0000" channel="english-club-tv">
     <title lang="tr">Coffee Chat</title>
-    <desc lang="tr">Coffee Chat _ is a series of animated films where you can learn a huge amount of thematic vocabulary with the characters having light conversations on various topics over a cup of coffee.</desc>
+    <desc lang="tr">Coffee Chat is an educational and enjoyable program designed to improve English skills through real life situations and meaningful conversations.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224181500 +0000" stop="20260224182000 +0000" channel="english-club-tv">
     <title lang="tr">Easy Talk</title>
-    <desc lang="tr">Easy Talk _ a series of animated films organized into several thematic blocks, for those who want to improve their spoken English and learn many useful expressions and vocabulary units.</desc>
+    <desc lang="tr">Easy Talk is an educational English program designed to make learning simple and enjoyable.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260224182000 +0000" stop="20260224183500 +0000" channel="english-club-tv">
@@ -13468,15 +13472,15 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <title lang="tr">Medeniyet Ufku</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260224160000 +0000" stop="20260224165200 +0000" channel="gzt-tv">
+  <programme start="20260224160000 +0000" stop="20260224165000 +0000" channel="gzt-tv">
     <title lang="tr">Faraway Village</title>
     <desc lang="tr">Azerbaycan&#x27;ın Kafkas Dağları&#x27;nda yer alan uzak bir köyde yaşayan bir ailenin günlük yaşamını ve mutfak kültürünü belgeliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260224165200 +0000" stop="20260224173300 +0000" channel="gzt-tv">
-    <title lang="tr">Solo Dağcı</title>
-    <desc lang="tr">Ben Çağan Çelik, doğa yürüyüşü ve dağcılık alanlarında diyalogsuz ve rahatlatıcı içerikler sunuyor.</desc>
-    <category lang="tr">Gezi &amp; Seyahat</category>
+  <programme start="20260224165000 +0000" stop="20260224173300 +0000" channel="gzt-tv">
+    <title lang="tr">Alfa</title>
+    <desc lang="tr">Alfa, ilham veren ve bilgi birikimleriyle fark oluşturan alfa isimlerle derinlemesine sohbetler gerçekleştiriyoruz.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224173300 +0000" stop="20260224174900 +0000" channel="gzt-tv">
     <title lang="tr">Solo Dağcı</title>
@@ -13499,6 +13503,10 @@ Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden 
     <title lang="tr">Rotasız Seyyah</title>
     <desc lang="tr">Rotasız Seyyah, dünya genelinde farklı yerleri gezip kültürleri, yemekleri ve doğal güzellikleri tanıtıyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
+  </programme>
+  <programme start="20260224202200 +0000" stop="20260224210300 +0000" channel="gzt-tv">
+    <title lang="tr">Crazy Bushcraft</title>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224030000 +0000" stop="20260224050000 +0000" channel="haber-global">
     <title lang="tr">Türkiye&#x27;de Sabah</title>
@@ -18274,13 +18282,13 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260224200000 +0000" stop="20260224205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260224205900 +0000" stop="20260225040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260224000000 +0000" stop="20260224023000 +0000" channel="s-sport">
     <title lang="tr">San Antonio Spurs - Detroit Pistons</title>
@@ -20249,6 +20257,86 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
     <title lang="tr">Gürkan Hacır ile Taksim Meydanı</title>
     <desc lang="tr">Türkiye&#x27;nin gündemini belirleyen siyasi, toplumsal ve güncel gelişmeler bu programda masaya yatırılır. Uzman konuklar, çarpıcı yorumlar ve derinlemesine analizlerle izleyiciye çok yönlü bir perspektif sunulur.</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260224005300 +0000" stop="20260224021500 +0000" channel="tivi6">
+    <title lang="tr">Çöller 2</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224021500 +0000" stop="20260224031500 +0000" channel="tivi6">
+    <title lang="tr">Sahur Bereketi</title>
+    <desc lang="tr">LÜFTİ DOĞAN İLE SAHUR BEREKETİ PROGRAMI</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260224031500 +0000" stop="20260224042300 +0000" channel="tivi6">
+    <title lang="tr">Hatim</title>
+    <desc lang="tr">HATİM 5.KISIM</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260224042300 +0000" stop="20260224050000 +0000" channel="tivi6">
+    <title lang="tr">Afrikada Serengeti</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224050000 +0000" stop="20260224063000 +0000" channel="tivi6">
+    <title lang="tr">Osmosis</title>
+    <desc lang="tr">ÇOCUK KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224063000 +0000" stop="20260224090000 +0000" channel="tivi6">
+    <title lang="tr">Doğruya Doğru</title>
+    <desc lang="tr">ESRA BALAMİR VE BİRCAN BALİ İLE DOĞRUYA DOĞRU</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224090000 +0000" stop="20260224100000 +0000" channel="tivi6">
+    <title lang="tr">Vahşi Yaşam Rusya</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224100000 +0000" stop="20260224105200 +0000" channel="tivi6">
+    <title lang="tr">Bizimkiler</title>
+    <desc lang="tr">209.BÖLÜM</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260224105200 +0000" stop="20260224120000 +0000" channel="tivi6">
+    <title lang="tr">Kod Adı Temizlikçi</title>
+    <desc lang="tr">Jake Rogerler otelde çalışan sıradan bir hizmetçidir, ama unutkanlığı sayesinde kendini CIA için çalışan bir ajan olarak görmektedir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224120000 +0000" stop="20260224140000 +0000" channel="tivi6">
+    <title lang="tr">Berna Tan İle El Ele</title>
+    <desc lang="tr">BERNA TAN İLE EL ELE PROGRAMI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224140000 +0000" stop="20260224150000 +0000" channel="tivi6">
+    <title lang="tr">Son Canavarlar</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260224150000 +0000" stop="20260224160000 +0000" channel="tivi6">
+    <title lang="tr">İftar Bereketi</title>
+    <desc lang="tr">MUHAMMED OCAKOĞLU İLE İFTAR BEREKETİ PROGRAMI</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260224160000 +0000" stop="20260224170000 +0000" channel="tivi6">
+    <title lang="tr">Kuraklığa Göğüs Germek</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260224170000 +0000" stop="20260224180000 +0000" channel="tivi6">
+    <title lang="tr">Bizimkiler</title>
+    <desc lang="tr">210. BÖLÜM</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260224180000 +0000" stop="20260224200000 +0000" channel="tivi6">
+    <title lang="tr">Dosya Altı</title>
+    <desc lang="tr">YAVUZ KILIÇ İLE DOSYA ALTI PROGRAMI</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260224200000 +0000" stop="20260224210000 +0000" channel="tivi6">
+    <title lang="tr">Keskin Dişli Avcı</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260224001000 +0000" stop="20260224005500 +0000" channel="tlc">
     <title lang="tr">Gerçek Mahkumiyet</title>
