@@ -7100,7 +7100,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260225113000 +0000" stop="20260225120000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Made in Germany: The Business Magazine</title>
-    <desc lang="tr">Featuring analysis from experts and interviews with aspiring entrepreneurs, Made in Germany explores the diverse business sector in Germany, revealing how Europe&#x27;s strongest economy affects business across the world. The team of determined reporters travel across Germany and Europe to meet individuals driving the economy and changing the way we work.</desc>
+    <desc lang="tr">Featuring analysis from experts and interviews with aspiring entrepreneurs, Made in Germany explores the diverse business sector in Germany, revealing how Europe&#x27;s strongest economy affects business across the world.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260225120000 +0000" stop="20260225121500 +0000" channel="deutsche-welle-english">
@@ -7140,7 +7140,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260225143000 +0000" stop="20260225150000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Made in Germany: The Business Magazine</title>
-    <desc lang="tr">Featuring analysis from experts and interviews with aspiring entrepreneurs, Made in Germany explores the diverse business sector in Germany, revealing how Europe&#x27;s strongest economy affects business across the world. The team of determined reporters travel across Germany and Europe to meet individuals driving the economy and changing the way we work.</desc>
+    <desc lang="tr">Featuring analysis from experts and interviews with aspiring entrepreneurs, Made in Germany explores the diverse business sector in Germany, revealing how Europe&#x27;s strongest economy affects business across the world.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260225150000 +0000" stop="20260225151500 +0000" channel="deutsche-welle-english">
@@ -7180,7 +7180,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260225173000 +0000" stop="20260225180000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Close up: The Current Affairs Documentary</title>
-    <desc lang="tr">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
+    <desc lang="tr">The survivors of the bar fire in the Swiss mountain resort and their families are desperately trying to come to terms with the tragedy. Could the New Year&#x27;s blaze in Crans-Montana that claimed 41 lives and left 116 people injured have been prevented?</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260225180000 +0000" stop="20260225183000 +0000" channel="deutsche-welle-english">
@@ -7836,6 +7836,9 @@ Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin
   </programme>
   <programme start="20260225171000 +0000" stop="20260225174000 +0000" channel="diyanet-tv">
     <title lang="tr">Bir Zamanlar Ramazan</title>
+    <desc lang="tr">Anadolu&#x27;da Ramazan 3 ayların gelişiyle başlar ve şehirler bütün benliğiyle Ramazan&#x27;a hazırlanır.
+İlk iftar, ilk teravih, ilk sahur; Ramazanın 15&#x27;i, Kadir Gecesi derken bayramla taçlanır Ramazan ayı! 
+Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı, o şehri bilenlerin anlatımıyla  ekranlarda.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260225174000 +0000" stop="20260225180000 +0000" channel="diyanet-tv">
@@ -7855,6 +7858,9 @@ Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin
   </programme>
   <programme start="20260225204500 +0000" stop="20260225210000 +0000" channel="diyanet-tv">
     <title lang="tr">Mavera</title>
+    <desc lang="tr">Tarihteki ilk Alperenlerin hikayesi Mavera, Yusuf Hemedani tarafından Bağdat’a gönderilen Hace Ahmed Yesevi’nin o dönem adeta küçük bir dünya olan Bağdat’ta verdiği dirlik ve beraberliğin mücadelesini konu alıyor.
+
+Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleşiyor. Bir tarafta onu Bağdat’tan göndermek isteyenlerin kurduğu fitne mahfili; diğer tarafta ise Hâce Ahmed’in “Alp” bileğiyle koruyup, “Eren” yüreğiyle kucaklayacağı insanlar...</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260225000500 +0000" stop="20260225005000 +0000" channel="dmax">
@@ -13726,7 +13732,7 @@ Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin
     <title lang="tr">Pangvoss</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260225205300 +0000" stop="20260226205900 +0000" channel="gzt-tv">
+  <programme start="20260225205300 +0000" stop="20260225210000 +0000" channel="gzt-tv">
     <title lang="tr">Food Tour</title>
     <category lang="tr">Belgesel</category>
   </programme>
@@ -15663,10 +15669,12 @@ Enerjik ve meraklı gelincik Weasy, karşısına çıkan iki minik ördeği hiç
   </programme>
   <programme start="20260225173000 +0000" stop="20260225174500 +0000" channel="minika-cocuk">
     <title lang="tr">Kratt Kardeşler</title>
+    <desc lang="tr">Maceraperest kardeşler Chris ve Martin yine iş başında. Dönüşüm giysilerini giyince istedikleri hayvanın gücüne sahip oluyorlar. Kratt kardeşlerin heyecan dolu maceralarını kaçırmayın...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260225174500 +0000" stop="20260225180000 +0000" channel="minika-cocuk">
     <title lang="tr">Kratt Kardeşler</title>
+    <desc lang="tr">Maceraperest kardeşler Chris ve Martin yine iş başında. Dönüşüm giysilerini giyince istedikleri hayvanın gücüne sahip oluyorlar. Kratt kardeşlerin heyecan dolu maceralarını kaçırmayın...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260225180000 +0000" stop="20260225180500 +0000" channel="minika-cocuk">
@@ -17743,7 +17751,8 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
   </programme>
   <programme start="20260225170000 +0000" stop="20260225204500 +0000" channel="now">
     <title lang="tr">Yeraltı</title>
-    <desc lang="tr">Derin devlet tarafından mafyanın içine yerleştirilen bir adamın, narkomafya ve İstanbul kartelinin ortasında şekillenen soluksuz macerası ve aşkla sınavı.</desc>
+    <desc lang="tr">Bozo&#x27;nun Haydar Ali için kurşunun önüne atlaması, Yeraltı&#x27;nda ezber bozar. Kurşun hedefini şaşırmış olabilir ama hesap henüz kapanmamıştır. Caner yakalanır, Zafer çağrılır ve herkesin önünde tek bir soru asılı kalır: Bu iş burada mı bitecek, yoksa gerçek savaş şimdi mi başlayacak?
+Bozo&#x27;nun verdiği karar kanı durdurur gibi görünse de, bazıları bu sakinliği zayıflık olarak okumaya hazırdır. Haydar Ali, kendisi için ölümü göze alan adama karşı borç ve vicdan arasında sıkışırken; Ceylan, eşinin yaptığı fedakârlığın ardındaki asıl nedeni çözmeye çalışır. Sultan geçmişiyle son bir kez yüzleşirken, bazı kapıları tamamen kapatır.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260225204500 +0000" stop="20260225234500 +0000" channel="now">
@@ -18577,13 +18586,13 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260225200000 +0000" stop="20260225205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260225205900 +0000" stop="20260226040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260225000000 +0000" stop="20260225003000 +0000" channel="s-sport">
     <title lang="tr">NBA Özetler</title>
@@ -20100,7 +20109,7 @@ Bir düğün gecesinde ortadan kaybolan sefirin kızı, tam dokuz yıl sonra, ba
     <desc lang="tr">Evlenmek isteyen ancak ailelerinden onay alamayan gençlerin umudu olan Songül Karlı ve Uğur Arslan, mutlu yuvaların mimarı olmaya geliyor. Yıllar sonra tekrar bir araya gelen ikili, gençlerin hayatına dokunuyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260225103000 +0000" stop="20260225141500 +0000" channel="star-tv">
+  <programme start="20260225111500 +0000" stop="20260225141500 +0000" channel="star-tv">
     <title lang="tr">Nur Viral ile Sen İstersen</title>
     <desc lang="tr">Hayatın tam içinden gelen gerçek hikâyeler bu programda hayat bulacak. Yıllardır saklı kalan sırlar gün yüzüne çıkacak, yarım kalan hikâyeler tamamlanacak, kırılan kalpler onarılacak. Yüzleşmeler, sadece kişiler arasında değil, insanın kendi kalbiyle de yaşanacak. Geçmişin yüklerinden arınmak, yeni bir başlangıç yapmak isteyen herkes bu ekranda kendi yolculuğunu bulacak.</desc>
     <category lang="tr">Yaşam</category>
@@ -20124,9 +20133,10 @@ Keyifli sohbetleriyle dikkat çeken ikili; yemeklere dair özel hikâyeleri ve m
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225170000 +0000" stop="20260225210000 +0000" channel="star-tv">
+  <programme start="20260225170000 +0000" stop="20260225211500 +0000" channel="star-tv">
     <title lang="tr">Sahipsizler</title>
-    <desc lang="tr">Bala ve Rıfat, altı çocuklarıyla birlikte bir ormanda küçük ama mutlu bir hayat kurmuştur. Her şey yolunda gidiyor derken geçmişten çıkıp gelen acımasız bir düşman, bu güzel ailenin mutluluğunu paramparça eder. Azize, Zeliha, Cemo, Fidan, Samet ve Balım Anne ve babalarını kaybeden çocuklar, peşlerindeki adamlardan kaçarken kendilerini bir kamyonun kasasında İstanbul&#x27;a doğru giderken bulurlar. Fakat tüm hayatlarını ormanda geçiren çocuklar için İstanbul büyük, bilinmez ve çok tehlikelidir.</desc>
+    <desc lang="tr">Öldüğü sanılan Devran&#x27;ın nikahı basarak geri dönmesi, Hazar&#x27;ın tüm planlarını altüst eder. Köşeye sıkışan Hazar, Melis&#x27;i rehin alarak otelden kaçar. Melis, bu tehlikeli yolculuk sırasında Hazar&#x27;dan kurtulmak için her yolu denerken, ormanda bacağını bir akrebin sokmasıyla hayati tehlikeyle karşı karşıya kalır.
+Devran, Yusuf, Azize ve Zeliha; Hazar&#x27;ı yakalamak ve Melis&#x27;i kurtarmak için peşlerine düşerler. Ancak takip sırasında araçları bozulunca, geceyi ormanın derinliklerinde geçirmek zorunda kalırlar.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260225063000 +0000" stop="20260225081000 +0000" channel="tabii-spor">
