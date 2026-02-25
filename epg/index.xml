@@ -21543,30 +21543,20 @@ programıdır.</desc>
     <desc lang="tr">Türkiye&#x27;de yaşayan farklı Türk Cumhuriyetlerinden konukları ağırlayarak samimi ve eğlenceli sohbetlerin ekranlara taşındığı program, kültürler arası köprü kurmayı hedeflerken, konukların kendi ülkelerinden getirdikleri gelenek, yaşam tarzı ve deneyimleri izleyiciye aktarıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260225130000 +0000" stop="20260225133000 +0000" channel="trt-avaz">
+  <programme start="20260225130000 +0000" stop="20260225134500 +0000" channel="trt-avaz">
     <title lang="tr">Kökler Ve Sanat</title>
     <desc lang="tr">Türk Cumhuriyetlerinde yaşayan soydaşlarımızın kültürel yapılarını birbirlerine tanıtmak. Ülkemizde ve bu ülkelerde gerçekşen kültür ve sanat olaylarını tanıtmaya yardımcı olmak.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260225133000 +0000" stop="20260225134000 +0000" channel="trt-avaz">
+  <programme start="20260225134500 +0000" stop="20260225135500 +0000" channel="trt-avaz">
     <title lang="tr">Türk&#x27;ün Masalları</title>
     <desc lang="tr">Orta Asya&#x27;nın bozkırlarından Anadolu&#x27;nun bereketli topraklarına uzanan masal yolculuğu; modern animasyon tekniğiyle ekrana taşınıyor. Her hikâyede gelenekten geleceğe uzanan bir köprü kuran program, izleyiciyi hayal gücü, bilgelik ve duygularla örülü büyülü bir dünya ile buluşturuyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260225134000 +0000" stop="20260225135000 +0000" channel="trt-avaz">
-    <title lang="tr">Turanbot Ve Kardeş Takımı</title>
-    <desc lang="tr">Uzak gelecekte Gölgeler Birliği adlı hacker grubu Türk Dünyasının ortak dil projesine sızar ve insanların kullandıkları kelimeleri ve harfleri zihinlerinden silmeye çalışırlarken Dil Birliği grubu kelimeleri ve harfleri tekrar Türklerin hafızasına yerleştirmeye çalıştığı çizgi film projesidir.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260225135000 +0000" stop="20260225135500 +0000" channel="trt-avaz">
+  <programme start="20260225135500 +0000" stop="20260225140000 +0000" channel="trt-avaz">
     <title lang="tr">Oyun Avcıları</title>
     <desc lang="tr">Türk dünyasının ruhunu ataların oyunları ile çocuk kalbine taşıyan fantastik serüvende beş minik kahraman, Altay&#x27;ın zirvesinden Anadolu&#x27;nun meydanlarına uzanan yolculukta kurtun bilgeliği, kartalın gözü, geyiğin zarafeti ve ejderhanın kudretiyle kadim oyunların izi sürülüyor.</desc>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260225135500 +0000" stop="20260225140000 +0000" channel="trt-avaz">
-    <title lang="tr">Türk&#x27;ün Sözlüğü</title>
-    <desc lang="tr">Kelimelerin izinde yolculuğa çıkaran bu mini belgesel serisi, her bölümde bir kelimenin kökenini, tarihsel serüvenini ve kültürel anlamlarını ekrana taşıyor. Sadece bir dil unsuru değil; Türk tarihinin, coğrafyasının, inançlarının ve yaşam biçiminin aynası olan kelimeler, izleyiciye geçmişle bugünü buluşturan benzersiz bir anlatı sunuyor.</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260225140000 +0000" stop="20260225142900 +0000" channel="trt-avaz">
     <title lang="tr">Avaz Haber</title>
@@ -22101,9 +22091,9 @@ Minik davulcumuz kapınızı çalıyor. Küçük Davulcu Ramazan ayı boyunca se
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260225160300 +0000" stop="20260225160600 +0000" channel="trt-cocuk">
-    <title lang="tr">&#x27;ramazan Neşesi&#x27;</title>
-    <desc lang="tr">TRT Çocuk&#x27;un sevilen kahramanlarıyla birlikte Ramazan&#x27;ın Neşesi&#x27;ni paylaşmaya hazır olun!Ramazan Neşesi, Ramazan ayı boyunca her akşam senin kanalın TRT Çocuk&#x27;ta.</desc>
-    <category lang="tr">Diğer</category>
+    <title lang="tr">Ramazan Neşesi</title>
+    <desc lang="tr">TRT Çocuk&#x27;un sevilen kahramanlarıyla birlikte Ramazan&#x27;ın Neşesi&#x27;ni paylaşmaya hazır olun!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260225160600 +0000" stop="20260225161000 +0000" channel="trt-cocuk">
     <title lang="tr">Ramazan Güncesi</title>
@@ -22353,349 +22343,349 @@ Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#
     <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225070500 +0000" stop="20260225071500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Kara İle Keçe</title>
-    <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260225071500 +0000" stop="20260225072500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Galip Mülayim</title>
+  <programme start="20260225071000 +0000" stop="20260225072000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Galip Mülayim ( Ramazan Özel )</title>
     <desc lang="tr">Galip Mülayim ve arkadaşlarının, dinimizin esaslarını öğrenirken neler yaşadıklarına gelin birlikte tanık olalım.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225072500 +0000" stop="20260225074000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225072000 +0000" stop="20260225073500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
     <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225074000 +0000" stop="20260225075500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Dikkat Balonu</title>
+  <programme start="20260225073500 +0000" stop="20260225075000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Dikkat Balonu ( Ramazan Özel )</title>
     <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225075500 +0000" stop="20260225080500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225075000 +0000" stop="20260225080000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Gugular</title>
     <desc lang="tr">Bilge Degu, şefkatli Agu, güçlü Bagu, çılgın Hagu ve minik Çogu ile tanışmaya hazır mısınız?  
 Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225080500 +0000" stop="20260225081000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225080000 +0000" stop="20260225080500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Temel&#x27;den Öğreniyorum</title>
     <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225081000 +0000" stop="20260225082500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
+  <programme start="20260225080500 +0000" stop="20260225082000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Cümbür Cemaat ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225082500 +0000" stop="20260225084000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
+  <programme start="20260225082000 +0000" stop="20260225083500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225084000 +0000" stop="20260225085000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225083500 +0000" stop="20260225084500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225085000 +0000" stop="20260225090500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225084500 +0000" stop="20260225090000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Fülfül Hac Yolunda</title>
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225090500 +0000" stop="20260225092000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
+  <programme start="20260225090000 +0000" stop="20260225091500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Manidar</title>
+    <desc lang="tr">Ey ahâli! Duyduk duymadık demeyin! Bu mahallede hasbihal, çocuk hikâyeleri ve çocuklar arasında mani yarışmaları var.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260225091500 +0000" stop="20260225093000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gezgin Çelebi ( Ramazan Özel )</title>
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225092000 +0000" stop="20260225093000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225093000 +0000" stop="20260225094000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Düş Fırçası</title>
     <desc lang="tr">Macerayı renklerle buluşturmaya, masallarla havalara uçmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225093000 +0000" stop="20260225094000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Sevimli Sabahlar</title>
+  <programme start="20260225094000 +0000" stop="20260225095000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Sevimli Sabahlar ( Ramazan Özel )</title>
     <desc lang="tr">Ayşe, her sabah güne kuklası Rıfkı&#x27;nın hikayesiyle başlıyor. Tekerlemeler, şarkılar, bilmecelerle dolu bir hikaye, Sevimli Sabahlar&#x27;da bizleri bekliyor.</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225094000 +0000" stop="20260225095500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Meraklı Hafiye</title>
+  <programme start="20260225095000 +0000" stop="20260225100500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Meraklı Hafiye ( Ramazan Özel )</title>
     <desc lang="tr">Arif Baba’nın hazırladığı bulmacaların cevabını arayan meraklı hafiyemiz Ali; eğlenceli arkadaşı Caner ve onu hiç yalnız bırakmayan sevimli köpeği Rıkkıbız’ın Arifane Sahafı’ndaki eğlenceli maceraları...</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225095500 +0000" stop="20260225101000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225100500 +0000" stop="20260225102000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Haklı Karınca</title>
     <desc lang="tr">Kura ve arkadaşlarının, dünyayı ve kendilerini tanırken yaşadıkları maceralar küçük izleyicilerle buluşuyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225101000 +0000" stop="20260225102500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225102000 +0000" stop="20260225103500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Küçük Hafız Emin</title>
     <desc lang="tr">Küçük Hafız Emin ve Kur&#x27;an kursu arkadaşlarının renkli maceraları ekrana geliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225102500 +0000" stop="20260225103000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225103500 +0000" stop="20260225104000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Ayrı Telden</title>
     <desc lang="tr">Bir telde birbiriyle anlaşamayan iki kuş... Ayrı telden çalan kuşlarımız Fikri ve Zikri’nin eğlenceli sohbetlerini gelin birlikte dinleyelim.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225103000 +0000" stop="20260225104500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225104000 +0000" stop="20260225105500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mercanya</title>
     <desc lang="tr">Macera, dostluk ve eğlence dolu bu hikâyeye sen de ortak ol. 
 Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#x27;da buluşmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225104500 +0000" stop="20260225110000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225105500 +0000" stop="20260225111000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aylabera</title>
     <desc lang="tr">Ayla ve Bera adlı iki kardeşin macera dolu hikayesi ekrana geliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225110000 +0000" stop="20260225111500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Hay Hak</title>
+  <programme start="20260225111000 +0000" stop="20260225112000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Hay Hak ( Ramazan Özel )</title>
     <desc lang="tr">Hay Hak ile Hacivat ve Karagöz&#x27;ün günlük yaşamına konuk olmaya ne dersiniz?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225111500 +0000" stop="20260225113000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225112000 +0000" stop="20260225113500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Yumurcalı</title>
     <desc lang="tr">Aşağı Yumurcalı ve Yukarı Yumurcalı mahalleleri arasında geçen eğlenceli, heyecan dolu bir köy hikâyesine hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225113000 +0000" stop="20260225114000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225113500 +0000" stop="20260225114500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Miş Mış</title>
     <desc lang="tr">Hayal gücüyle dolu bir ailenin maceralarına hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225114000 +0000" stop="20260225115000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225114500 +0000" stop="20260225115500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mimikolar</title>
     <desc lang="tr">Alabildiğine geniş beyaz bir dünyada, sevimli kahramanlarımız Gago, Filo ve Beno, o tatlı mimikleriyle yine ne anlatıyor?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225115000 +0000" stop="20260225120500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Şef Lina</title>
-    <desc lang="tr">Lina ve annesi Tuba&#x27;nın keyifli mutfağına davetlisiniz!</desc>
+  <programme start="20260225115500 +0000" stop="20260225121000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Şef Lina ( Ramazan Özel )</title>
+    <desc lang="tr">Annesinin yardımıyla açtığı dijital platform kanalında Lina, birlikte yaptıkları yemeklerin videosunu paylaşır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225120500 +0000" stop="20260225121500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225121000 +0000" stop="20260225122000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Duyarlı Tilki</title>
     <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225121500 +0000" stop="20260225122500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225122000 +0000" stop="20260225123000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Benim Adım Mucize</title>
     <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225122500 +0000" stop="20260225123500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225123000 +0000" stop="20260225124000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Şeker Hoca</title>
     <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225123500 +0000" stop="20260225125000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225124000 +0000" stop="20260225125500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Geri Dön Çufi</title>
     <desc lang="tr">Furkan ve arkadaşları, mahallelerindeki eski oyuncakları tamir ediyorlar. Peki Furkan kaybettiği oyuncağı Çufi’yi bulabilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225125000 +0000" stop="20260225130500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225125500 +0000" stop="20260225131000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aslan Parçası Cesur</title>
     <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225130500 +0000" stop="20260225131000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Kara İle Keçe</title>
+  <programme start="20260225131000 +0000" stop="20260225131500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Kara İle Keçe ( Ramazan Özel )</title>
     <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225131000 +0000" stop="20260225132500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225131500 +0000" stop="20260225133000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
     <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225132500 +0000" stop="20260225133500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Galip Mülayim</title>
+  <programme start="20260225133000 +0000" stop="20260225134000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Galip Mülayim ( Ramazan Özel )</title>
     <desc lang="tr">Galip Mülayim ve arkadaşlarının, dinimizin esaslarını öğrenirken neler yaşadıklarına gelin birlikte tanık olalım.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225133500 +0000" stop="20260225135000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Dikkat Balonu</title>
+  <programme start="20260225134000 +0000" stop="20260225135500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Dikkat Balonu ( Ramazan Özel )</title>
     <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225135000 +0000" stop="20260225140000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225135500 +0000" stop="20260225140500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Gugular</title>
     <desc lang="tr">Bilge Degu, şefkatli Agu, güçlü Bagu, çılgın Hagu ve minik Çogu ile tanışmaya hazır mısınız?  
 Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225140000 +0000" stop="20260225140500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225140500 +0000" stop="20260225141000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Temel&#x27;den Öğreniyorum</title>
     <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225140500 +0000" stop="20260225142000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
+  <programme start="20260225141000 +0000" stop="20260225142500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Cümbür Cemaat ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225142000 +0000" stop="20260225143500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
+  <programme start="20260225142500 +0000" stop="20260225144000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225143500 +0000" stop="20260225144500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225144000 +0000" stop="20260225145000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225144500 +0000" stop="20260225150000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225145000 +0000" stop="20260225150500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Fülfül Hac Yolunda</title>
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225150000 +0000" stop="20260225151500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
+  <programme start="20260225150500 +0000" stop="20260225152000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Manidar</title>
+    <desc lang="tr">Ey ahâli! Duyduk duymadık demeyin! Bu mahallede hasbihal, çocuk hikâyeleri ve çocuklar arasında mani yarışmaları var.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260225152000 +0000" stop="20260225153500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gezgin Çelebi ( Ramazan Özel )</title>
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225151500 +0000" stop="20260225153000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Meraklı Hafiye</title>
-    <desc lang="tr">Arif Baba’nın hazırladığı bulmacaların cevabını arayan meraklı hafiyemiz Ali; eğlenceli arkadaşı Caner ve onu hiç yalnız bırakmayan sevimli köpeği Rıkkıbız’ın Arifane Sahafı’ndaki eğlenceli maceraları...</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260225153000 +0000" stop="20260225154500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Haklı Karınca</title>
-    <desc lang="tr">Kura ve arkadaşlarının, dünyayı ve kendilerini tanırken yaşadıkları maceralar küçük izleyicilerle buluşuyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260225154500 +0000" stop="20260225160000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Küçük Hafız Emin</title>
-    <desc lang="tr">Küçük Hafız Emin ve Kur&#x27;an kursu arkadaşlarının renkli maceraları ekrana geliyor.</desc>
-    <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260225160000 +0000" stop="20260225160500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225153500 +0000" stop="20260225154500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Ayrı Telden</title>
     <desc lang="tr">Bir telde birbiriyle anlaşamayan iki kuş... Ayrı telden çalan kuşlarımız Fikri ve Zikri’nin eğlenceli sohbetlerini gelin birlikte dinleyelim.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225160500 +0000" stop="20260225161500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Sevimli Sabahlar</title>
-    <desc lang="tr">Ayşe, her sabah güne kuklası Rıfkı&#x27;nın hikayesiyle başlıyor. Tekerlemeler, şarkılar, bilmecelerle dolu bir hikaye, Sevimli Sabahlar&#x27;da bizleri bekliyor.</desc>
+  <programme start="20260225154500 +0000" stop="20260225160000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Haklı Karınca</title>
+    <desc lang="tr">Kura ve arkadaşlarının, dünyayı ve kendilerini tanırken yaşadıkları maceralar küçük izleyicilerle buluşuyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
+  <programme start="20260225160000 +0000" stop="20260225161500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Küçük Hafız Emin</title>
+    <desc lang="tr">Küçük Hafız Emin ve Kur&#x27;an kursu arkadaşlarının renkli maceraları ekrana geliyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
   <programme start="20260225161500 +0000" stop="20260225163000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Meraklı Hafiye ( Ramazan Özel )</title>
+    <desc lang="tr">Arif Baba’nın hazırladığı bulmacaların cevabını arayan meraklı hafiyemiz Ali; eğlenceli arkadaşı Caner ve onu hiç yalnız bırakmayan sevimli köpeği Rıkkıbız’ın Arifane Sahafı’ndaki eğlenceli maceraları...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260225163000 +0000" stop="20260225164000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Sevimli Sabahlar ( Ramazan Özel )</title>
+    <desc lang="tr">Ayşe, her sabah güne kuklası Rıfkı&#x27;nın hikayesiyle başlıyor. Tekerlemeler, şarkılar, bilmecelerle dolu bir hikaye, Sevimli Sabahlar&#x27;da bizleri bekliyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260225164000 +0000" stop="20260225165500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mercanya</title>
     <desc lang="tr">Macera, dostluk ve eğlence dolu bu hikâyeye sen de ortak ol. 
 Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#x27;da buluşmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225163000 +0000" stop="20260225164500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225165500 +0000" stop="20260225171000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aylabera</title>
     <desc lang="tr">Ayla ve Bera adlı iki kardeşin macera dolu hikayesi ekrana geliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225164500 +0000" stop="20260225170000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Hay Hak</title>
+  <programme start="20260225171000 +0000" stop="20260225172000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Hay Hak ( Ramazan Özel )</title>
     <desc lang="tr">Hay Hak ile Hacivat ve Karagöz&#x27;ün günlük yaşamına konuk olmaya ne dersiniz?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225170000 +0000" stop="20260225171500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225172000 +0000" stop="20260225173500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Yumurcalı</title>
     <desc lang="tr">Aşağı Yumurcalı ve Yukarı Yumurcalı mahalleleri arasında geçen eğlenceli, heyecan dolu bir köy hikâyesine hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225171500 +0000" stop="20260225172500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225173500 +0000" stop="20260225174500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Miş Mış</title>
     <desc lang="tr">Hayal gücüyle dolu bir ailenin maceralarına hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225172500 +0000" stop="20260225173500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225174500 +0000" stop="20260225175500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mimikolar</title>
     <desc lang="tr">Alabildiğine geniş beyaz bir dünyada, sevimli kahramanlarımız Gago, Filo ve Beno, o tatlı mimikleriyle yine ne anlatıyor?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225173500 +0000" stop="20260225175000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Şef Lina</title>
-    <desc lang="tr">Lina ve annesi Tuba&#x27;nın keyifli mutfağına davetlisiniz!</desc>
+  <programme start="20260225175500 +0000" stop="20260225181000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Şef Lina ( Ramazan Özel )</title>
+    <desc lang="tr">Annesinin yardımıyla açtığı dijital platform kanalında Lina, birlikte yaptıkları yemeklerin videosunu paylaşır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225175000 +0000" stop="20260225180000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225181000 +0000" stop="20260225182000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Duyarlı Tilki</title>
     <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225180000 +0000" stop="20260225181000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225182000 +0000" stop="20260225183000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Benim Adım Mucize</title>
     <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
     <category lang="tr">Eğitim</category>
-  </programme>
-  <programme start="20260225181000 +0000" stop="20260225182000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Şeker Hoca</title>
-    <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260225182000 +0000" stop="20260225183000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Kara İle Keçe</title>
-    <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
-    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260225183000 +0000" stop="20260225184000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Düş Fırçası</title>
     <desc lang="tr">Macerayı renklerle buluşturmaya, masallarla havalara uçmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225184000 +0000" stop="20260225185500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225184000 +0000" stop="20260225185000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Şeker Hoca</title>
+    <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260225185000 +0000" stop="20260225190500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Geri Dön Çufi</title>
     <desc lang="tr">Furkan ve arkadaşları, mahallelerindeki eski oyuncakları tamir ediyorlar. Peki Furkan kaybettiği oyuncağı Çufi’yi bulabilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225185500 +0000" stop="20260225191000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225190500 +0000" stop="20260225192000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aslan Parçası Cesur</title>
     <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225191000 +0000" stop="20260225192000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Galip Mülayim</title>
+  <programme start="20260225192000 +0000" stop="20260225193000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Kara İle Keçe ( Ramazan Özel )</title>
+    <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260225193000 +0000" stop="20260225194000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Galip Mülayim ( Ramazan Özel )</title>
     <desc lang="tr">Galip Mülayim ve arkadaşlarının, dinimizin esaslarını öğrenirken neler yaşadıklarına gelin birlikte tanık olalım.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225192000 +0000" stop="20260225193500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225194000 +0000" stop="20260225195500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">7 Kıtadan İyilik Habercileri</title>
     <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225193500 +0000" stop="20260225195000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Dikkat Balonu</title>
+  <programme start="20260225195500 +0000" stop="20260225201000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Dikkat Balonu ( Ramazan Özel )</title>
     <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225195000 +0000" stop="20260225200000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225201000 +0000" stop="20260225202000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Gugular</title>
     <desc lang="tr">Bilge Degu, şefkatli Agu, güçlü Bagu, çılgın Hagu ve minik Çogu ile tanışmaya hazır mısınız?  
 Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225200000 +0000" stop="20260225200500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225202000 +0000" stop="20260225202500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Temel&#x27;den Öğreniyorum</title>
     <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225200500 +0000" stop="20260225202000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
+  <programme start="20260225202500 +0000" stop="20260225204000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Cümbür Cemaat ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260225202000 +0000" stop="20260225203500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
+  <programme start="20260225204000 +0000" stop="20260225205500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260225203500 +0000" stop="20260225204500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260225205500 +0000" stop="20260225210500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260225204500 +0000" stop="20260225210000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Fülfül Hac Yolunda</title>
-    <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260225001500 +0000" stop="20260225004500 +0000" channel="trt-eba">
@@ -23310,10 +23300,15 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
 İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260225070000 +0000" stop="20260225100000 +0000" channel="trt-haber">
+  <programme start="20260225070000 +0000" stop="20260225095500 +0000" channel="trt-haber">
     <title lang="tr">Satır Başı</title>
     <desc lang="tr">Gündemin öne çıkan başlıkları, sıcak noktalara canlı bağlantılar, dosya haberler ve uzman konuklar eşliğinde izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260225095500 +0000" stop="20260225100000 +0000" channel="trt-haber">
+    <title lang="tr">İlk Oruç, İlk Ramazan, İlk Heyecan</title>
+    <desc lang="tr">Ramazan ayı boyunca ekrana gelen programda, konuklarımızla geçmişten günümüze Ramazan&#x27;ın güzellikleri konuşuluyor.</desc>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260225100000 +0000" stop="20260225105000 +0000" channel="trt-haber">
     <title lang="tr">Öğle Ana Haber</title>
@@ -23335,15 +23330,19 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225120000 +0000" stop="20260225125500 +0000" channel="trt-haber">
+  <programme start="20260225120000 +0000" stop="20260225125000 +0000" channel="trt-haber">
     <title lang="tr">Haber Ajandası</title>
     <desc lang="tr">Gündemin öne çıkan  başlıkları; sıcak noktalara canlı bağlantılar, dosya haberler, uzman konuklar ve muhabir bağlantılarıyla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225125500 +0000" stop="20260225130000 +0000" channel="trt-haber">
+  <programme start="20260225125000 +0000" stop="20260225125500 +0000" channel="trt-haber">
     <title lang="tr">Milli Güç Güçlü Türkiye</title>
     <desc lang="tr">Türkiye&#x27;de üretilen savunma sanayi sistemleri hakkında bilgi veriliyor.</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260225125500 +0000" stop="20260225130000 +0000" channel="trt-haber">
+    <title lang="tr">Asr-ı Saadet&#x27;in İzinde: Sahabe-i Kiram</title>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260225130000 +0000" stop="20260225140000 +0000" channel="trt-haber">
     <title lang="tr">Haber Ajandası</title>
@@ -23355,20 +23354,20 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültür sanattan eğitime, Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225150000 +0000" stop="20260225154900 +0000" channel="trt-haber">
+  <programme start="20260225150000 +0000" stop="20260225155000 +0000" channel="trt-haber">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültür sanattan eğitime, Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225154900 +0000" stop="20260225155500 +0000" channel="trt-haber">
-    <title lang="tr">İstanbul için İftar Vakti</title>
-    <desc lang="tr">Ramazan ayı boyunca İstanbul için iftar vakti ekrana geliyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260225155500 +0000" stop="20260225160000 +0000" channel="trt-haber">
+  <programme start="20260225155000 +0000" stop="20260225155600 +0000" channel="trt-haber">
     <title lang="tr">Piyasa Raporu</title>
     <desc lang="tr">Yurt içi ve yurt dışı piyasalara yönelik son bilgiler ve veriler grafikler eşliğinde aktarılıyor.</desc>
     <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260225155600 +0000" stop="20260225160000 +0000" channel="trt-haber">
+    <title lang="tr">İstanbul için İftar Vakti</title>
+    <desc lang="tr">Ramazan ayı boyunca İstanbul için iftar vakti ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260225160000 +0000" stop="20260225170000 +0000" channel="trt-haber">
     <title lang="tr">Sıcak Haber</title>
@@ -23385,7 +23384,7 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Gündeme dair önemli başlıklar, muhabir bağlantıları, alanında uzman konuklarla mercek altına alınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260225200000 +0000" stop="20260225220000 +0000" channel="trt-haber">
+  <programme start="20260225200000 +0000" stop="20260225215000 +0000" channel="trt-haber">
     <title lang="tr">Gece Bakışı</title>
     <desc lang="tr">Gündeme dair önemli olaylar, muhabir bağlantıları ve dosya haberler, Fuat Kozluklu moderatörlüğünde Gece Bakışı&#x27;nda izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
@@ -24094,13 +24093,9 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <desc lang="tr">Tasavvuf musikisinden seçkin örnekler...</desc>
     <category lang="tr">Müzik</category>
   </programme>
-  <programme start="20260225133000 +0000" stop="20260225135000 +0000" channel="trt-turk">
+  <programme start="20260225133000 +0000" stop="20260225140000 +0000" channel="trt-turk">
     <title lang="tr">Gönül Verenler</title>
     <desc lang="tr">Gönül Verenler programı Avrupa&#x27;da faaliyet gösteren Türk kurum ve derneklerinin kültürel, sosyal ve toplumsal alanlardaki çalışmalarını ekrana taşımayı hedefleyen bir program. Program, Türk toplumunun birlik ve beraberliğini güçlendirmeyi hedeflerken, derneklerin düzenlediği etkinlikler, açılışlar ve sosyal sorumluluk projeleri gibi faaliyetleri detaylı bir şekilde ele almakta. İzleyiciler, her bölümde Türk kurumlarının Avrupa&#x27;daki topluma katkılarını ve kültürel mirasın korunması için yapılan çalışmaları yakından tanıma fırsatı bulur. Gönül Verenler, bu gönüllülük esaslı çalışmaları samimi bir dille izleyicilere aktararak, Avrupa&#x27;daki Türklerin kültürel değerlerini nasıl yaşattıklarını ve toplumla nasıl paylaştıklarını gözler önüne sermeyi amaçlamakta.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260225135000 +0000" stop="20260225140000 +0000" channel="trt-turk">
-    <title lang="tr">Hollanda&#x27;da Kur - An Tilaveti</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260225140000 +0000" stop="20260225145000 +0000" channel="trt-turk">
@@ -24125,7 +24120,7 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260225170000 +0000" stop="20260225173000 +0000" channel="trt-turk">
-    <title lang="tr">Hollanda Ve Belçika&#x27;da Ramazan</title>
+    <title lang="tr">Fransa Ve İsviçre&#x27;de Ramazan</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260225173000 +0000" stop="20260225180000 +0000" channel="trt-turk">
