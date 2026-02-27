@@ -6870,7 +6870,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="deutsche-welle-english">
     <title lang="tr">To the Point</title>
-    <desc lang="tr">Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that&#x27;s making news. It&#x27;s controversy and confrontation. It&#x27;s background and analysis. It&#x27;s the issues that are moving our world. What do you think? Your opinion counts!</desc>
+    <desc lang="tr">The power struggle between the United States and China is intensifying. At the same time, the EU appears divided. Is Germany at risk of becoming a pawn in global power struggle? Our guests: Thorsten Benner (GPPi), Noah Barkin (GMFUS), Meredith Crowley (Prof. in Cambridge)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260227120000 +0000" stop="20260227121500 +0000" channel="deutsche-welle-english">
@@ -6925,7 +6925,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="deutsche-welle-english">
     <title lang="tr">To the Point</title>
-    <desc lang="tr">Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that&#x27;s making news. It&#x27;s controversy and confrontation. It&#x27;s background and analysis. It&#x27;s the issues that are moving our world. What do you think? Your opinion counts!</desc>
+    <desc lang="tr">The power struggle between the United States and China is intensifying. At the same time, the EU appears divided. Is Germany at risk of becoming a pawn in global power struggle? Our guests: Thorsten Benner (GPPi), Noah Barkin (GMFUS), Meredith Crowley (Prof. in Cambridge)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260227160000 +0000" stop="20260227161500 +0000" channel="deutsche-welle-english">
@@ -13425,7 +13425,7 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
     <title lang="tr">Amerika Depo Savaşları</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260227204000 +0000" stop="20260228205900 +0000" channel="gzt-tv">
+  <programme start="20260227204000 +0000" stop="20260227210000 +0000" channel="gzt-tv">
     <title lang="tr">Amerika Depo Savaşları</title>
     <category lang="tr">Belgesel</category>
   </programme>
@@ -18234,13 +18234,12 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260227170000 +0000" stop="20260227200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260227200000 +0000" stop="20260228050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="s-sport">
     <title lang="tr">NBA</title>
@@ -23931,9 +23930,14 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="trt-world">
-    <title lang="tr">Nexus</title>
-    <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
+  <programme start="20260227133000 +0000" stop="20260227134500 +0000" channel="trt-world">
+    <title lang="tr">One On One</title>
+    <desc lang="tr">TRT World speaks with Ibrahim Olabi on the humanitarian situation in Syria, the country’s territorial sovereignty, and Israeli violations in the country.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227134500 +0000" stop="20260227140000 +0000" channel="trt-world">
+    <title lang="tr">Documentary</title>
+    <desc lang="tr">Abdelfattah, a displaced circus performer from Gaza, brings joy to children through clowning, despite the harsh realities of war and an uncertain future.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="trt-world">
@@ -24861,6 +24865,271 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
     <title lang="tr">Hava-Yol-Para Durumu</title>
     <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227011800 +0000" stop="20260227014500 +0000" channel="tv5-monde">
+    <title lang="tr">Le journal Afrique</title>
+    <desc lang="tr">Toute l&#x27;actualité africaine proposée par la rédaction de TV5MONDE.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227014500 +0000" stop="20260227031600 +0000" channel="tv5-monde">
+    <title lang="tr">La grande librairie</title>
+    <desc lang="tr">Augustin Trapenard reçoit Bernard Werber, pour &quot;La voix de l&#x27;arbre&quot;, édité chez Albin Michel ; Gaspard Koenig, pour &quot;Aqua&quot;, paru aux éditions de L&#x27;Observatoire ; Simonetta Greggio, pour &quot;Le souffle de la forêt&quot;, publié aux éditions Arthaud ; Jean-Yves Jouannais, pour &quot;Une forêt&quot;, paru chez Albin Michel ; Pauline Peyrade, pour &quot;Les habitantes&quot;, publié aux éditions de Minuit.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227031600 +0000" stop="20260227041700 +0000" channel="tv5-monde">
+    <title lang="tr">Le 23h</title>
+    <desc lang="tr">Le grand JT du soir de France Télévisions, diffusé à heure fixe et ouvert sur l&#x27;économie, l&#x27;Europe, l&#x27;international et la politique.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227041700 +0000" stop="20260227043000 +0000" channel="tv5-monde">
+    <title lang="tr">Le dessous des cartes</title>
+    <desc lang="tr">Zoom sur l&#x27;objet qui a redéfini les conflits du XXIe siècle : le drone. De la frappe chirurgicale ayant tué Yahya Sinouar à Gaza aux essaims de micro-drones FPV utilisés pour bloquer l&#x27;armée russe en Ukraine, ces engins volants sans pilotes prennent des formes multiples et sont désormais sur tous les fronts.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227043000 +0000" stop="20260227045800 +0000" channel="tv5-monde">
+    <title lang="tr">Allô tribunal: Tapage mélodieux</title>
+    <desc lang="tr">Une affaire de coups et blessures volontaires oppose Natou Léandre à Tené Samuel. Le plaignant explique que son cousin l&#x27;a assommé avec une bouteille de vin.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227045800 +0000" stop="20260227052500 +0000" channel="tv5-monde">
+    <title lang="tr">Le 6h info</title>
+    <desc lang="tr">Un rendez-vous réveil-matin, avec un point sur l&#x27;actualité assorti de différentes rubriques qui permettent d&#x27;en explorer certains aspects plus en profondeur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227052500 +0000" stop="20260227052900 +0000" channel="tv5-monde">
+    <title lang="tr">Météo</title>
+    <desc lang="tr">Le bulletin météorologique international.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260227052900 +0000" stop="20260227054600 +0000" channel="tv5-monde">
+    <title lang="tr">Télématin</title>
+    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260227054600 +0000" stop="20260227055000 +0000" channel="tv5-monde">
+    <title lang="tr">Première page: Le bonheur</title>
+    <desc lang="tr">&quot;Première page&quot; est une collection de 11 courts métrages de 2 minutes 15 dont l&#x27;ambition est de mettre en lumière les jeunes talents émergents de l&#x27;animation tout en rendant hommage à la littérature.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227055000 +0000" stop="20260227062100 +0000" channel="tv5-monde">
+    <title lang="tr">Télématin</title>
+    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260227062100 +0000" stop="20260227062500 +0000" channel="tv5-monde">
+    <title lang="tr">Salle des profs: Coin coin et Carotte</title>
+    <desc lang="tr">Le quotidien de cinq collègues professeurs qui forment une joyeuse bande d&#x27;amis qui s&#x27;aiment, se taquinent et accumulent toutes sortes de mésaventures.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227062500 +0000" stop="20260227062900 +0000" channel="tv5-monde">
+    <title lang="tr">Cap sur les oasis: Le Moulin d&#x27;abondance</title>
+    <desc lang="tr">Le Moulin d&#x27;Abondance, à Fougerolles-Saint-Valbert, en Haute-Saône, est un lieu qui propose d&#x27;accueillir des séminaires, mariages ou vacanciers notamment.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227062900 +0000" stop="20260227064900 +0000" channel="tv5-monde">
+    <title lang="tr">Télématin</title>
+    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260227064900 +0000" stop="20260227065300 +0000" channel="tv5-monde">
+    <title lang="tr">VF</title>
+    <desc lang="tr">Mode, design, gastronomie, art de vivre, chaque petit reportage, extrait du magazine Version française, est une illustration du chic à la française.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227065300 +0000" stop="20260227070000 +0000" channel="tv5-monde">
+    <title lang="tr">VF</title>
+    <desc lang="tr">Mode, design, gastronomie, art de vivre, chaque petit reportage, extrait du magazine Version française, est une illustration du chic à la française.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227070000 +0000" stop="20260227072700 +0000" channel="tv5-monde">
+    <title lang="tr">Le téléjournal</title>
+    <desc lang="tr">L&#x27;actualité présentée par la rédaction de Radio-Canada.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227072700 +0000" stop="20260227074000 +0000" channel="tv5-monde">
+    <title lang="tr">Bestioles et cie: Le vice-roi et le monarque</title>
+    <desc lang="tr">Près des lacs, des arbres, des champs, il y a toujours des petites bestioles. Souvent craintes parce que méconnues, elles sont pourtant fascinantes ! Plongée au coeur de leur univers : sous-estimées à tort, elles ont un rôle important dans le cycle de la nature.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227074000 +0000" stop="20260227075200 +0000" channel="tv5-monde">
+    <title lang="tr">Idéfix et les Irréductibles: Les bannis de Lutèce</title>
+    <desc lang="tr">A Lutèce, Idéfix et ses amis animaux, Turbine la chienne, Baratine une chatte, le pigeon Asmatix et les autres, luttent contre les envahisseurs romains. A la Louve, un palais fortifié, le général Labienus et sa chatte Monalisa ont pour mission d&#x27;achever la transformation de la ville en cité romaine.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227075200 +0000" stop="20260227075900 +0000" channel="tv5-monde">
+    <title lang="tr">Le Petit Geek</title>
+    <desc lang="tr">Comment créer un jeu vidéo ? Quels sont les dangers des écrans et des identités numériques ? Dans chaque épisode, des enfants décryptent le monde virtuel.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227075900 +0000" stop="20260227081000 +0000" channel="tv5-monde">
+    <title lang="tr">Les Croquemoutard: Coup de vieux</title>
+    <desc lang="tr">Morfale se découvre un cheveu blanc, c&#x27;est le choc, il se sent vieux. Cherchant d&#x27;abord à se rajeunir, il apprend ensuite que les vieux ont des privilèges chez les humains. Il décide d&#x27;en profiter, de se faire servir. Excédée, sa famille tente de lui faire regretter de jouer les vieux.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227081000 +0000" stop="20260227082200 +0000" channel="tv5-monde">
+    <title lang="tr">Les Croquemoutard: Opération Troll</title>
+    <desc lang="tr">Fraîchement installés à la Cité à des clapiers, les Croquemoutard, une famille de trolls, sont surpris de découvrir les petites manies des êtres humains qui les entourent. Entre confrontations de moeurs et coutumes, pas sûr que les plus bizarres soient ceux que l&#x27;on croit. Un bel éloge de la différence et du vivre ensemble, plein d&#x27;inventivité et d&#x27;humour.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227082200 +0000" stop="20260227085000 +0000" channel="tv5-monde">
+    <title lang="tr">Chine - Les grands maîtres de l&#x27;art: Yan Gongda - L&#x27;art du calligraphe</title>
+    <desc lang="tr">Yan Gongda, héritier d&#x27;une longue lignée d&#x27;artistes, incarne l&#x27;excellence de la calligraphie chinoise contemporaine. Il allie rigueur technique et liberté d&#x27;expression dans une pratique profondément spirituelle.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227085000 +0000" stop="20260227091300 +0000" channel="tv5-monde">
+    <title lang="tr">Escapades en Suisse Italienne: Giornico et Chironico</title>
+    <desc lang="tr">Découverte du centre historique de Giornico, avec ses églises et ses fresques murales, en compagnie de l&#x27;historien Fabrizio Viscontini. Dégustation de produits locaux à la ferme de Giorgio Lucchini. Avec Fausta Bionda et son fils Enea, initiation à une discipline spectaculaire : l&#x27;escalade de bloc.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227091300 +0000" stop="20260227094000 +0000" channel="tv5-monde">
+    <title lang="tr">Chef pays</title>
+    <desc lang="tr">Des chefs proposent une recette inédite et facile à réaliser avec un ingrédient phare des Outre-Mers (un fruit, un légume, une viande, un poisson ou une épice). A cette occasion, ils évoquent son origine, son histoire et ses bienfaits. Chefs, nutritionnistes et producteurs issus de tous les Outre-mer réagissent tout au long de l&#x27;émission en duplex pour partager leurs conseils et leurs astuces de cuisine.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227094000 +0000" stop="20260227094400 +0000" channel="tv5-monde">
+    <title lang="tr">Dans le viseur</title>
+    <desc lang="tr">Reportages et découvertes culturelles incontournables par l&#x27;équipe des chroniqueurs de Joëlle Rebetez dans l&#x27;émission suisse \&quot; Ramdam \&quot;.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227094400 +0000" stop="20260227105000 +0000" channel="tv5-monde">
+    <title lang="tr">C dans l&#x27;air</title>
+    <desc lang="tr">&quot;C dans l&#x27;air&quot; rend compte, en compagnie d&#x27;experts, de ce qui fait l&#x27;actualité et donne aux téléspectateurs les clés nécessaires pour la comprendre et l&#x27;appréhender dans sa globalité. La fin de l&#x27;émission est dédiée aux questions posées par les téléspectateurs par SMS, Internet ou via les réseaux sociaux.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227105000 +0000" stop="20260227111700 +0000" channel="tv5-monde">
+    <title lang="tr">Ligue 1 McDonald&#x27;s : Avant-matchs</title>
+    <desc lang="tr">Présentation de la prochaine journée du championnat de France de football.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260227111700 +0000" stop="20260227114100 +0000" channel="tv5-monde">
+    <title lang="tr">Un si grand soleil</title>
+    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227114100 +0000" stop="20260227114500 +0000" channel="tv5-monde">
+    <title lang="tr">Ils vécurent heureux: Blanche-Neige et le Prince</title>
+    <desc lang="tr">Huit couples mythiques, comme Blanche-Neige et son Prince qui se sont mariés sans se connaître, sont confrontés aux réalités de la vie à deux. Sur le divan d&#x27;une thérapeute, ils évoquent avec irrévérence les paradoxes du couple moderne et s&#x27;interrogent sur ce que signifie vraiment aimer.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227114500 +0000" stop="20260227123000 +0000" channel="tv5-monde">
+    <title lang="tr">Tout le monde veut prendre sa place</title>
+    <desc lang="tr">Six candidats affrontent un &quot;champion&quot; autour d&#x27;une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="tv5-monde">
+    <title lang="tr">JT 19h30</title>
+    <desc lang="tr">Tous les jours, le JT de 19h30 informe de l&#x27;actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227143700 +0000" channel="tv5-monde">
+    <title lang="tr">Bellefond: Pilote</title>
+    <desc lang="tr">Surnommé &quot;Condamnator&quot;, le célèbre procureur Antoine Bellefond n&#x27;épargne pas les criminels. Jusqu&#x27;à ce que l&#x27;un d&#x27;eux, innocent, se suicide. Choqué, Bellefond décide de mettre sa carrière en pause. Jusqu&#x27;au jour où sa nièce l&#x27;appelle à l&#x27;aide : son père, le beau-frère d&#x27;Antoine, a été arrêté pour meurtre.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227143700 +0000" stop="20260227145100 +0000" channel="tv5-monde">
+    <title lang="tr">Itinéraires paysans</title>
+    <desc lang="tr">Les différentes pratiques des agriculteurs français en matière d&#x27;environnement, d&#x27;économie et de paysage permettent d&#x27;appréhender une région et son terroir.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260227145100 +0000" stop="20260227150200 +0000" channel="tv5-monde">
+    <title lang="tr">Tendance XXI</title>
+    <desc lang="tr">Une émission consacrée à la création française et à la mode. Elle dresse le portrait de créateurs passionnés et analyse des tendances actuelles ou qui ont profondément marqué l&#x27;histoire de la mode.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227150200 +0000" stop="20260227151000 +0000" channel="tv5-monde">
+    <title lang="tr">Les nouvelles aventures de Kaeloo: Si on jouait avec la règle</title>
+    <desc lang="tr">Kaeloo laisse place à BadK pour jouer à 1, 2, 3 Soleil. Mais pendant ce temps, la Règle du Jeu fait irruption. Il n&#x27;est plus possible d&#x27;arranger les règles à sa manière ou de tricher, sinon les gages tombent. Les Zamis aimeraient contourner les nouvelles règles.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227151000 +0000" stop="20260227152000 +0000" channel="tv5-monde">
+    <title lang="tr">Rocky &amp; Lily : C&#x27;est dans la boîte !</title>
+    <desc lang="tr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle ? Un objet toujours surprenant qui les amène à s&#x27;intéresser à des sujets très divers, allant de l&#x27;histoire des emojis au tri des poubelles ou à la musique électro.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227152000 +0000" stop="20260227153300 +0000" channel="tv5-monde">
+    <title lang="tr">T&#x27;es au top: Lola : Je m&#x27;inquiète pour la planète</title>
+    <desc lang="tr">Très proche des animaux et de la nature, sensible et curieuse, Lola a une conscience aigüe des questions environnementales. Son jeune âge n&#x27;est pas un frein à ses engagements.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227153300 +0000" stop="20260227155800 +0000" channel="tv5-monde">
+    <title lang="tr">L&#x27;île Kilucru: Milo, trollIlo et l&#x27;eau</title>
+    <desc lang="tr">Milo veut convaincre Trollilo de faire pousser un légume marin que Coralie a rapporté de la mer, le mercombre. Fantomini encourage Coralie à participer à un jeu-questionnaire.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227155800 +0000" stop="20260227162700 +0000" channel="tv5-monde">
+    <title lang="tr">Mémoire(s) de Suisse romande: La vallée des Ormonts</title>
+    <desc lang="tr">Dans le cadre du projet &quot;Mémoire(s) de Suisse romande&quot;, la RTS organise des projections publiques de ses archives dans plusieurs villes helvétiques.</desc>
+    <category lang="tr">Röportaj</category>
+  </programme>
+  <programme start="20260227162700 +0000" stop="20260227165300 +0000" channel="tv5-monde">
+    <title lang="tr">Maghreb-Orient Express</title>
+    <desc lang="tr">Mohamed Kaci reçoit les personnalités au coeur de l&#x27;actualité de cette partie du monde en perpétuelle ébullition. La société civile témoigne et débat en plateau des événements et des évolutions qui se produisent dans ces pays. Ce magazine est l&#x27;incontournable rendez-vous culturel en Méditerranée.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227165300 +0000" stop="20260227170000 +0000" channel="tv5-monde">
+    <title lang="tr">L&#x27;écologie en action</title>
+    <desc lang="tr">À la découverte de sites écologiques riches en biodiversité.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227172600 +0000" channel="tv5-monde">
+    <title lang="tr">64&#x27; : Actu</title>
+    <desc lang="tr">Le Monde en Français met l&#x27;accent sur l&#x27;actualité internationale, l&#x27;actualité francophone, culturelle, politique, économique, sociale et sociétale.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227172600 +0000" stop="20260227173000 +0000" channel="tv5-monde">
+    <title lang="tr">Météo</title>
+    <desc lang="tr">Le bulletin météorologique international.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260227173000 +0000" stop="20260227175300 +0000" channel="tv5-monde">
+    <title lang="tr">Allons-y franco !</title>
+    <desc lang="tr">Des journalistes des médias francophones et des chaînes partenaires de TV5MONDE confrontent leur vision de l&#x27;actualité</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227175300 +0000" stop="20260227180200 +0000" channel="tv5-monde">
+    <title lang="tr">L&#x27;invité</title>
+    <desc lang="tr">Rencontre avec des artistes, des écrivains, des acteurs et tous ceux qui font vibrer notre époque. &quot;L&#x27;invité&quot; est le rendez-vous des personnalités qui font l&#x27;actualité.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227180200 +0000" stop="20260227182400 +0000" channel="tv5-monde">
+    <title lang="tr">Un si grand soleil</title>
+    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227182400 +0000" stop="20260227184600 +0000" channel="tv5-monde">
+    <title lang="tr">Un si grand soleil</title>
+    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260227184600 +0000" stop="20260227190000 +0000" channel="tv5-monde">
+    <title lang="tr">J&#x27;ai les clés</title>
+    <desc lang="tr">Patrick Weber explore les secrets du palais du Coudenberg, le plus beau, le plus grand et le plus prestigieux de tous les palais de son époque.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227192600 +0000" channel="tv5-monde">
+    <title lang="tr">Le Journal de la RTS</title>
+    <desc lang="tr">Téléjournal de la rédaction de la RTS qui présente l&#x27;actualité en Suisse et dans le monde.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227192600 +0000" stop="20260227193000 +0000" channel="tv5-monde">
+    <title lang="tr">Au détour</title>
+    <desc lang="tr">Les plus beaux coins de France présentés à travers des images, des couleurs, des paysages, des goûts et des odeurs.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227195700 +0000" channel="tv5-monde">
+    <title lang="tr">Le Journal de France 2</title>
+    <desc lang="tr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260227195700 +0000" stop="20260227200000 +0000" channel="tv5-monde">
+    <title lang="tr">Météo</title>
+    <desc lang="tr">Le bulletin météorologique international.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227213000 +0000" channel="tv5-monde">
+    <title lang="tr">Ness et Rayan</title>
+    <desc lang="tr">Ness, femme flic expérimentée, arrête Rayan, un jeune délinquant qui vient de lui voler son portefeuille. Condamné à effectuer un travail d&#x27;intérêt général dans un commissariat, Rayan y retrouve avec effroi sa victime, dont il va devenir le chauffeur. Ce duo va peu à peu apprendre à se connaître...</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260227011500 +0000" stop="20260227033000 +0000" channel="tv8">
     <title lang="tr">Caner Taslaman ile Aklımdaki Sorular Ramazan</title>
