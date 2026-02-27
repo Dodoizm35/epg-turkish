@@ -3131,86 +3131,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Special coverage from Washington DC and London, focusing on President Trump&#x27;s second term.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260226044500 +0000" stop="20260226045900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226050000 +0000" stop="20260226064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Aston Villa - Leeds United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226064500 +0000" stop="20260226065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226070000 +0000" stop="20260226084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford-Brighton Hove Albion</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226084500 +0000" stop="20260226085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226090000 +0000" stop="20260226104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham United - Bournemouth</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226104500 +0000" stop="20260226105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226110000 +0000" stop="20260226124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man. City - Newcastle United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226124500 +0000" stop="20260226125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226130000 +0000" stop="20260226144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Crystal Palace - W. Wanderers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226144500 +0000" stop="20260226145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226150000 +0000" stop="20260226164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Nottingham Forest - Liverpool</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226164500 +0000" stop="20260226165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226170000 +0000" stop="20260226172900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Fulham</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226173000 +0000" stop="20260226175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham Hotspur - Arsenal</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226180000 +0000" stop="20260226182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Everton - Manchester United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226183000 +0000" stop="20260226185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Chelsea - Burnley</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226190000 +0000" stop="20260226192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Aston Villa - Leeds United</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226193000 +0000" stop="20260226195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Netbusters</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260226200000 +0000" stop="20260226220000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260227020000 +0000" stop="20260227050000 +0000" channel="benguturk">
     <title lang="tr">Program Tekrarı</title>
     <desc lang="tr">Program Tekrarı, gün içinde yayınlanan programların tekrarlarını izleyiciye ulaştıran bir yayın kuşağıdır. Haberler, magazin spor ve kültürel içeriklerin tekrarları sayesinde izleyiciler, kaçırdıkları bölümleri kolayca yakalayabilir ve programları istedikleri zaman izleyebilir. İzleyiciye takip imkanı sağlar.</desc>
@@ -6327,6 +6247,471 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <title lang="tr">Akıl Çemberi</title>
     <desc lang="tr">Gündemin sıcak başlıkları gazeteci konuklar ile Akıl Çemberi&#x27;nde tartışılıyor.</desc>
     <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260227002100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Yumurtalar</title>
+    <desc lang="tr">Bilimi Kendin Yap programında sunucu Steve Spangler evde kolayca ulaşabileceğin malzemelerle yapılabilen bilim deneylerini gösteriyor. İzleyiciler hem eğleniyor hem de gaz, ses, mıknatıslar ve sıvılar gibi temel bilim konularının nasıl çalıştığını kendi elleriyle deneyerek öğreniyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227002100 +0000" stop="20260227002700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Gözetleme Uygulamaları Denizi</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227002700 +0000" stop="20260227003000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Mükemmel Fırtına</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227003000 +0000" stop="20260227005100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Bilim Müzesi</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227005100 +0000" stop="20260227005700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayvansız Testler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227005700 +0000" stop="20260227010000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Prematüre Bebekler İçin Yeni Umut</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227010000 +0000" stop="20260227012100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Çılgın Bilim Numaraları</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227012100 +0000" stop="20260227012700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Arama Kurtarma Robotları</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227012700 +0000" stop="20260227013000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Ben ve Avatarım</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227013000 +0000" stop="20260227015100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Yiyecek Bilimi</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227015100 +0000" stop="20260227015700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Samanyolu</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227015700 +0000" stop="20260227020000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Toprağın Derinlikleri</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227020000 +0000" stop="20260227022100 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Mayın Avcısı Dronlar</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227022100 +0000" stop="20260227022400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Çevre Dostu Gemiler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227022400 +0000" stop="20260227023000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Güneş Enerjisi</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227023000 +0000" stop="20260227025100 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Büyüyen Ayakkabılar</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227025100 +0000" stop="20260227025400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Şehirlerdeki Isı</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227025400 +0000" stop="20260227030000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Osteoatrit</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227030000 +0000" stop="20260227032100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Oklahoma Bilim Müzesi 2</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227032100 +0000" stop="20260227032400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Çevre Dostu Plastikler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227032400 +0000" stop="20260227033000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayal Edilemeyeni Görmek</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227033000 +0000" stop="20260227035100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Garaj Meraklıları 2</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227035100 +0000" stop="20260227035400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Benim Robotum, Benim Arkadaşım</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227035400 +0000" stop="20260227040000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Daha Kaliteli Ekmek Yapmak</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227040000 +0000" stop="20260227042100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Beyin Jimnastiği</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227042100 +0000" stop="20260227042400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Maddenin Dördüncü Hali</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227042400 +0000" stop="20260227043000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Derin Değişiklikler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227043000 +0000" stop="20260227045100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Soğuk Deneyler</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227045100 +0000" stop="20260227045400 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Ekstrem Risklerle Yüzleşme</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227045400 +0000" stop="20260227050000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Akıllı Hayvan Çiftliği</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227050000 +0000" stop="20260227051200 +0000" channel="da-vinci">
+    <title lang="tr">Bitz ve Bob: Büyük Pop Tepede</title>
+    <desc lang="tr">Renkli bir dünyada geçen Bitz ve Bob, iki kardeşin günlük problemleri çözmek için bilimi ve yaratıcılığı kullanmasını anlatır. Bitz planlar kurarken Bob ona neşesiyle eşlik eder. Her bölümde izleyiciler deneme, düşünme ve çözüm üretme süreçlerini eğlenceli maceralar eşliğinde keşfeder.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227051200 +0000" stop="20260227051500 +0000" channel="da-vinci">
+    <title lang="tr">MathXplosion: Sihirli Eğri</title>
+    <desc lang="tr">MathXplosion çocuklar için matematiği eğlenceli ve anlaşılır hâle getiren öğretici bir programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227051500 +0000" stop="20260227052100 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda</title>
+    <desc lang="tr">Dr. Panda küçük izleyicileri neşeli bir dünyaya götüren animasyon serisidir. Her bölümde Dr Panda farklı bir işte görev alır ve arkadaşlarıyla birlikte karşılaştıkları zor durumlara eğlenceli ve yaratıcı çözümler bulur. Bu süreçte problem çözme, dayanışma ve günlük yaşam becerileri eğlenceli hikâyelerle anlatılır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227052100 +0000" stop="20260227053000 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda: Yumurta Sorunu</title>
+    <desc lang="tr">Dr. Panda küçük izleyicileri neşeli bir dünyaya götüren animasyon serisidir. Her bölümde Dr Panda farklı bir işte görev alır ve arkadaşlarıyla birlikte karşılaştıkları zor durumlara eğlenceli ve yaratıcı çözümler bulur. Bu süreçte problem çözme, dayanışma ve günlük yaşam becerileri eğlenceli hikâyelerle anlatılır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227053000 +0000" stop="20260227054800 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Farklı Bir Hazine</title>
+    <desc lang="tr">Denizaltı Kaşifleri, izleyicileri su altı dünyasında keyifli bir keşif yolculuğuna çıkaran animasyon ve gerçek görüntülerle dolu programdır. Okyanus tabanından kıyılara kadar pek çok deniz canlısı ve yaşam alanı tanıtılırken merak uyandıran bilgiler basit ve eğlenceli bir anlatımla sunulur.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227054800 +0000" stop="20260227060300 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Hayvan Bakıcılığı Kulübü</title>
+    <desc lang="tr">Darwin ve Newts izleyicileri Yeni Zelanda&#x27;nın doğal ortamında iki kardeşin merak ve hayal gücüyle dolu maceralarına götüren eğitici animasyon programıdır. Darwin ile Newts çevrelerindeki doğa olaylarını ve basit bilimsel ilkeleri keşfederek izleyenlere öğrenmenin keyifli yönlerini gösterir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227060300 +0000" stop="20260227061800 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Ayna Ayna</title>
+    <desc lang="tr">Darwin ve Newts izleyicileri Yeni Zelanda&#x27;nın doğal ortamında iki kardeşin merak ve hayal gücüyle dolu maceralarına götüren eğitici animasyon programıdır. Darwin ile Newts çevrelerindeki doğa olaylarını ve basit bilimsel ilkeleri keşfederek izleyenlere öğrenmenin keyifli yönlerini gösterir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227061800 +0000" stop="20260227062400 +0000" channel="da-vinci">
+    <title lang="tr">Süper Kahraman Sprinter Galore</title>
+    <desc lang="tr">Süper Kahraman Sprinter Galore çocuklar için hazırlanmış eğlenceli bir animasyon serisidir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227062400 +0000" stop="20260227063000 +0000" channel="da-vinci">
+    <title lang="tr">Süper Kahraman Sprinter Galore</title>
+    <desc lang="tr">Süper Kahraman Sprinter Galore çocuklar için hazırlanmış eğlenceli bir animasyon serisidir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227063000 +0000" stop="20260227064500 +0000" channel="da-vinci">
+    <title lang="tr">Addison: Çifte Gizem</title>
+    <desc lang="tr">Addison çocuklar için hazırlanmış eğlenceli ve sürükleyici animasyon dizisidir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227064500 +0000" stop="20260227065400 +0000" channel="da-vinci">
+    <title lang="tr">Küçük Hanımın Soruları: Güven Meselesi</title>
+    <desc lang="tr">Küçük Hanımın Soruları programında Mily dokuz yaşında merak ettiği konulara cevap arar. Ailesi ve arkadaşlarıyla sohbet ederek günlük yaşam, duygular, doğa ve olaylar hakkındaki soruları keşfeder. Her bölümde izleyiciler ilginç soruların eğlenceli açıklamalarını takip eder ve dünyayı daha iyi anlamayı öğrenirler.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227065400 +0000" stop="20260227070000 +0000" channel="da-vinci">
+    <title lang="tr">Kosmix: Jüpiter</title>
+    <desc lang="tr">Kosmix izleyiciyi uzay macerasına götüren animasyon serisidir. Robot kaşif Kit evrenin farklı bölgelerinde ilginç olaylarla karşılaşır ve her yeni macerasında gezegenler, yıldızlar ve gök cisimleri hakkında temel uzay bilgilerini öğrenir. Bu süreçte izleyici eğlenceli ve öğretici içeriklerle bilime merak duyar.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227070000 +0000" stop="20260227070300 +0000" channel="da-vinci">
+    <title lang="tr">Kosmix: Jüpiter&#x27;in Uyduları</title>
+    <desc lang="tr">Kosmix izleyiciyi uzay macerasına götüren animasyon serisidir. Robot kaşif Kit evrenin farklı bölgelerinde ilginç olaylarla karşılaşır ve her yeni macerasında gezegenler, yıldızlar ve gök cisimleri hakkında temel uzay bilgilerini öğrenir. Bu süreçte izleyici eğlenceli ve öğretici içeriklerle bilime merak duyar.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227070300 +0000" stop="20260227071800 +0000" channel="da-vinci">
+    <title lang="tr">Doki: Doki İtfaiye Takımı</title>
+    <desc lang="tr">Doki izleyiciyi merak ve keşif dolu bir yolculuğa çıkarır. Doki ile arkadaşları Team Doki adıyla dünyayı dolaşırken çevrelerindeki doğa, bilim ve yaşamla ilgili sorularına cevap arar. Her macerada çocuklar yeni yerler, farklı kültürler ve basit bilimsel kavramlar hakkında bilgi edinir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227071800 +0000" stop="20260227073900 +0000" channel="da-vinci">
+    <title lang="tr">Doki: Çin Seddi</title>
+    <desc lang="tr">Doki izleyiciyi merak ve keşif dolu bir yolculuğa çıkarır. Doki ile arkadaşları Team Doki adıyla dünyayı dolaşırken çevrelerindeki doğa, bilim ve yaşamla ilgili sorularına cevap arar. Her macerada çocuklar yeni yerler, farklı kültürler ve basit bilimsel kavramlar hakkında bilgi edinir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227073900 +0000" stop="20260227075400 +0000" channel="da-vinci">
+    <title lang="tr">Bitz ve Bob: Baloncuk Görevi</title>
+    <desc lang="tr">Renkli bir dünyada geçen Bitz ve Bob, iki kardeşin günlük problemleri çözmek için bilimi ve yaratıcılığı kullanmasını anlatır. Bitz planlar kurarken Bob ona neşesiyle eşlik eder. Her bölümde izleyiciler deneme, düşünme ve çözüm üretme süreçlerini eğlenceli maceralar eşliğinde keşfeder.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227075400 +0000" stop="20260227080300 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda</title>
+    <desc lang="tr">Dr. Panda küçük izleyicileri neşeli bir dünyaya götüren animasyon serisidir. Her bölümde Dr Panda farklı bir işte görev alır ve arkadaşlarıyla birlikte karşılaştıkları zor durumlara eğlenceli ve yaratıcı çözümler bulur. Bu süreçte problem çözme, dayanışma ve günlük yaşam becerileri eğlenceli hikâyelerle anlatılır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227080300 +0000" stop="20260227080900 +0000" channel="da-vinci">
+    <title lang="tr">Dr. Panda: Kişisel Eğitmen</title>
+    <desc lang="tr">Dr. Panda küçük izleyicileri neşeli bir dünyaya götüren animasyon serisidir. Her bölümde Dr Panda farklı bir işte görev alır ve arkadaşlarıyla birlikte karşılaştıkları zor durumlara eğlenceli ve yaratıcı çözümler bulur. Bu süreçte problem çözme, dayanışma ve günlük yaşam becerileri eğlenceli hikâyelerle anlatılır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227080900 +0000" stop="20260227083300 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri</title>
+    <desc lang="tr">Denizaltı Kaşifleri, izleyicileri su altı dünyasında keyifli bir keşif yolculuğuna çıkaran animasyon ve gerçek görüntülerle dolu programdır. Okyanus tabanından kıyılara kadar pek çok deniz canlısı ve yaşam alanı tanıtılırken merak uyandıran bilgiler basit ve eğlenceli bir anlatımla sunulur.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227083300 +0000" stop="20260227090000 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Dev Mürekkep Balığı</title>
+    <desc lang="tr">Denizaltı Kaşifleri, izleyicileri su altı dünyasında keyifli bir keşif yolculuğuna çıkaran animasyon ve gerçek görüntülerle dolu programdır. Okyanus tabanından kıyılara kadar pek çok deniz canlısı ve yaşam alanı tanıtılırken merak uyandıran bilgiler basit ve eğlenceli bir anlatımla sunulur.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227093000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Hayat Kurtaran Kan Bağışları</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227093000 +0000" stop="20260227100000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Mukus ve Temiz Bir Nefes</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227100000 +0000" stop="20260227102400 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Daha Fazla Bilim Sihri</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227102400 +0000" stop="20260227105100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Kendin Yap Projesi Oyuncakları</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227105100 +0000" stop="20260227105400 +0000" channel="da-vinci">
+    <title lang="tr">Bil Bakalım: X-Ray</title>
+    <desc lang="tr">Bil Bakalım küçük izleyiciler için hazırlanmış öğretici bir belgesel programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227105400 +0000" stop="20260227112400 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Sahil Günlükleri</title>
+    <desc lang="tr">Siyaya – Vahşi Dünya&#x27;yı Keşfedelim, doğa ve vahşi yaşamı çocuklara öğretici bir biçimde tanıtan belgesel programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227112400 +0000" stop="20260227115400 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Sörfçü Salyangozlar</title>
+    <desc lang="tr">Siyaya – Vahşi Dünya&#x27;yı Keşfedelim, doğa ve vahşi yaşamı çocuklara öğretici bir biçimde tanıtan belgesel programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227115400 +0000" stop="20260227121800 +0000" channel="da-vinci">
+    <title lang="tr">Denizaltı Kaşifleri: Dev İstridyeler</title>
+    <desc lang="tr">Denizaltı Kaşifleri, izleyicileri su altı dünyasında keyifli bir keşif yolculuğuna çıkaran animasyon ve gerçek görüntülerle dolu programdır. Okyanus tabanından kıyılara kadar pek çok deniz canlısı ve yaşam alanı tanıtılırken merak uyandıran bilgiler basit ve eğlenceli bir anlatımla sunulur.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227121800 +0000" stop="20260227123000 +0000" channel="da-vinci">
+    <title lang="tr">Tek Durak Bilim Dükkanı: Güçlü kıvılcım</title>
+    <desc lang="tr">Tek Durak Bilim Dükkanı, bilimle ilgilenen küçük izleyiciler için hazırlanmış eğlenceli ve öğretici bir programdır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227123000 +0000" stop="20260227123300 +0000" channel="da-vinci">
+    <title lang="tr">Kural Tanımayan Hayvanlar: Sula Granti</title>
+    <desc lang="tr">Kural Tanımayan Hayvanlar belgeseli, vahşi doğadaki farklı specieslerin beklenmedik davranışlarını ve zorluklarla başa çıkma yollarını inceler. Programda hayatta kalmak için verilen mücadeleler, adaptasyon stratejileri ve hayvanların doğal ortamlarındaki ilginç yaşam tarzları basit ve eğlenceli bir anlatımla izleyiciye aktarılır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227123300 +0000" stop="20260227124800 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Kim yaptı?</title>
+    <desc lang="tr">Darwin ve Newts izleyicileri Yeni Zelanda&#x27;nın doğal ortamında iki kardeşin merak ve hayal gücüyle dolu maceralarına götüren eğitici animasyon programıdır. Darwin ile Newts çevrelerindeki doğa olaylarını ve basit bilimsel ilkeleri keşfederek izleyenlere öğrenmenin keyifli yönlerini gösterir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227124800 +0000" stop="20260227125400 +0000" channel="da-vinci">
+    <title lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları: Sonsuz Döngü</title>
+    <desc lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları, izleyicileri bilimsel düşünce ve buluş süreçlerini keşfetmeye yönlendiren eğitici bir programdır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227125400 +0000" stop="20260227130600 +0000" channel="da-vinci">
+    <title lang="tr">Darwin ve Newts: Denizaltı Macerası</title>
+    <desc lang="tr">Darwin ve Newts izleyicileri Yeni Zelanda&#x27;nın doğal ortamında iki kardeşin merak ve hayal gücüyle dolu maceralarına götüren eğitici animasyon programıdır. Darwin ile Newts çevrelerindeki doğa olaylarını ve basit bilimsel ilkeleri keşfederek izleyenlere öğrenmenin keyifli yönlerini gösterir.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260227130600 +0000" stop="20260227130900 +0000" channel="da-vinci">
+    <title lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları: Programlama Döngüsü</title>
+    <desc lang="tr">Da Vinci&#x27;nin Buluş Laboratuarları, izleyicileri bilimsel düşünce ve buluş süreçlerini keşfetmeye yönlendiren eğitici bir programdır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227130900 +0000" stop="20260227133300 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Yarasa Evleri</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227133300 +0000" stop="20260227140000 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Evcil Hayvan Şefi</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227140000 +0000" stop="20260227141500 +0000" channel="da-vinci">
+    <title lang="tr">Tek Bir Şey: Florian Kohler: Bilardonun Artistik Vuruş Efsanesi</title>
+    <desc lang="tr">Tek Bir Şey, izleyicileri Guinness Dünya Rekorları sahipleri ile tanıştıran eğitici ve motive edici bir programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227141500 +0000" stop="20260227143300 +0000" channel="da-vinci">
+    <title lang="tr">Tek Bir Şey: Kaden Galatiuk: Buz Hokeyi Fenomeni</title>
+    <desc lang="tr">Tek Bir Şey, izleyicileri Guinness Dünya Rekorları sahipleri ile tanıştıran eğitici ve motive edici bir programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227143300 +0000" stop="20260227150000 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: Cederberg - Gizli Kütüphane</title>
+    <desc lang="tr">Siyaya – Vahşi Dünya&#x27;yı Keşfedelim, doğa ve vahşi yaşamı çocuklara öğretici bir biçimde tanıtan belgesel programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="da-vinci">
+    <title lang="tr">Siyaya - Vahşi Dünya&#x27;yı Keşfedelim: De Hoop - Umudun Yeri</title>
+    <desc lang="tr">Siyaya – Vahşi Dünya&#x27;yı Keşfedelim, doğa ve vahşi yaşamı çocuklara öğretici bir biçimde tanıtan belgesel programdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Yıldız (Julia Roberts) ve Dövüşçü (Wladimir Klitschko)</title>
+    <desc lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak programı izleyicilere farklı alanlarda başarıya ulaşmış bireylerin hayat hikayelerini ve deneyimlerini sunuyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260227160000 +0000" stop="20260227162400 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Kaleci (Maddie Hinch) ve Kâşif (Ranulph Fiennes)</title>
+    <desc lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak programı izleyicilere farklı alanlarda başarıya ulaşmış bireylerin hayat hikayelerini ve deneyimlerini sunuyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260227162400 +0000" stop="20260227163000 +0000" channel="da-vinci">
+    <title lang="tr">DIY Sci Clips: Make an Amazing Coloured T-Shirt</title>
+    <desc lang="tr">DIY Sci Clips programı bilim dünyasını kısa ve eğlenceli kliplerle izleyiciye tanıtıyor. Bilimsel deneyler, günlük malzemelerle yapılan basit uygulamalar ve şaşırtıcı fenomenler bu içerikte yer alıyor. İzleyiciler bu kliplerle bilimsel konuları merakla keşfedebiliyor ve eğlenceli deneylerle bilime farklı bir açıdan bakabiliyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="da-vinci">
+    <title lang="tr">Görevimiz: İnsan Vücudu: Pankres ve Postacı</title>
+    <desc lang="tr">Görevimiz: İnsan Vücudu, TRT Genç veya çocuk‑genç izleyiciler için uyarlanmış İngiliz eğitim dizisi Operation Ouch!&#x27;ın öğretici ve eğlenceli bir versiyonudur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227172400 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Penguen Robotu</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227172400 +0000" stop="20260227172700 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik</title>
+    <desc lang="tr">Yenilik programı, bilimsel keşifler ve teknoloji alanındaki son gelişmeleri izleyiciye eğlenceli ve öğretici bir şekilde sunuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227172700 +0000" stop="20260227173000 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik</title>
+    <desc lang="tr">Yenilik programı, bilimsel keşifler ve teknoloji alanındaki son gelişmeleri izleyiciye eğlenceli ve öğretici bir şekilde sunuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227173000 +0000" stop="20260227175400 +0000" channel="da-vinci">
+    <title lang="tr">İcatlar Dünyası: Lüks Ağaç Evleri</title>
+    <desc lang="tr">İcatlar Dünyası, buluşlar ve yeniliklerle dolu öğretici bir bilim programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227175400 +0000" stop="20260227175700 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik</title>
+    <desc lang="tr">Yenilik programı, bilimsel keşifler ve teknoloji alanındaki son gelişmeleri izleyiciye eğlenceli ve öğretici bir şekilde sunuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227175700 +0000" stop="20260227180000 +0000" channel="da-vinci">
+    <title lang="tr">Yenilik: Smart Irrigation Bears Fruit</title>
+    <desc lang="tr">Yenilik programı, bilimsel keşifler ve teknoloji alanındaki son gelişmeleri izleyiciye eğlenceli ve öğretici bir şekilde sunuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227190000 +0000" channel="da-vinci">
+    <title lang="tr">Eğlenceli Yapay Zeka</title>
+    <desc lang="tr">Programda yapay zekânın sinir ağları, öğrenme algoritmaları ve gerçek dünya uygulamaları gibi konular izleyiciye sade bir dille açıklanırken, eğlenceli görsel örnekler ve ilginç deneyler eşliğinde sunulur.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227192100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Elektrik</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227192100 +0000" stop="20260227192700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Atık Geri Dönüşümü</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227192700 +0000" stop="20260227193000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Sürüngenler ve Böcekler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227195100 +0000" channel="da-vinci">
+    <title lang="tr">Bilimi Kendin Yap: Renk Bilimi</title>
+    <desc lang="tr">Evde basit deneylerle bilimin sırlarını keşfetmeye hazır ol.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260227195100 +0000" stop="20260227195700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Uçaklardaki Buz Sorununa Çözüm</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227195700 +0000" stop="20260227200000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Dış İskeletler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227202100 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Dost (Courteney Cox) ve Şovmen (Channing Tatum)</title>
+    <desc lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak programı izleyicilere farklı alanlarda başarıya ulaşmış bireylerin hayat hikayelerini ve deneyimlerini sunuyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260227202100 +0000" stop="20260227202700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Çevre Dostu Plastikler</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227202700 +0000" stop="20260227203000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Hayal Edilemeyeni Görmek</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227203000 +0000" stop="20260227205400 +0000" channel="da-vinci">
+    <title lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak: Sihirbaz (Steven Frayne) ve Kaptan (Kate Richardson-Walsh)</title>
+    <desc lang="tr">Bear Grylls&#x27;ın Sunduğu Olağanüstü Olmak programı izleyicilere farklı alanlarda başarıya ulaşmış bireylerin hayat hikayelerini ve deneyimlerini sunuyor.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260227205400 +0000" stop="20260227205700 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Benim Robotum, Benim Arkadaşım</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260227205700 +0000" stop="20260227210000 +0000" channel="da-vinci">
+    <title lang="tr">Futuris: Daha Kaliteli Ekmek Yapmak</title>
+    <desc lang="tr">Futuris; bilim, teknoloji ve çevre alanındaki yenilikleri izleyicilere aktaran eğitici ve bilgilendirici bir programdır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260227000000 +0000" stop="20260227000200 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
@@ -16994,9 +17379,9 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
     <desc lang="tr">Derin devlet tarafından mafyanın içine yerleştirilen bir adamın, narkomafya ve İstanbul kartelinin ortasında şekillenen soluksuz macerası ve aşkla sınavı.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260227200000 +0000" stop="20260227224500 +0000" channel="now">
-    <title lang="tr">Sahtekarlar</title>
-    <desc lang="tr">Ertan Aydın, babası Kadir&#x27;in yanında yetişmiş, başarılı bir avukattır. Müvekkilleri adına savunmayı güçlendirmek için yan yollara sapmaktan da çekinmez. Kadir ve Ertan davalarda hakimin kanaatini müvekkilleri lehine etkileyebilmek için küçük oyunlar kurarlar. Bunun için de profesyonel bir oyuncu olan Aslı&#x27;yla çalışırlar. Aslı tutuklanınca yeni birine ihtiyaç duyarlar. Bu sırada yolları Asya&#x27;yla kesişir. Ertan, Asya&#x27;nın kolayca yalan söyleme becerisinden çok etkilenir ve onlar için biçilmiş bir kaftan olduğuna karar verir. Birlikte çalışmaları için teklifte bulunur. Annesi ve kardeşlerinin maddi manevi bütün sorumluluğunu sırtlamış olan Asya teklifi kabul eder.</desc>
+  <programme start="20260227200000 +0000" stop="20260227223000 +0000" channel="now">
+    <title lang="tr">Kıskanmak</title>
+    <desc lang="tr">Paşazade ailesinin görkemine tezat bir şekilde, sevgisizliğin gölgesiyle büyümüş Seniha&#x27;nın hem geçmişiyle yüzleşmesi hem de hayatını geri alma çabası...</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260227040000 +0000" stop="20260227060000 +0000" channel="nr1-rap">
@@ -19333,9 +19718,9 @@ Keyifli sohbetleriyle dikkat çeken ikili; yemeklere dair özel hikâyeleri ve m
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260227170000 +0000" stop="20260227210000 +0000" channel="star-tv">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&#x27;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260227170000 +0000" stop="20260227230000 +0000" channel="star-tv">
+    <title lang="tr">Sevdiğim Sensin</title>
+    <desc lang="tr">Bir dağ kulübesinde doğup büyüyen Dicle, acımasız abilerinin baskısı yüzünden adeta tutsak bir hayat sürmektedir. Annesiyle yaşadığı kulübenin bahçesinden öteye hiç çıkmamış, dünyaya çok yabancı kalmıştır. Bir gün bölgede yaşanan deprem nedeniyle yolu, İstanbul&#x27;daki konforlu hayatını geride bırakıp vicdan borcuyla askerliğini yapan Erkan&#x27;la kesişir. Kader, Dicle ve Erkan&#x27;ın yolunu dökülen kanla bağlar ve Erkan, Dicle&#x27;yi töre cinayetinden korumak için onunla evlenmek zorunda kalır. Dicle, saf kalbiyle bu evliliği gerçek sanırken, Erkan&#x27;ı askerden dönüşünde ailesinin planladığı başka bir evlilik beklemektedir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260227063000 +0000" stop="20260227081500 +0000" channel="tabii-spor">
@@ -19385,11 +19770,6 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
   <programme start="20260227175500 +0000" stop="20260227190000 +0000" channel="tabii-spor">
     <title lang="tr">El Turco / Toprak Razgatlıoğlu</title>
     <desc lang="tr">El Turco / Toprak Razgatlıoğlu</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260227190000 +0000" stop="20260227210500 +0000" channel="tabii-spor">
-    <title lang="tr">Al Shabab - Al Hilal</title>
-    <desc lang="tr">Suudi Arabistan Pro Lig Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260227005500 +0000" stop="20260227014300 +0000" channel="tabii-tv">
@@ -20412,7 +20792,12 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <desc lang="tr">Süper Lig ve 1. Lig&#x27;deki takımların bulunduğu şehirlere giderek, o bölgeye özgü lezzetleri keşfedecek ve tarihe kısa bir yolculuk yapacaksınız. Ayrıca, o ilin takımlarının önemli isimleri olan futbolcu ve teknik direktörler yörenin en simge yemeklerini ekibimizle birlikte yapmaya çalışıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="trt-3">
+  <programme start="20260227163000 +0000" stop="20260227164000 +0000" channel="trt-3">
+    <title lang="tr">Bizim Ligler</title>
+    <desc lang="tr">Alt liglerde mücadele eden takımların öyküsüne yer veriliyor. Yöneticilerle ve oyuncularla yapılan röportajlar aktarılıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="trt-3">
     <title lang="tr">Spor Akşamı</title>
     <desc lang="tr">Gün içinde spora dair Türkiye ve dünyada yaşanan gelişmelerden ilk siz haberdar olun.
 Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Akşamı&#x27;nda.</desc>
@@ -21596,128 +21981,128 @@ Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#
 Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227080500 +0000" stop="20260227082000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
-    <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227082000 +0000" stop="20260227083500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
+  <programme start="20260227081500 +0000" stop="20260227083000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
+    <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227083500 +0000" stop="20260227084000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227083000 +0000" stop="20260227083500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Temel&#x27;den Öğreniyorum</title>
     <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227084000 +0000" stop="20260227085000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227083500 +0000" stop="20260227084500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227085000 +0000" stop="20260227090500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227084500 +0000" stop="20260227090000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Manidar</title>
+    <desc lang="tr">Ey ahâli! Duyduk duymadık demeyin! Bu mahallede hasbihal, çocuk hikâyeleri ve çocuklar arasında mani yarışmaları var.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227091500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Fülfül Hac Yolunda</title>
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227090500 +0000" stop="20260227092000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
+  <programme start="20260227091500 +0000" stop="20260227093000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gezgin Çelebi ( Ramazan Özel )</title>
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227092000 +0000" stop="20260227093000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227093000 +0000" stop="20260227094000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Düş Fırçası</title>
     <desc lang="tr">Macerayı renklerle buluşturmaya, masallarla havalara uçmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227093000 +0000" stop="20260227094000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227094000 +0000" stop="20260227095000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Sevimli Sabahlar ( Ramazan Özel )</title>
     <desc lang="tr">Ayşe, her sabah güne kuklası Rıfkı&#x27;nın hikayesiyle başlıyor. Tekerlemeler, şarkılar, bilmecelerle dolu bir hikaye, Sevimli Sabahlar&#x27;da bizleri bekliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227094000 +0000" stop="20260227095500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227095000 +0000" stop="20260227100500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Meraklı Hafiye</title>
     <desc lang="tr">Arif Baba’nın hazırladığı bulmacaların cevabını arayan meraklı hafiyemiz Ali; eğlenceli arkadaşı Caner ve onu hiç yalnız bırakmayan sevimli köpeği Rıkkıbız’ın Arifane Sahafı’ndaki eğlenceli maceraları...</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227095500 +0000" stop="20260227101000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227100500 +0000" stop="20260227102000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Haklı Karınca</title>
     <desc lang="tr">Kura ve arkadaşlarının, dünyayı ve kendilerini tanırken yaşadıkları maceralar küçük izleyicilerle buluşuyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227101000 +0000" stop="20260227102500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227102000 +0000" stop="20260227103500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Küçük Hafız Emin</title>
     <desc lang="tr">Küçük Hafız Emin ve Kur&#x27;an kursu arkadaşlarının renkli maceraları ekrana geliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227102500 +0000" stop="20260227103000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227103500 +0000" stop="20260227104000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Ayrı Telden</title>
     <desc lang="tr">Bir telde birbiriyle anlaşamayan iki kuş... Ayrı telden çalan kuşlarımız Fikri ve Zikri’nin eğlenceli sohbetlerini gelin birlikte dinleyelim.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227103000 +0000" stop="20260227104500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227104000 +0000" stop="20260227105500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mercanya</title>
     <desc lang="tr">Macera, dostluk ve eğlence dolu bu hikâyeye sen de ortak ol. 
 Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#x27;da buluşmaya hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227104500 +0000" stop="20260227110000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227105500 +0000" stop="20260227111000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aylabera</title>
     <desc lang="tr">Ayla ve Bera adlı iki kardeşin macera dolu hikayesi ekrana geliyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227110000 +0000" stop="20260227111500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227111000 +0000" stop="20260227112000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Hay Hak ( Ramazan Özel )</title>
     <desc lang="tr">Hay Hak ile Hacivat ve Karagöz&#x27;ün günlük yaşamına konuk olmaya ne dersiniz?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227111500 +0000" stop="20260227113000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227112000 +0000" stop="20260227113500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Yumurcalı</title>
     <desc lang="tr">Aşağı Yumurcalı ve Yukarı Yumurcalı mahalleleri arasında geçen eğlenceli, heyecan dolu bir köy hikâyesine hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227113000 +0000" stop="20260227114000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227113500 +0000" stop="20260227114500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Miş Mış</title>
     <desc lang="tr">Hayal gücüyle dolu bir ailenin maceralarına hazır olun!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227114000 +0000" stop="20260227115000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227114500 +0000" stop="20260227115500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Mimikolar</title>
     <desc lang="tr">Alabildiğine geniş beyaz bir dünyada, sevimli kahramanlarımız Gago, Filo ve Beno, o tatlı mimikleriyle yine ne anlatıyor?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227115000 +0000" stop="20260227120000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227115500 +0000" stop="20260227120500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Duyarlı Tilki</title>
     <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227120000 +0000" stop="20260227121500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227120500 +0000" stop="20260227122000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Şef Lina ( Ramazan Özel )</title>
     <desc lang="tr">Annesinin yardımıyla açtığı dijital platform kanalında Lina, birlikte yaptıkları yemeklerin videosunu paylaşır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227121500 +0000" stop="20260227122500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227122000 +0000" stop="20260227123000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Benim Adım Mucize</title>
     <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
     <category lang="tr">Eğitim</category>
   </programme>
-  <programme start="20260227122500 +0000" stop="20260227123500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227123000 +0000" stop="20260227124000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Şeker Hoca</title>
     <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227123500 +0000" stop="20260227125000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227124000 +0000" stop="20260227125500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Geri Dön Çufi</title>
     <desc lang="tr">Furkan ve arkadaşları, mahallelerindeki eski oyuncakları tamir ediyorlar. Peki Furkan kaybettiği oyuncağı Çufi’yi bulabilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227125000 +0000" stop="20260227130500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227125500 +0000" stop="20260227131000 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Aslan Parçası Cesur</title>
     <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227130500 +0000" stop="20260227131500 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227131000 +0000" stop="20260227131500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Kara İle Keçe ( Ramazan Özel )</title>
     <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
@@ -21733,7 +22118,7 @@ Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#
     <category lang="tr">Eğitim</category>
   </programme>
   <programme start="20260227134000 +0000" stop="20260227135500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Dikkat Balonu</title>
+    <title lang="tr">Dikkat Balonu ( Ramazan Özel )</title>
     <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
@@ -21749,29 +22134,171 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260227141000 +0000" stop="20260227142500 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
+    <title lang="tr">Cümbür Cemaat ( Ramazan Özel )</title>
     <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227142500 +0000" stop="20260227144000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Heybeli Tiyatro</title>
-    <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227144000 +0000" stop="20260227145000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260227142500 +0000" stop="20260227143500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Zekice İşler</title>
     <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
     <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227143500 +0000" stop="20260227145000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
+    <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
+    <category lang="tr">Eğitim</category>
   </programme>
   <programme start="20260227145000 +0000" stop="20260227150500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Fülfül Hac Yolunda</title>
     <desc lang="tr">Murat, atölyede üzeri tozlanmış olan Fülfül&#x27;ü keşfeder. Vaktiyle anne ve babasının Fülfül ile yaptıkları kutsal topraklar yolculuğunu o da deneyimlemek ister ve bu unutulmaz macera işte böyle başlar!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260227150500 +0000" stop="20260227210000 +0000" channel="trt-diyanet-cocuk">
-    <title lang="tr">Gezgin Çelebi ( Semavi&#x27;nin Sırrı )</title>
+  <programme start="20260227150500 +0000" stop="20260227152000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gezgin Çelebi ( Ramazan Özel )</title>
     <desc lang="tr">Ormanların fatihi Çelebi ve dedesi Semavi, mavi karavanlarıyla yine masalsı bir keşifte...</desc>
     <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227152000 +0000" stop="20260227153500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Manidar</title>
+    <desc lang="tr">Ey ahâli! Duyduk duymadık demeyin! Bu mahallede hasbihal, çocuk hikâyeleri ve çocuklar arasında mani yarışmaları var.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227153500 +0000" stop="20260227155000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Hay Hak ( Ramazan Özel )</title>
+    <desc lang="tr">Hay Hak ile Hacivat ve Karagöz&#x27;ün günlük yaşamına konuk olmaya ne dersiniz?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227155000 +0000" stop="20260227160500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Meraklı Hafiye ( Ramazan Özel )</title>
+    <desc lang="tr">Arif Baba’nın hazırladığı bulmacaların cevabını arayan meraklı hafiyemiz Ali; eğlenceli arkadaşı Caner ve onu hiç yalnız bırakmayan sevimli köpeği Rıkkıbız’ın Arifane Sahafı’ndaki eğlenceli maceraları...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227160500 +0000" stop="20260227162000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Şef Lina</title>
+    <desc lang="tr">Lina ve annesi Tuba&#x27;nın keyifli mutfağına davetlisiniz!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227162000 +0000" stop="20260227163500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Haklı Karınca</title>
+    <desc lang="tr">Kura ve arkadaşlarının, dünyayı ve kendilerini tanırken yaşadıkları maceralar küçük izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227163500 +0000" stop="20260227165000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Küçük Hafız Emin</title>
+    <desc lang="tr">Küçük Hafız Emin ve Kur&#x27;an kursu arkadaşlarının renkli maceraları ekrana geliyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227165000 +0000" stop="20260227165500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Ayrı Telden</title>
+    <desc lang="tr">Bir telde birbiriyle anlaşamayan iki kuş... Ayrı telden çalan kuşlarımız Fikri ve Zikri’nin eğlenceli sohbetlerini gelin birlikte dinleyelim.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227165500 +0000" stop="20260227171000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Mercanya</title>
+    <desc lang="tr">Macera, dostluk ve eğlence dolu bu hikâyeye sen de ortak ol. 
+Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#x27;da buluşmaya hazır mısınız?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227171000 +0000" stop="20260227172500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Aylabera</title>
+    <desc lang="tr">Ayla ve Bera adlı iki kardeşin macera dolu hikayesi ekrana geliyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227172500 +0000" stop="20260227174000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Yumurcalı</title>
+    <desc lang="tr">Aşağı Yumurcalı ve Yukarı Yumurcalı mahalleleri arasında geçen eğlenceli, heyecan dolu bir köy hikâyesine hazır olun!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227174000 +0000" stop="20260227175000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Miş Mış</title>
+    <desc lang="tr">Hayal gücüyle dolu bir ailenin maceralarına hazır olun!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227175000 +0000" stop="20260227180000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Mimikolar</title>
+    <desc lang="tr">Alabildiğine geniş beyaz bir dünyada, sevimli kahramanlarımız Gago, Filo ve Beno, o tatlı mimikleriyle yine ne anlatıyor?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227181000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Duyarlı Tilki</title>
+    <desc lang="tr">Duyarlı Tilki, adab-ı muaşeret, doğa sevgisi ve güzel davranışlarıyla çocuklara yol gösteriyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227181000 +0000" stop="20260227182000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Benim Adım Mucize</title>
+    <desc lang="tr">Profesör Reha, Yaman ve Civan... Üç bilim meraklısı, Kaşif ile vücudumuzun bilinmeyenlerine doğru yolculuğa çıkıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227182000 +0000" stop="20260227183000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Düş Fırçası</title>
+    <desc lang="tr">Macerayı renklerle buluşturmaya, masallarla havalara uçmaya hazır mısınız?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227183000 +0000" stop="20260227184000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Şeker Hoca</title>
+    <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227184000 +0000" stop="20260227185500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Geri Dön Çufi</title>
+    <desc lang="tr">Furkan ve arkadaşları, mahallelerindeki eski oyuncakları tamir ediyorlar. Peki Furkan kaybettiği oyuncağı Çufi’yi bulabilecek mi?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227191000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Aslan Parçası Cesur</title>
+    <desc lang="tr">Kahramanımız Cesur, korkusunu yenmeyi başarıp kedi çetesinin lideri Sarp ve yardımcısı Şaşkın ile mücadele edebilecek mi?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227191000 +0000" stop="20260227192000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Kara İle Keçe ( Ramazan Özel )</title>
+    <desc lang="tr">Maharetli ve muzip kalemlerimiz Kara ile Keçe’nin çizimleriyle, eğlenirken öğrenmeye hazır mısınız?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227192000 +0000" stop="20260227193000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Galip Mülayim ( Ramazan Özel )</title>
+    <desc lang="tr">Galip Mülayim ve arkadaşlarının, dinimizin esaslarını öğrenirken neler yaşadıklarına gelin birlikte tanık olalım.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227194500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">7 Kıtadan İyilik Habercileri</title>
+    <desc lang="tr">Farklı kıtalardan yedi çocuğun, yaptıkları haberlerle, iyiliği yaymak için verdiği mücadele konu alınıyor.</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227194500 +0000" stop="20260227200000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Dikkat Balonu ( Ramazan Özel )</title>
+    <desc lang="tr">Kahramanımız Elif, Kapadokya’nın en eğlenceli balonunda Âgâh Baba ve Sema ile dikkat oyununda!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227201000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Gugular</title>
+    <desc lang="tr">Bilge Degu, şefkatli Agu, güçlü Bagu, çılgın Hagu ve minik Çogu ile tanışmaya hazır mısınız?  
+Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular her gün ekranlarda.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227201000 +0000" stop="20260227202500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Cümbür Cemaat ( Ramazan Özel )</title>
+    <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227202500 +0000" stop="20260227204000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Heybeli Tiyatro ( Ramazan Özel )</title>
+    <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
+    <category lang="tr">Eğitim</category>
+  </programme>
+  <programme start="20260227204000 +0000" stop="20260227204500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Temel&#x27;den Öğreniyorum</title>
+    <desc lang="tr">Asya ile Eymen, Peygamber Efendimiz&#x27;in sünnetlerini eğlenceli maceralarla Temel&#x27;den öğreniyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227204500 +0000" stop="20260227205500 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Zekice İşler</title>
+    <desc lang="tr">Mucit Zeki ve yeğenleriyle yeni bir yolculuğa hazır mısınız?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260227205500 +0000" stop="20260227211000 +0000" channel="trt-diyanet-cocuk">
+    <title lang="tr">Manidar</title>
+    <desc lang="tr">Ey ahâli! Duyduk duymadık demeyin! Bu mahallede hasbihal, çocuk hikâyeleri ve çocuklar arasında mani yarışmaları var.</desc>
+    <category lang="tr">Eğitim</category>
   </programme>
   <programme start="20260227001500 +0000" stop="20260227004500 +0000" channel="trt-eba">
     <title lang="tr">İngilizce - 11</title>
@@ -22902,7 +23429,12 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
     <desc lang="tr">Süper Lig ve 1. Lig&#x27;deki takımların bulunduğu şehirlere giderek, o bölgeye özgü lezzetleri keşfedecek ve tarihe kısa bir yolculuk yapacaksınız. Ayrıca, o ilin takımlarının önemli isimleri olan futbolcu ve teknik direktörler yörenin en simge yemeklerini ekibimizle birlikte yapmaya çalışıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260227163000 +0000" stop="20260227170000 +0000" channel="trt-spor">
+  <programme start="20260227163000 +0000" stop="20260227164000 +0000" channel="trt-spor">
+    <title lang="tr">Bizim Ligler</title>
+    <desc lang="tr">Alt liglerde mücadele eden takımların öyküsüne yer veriliyor. Yöneticilerle ve oyuncularla yapılan röportajlar aktarılıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260227164000 +0000" stop="20260227170000 +0000" channel="trt-spor">
     <title lang="tr">Spor Akşamı</title>
     <desc lang="tr">Gün içinde spora dair Türkiye ve dünyada yaşanan gelişmelerden ilk siz haberdar olun.
 Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Akşamı&#x27;nda.</desc>
@@ -23041,6 +23573,7 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
   </programme>
   <programme start="20260227123500 +0000" stop="20260227125000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Oyun Modu</title>
+    <desc lang="tr">E-Spor dünyasındaki gelişmelerin ekrana taşındığı programda; turnuvalara, takımlara ve oyuncularla yapılan röportajlara yer veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260227125000 +0000" stop="20260227125500 +0000" channel="trt-spor-yildiz">
@@ -23238,25 +23771,21 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">Fransa Ve İsviçre&#x27;de Ramazan</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260227173000 +0000" stop="20260227180000 +0000" channel="trt-turk">
+  <programme start="20260227173000 +0000" stop="20260227180500 +0000" channel="trt-turk">
     <title lang="tr">Misafir Kapıda</title>
     <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260227180000 +0000" stop="20260227181500 +0000" channel="trt-turk">
+  <programme start="20260227180500 +0000" stop="20260227182000 +0000" channel="trt-turk">
     <title lang="tr">Fabrika Ayarı</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260227181500 +0000" stop="20260227183000 +0000" channel="trt-turk">
+  <programme start="20260227182000 +0000" stop="20260227184000 +0000" channel="trt-turk">
     <title lang="tr">Zuhurat</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260227183000 +0000" stop="20260227184500 +0000" channel="trt-turk">
+  <programme start="20260227184000 +0000" stop="20260227190000 +0000" channel="trt-turk">
     <title lang="tr">Yeni Hayatım Hakkında</title>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260227184500 +0000" stop="20260227190000 +0000" channel="trt-turk">
-    <title lang="tr">5 Mekan 5 Makam</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260227190000 +0000" stop="20260227194500 +0000" channel="trt-turk">
@@ -23545,9 +24074,19 @@ Kardeşlik köprülerinin kurulduğu, komşuluk bağlarının güçlendiği ve y
     <desc lang="tr">Her gün farklı mecralarda birçok haberle karşılaşıyoruz. Peki bu haberler ne kadar doğru? Haberlerin doğru mu yoksa çarpıtma mı olduğunu nasıl anlayabiliriz?</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260227170000 +0000" stop="20260227211500 +0000" channel="trt1">
-    <title lang="tr">Taşacak Bu Deniz</title>
-    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&#x27;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&#x27;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&#x27;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&#x27;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&#x27;a gelmiştir.</desc>
+  <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="trt1">
+    <title lang="tr">Maç Özel</title>
+    <desc lang="tr">Maç heyecanı TRT ekranlarında yaşanıyor. Maç özetleri, özel röportajlar, analizler ve yorumlar, Maç Özel programında izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227200000 +0000" channel="trt1">
+    <title lang="tr">Sırbistan - Türkiye</title>
+    <desc lang="tr">FIBA 2027 Basketbol Dünya Kupası Elemeleri</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260227200000 +0000" stop="20260227211500 +0000" channel="trt1">
+    <title lang="tr">Vefa Sultan</title>
+    <desc lang="tr">Vefa Sultan, yeni sezonunda Muslihuddin Mustafa’nın Hac vazifesi sonrası pirlik yolculuğuna ve İstanbul’daki mürşitlik dönemine odaklanıyor. Şehre döndüğünde dergâhın duvarlarını aşan sorumluluklarla karşılaşan Vefa Sultan, büyüyen şehrin karmaşasında kaybolan ruhlara rehberlik ederek onları kendi hakikatlerine kavuşturuyor. İnsanın kendi nefsiyle verdiği büyük savaşı sarsıcı bir dille işleyen dizi, merhamet ve adalet arasındaki ince çizgide etkileyici bir manevi serüven sunuyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="turkhaber">
@@ -24323,271 +24862,6 @@ Ancak Akarsu Ailesi’nin hayatı Cemile’nin kocasının ceketinde bulduğu me
     <desc lang="tr">&quot;Hava-Yol-Para Durumu&quot;, günün hava koşullarını, yol ve trafik bilgisini, ekonomi ve piyasalardaki son durumu tek çatı altında sunan pratik bir bilgilendirme programıdır. Günlük yaşamın akışını etkileyen tüm veriler hızlı ve anlaşılır bir şekilde izleyiciye aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260227011800 +0000" stop="20260227014500 +0000" channel="tv5-monde">
-    <title lang="tr">Le journal Afrique</title>
-    <desc lang="tr">Toute l&#x27;actualité africaine proposée par la rédaction de TV5MONDE.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227014500 +0000" stop="20260227031600 +0000" channel="tv5-monde">
-    <title lang="tr">La grande librairie</title>
-    <desc lang="tr">Augustin Trapenard reçoit Bernard Werber, pour &quot;La voix de l&#x27;arbre&quot;, édité chez Albin Michel ; Gaspard Koenig, pour &quot;Aqua&quot;, paru aux éditions de L&#x27;Observatoire ; Simonetta Greggio, pour &quot;Le souffle de la forêt&quot;, publié aux éditions Arthaud ; Jean-Yves Jouannais, pour &quot;Une forêt&quot;, paru chez Albin Michel ; Pauline Peyrade, pour &quot;Les habitantes&quot;, publié aux éditions de Minuit.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227031600 +0000" stop="20260227041700 +0000" channel="tv5-monde">
-    <title lang="tr">Le 23h</title>
-    <desc lang="tr">Le grand JT du soir de France Télévisions, diffusé à heure fixe et ouvert sur l&#x27;économie, l&#x27;Europe, l&#x27;international et la politique.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227041700 +0000" stop="20260227043000 +0000" channel="tv5-monde">
-    <title lang="tr">Le dessous des cartes</title>
-    <desc lang="tr">Zoom sur l&#x27;objet qui a redéfini les conflits du XXIe siècle : le drone. De la frappe chirurgicale ayant tué Yahya Sinouar à Gaza aux essaims de micro-drones FPV utilisés pour bloquer l&#x27;armée russe en Ukraine, ces engins volants sans pilotes prennent des formes multiples et sont désormais sur tous les fronts.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227043000 +0000" stop="20260227045800 +0000" channel="tv5-monde">
-    <title lang="tr">Allô tribunal: Tapage mélodieux</title>
-    <desc lang="tr">Une affaire de coups et blessures volontaires oppose Natou Léandre à Tené Samuel. Le plaignant explique que son cousin l&#x27;a assommé avec une bouteille de vin.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227045800 +0000" stop="20260227052500 +0000" channel="tv5-monde">
-    <title lang="tr">Le 6h info</title>
-    <desc lang="tr">Un rendez-vous réveil-matin, avec un point sur l&#x27;actualité assorti de différentes rubriques qui permettent d&#x27;en explorer certains aspects plus en profondeur.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227052500 +0000" stop="20260227052900 +0000" channel="tv5-monde">
-    <title lang="tr">Météo</title>
-    <desc lang="tr">Le bulletin météorologique international.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260227052900 +0000" stop="20260227054600 +0000" channel="tv5-monde">
-    <title lang="tr">Télématin</title>
-    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260227054600 +0000" stop="20260227055000 +0000" channel="tv5-monde">
-    <title lang="tr">Première page: Le bonheur</title>
-    <desc lang="tr">&quot;Première page&quot; est une collection de 11 courts métrages de 2 minutes 15 dont l&#x27;ambition est de mettre en lumière les jeunes talents émergents de l&#x27;animation tout en rendant hommage à la littérature.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227055000 +0000" stop="20260227062100 +0000" channel="tv5-monde">
-    <title lang="tr">Télématin</title>
-    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260227062100 +0000" stop="20260227062500 +0000" channel="tv5-monde">
-    <title lang="tr">Salle des profs: Coin coin et Carotte</title>
-    <desc lang="tr">Le quotidien de cinq collègues professeurs qui forment une joyeuse bande d&#x27;amis qui s&#x27;aiment, se taquinent et accumulent toutes sortes de mésaventures.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227062500 +0000" stop="20260227062900 +0000" channel="tv5-monde">
-    <title lang="tr">Cap sur les oasis: Le Moulin d&#x27;abondance</title>
-    <desc lang="tr">Le Moulin d&#x27;Abondance, à Fougerolles-Saint-Valbert, en Haute-Saône, est un lieu qui propose d&#x27;accueillir des séminaires, mariages ou vacanciers notamment.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260227062900 +0000" stop="20260227064900 +0000" channel="tv5-monde">
-    <title lang="tr">Télématin</title>
-    <desc lang="tr">De l&#x27;info et de la bonne humeur, sept jours sur sept : résolument dans l&#x27;air du temps, la première matinale de France, forte de sa richesse éditoriale et de sa dynamique d&#x27;équipe, aborde de nombreuses thématiques et traite l&#x27;actualité avec sérieux et sans dramatisation.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260227064900 +0000" stop="20260227065300 +0000" channel="tv5-monde">
-    <title lang="tr">VF</title>
-    <desc lang="tr">Mode, design, gastronomie, art de vivre, chaque petit reportage, extrait du magazine Version française, est une illustration du chic à la française.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227065300 +0000" stop="20260227070000 +0000" channel="tv5-monde">
-    <title lang="tr">VF</title>
-    <desc lang="tr">Mode, design, gastronomie, art de vivre, chaque petit reportage, extrait du magazine Version française, est une illustration du chic à la française.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227070000 +0000" stop="20260227072700 +0000" channel="tv5-monde">
-    <title lang="tr">Le téléjournal</title>
-    <desc lang="tr">L&#x27;actualité présentée par la rédaction de Radio-Canada.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227072700 +0000" stop="20260227074000 +0000" channel="tv5-monde">
-    <title lang="tr">Bestioles et cie: Le vice-roi et le monarque</title>
-    <desc lang="tr">Près des lacs, des arbres, des champs, il y a toujours des petites bestioles. Souvent craintes parce que méconnues, elles sont pourtant fascinantes ! Plongée au coeur de leur univers : sous-estimées à tort, elles ont un rôle important dans le cycle de la nature.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227074000 +0000" stop="20260227075200 +0000" channel="tv5-monde">
-    <title lang="tr">Idéfix et les Irréductibles: Les bannis de Lutèce</title>
-    <desc lang="tr">A Lutèce, Idéfix et ses amis animaux, Turbine la chienne, Baratine une chatte, le pigeon Asmatix et les autres, luttent contre les envahisseurs romains. A la Louve, un palais fortifié, le général Labienus et sa chatte Monalisa ont pour mission d&#x27;achever la transformation de la ville en cité romaine.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260227075200 +0000" stop="20260227075900 +0000" channel="tv5-monde">
-    <title lang="tr">Le Petit Geek</title>
-    <desc lang="tr">Comment créer un jeu vidéo ? Quels sont les dangers des écrans et des identités numériques ? Dans chaque épisode, des enfants décryptent le monde virtuel.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227075900 +0000" stop="20260227081000 +0000" channel="tv5-monde">
-    <title lang="tr">Les Croquemoutard: Coup de vieux</title>
-    <desc lang="tr">Morfale se découvre un cheveu blanc, c&#x27;est le choc, il se sent vieux. Cherchant d&#x27;abord à se rajeunir, il apprend ensuite que les vieux ont des privilèges chez les humains. Il décide d&#x27;en profiter, de se faire servir. Excédée, sa famille tente de lui faire regretter de jouer les vieux.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260227081000 +0000" stop="20260227082200 +0000" channel="tv5-monde">
-    <title lang="tr">Les Croquemoutard: Opération Troll</title>
-    <desc lang="tr">Fraîchement installés à la Cité à des clapiers, les Croquemoutard, une famille de trolls, sont surpris de découvrir les petites manies des êtres humains qui les entourent. Entre confrontations de moeurs et coutumes, pas sûr que les plus bizarres soient ceux que l&#x27;on croit. Un bel éloge de la différence et du vivre ensemble, plein d&#x27;inventivité et d&#x27;humour.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260227082200 +0000" stop="20260227085000 +0000" channel="tv5-monde">
-    <title lang="tr">Chine - Les grands maîtres de l&#x27;art: Yan Gongda - L&#x27;art du calligraphe</title>
-    <desc lang="tr">Yan Gongda, héritier d&#x27;une longue lignée d&#x27;artistes, incarne l&#x27;excellence de la calligraphie chinoise contemporaine. Il allie rigueur technique et liberté d&#x27;expression dans une pratique profondément spirituelle.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260227085000 +0000" stop="20260227091300 +0000" channel="tv5-monde">
-    <title lang="tr">Escapades en Suisse Italienne: Giornico et Chironico</title>
-    <desc lang="tr">Découverte du centre historique de Giornico, avec ses églises et ses fresques murales, en compagnie de l&#x27;historien Fabrizio Viscontini. Dégustation de produits locaux à la ferme de Giorgio Lucchini. Avec Fausta Bionda et son fils Enea, initiation à une discipline spectaculaire : l&#x27;escalade de bloc.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227091300 +0000" stop="20260227094000 +0000" channel="tv5-monde">
-    <title lang="tr">Chef pays</title>
-    <desc lang="tr">Des chefs proposent une recette inédite et facile à réaliser avec un ingrédient phare des Outre-Mers (un fruit, un légume, une viande, un poisson ou une épice). A cette occasion, ils évoquent son origine, son histoire et ses bienfaits. Chefs, nutritionnistes et producteurs issus de tous les Outre-mer réagissent tout au long de l&#x27;émission en duplex pour partager leurs conseils et leurs astuces de cuisine.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227094000 +0000" stop="20260227094400 +0000" channel="tv5-monde">
-    <title lang="tr">Dans le viseur</title>
-    <desc lang="tr">Reportages et découvertes culturelles incontournables par l&#x27;équipe des chroniqueurs de Joëlle Rebetez dans l&#x27;émission suisse \&quot; Ramdam \&quot;.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260227094400 +0000" stop="20260227105000 +0000" channel="tv5-monde">
-    <title lang="tr">C dans l&#x27;air</title>
-    <desc lang="tr">&quot;C dans l&#x27;air&quot; rend compte, en compagnie d&#x27;experts, de ce qui fait l&#x27;actualité et donne aux téléspectateurs les clés nécessaires pour la comprendre et l&#x27;appréhender dans sa globalité. La fin de l&#x27;émission est dédiée aux questions posées par les téléspectateurs par SMS, Internet ou via les réseaux sociaux.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227105000 +0000" stop="20260227111700 +0000" channel="tv5-monde">
-    <title lang="tr">Ligue 1 McDonald&#x27;s : Avant-matchs</title>
-    <desc lang="tr">Présentation de la prochaine journée du championnat de France de football.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260227111700 +0000" stop="20260227114100 +0000" channel="tv5-monde">
-    <title lang="tr">Un si grand soleil</title>
-    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227114100 +0000" stop="20260227114500 +0000" channel="tv5-monde">
-    <title lang="tr">Ils vécurent heureux: Blanche-Neige et le Prince</title>
-    <desc lang="tr">Huit couples mythiques, comme Blanche-Neige et son Prince qui se sont mariés sans se connaître, sont confrontés aux réalités de la vie à deux. Sur le divan d&#x27;une thérapeute, ils évoquent avec irrévérence les paradoxes du couple moderne et s&#x27;interrogent sur ce que signifie vraiment aimer.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227114500 +0000" stop="20260227123000 +0000" channel="tv5-monde">
-    <title lang="tr">Tout le monde veut prendre sa place</title>
-    <desc lang="tr">Six candidats affrontent un &quot;champion&quot; autour d&#x27;une série de jeux. Celui ou celle qui parviendra à le déloger deviendra le nouveau champion. Suspense et coups de théâtre rythment ce rendez-vous ludique.</desc>
-    <category lang="tr">Yarışma</category>
-  </programme>
-  <programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="tv5-monde">
-    <title lang="tr">JT 19h30</title>
-    <desc lang="tr">Tous les jours, le JT de 19h30 informe de l&#x27;actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227130000 +0000" stop="20260227143700 +0000" channel="tv5-monde">
-    <title lang="tr">Bellefond: Pilote</title>
-    <desc lang="tr">Surnommé &quot;Condamnator&quot;, le célèbre procureur Antoine Bellefond n&#x27;épargne pas les criminels. Jusqu&#x27;à ce que l&#x27;un d&#x27;eux, innocent, se suicide. Choqué, Bellefond décide de mettre sa carrière en pause. Jusqu&#x27;au jour où sa nièce l&#x27;appelle à l&#x27;aide : son père, le beau-frère d&#x27;Antoine, a été arrêté pour meurtre.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227143700 +0000" stop="20260227145100 +0000" channel="tv5-monde">
-    <title lang="tr">Itinéraires paysans</title>
-    <desc lang="tr">Les différentes pratiques des agriculteurs français en matière d&#x27;environnement, d&#x27;économie et de paysage permettent d&#x27;appréhender une région et son terroir.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260227145100 +0000" stop="20260227150200 +0000" channel="tv5-monde">
-    <title lang="tr">Tendance XXI</title>
-    <desc lang="tr">Une émission consacrée à la création française et à la mode. Elle dresse le portrait de créateurs passionnés et analyse des tendances actuelles ou qui ont profondément marqué l&#x27;histoire de la mode.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227150200 +0000" stop="20260227151000 +0000" channel="tv5-monde">
-    <title lang="tr">Les nouvelles aventures de Kaeloo: Si on jouait avec la règle</title>
-    <desc lang="tr">Kaeloo laisse place à BadK pour jouer à 1, 2, 3 Soleil. Mais pendant ce temps, la Règle du Jeu fait irruption. Il n&#x27;est plus possible d&#x27;arranger les règles à sa manière ou de tricher, sinon les gages tombent. Les Zamis aimeraient contourner les nouvelles règles.</desc>
-    <category lang="tr">Animasyon</category>
-  </programme>
-  <programme start="20260227151000 +0000" stop="20260227152000 +0000" channel="tv5-monde">
-    <title lang="tr">Rocky &amp; Lily : C&#x27;est dans la boîte !</title>
-    <desc lang="tr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle ? Un objet toujours surprenant qui les amène à s&#x27;intéresser à des sujets très divers, allant de l&#x27;histoire des emojis au tri des poubelles ou à la musique électro.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227152000 +0000" stop="20260227153300 +0000" channel="tv5-monde">
-    <title lang="tr">T&#x27;es au top: Lola : Je m&#x27;inquiète pour la planète</title>
-    <desc lang="tr">Très proche des animaux et de la nature, sensible et curieuse, Lola a une conscience aigüe des questions environnementales. Son jeune âge n&#x27;est pas un frein à ses engagements.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260227153300 +0000" stop="20260227155800 +0000" channel="tv5-monde">
-    <title lang="tr">L&#x27;île Kilucru: Milo, trollIlo et l&#x27;eau</title>
-    <desc lang="tr">Milo veut convaincre Trollilo de faire pousser un légume marin que Coralie a rapporté de la mer, le mercombre. Fantomini encourage Coralie à participer à un jeu-questionnaire.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227155800 +0000" stop="20260227162700 +0000" channel="tv5-monde">
-    <title lang="tr">Mémoire(s) de Suisse romande: La vallée des Ormonts</title>
-    <desc lang="tr">Dans le cadre du projet &quot;Mémoire(s) de Suisse romande&quot;, la RTS organise des projections publiques de ses archives dans plusieurs villes helvétiques.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260227162700 +0000" stop="20260227165300 +0000" channel="tv5-monde">
-    <title lang="tr">Maghreb-Orient Express</title>
-    <desc lang="tr">Mohamed Kaci reçoit les personnalités au coeur de l&#x27;actualité de cette partie du monde en perpétuelle ébullition. La société civile témoigne et débat en plateau des événements et des évolutions qui se produisent dans ces pays. Ce magazine est l&#x27;incontournable rendez-vous culturel en Méditerranée.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227165300 +0000" stop="20260227170000 +0000" channel="tv5-monde">
-    <title lang="tr">L&#x27;écologie en action</title>
-    <desc lang="tr">À la découverte de sites écologiques riches en biodiversité.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227170000 +0000" stop="20260227172600 +0000" channel="tv5-monde">
-    <title lang="tr">64&#x27; : Actu</title>
-    <desc lang="tr">Le Monde en Français met l&#x27;accent sur l&#x27;actualité internationale, l&#x27;actualité francophone, culturelle, politique, économique, sociale et sociétale.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227172600 +0000" stop="20260227173000 +0000" channel="tv5-monde">
-    <title lang="tr">Météo</title>
-    <desc lang="tr">Le bulletin météorologique international.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260227173000 +0000" stop="20260227175300 +0000" channel="tv5-monde">
-    <title lang="tr">Allons-y franco !</title>
-    <desc lang="tr">Des journalistes des médias francophones et des chaînes partenaires de TV5MONDE confrontent leur vision de l&#x27;actualité</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227175300 +0000" stop="20260227180200 +0000" channel="tv5-monde">
-    <title lang="tr">L&#x27;invité</title>
-    <desc lang="tr">Rencontre avec des artistes, des écrivains, des acteurs et tous ceux qui font vibrer notre époque. &quot;L&#x27;invité&quot; est le rendez-vous des personnalités qui font l&#x27;actualité.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227180200 +0000" stop="20260227182400 +0000" channel="tv5-monde">
-    <title lang="tr">Un si grand soleil</title>
-    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227182400 +0000" stop="20260227184600 +0000" channel="tv5-monde">
-    <title lang="tr">Un si grand soleil</title>
-    <desc lang="tr">Dans la ville ensoleillée de Montpellier, les vies de différentes familles et personnages se croisent, mêlant amitiés et histoires d&#x27;amour, parfois entrecoupées de drames, deuils et crimes. Ce feuilleton offre une galerie de personnages variés qui font passer le spectateur du rire aux larmes.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260227184600 +0000" stop="20260227190000 +0000" channel="tv5-monde">
-    <title lang="tr">J&#x27;ai les clés</title>
-    <desc lang="tr">Patrick Weber explore les secrets du palais du Coudenberg, le plus beau, le plus grand et le plus prestigieux de tous les palais de son époque.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227190000 +0000" stop="20260227192600 +0000" channel="tv5-monde">
-    <title lang="tr">Le Journal de la RTS</title>
-    <desc lang="tr">Téléjournal de la rédaction de la RTS qui présente l&#x27;actualité en Suisse et dans le monde.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227192600 +0000" stop="20260227193000 +0000" channel="tv5-monde">
-    <title lang="tr">Au détour</title>
-    <desc lang="tr">Les plus beaux coins de France présentés à travers des images, des couleurs, des paysages, des goûts et des odeurs.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260227193000 +0000" stop="20260227195700 +0000" channel="tv5-monde">
-    <title lang="tr">Le Journal de France 2</title>
-    <desc lang="tr">Les principales informations nationales et internationales sont passées à la loupe et mises en perspective, illustrées par des reportages sur le terrain.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260227195700 +0000" stop="20260227200000 +0000" channel="tv5-monde">
-    <title lang="tr">Météo</title>
-    <desc lang="tr">Le bulletin météorologique international.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260227200000 +0000" stop="20260227213000 +0000" channel="tv5-monde">
-    <title lang="tr">Ness et Rayan</title>
-    <desc lang="tr">Ness, femme flic expérimentée, arrête Rayan, un jeune délinquant qui vient de lui voler son portefeuille. Condamné à effectuer un travail d&#x27;intérêt général dans un commissariat, Rayan y retrouve avec effroi sa victime, dont il va devenir le chauffeur. Ce duo va peu à peu apprendre à se connaître...</desc>
-    <category lang="tr">Film</category>
-  </programme>
   <programme start="20260227011500 +0000" stop="20260227033000 +0000" channel="tv8">
     <title lang="tr">Caner Taslaman ile Aklımdaki Sorular Ramazan</title>
     <desc lang="tr">Merak edilen konular uzman konukların sohbetiyle yanıt buluyor.</desc>
@@ -24620,7 +24894,12 @@ Bu programda yok yok! En sıcak haberler, en ilginç olaylar, modadan estetiğe,
     <desc lang="tr">Zuhal Topal&#x27;ın sunduğu yemek yarışmasında, birbirinden renkli ve iddialı kişiler mutfaktaki hünerlerini sergiliyor.</desc>
     <category lang="tr">Yarışma</category>
   </programme>
-  <programme start="20260227170000 +0000" stop="20260227211500 +0000" channel="tv8">
+  <programme start="20260227170000 +0000" stop="20260227191500 +0000" channel="tv8">
+    <title lang="tr">Bil Bakalım</title>
+    <desc lang="tr">Survivor yarışmacıları tarafından oynanan Bil Bakalım oyununda, eğlence ve sürpriz dolu anlar yaşanıyor.</desc>
+    <category lang="tr">Yarışma</category>
+  </programme>
+  <programme start="20260227191500 +0000" stop="20260227211500 +0000" channel="tv8">
     <title lang="tr">Ada Günlüğü</title>
     <desc lang="tr">Survivor 2026 Ünlüler - Gönüllüler yarışmasının en özel anları, kazananları, kaybedenleri ve kamera arkası görüntüleri ekrana taşınıyor.</desc>
     <category lang="tr">Eğlence</category>
