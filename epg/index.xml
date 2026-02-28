@@ -3118,10 +3118,12 @@ Hastanede bulunan bir kanıt, iki aile arasındaki imkansız aşkın kapıların
   </programme>
   <programme start="20260228163000 +0000" stop="20260228183000 +0000" channel="beyaz-tv">
     <title lang="tr">Dora ve Kayıp Altın Şehri</title>
+    <desc lang="tr">Ormanın cesur kâşifi Dora, bu kez ailesini bulmak için tehlikeli bir serüvene atılıyor. Yönetmenliğini James Bobin&#x27;in üstlendiği filmde, başrolde Isabela Merced yer alıyor. Dora ve arkadaşları, kayıp altın şehre ulaşmaya çalışırken bilmeceler, tuzaklar ve zorlu doğa koşullarıyla mücadele ediyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228203000 +0000" channel="beyaz-tv">
     <title lang="tr">Tetikçinin Gecesi</title>
+    <desc lang="tr">Gecenin ilerleyen saatlerinde başlayan yolculuk, ölümcül bir plana dönüşür. Yönetmen Michael Mann imzası taşıyan filmde Tom Cruise, soğukkanlı tetikçi Vincent karakteriyle dikkat çekiyor. Bir taksi şoförü, istemeden bu karanlık görevin parçası olurken, Los Angeles sokaklarında gerilim giderek artıyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260228203000 +0000" stop="20260228220000 +0000" channel="beyaz-tv">
@@ -14244,99 +14246,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <title lang="tr">Kibris TV</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260228000000 +0000" stop="20260228011500 +0000" channel="kontv">
-    <title lang="tr">Kürsüden Gönüllere</title>
-    <desc lang="tr">Kürsüden paylaşılan düşünceler, toplumsal mesajlar ve ilham verici konuşmalar bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak, izleyiciye hem düşündürücü hem de farkındalık kazandıran bir deneyim sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228011500 +0000" stop="20260228033000 +0000" channel="kontv">
-    <title lang="tr">Sahur Vakti</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228033000 +0000" stop="20260228043000 +0000" channel="kontv">
-    <title lang="tr">Hatm-i Şerif</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228043000 +0000" stop="20260228053000 +0000" channel="kontv">
-    <title lang="tr">Sahib-i Ata Sohbetleri</title>
-    <desc lang="tr">Sahib-i Ata Sohbetleri, tarih, kültür ve toplum konularını detaylı ve anlaşılır biçimde izleyiciye sunan bir programdır. Tarihi olaylar kültürel miraslar ve toplumsal değerler ele alınırken, izleyicilere hem bilgilendirici hem düşündürücü içerikler sunulur. Konular derinlemesine işlenir ve ilgi canlı tutulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228053000 +0000" stop="20260228060000 +0000" channel="kontv">
-    <title lang="tr">Muzaffer Dereli Vaaz</title>
-    <desc lang="tr">İzleyiciye dini ve manevi konuları anlaşılır ve etkileyici bir şekilde aktaran bir programdır. Programda güncel toplumsal meseleler, dini öğretiler ve manevi değerler üzerinde durulur. İzleyici, hem bilgilendirici hem de düşündürücü içerikler aracılığıyla günlük yaşamına yön verecek farkındalık kazanır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="kontv">
-    <title lang="tr">Sabah Gündemi</title>
-    <desc lang="tr">Sabah Gündemi, günün ilk saatlerinde ülke ve dünya gündemindeki önemli gelişmeleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir bilgi programıdır. Program siyaset, ekonomi, kültür ve güncel yaşamdan öne çıkan haberleri aktarırken izleyiciye olayları kapsamlı bakış açısıyla takip etme imkanı sağlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228070000 +0000" stop="20260228080000 +0000" channel="kontv">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="kontv">
-    <title lang="tr">Hatm-i Şerif</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="kontv">
-    <title lang="tr">Kürsüden Gönüllere</title>
-    <desc lang="tr">Kürsüden paylaşılan düşünceler, toplumsal mesajlar ve ilham verici konuşmalar bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak, izleyiciye hem düşündürücü hem de farkındalık kazandıran bir deneyim sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228100000 +0000" stop="20260228110000 +0000" channel="kontv">
-    <title lang="tr">Düşüncenin Ayak İzleri</title>
-    <desc lang="tr">Düşüncenin Ayak İzleri, fikir dünyasına dair konuları, önemli düşünürleri ve toplumsal meseleleri izleyiciye detaylı ve anlaşılır bir şekilde sunan bir söyleşi programıdır. Programda alanında uzman konuklar ağırlanır, fikir alışverişi yapılır ve izleyiciye derinlemesine analizler aktarılır.</desc>
-    <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260228110000 +0000" stop="20260228123000 +0000" channel="kontv">
-    <title lang="tr">Nazar Boncuğu</title>
-    <desc lang="tr">Nazar Boncuğu, güncel konuları, toplumsal meseleleri ve kültürel olayları samimi bir sohbet ortamında izleyiciyle buluşturan talk show programıdır. Farklı alanlardan konuklarla gündeme dair başlıklar ele alınır, fikir alışverişi yapılır ve izleyiciye eğlenceli, bilgilendirici bir içerik sunulur her.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260228123000 +0000" stop="20260228133000 +0000" channel="kontv">
-    <title lang="tr">İyilikle Sevindir</title>
-    <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228133000 +0000" stop="20260228154400 +0000" channel="kontv">
-    <title lang="tr">İftara Doğru</title>
-    <desc lang="tr">İftara Doğru, Ramazan ayında iftar saatine yaklaşırken izleyicilere manevi içerikler sunan özel bir yayındır. Programda dualar, kısa sohbetler ve Ramazan&#x27;ın anlamına dair paylaşımlar yer alır. Sıcak ve samimi anlatımıyla izleyicileri iftara hazırlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228154400 +0000" stop="20260228163000 +0000" channel="kontv">
-    <title lang="tr">Çelikkayalar</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260228163000 +0000" stop="20260228174000 +0000" channel="kontv">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260228174000 +0000" stop="20260228180000 +0000" channel="kontv">
-    <title lang="tr">Esma-ül Hüsna</title>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228180000 +0000" stop="20260228182500 +0000" channel="kontv">
-    <title lang="tr">Asfora</title>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260228182500 +0000" stop="20260228192500 +0000" channel="kontv">
-    <title lang="tr">İsmailce</title>
-    <desc lang="tr">İsmailce, izleyiciye Türkiye&#x27;nin farklı bölgelerindeki yaşamı, kültürel değerleri ve toplumsal dinamikleri detaylı ve anlaşılır bir şekilde sunan bir belgesel programıdır. Programda yöresel yaşam, gelenekler, günlük yaşam hikâyeleri ve toplumsal değişimler ele alınır.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260228192500 +0000" stop="20260228203500 +0000" channel="kontv">
-    <title lang="tr">Alın Teri</title>
-    <desc lang="tr">Alın Teri emek üretim ve iş dünyasına dair konuları izleyiciye detaylı ve anlaşılır bir şekilde sunan bir bilgi programıdır. Programda farklı sektörlerden çalışanların hikâyeleri üretim süreçleri ve iş yaşamındaki güncel gelişmeler ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü bir içerik sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260228203500 +0000" stop="20260228210000 +0000" channel="kontv">
-    <title lang="tr">Çelikkayalar</title>
-    <category lang="tr">Diğer</category>
-  </programme>
   <programme start="20260228000000 +0000" stop="20260228010000 +0000" channel="krt-tv">
     <title lang="tr">En iyisi</title>
     <desc lang="tr">KRT TV&#x27;de gündemdeki farklı konuları, tartışmalı meseleleri ve toplumun merak ettiği başlıkları izleyiciyle buluşturuyor. Her bölümde güncel örnekler, olayların arka planı ve açıklayıcı değerlendirmeler sade bir dille ele alınarak izleyiciye aktarılır; izleyici hem bilgi hem de kavrayış kazanıyor.</desc>
@@ -14418,11 +14327,12 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
   </programme>
   <programme start="20260228150000 +0000" stop="20260228154500 +0000" channel="krt-tv">
     <title lang="tr">Caner Taslaman ile Ramazan Sohbetleri</title>
-    <desc lang="tr">Caner Taslaman ile Ramazan Sohbetleri Cumartesi, Pazar KRT&#x27;de.</desc>
+    <desc lang="tr">Caner Taslaman ile Ramazan Sohbetleri, izleyicilere Ramazan ayının ruhunu ve manevi değerlerini aktarıyor. Caner Taslaman, ayet ve hadisler üzerinden toplumsal ve bireysel yaşamda yol gösteren sohbetler sunuyor; ilham verici ve düşündürücü bir deneyim sağlıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260228154500 +0000" stop="20260228160000 +0000" channel="krt-tv">
     <title lang="tr">Ezan</title>
+    <desc lang="tr">Ezanın tarihî kökenlerini, toplumsal ve kültürel önemini izleyiciye sunuyor. Her bölümde ezanın ritmi, sözlerinin anlamı ve günlük yaşamla olan bağlantısı ele alınarak, izleyici hem dini farkındalık kazanıyor hem de ezanın toplum üzerindeki etkilerini derinlemesine anlama fırsatı buluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260228160000 +0000" stop="20260228170000 +0000" channel="krt-tv">
@@ -17987,37 +17897,38 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
   </programme>
   <programme start="20260228050000 +0000" stop="20260228080000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228080000 +0000" stop="20260228084000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228084000 +0000" stop="20260228130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228130000 +0000" stop="20260228150000 +0000" channel="power-tv">
     <title lang="tr">Power 40</title>
-    <desc lang="tr">Türkiye&#x27;de en iyi, en yeni yabancı müziğin nabzını tutan Power Fm&#x27;de en çok çalınan 40 parça, hafta sonları geri sayımla Power TV&#x27;de...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Haftanın en hit 40 şarkısı Power 40&#x27;da! Liste başı parçalar ve en çok konuşulan klipler burada.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228150000 +0000" stop="20260228160000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228160000 +0000" stop="20260228200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228200000 +0000" stop="20260228230000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260228000000 +0000" stop="20260228023000 +0000" channel="s-sport">
     <title lang="tr">Cleveland Cavaliers - Detroit Pistons</title>
@@ -19972,6 +19883,106 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
     <title lang="tr">Başrol</title>
     <desc lang="tr">Başrol, Tele1 ekranında hayatın başrolündeki isimlerin bilinmeyen öykülerini anlatıyor. Türk müziği, sineması, edebiyatı ve futbolunun en etkili isimlerinin yaşamları ve Türkiye&#x27;nin geçirdiği büyük dönüşümler samimi ve detaylı bir şekilde izleyiciye sunuluyor.</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260228013000 +0000" stop="20260228020000 +0000" channel="tgrt-haber">
+    <title lang="tr">Huzura Doğru</title>
+    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260228020000 +0000" stop="20260228030000 +0000" channel="tgrt-haber">
+    <title lang="tr">Osman Ünlü ile Sahur Vakti</title>
+    <desc lang="tr">Osman Ünlü ile Sahur Vakti, Ramazan ayı boyunca Saat; 02:30&#x27;da TGRT Haber ekranlarında canlı yayınlanıyor..</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260228030000 +0000" stop="20260228040000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228040000 +0000" stop="20260228050000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228050000 +0000" stop="20260228073000 +0000" channel="tgrt-haber">
+    <title lang="tr">Seda Akbay İle Gün Başlıyor</title>
+    <desc lang="tr">Günün ilk saatlerinde öne çıkan gelişmeler, yaşamdan renkli anlar ve ilham veren sohbetler bu programda bir araya gelir. Haber, gündem ve keyifli içerikleriyle izleyiciye güne zinde ve bilinçli bir başlangıç yapma fırsatı sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="tgrt-haber">
+    <title lang="tr">Arzu Budak ile Sanatın Kalbi</title>
+    <desc lang="tr">Resimden müziğe, tiyatrodan edebiyata uzanan geniş bir yelpazede sanatın nabzı bu programda tutulur. Yaratıcı isimlerle yapılan keyifli sohbetler, perde arkası hikâyeleri ve ilham veren paylaşımlar izleyiciyle buluşur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228090000 +0000" stop="20260228100000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228100000 +0000" stop="20260228103000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228103000 +0000" stop="20260228110000 +0000" channel="tgrt-haber">
+    <title lang="tr">Doğa ve Biz</title>
+    <desc lang="tr">Doğal yaşam, çevre sorunları ve sürdürülebilirlik başlıkları bu programda anlaşılır bir dille ele alınır. İnsan ile doğa arasındaki ilişki, bilinçlendiren içerikler ve etkileyici görüntülerle izleyiciye aktarılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260228110000 +0000" stop="20260228120000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228120000 +0000" stop="20260228130000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228130000 +0000" stop="20260228133000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228133000 +0000" stop="20260228140000 +0000" channel="tgrt-haber">
+    <title lang="tr">Doğa ve Biz</title>
+    <desc lang="tr">Doğal yaşam, çevre sorunları ve sürdürülebilirlik başlıkları bu programda anlaşılır bir dille ele alınır. İnsan ile doğa arasındaki ilişki, bilinçlendiren içerikler ve etkileyici görüntülerle izleyiciye aktarılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260228140000 +0000" stop="20260228150000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hafta Sonu Haber</title>
+    <desc lang="tr">Hafta boyunca yaşanan önemli olaylar, gündemin öne çıkan başlıkları ve özet analizler bu programda bir araya gelir. Türkiye ve dünyadan haberlerle izleyiciye hafta sonuna yakışan kapsamlı ve rahat bir gündem sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228160000 +0000" channel="tgrt-haber">
+    <title lang="tr">Akşam Gündemi</title>
+    <desc lang="tr">Akşam kuşağında günün öne çıkan haber başlıklarını ve sıcak gelişmeleri bir araya getirir. Siyasi, ekonomik ve toplumsal gündemi değerlendiren bu kuşakta, uzman analizleri ve yorumlar izleyiciye günün kritik haberlerini daha iyi anlamaya dönük bir çerçevede aktarılır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228160000 +0000" stop="20260228163000 +0000" channel="tgrt-haber">
+    <title lang="tr">Akşam Gündemi</title>
+    <desc lang="tr">Akşam kuşağında günün öne çıkan haber başlıklarını ve sıcak gelişmeleri bir araya getirir. Siyasi, ekonomik ve toplumsal gündemi değerlendiren bu kuşakta, uzman analizleri ve yorumlar izleyiciye günün kritik haberlerini daha iyi anlamaya dönük bir çerçevede aktarılır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228163000 +0000" stop="20260228164500 +0000" channel="tgrt-haber">
+    <title lang="tr">Ana Haber&#x27;e Doğru</title>
+    <desc lang="tr">&quot;Ana Habere Doğru&quot; haberleri en güncel gelişmeler ve son dakika haberleri ekranlarınıza getiriyor.. TGRT Haber Ana Haber Bülteni&#x27;nde siyaset dünyasına yön veren hamleler, uluslararası ilişkilerde son gelişmeler, gündemi sarsan olaylar sizlerle paylaşıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228164500 +0000" stop="20260228180000 +0000" channel="tgrt-haber">
+    <title lang="tr">Ferhat Ünlü İle Hafta Sonu Ana Haber</title>
+    <desc lang="tr">Günün tamamında yaşanan ne varsa Ferhat Ünlü Hafta Sonu Ana Haberde. İnsana dokunan haberler. Politikadan, diplomasiden kritik bilgiler. Ferhat Ünlü ile Hafta Sonu Ana Haber 19:45&#x27;de TGRT Haber&#x27;de</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260228180000 +0000" stop="20260228213000 +0000" channel="tgrt-haber">
+    <title lang="tr">Gürkan Hacır ile Taksim Meydanı</title>
+    <desc lang="tr">Türkiye&#x27;nin gündemini belirleyen siyasi, toplumsal ve güncel gelişmeler bu programda masaya yatırılır. Uzman konuklar, çarpıcı yorumlar ve derinlemesine analizlerle izleyiciye çok yönlü bir perspektif sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260228005500 +0000" stop="20260228020000 +0000" channel="tivi6">
     <title lang="tr">Yırtıcı Final</title>
