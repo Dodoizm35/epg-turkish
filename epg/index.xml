@@ -4446,6 +4446,86 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Arşiv Süper Lig</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260302144500 +0000" stop="20260302145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Arsenal - Chelsea</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302164500 +0000" stop="20260302172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302173000 +0000" stop="20260302175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Everton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302180000 +0000" stop="20260302182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Burnley - Brentford</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302183000 +0000" stop="20260302185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds United - Manchester City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302190000 +0000" stop="20260302192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Rewind</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302193000 +0000" stop="20260302195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302200000 +0000" stop="20260302220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302144500 +0000" stop="20260302145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Auxerre</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302164500 +0000" stop="20260302165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302170000 +0000" stop="20260302172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302173000 +0000" stop="20260302175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Metz - Brest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302180000 +0000" stop="20260302182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M.-Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302183000 +0000" stop="20260302185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Lens</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302190000 +0000" stop="20260302192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Rennes - Toulouse</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302193000 +0000" stop="20260302195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ma Super Ligue 1</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302200000 +0000" stop="20260302202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ma Super Ligue 1</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260302203000 +0000" stop="20260302223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260302050000 +0000" stop="20260302070000 +0000" channel="benguturk">
     <title lang="tr">Sevde Namalan ile Bu Sabah</title>
     <desc lang="tr">Sevde Namalan ile Bu Sabah, Bengütürk&#x27;te gündem, analiz ve sıcak konuları izleyicilerle buluşturan bilgilendirici sabah programıdır.</desc>
@@ -4866,151 +4946,75 @@ Aşk nefretleri, entrikaları yenip galip gelebilecek mi? Taşkıranlar ve Ilgaz
     <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260302000500 +0000" stop="20260302003000 +0000" channel="bloomberg-ht">
-    <title lang="tr">The David Rubenstein Show</title>
-    <desc lang="tr">Ünlü Finansçı David Rubenstein iş dünyasında büyük başarılar elde etmiş işverenlerin ilginç hikayelerini ekrana getiriyor.</desc>
+  <programme start="20260302010000 +0000" stop="20260302030000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg: The China Show</title>
+    <desc lang="tr">Your definitive source for news and analysis on the world&#x27;s second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302003000 +0000" stop="20260302012000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Grand Designs</title>
-    <desc lang="tr">Mimarlığın ulaştığı yaratıcı fikirler ve emsalsiz çizgiler ailelerin yuva özlemlerini gerçeğe dönüştürüyor. Tasarımcı ve Yazar Kevin McCloud ile İngiltere’nin en özel mimari projelerini dolaşmaya hazır olun!</desc>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260302030000 +0000" stop="20260302050000 +0000" channel="bloomberg">
+    <title lang="tr">Insight with Haslinda Amin</title>
+    <desc lang="tr">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302012000 +0000" stop="20260302014500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Boat Show</title>
-    <desc lang="tr">The Boat Show, denize ve teknelere tutkuyla bağlı olanlara adanmış bir program. Uluslararası fuarların yanı sıra, marinaları da ziyaret eden ekip son teknolojiyle donatılmış lüks tekneleri tanıtıyorlar.</desc>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Horizons Middle East - Africa</title>
+    <desc lang="tr">Linking the market drivers from overnight in the US and across Asia into the region&#x27;s trading day, with deep dive analysis of the top business, energy and geopolitical stories.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302014500 +0000" stop="20260302023500 +0000" channel="bloomberg-ht">
-    <title lang="tr">The Antiques Brothers</title>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Daybreak: Europe</title>
+    <desc lang="tr">Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we&#x27;ll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302023500 +0000" stop="20260302031000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Macerasever</title>
-    <desc lang="tr">Orkun Olgar ile Macerasever, izleyicileri ekranlarında macera dolu yeni keşiflere davet ediyor.</desc>
-    <category lang="tr">Gezi &amp; Seyahat</category>
+  <programme start="20260302070000 +0000" stop="20260302090000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg: The Opening Trade</title>
+    <desc lang="tr">Everything you need to know as markets open across Europe. We break down today&#x27;s biggest stories and speak to guests with skin in the game.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302031000 +0000" stop="20260302040000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260302090000 +0000" stop="20260302100000 +0000" channel="bloomberg">
+    <title lang="tr">The Pulse with Francine Lacqua</title>
+    <desc lang="tr">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302040000 +0000" stop="20260302051500 +0000" channel="bloomberg-ht">
-    <title lang="tr">İlk Söz</title>
-    <desc lang="tr">Türkiye&#x27;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları... Zeynep Erataman her sabah konuklarıyla güne merhaba diyor.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Brief</title>
+    <desc lang="tr">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302051500 +0000" stop="20260302060000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Sabah Raporu</title>
-    <desc lang="tr">Başka yerde bulamayacağınız grafikler, analizler,  dünyanın dört bir yanından rakamlar, yorumlar ve Türk yatırımcısına etkileri.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302110000 +0000" stop="20260302140000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Surveillance</title>
+    <desc lang="tr">Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302060000 +0000" stop="20260302064500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Yatırım Bülteni</title>
-    <desc lang="tr">Pelin Yantur, ekonomi ajandasındaki verileri, gündeme damga vuran haberleri, halka açık şirketlerden bilgileri derleyip izleyenlerle paylaşıyor.
-
-Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukların yorumlarıyla ekrana geliyor.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302140000 +0000" stop="20260302160000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Open Interest</title>
+    <desc lang="tr">Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302064500 +0000" stop="20260302071500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Piyasa Masası</title>
-    <desc lang="tr">İşlem gününün kritik anları Bloomberg HT&#x27;de.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Tech</title>
+    <desc lang="tr">The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302071500 +0000" stop="20260302080000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Yatırım Kulübü</title>
-    <desc lang="tr">Yatırımcılar önemli makro verilere dair yorumları ve küresel ekonomideki gözde yatırım enstrümanlarını takip etme fırsatını yakalıyorlar.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg ETF IQ</title>
+    <desc lang="tr">Focusing on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Hosted by Scarlet Fu, Katie Greifeld and Eric Balchunas.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302080000 +0000" stop="20260302081500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Grafik Düellosu</title>
-    <desc lang="tr">Yurt içi ve yurt dışı piyasalarda öne çıkan gelişmelerin grafiklerle yorumlandığı Grafik Düellosü hafta içi her gün Bloomberg HT&#x27;de.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg: Balance of Power</title>
+    <desc lang="tr">Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump&#x27;s administration, the federal agencies and the courts.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302081500 +0000" stop="20260302090000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Fokus</title>
-    <desc lang="tr">Fokus uzman konuklarıyla ekonomi gündemindeki maddelere odaklanıyor.</desc>
-    <category lang="tr">Finans</category>
+  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Businessweek Daily</title>
+    <desc lang="tr">Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&#x27;s complex economy.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302090000 +0000" stop="20260302093000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Otomotiv Zirvesi</title>
-    <desc lang="tr">İç pazar büyüklüğü ve ihracat değerleriyle lokomotif sektör haline gelen otomotive dair önemli gelişmeler, sektörün önde gelen yöneticileriyle Bloomberg HT&#x27;de ele alınıyor. Sürdürülebilirlik ve mobilite vizyonu ile otomotiv sektörüne ilişkin merak edilen tüm sorular bu programda yanıtlanıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302093000 +0000" stop="20260302100000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aile Ekonomisi</title>
-    <desc lang="tr">Aile bütçesinde harcama dağılımında nelere dikkat etmek gerekir? Ev veya araba almak için uygun zaman mı? Tasarruflarımı yatırıma nasıl döndürürüm? Türkiye&#x27;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları...</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302103000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Fon Saati</title>
-    <desc lang="tr">Çağlar Kuzlukluoğlu, fon dünyasına dair tüm ayrıntı ve bilmeniz gerekenleri, sektör uzmanlarıyla ele alıyor. Birikimlerinizi yönlendirmede açık ve yalın bilgiler sunuyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302110000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Varlık Yönetimi</title>
-    <desc lang="tr">Dünyada ve Türkiye&#x27;de varlık yönetimi adına her türlü enstrüman, Varlık Yönetimi&#x27;nde tartışılıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302110000 +0000" stop="20260302114500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Piyasa Hattı</title>
-    <desc lang="tr">Piyasa Hattı&#x27;nda, piyasa oyuncularıyla gelen veriler yorumlanıyor, şirket CFO&#x27;ları ve sektör analistleriyle bilançolar, yatırım planları ve stratejiler üzerine konuşuluyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302114500 +0000" stop="20260302121500 +0000" channel="bloomberg-ht">
-    <title lang="tr">İş Dünyası</title>
-    <desc lang="tr">Türkiye ekonomisinin lokomotif sektörleri detaylı analizlerle İş Dünyası&#x27;nda.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302121500 +0000" stop="20260302130000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Akıllı Para</title>
-    <desc lang="tr">Para akılla birleşiyor, yatırımcı para eden bilgiye Akıllı Para&#x27;da ulaşıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Finans Merkezi</title>
-    <desc lang="tr">Finans Merkezi&#x27;nde piyasaların seyrini etkileyen her konu sıra dışı analizler ve özgün yorumlarla ekrana taşınıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302140000 +0000" stop="20260302144500 +0000" channel="bloomberg-ht">
-    <title lang="tr">Kapanışa Doğru</title>
-    <desc lang="tr">Gün boyu yaşanan gelişmeler ve gözden kaçabilecek ayrıntıları Kapanışa Doğru&#x27;da masaya yatırılıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302144500 +0000" stop="20260302152000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Seans Notları</title>
-    <desc lang="tr">Önemli veriler, borsadaki fiyatlamalar ve günün öne çıkan haberleri Seans Notları’nda ele alınıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302152000 +0000" stop="20260302160000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Günden Kalanlar</title>
-    <desc lang="tr">Zeynep Özyol konuklarıyla gün boyu öne çıkan gelişmeleri, verileri ve rakamları konuşuyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="bloomberg-ht">
-    <title lang="tr">60 Dakika</title>
-    <desc lang="tr">Bloomberg HT, gün içerisinde yurt içi ve yurt dışında yaşanan tüm gelişmeleri ekonomi gözünden ekranlarınıza getiriyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Aslı Şafak&#x27;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, yeni bölümünde oyuncu Yiğit Özşener’i konuk ediyor.</desc>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Ekonomik Görünüm</title>
-    <desc lang="tr">Programa konuk olan deneyimli isimler, dünyanın ve Türkiye&#x27;nin ekonomik görünümüne ışık tutuyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302201000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Küresel Piyasalar</title>
-    <desc lang="tr">Bu programda, canlı video ve telefon bağlantılarıyla tüm yatırım araçlarının günlük performansları mercek altına alınıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260302201000 +0000" stop="20260302213000 +0000" channel="bloomberg-ht">
-    <title lang="tr">Spor Kulübü</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri, spor yazarları, sporun profesyonelleri bu programda buluşuyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260302200000 +0000" stop="20260302220000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg The Close</title>
+    <desc lang="tr">Romaine Bostick and Katie Greifeld break down the day&#x27;s top market-moving stories and trading action around the closing bell.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260302040000 +0000" stop="20260302054000 +0000" channel="brt-1">
     <title lang="tr">Sabah Haber</title>
@@ -5140,106 +5144,6 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
   <programme start="20260302193000 +0000" stop="20260303040000 +0000" channel="brt-1">
     <title lang="tr">Sanatın Sesi</title>
     <desc lang="tr">Sanatın Sesi, resimden heykele, müzikten tiyatroya sanatın tüm alanlarını ekranlara taşıyan bir programdır. Her bölümde sanatçılarla röportajlar, eserlerin arka planı ve yaratıcı süreçler sunulur. İzleyici sanatı yalnızca izlemekle kalmaz, arkasındaki duygu ve emeği de keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="brt-2">
-    <title lang="tr">Arşivden Miraslarımız</title>
-    <desc lang="tr">Program, arşivlerde saklanan tarihi belgeler, eski fotoğraflar ve unutulmuş bilgiler üzerinden geçmişi izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla tarih meraklılarına değerli bilgiler sunarken, kültürel mirası tanıtmayı amaçlıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302043000 +0000" stop="20260302050000 +0000" channel="brt-2">
-    <title lang="tr">Gelenekle Dans</title>
-    <desc lang="tr">Gelenekle Dans, Anadolu&#x27;nun zengin halk dansları geleneğini ekrana taşıyan kültür programıdır. Programın amacı, dansları yalnızca görsel bir gösteri olarak sunmak değil, aynı zamanda tarihsel kökenlerini, toplumsal işlevlerini ve yöresel farklılıklarını izleyiciye aktarmaktır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="brt-2">
-    <title lang="tr">Sağlıklı Yaşam</title>
-    <desc lang="tr">Sağlıklı bir yaşam sürmeye yönelik temel konular bu içerikte ele alınıyor. Beslenme düzeni, günlük hareket ve yaşam alışkanlıkları sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye beden ve ruh dengesini korumaya yardımcı bilgiler sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="brt-2">
-    <title lang="tr">Brt Nostalji</title>
-    <desc lang="tr">Brt Nostalji, geçmişe dair değerli anıları ve unutulmaz programları izleyiciyle buluşturan özel bir yayındır. Arşiv görüntüleri, eski program kesitleri ve dönemin kültürel olaylarıyla izleyiciye nostaljik bir yolculuk sunar. Program, geçmişi hatırlama ve kültürel mirası yeniden keşfetme fırsatı verir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302070000 +0000" stop="20260302100000 +0000" channel="brt-2">
-    <title lang="tr">Uçurtma</title>
-    <desc lang="tr">Uçurtma, hayata dair umut ve ilham dolu insan hikâyelerini ekrana taşıyan özel bir programdır. Her bölümde sıradan insanların sıra dışı deneyimleri, yaşam mücadeleleri ve hayallerine ulaşma süreçleri anlatılır. Program, izleyiciye duygusal ve düşündürücü bir yolculuk sunarak hayatın anlamlı yanlarını gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260302100000 +0000" stop="20260302103000 +0000" channel="brt-2">
-    <title lang="tr">Çiftçinin Saati</title>
-    <desc lang="tr">Çiftçinin Saati, tarım sektöründeki son gelişmeleri, üreticilerin sorunlarını ve çözüm önerilerini ele alıyor. Tarım uzmanları, ziraat mühendisleri ve üreticilerle yapılan röportajlarla izleyiciye hem bilimsel hem de pratik bilgiler aktarılıyor. Bitkisel üretimden hayvancılığa kadar geniş içerik sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302103000 +0000" stop="20260302113000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260302113000 +0000" stop="20260302123000 +0000" channel="brt-2">
-    <title lang="tr">Bilinmeyen Hayatlar</title>
-    <desc lang="tr">Program, sıradışı yaşam öykülerini ve farklı insanların bilinmeyen yönlerini izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla hem bilgilendiriyor hem de insanların yaşam deneyimlerini anlamaya yönelik ilgi çekici bir bakış sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="brt-2">
-    <title lang="tr">Çalışma Masam</title>
-    <desc lang="tr">Çalışma düzeni, zaman yönetimi ve verimliliği artıran yöntemler bu içerikte ele alınıyor. Düzenli bir masa ortamının odaklanma üzerindeki etkisi sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye daha planlı, üretken ve dengeli bir çalışma alışkanlığı kazanma konusunda yol gösteriliyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302130000 +0000" stop="20260302130500 +0000" channel="brt-2">
-    <title lang="tr">İyi Bir Film</title>
-    <desc lang="tr">Program, öne çıkan filmleri, oyuncu yorumlarını ve film analizlerini izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla hem bilgilendiriyor hem de sinema dünyasını yakından takip etme imkânı sunuyor, her bölüm farklı bir film deneyimi yaşatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302130500 +0000" stop="20260302133000 +0000" channel="brt-2">
-    <title lang="tr">Merkez Kort</title>
-    <desc lang="tr">Merkez Kort, spor gündemini merkezine alan, karşılaşmaların perde arkasını ve sahadaki performansları detaylı biçimde ele alan bir spor programıdır. Takımların hazırlık süreçleri, sporcuların form durumları ve maçlara dair kritik analizler uzman yorumlarla izleyiciye aktarılır.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260302133000 +0000" stop="20260302143000 +0000" channel="brt-2">
-    <title lang="tr">Doğanın Sesi</title>
-    <desc lang="tr">Doğanın sesleri ve görüntüleri, çeşitli ekosistemlerdeki yaşamı ve doğal olayları bu belgeselde ele alıyor. Sade ve anlaşılır anlatımıyla izleyiciye doğayı keşfetme ve ekosistemleri anlamaya yönelik eşsiz bir deneyim sunuluyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302150000 +0000" channel="brt-2">
-    <title lang="tr">Endorfin</title>
-    <desc lang="tr">Endorfin, fiziksel aktivite, sağlıklı yaşam ve motivasyonu bir araya getiren bir programdır. Spor rutinleri, beslenme ipuçları ve motivasyon artırıcı içeriklerle izleyiciye enerji ve pozitif hisler sunar. Program, hem bedensel hem de zihinsel sağlığı destekleyen pratik bilgiler içerir.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="brt-2">
-    <title lang="tr">Sesler ve Görüntüler</title>
-    <desc lang="tr">İnsanlık tarihine yön veren seslerin ve görüntülerin anlamını keşfe çıkan bir belgeseldir. Günlük yaşamdan sanata, doğadan toplumsal hafızaya uzanan anlatımıyla işitsel ve görsel unsurların insan üzerindeki etkisini ele alır. İzleyiciye farkındalık kazandıran, düşündüren ve dikkatle izlenen bir deneyim sunar.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260302153000 +0000" stop="20260302163000 +0000" channel="brt-2">
-    <title lang="tr">1001 Konu 1001 Konuk</title>
-    <desc lang="tr">1001 Konu 1001 Konuk, gündemden kültüre, sanattan bilime kadar uzanan geniş yelpazede her bölümüyle izleyicilerini farklı dünyalara götüren bir sohbet programı. Alanında uzman konuklar, ilgi çekici konular ve samimi sohbetlerle ekranlara gelen program, bilgi dolu ve keyifli bir yolculuk vaat ediyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260302163000 +0000" stop="20260302173000 +0000" channel="brt-2">
-    <title lang="tr">Şarkı Söylemek Lazım</title>
-    <desc lang="tr">Program, çeşitli şarkıları ve sahne performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla hem eğlendiriyor hem de müzik dünyasını yakından takip etme imkânı sunuyor, her bölüm izleyiciye keyifli anlar yaşatıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302173000 +0000" stop="20260302183000 +0000" channel="brt-2">
-    <title lang="tr">Bilginin İzinde</title>
-    <desc lang="tr">Bilgiye ulaşma süreci ve öğrenmenin temel dinamikleri bu içerikte ele alınıyor. Araştırma yöntemleri, doğru bilgiye erişim ve öğrenme alışkanlıkları sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye bilinçli bilgi kullanımı konusunda yol gösteriliyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302183000 +0000" stop="20260302193000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260302193000 +0000" stop="20260302203000 +0000" channel="brt-2">
-    <title lang="tr">Turizm Masası</title>
-    <desc lang="tr">Turizm alanındaki güncel gelişmeler bu içerikte ele alınıyor. Destinasyonlar, seyahat eğilimleri ve sektöre dair öne çıkan başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye turizm dünyasını yakından takip etme ve doğru bilgiye ulaşma imkânı sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260302203000 +0000" stop="20260303040000 +0000" channel="brt-2">
-    <title lang="tr">Trafikoloji</title>
-    <desc lang="tr">Trafikle ilgili güncel konular bu içerikte ele alınıyor. Sürüş güvenliği, yol kullanımı ve trafikte karşılaşılan sorunlar sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye bilinçli ve güvenli hareket etme konusunda yol gösterici bilgiler sunuluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260302000500 +0000" stop="20260302001500 +0000" channel="cartoon-network">
@@ -8871,10 +8775,11 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260302190000 +0000" stop="20260302204500 +0000" channel="diyanet-tv">
-    <title lang="tr">Kuran-ı Kerimi Güzel Okuma Yarışması</title>
+    <title lang="tr">Kur&#x27;an-ı Kerim&#x27;i Güzel Okuma Yarışması</title>
+    <desc lang="tr">Ramazan ayı boyunca her gün izleyicisine Kur&#x27;an ziyafeti yaşatan programın her bölümünde beş yarışmacı günün birincisi olmak için yarışıyor. Günün birincileri, hafta finalinde yarışıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="diyanet-tv">
+  <programme start="20260302204500 +0000" stop="20260302221500 +0000" channel="diyanet-tv">
     <title lang="tr">Mavera</title>
     <desc lang="tr">Tarihteki ilk Alperenlerin hikayesi Mavera, Yusuf Hemedani tarafından Bağdat’a gönderilen Hace Ahmed Yesevi’nin o dönem adeta küçük bir dünya olan Bağdat’ta verdiği dirlik ve beraberliğin mücadelesini konu alıyor.
 
@@ -14579,7 +14484,7 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
     <desc lang="tr">Anlatan Adamlar, otomotiv teknolojileri ve mühendislik konularını anlaşılır ve detaylı şekilde anlatıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260302205100 +0000" stop="20260303205900 +0000" channel="gzt-tv">
+  <programme start="20260302205100 +0000" stop="20260302210000 +0000" channel="gzt-tv">
     <title lang="tr">Anlatan Adamlar</title>
     <desc lang="tr">Anlatan Adamlar, otomotiv teknolojileri ve mühendislik konularını anlaşılır ve detaylı şekilde anlatıyor.</desc>
     <category lang="tr">Yaşam</category>
@@ -14629,19 +14534,15 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
     <desc lang="tr">Haber Global&#x27;de, deneyimli televizyon habercisi Saynur Tezel, hafta içi her gün günün nabzını tutuyor. Siyaset, ekonomi, diplomasi, strateji ve toplumsal gelişmelere dair bilinmesi gereken ne varsa &quot;Günün Nabzı&quot;nda ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302160000 +0000" stop="20260302180000 +0000" channel="haber-global">
+  <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="haber-global">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Salih Nayman ile Türkiye ve dünyadan kritik gelişmeleri, son dakika haberlerini ve gündemin öne çıkan başlıklarını aktarılır. Muhabirler sahadaki sıcak gelişmeleri canlı bağlantılarla iletir, siyasetten ekonomiye, spordan gündem maddelerine kadar önemli haberler objektif bir şekilde izleyiciye sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302180000 +0000" stop="20260302190000 +0000" channel="haber-global">
-    <title lang="tr">Haber Bülteni</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302190000 +0000" stop="20260302210000 +0000" channel="haber-global">
-    <title lang="tr">Kontra</title>
-    <desc lang="tr">Haber Global Kontra sporseverlere futbol dünyasının nabzını tutan bir program sunuyor. Performans değerlendirmeleri, takımların durumu ve güncel transfer haberleri gibi gündemdeki başlıklar canlı yorumlarla masaya yatırılıyor. Heyecan ve spor tutkusunu bir arada izleyiciye aktaran yayın, haftanın futbol gündemini çarpıcı bir dille ele alıyor.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260302170000 +0000" stop="20260302210000 +0000" channel="haber-global">
+    <title lang="tr">Neden?</title>
+    <desc lang="tr">Günün öne çıkan haberlerini ve gelişmelerini izleyiciye aktarıyor. Program, deneyimli televizyon habercileri ve alanında uzman konuklarla gündemi değerlendiriyor. Sıcak gelişmeler, satır aralarındaki mesajlar ve gündemi belirleyen isimler, kapsamlı analizlerle tartışılıyor.</desc>
+    <category lang="tr">Politika</category>
   </programme>
   <programme start="20260302020000 +0000" stop="20260302023000 +0000" channel="haberturk">
     <title lang="tr">Haber Bülteni</title>
@@ -15791,10 +15692,15 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Uzman Rehberi, KRT TV&#x27;de uzman konukların katılımıyla güncel ve merak edilen konuları analiz eden bir programdır. Belirli sektörler, ekonomi, sağlık, teknoloji veya sosyal meseleler gibi başlıklar uzman bakış açısıyla ele alınarak izleyiciye sade, net ve aydınlatıcı bir anlatımla sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="krt-tv">
-    <title lang="tr">En iyisi</title>
-    <desc lang="tr">KRT TV&#x27;de gündemdeki farklı konuları, tartışmalı meseleleri ve toplumun merak ettiği başlıkları izleyiciyle buluşturuyor. Her bölümde güncel örnekler, olayların arka planı ve açıklayıcı değerlendirmeler sade bir dille ele alınarak izleyiciye aktarılır; izleyici hem bilgi hem de kavrayış kazanıyor.</desc>
-    <category lang="tr">Tartışma</category>
+  <programme start="20260302150000 +0000" stop="20260302154500 +0000" channel="krt-tv">
+    <title lang="tr">Caner Taslaman ile Ramazan Sohbetleri</title>
+    <desc lang="tr">Caner Taslaman ile Ramazan Sohbetleri, izleyicilere Ramazan ayının ruhunu ve manevi değerlerini aktarıyor. Caner Taslaman, ayet ve hadisler üzerinden toplumsal ve bireysel yaşamda yol gösteren sohbetler sunuyor; ilham verici ve düşündürücü bir deneyim sağlıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260302154500 +0000" stop="20260302160000 +0000" channel="krt-tv">
+    <title lang="tr">Ezan</title>
+    <desc lang="tr">Ezanın tarihî kökenlerini, toplumsal ve kültürel önemini izleyiciye sunuyor. Her bölümde ezanın ritmi, sözlerinin anlamı ve günlük yaşamla olan bağlantısı ele alınarak, izleyici hem dini farkındalık kazanıyor hem de ezanın toplum üzerindeki etkilerini derinlemesine anlama fırsatı buluyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="krt-tv">
     <title lang="tr">Enerjide Bilgi Net</title>
@@ -18639,21 +18545,16 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302110000 +0000" stop="20260302111000 +0000" channel="ntv">
+  <programme start="20260302110000 +0000" stop="20260302112000 +0000" channel="ntv">
     <title lang="tr">Öğle Bülteni</title>
     <desc lang="tr">Önceki gün, gece veya günün sabah saatlerinde yaşanan gelişmeler, tüm ayrıntılarıyla izleyicilere aktarılıyor. 
 
 Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen gelişmeler, dış ülkelerde yaşananlar, izleyicilere ayrıntılarıyla sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302111000 +0000" stop="20260302111500 +0000" channel="ntv">
+  <programme start="20260302112000 +0000" stop="20260302112500 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302111500 +0000" stop="20260302112500 +0000" channel="ntv">
-    <title lang="tr">Spor</title>
-    <desc lang="tr">Türkiye ve dünyadaki günün önemli spor gelişmeleri hakkında en taze haberler spor bültenlerinde ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260302112500 +0000" stop="20260302115000 +0000" channel="ntv">
@@ -18673,22 +18574,17 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302120000 +0000" stop="20260302122500 +0000" channel="ntv">
+  <programme start="20260302120000 +0000" stop="20260302125000 +0000" channel="ntv">
     <title lang="tr">Öğle Bülteni</title>
     <desc lang="tr">Önceki gün, gece veya günün sabah saatlerinde yaşanan gelişmeler, tüm ayrıntılarıyla izleyicilere aktarılıyor. 
 
 Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen gelişmeler, dış ülkelerde yaşananlar, izleyicilere ayrıntılarıyla sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302122500 +0000" stop="20260302123000 +0000" channel="ntv">
+  <programme start="20260302125000 +0000" stop="20260302125500 +0000" channel="ntv">
     <title lang="tr">Paranın Nabzı</title>
     <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302123000 +0000" stop="20260302125500 +0000" channel="ntv">
-    <title lang="tr">Bakış</title>
-    <desc lang="tr">Trafikten sağlığa tüm sigortalar... Bireysel emeklilik sistemi... Tarım ve depreme kadar hayatın tüm riskleri... Siz sorun, uzmanlar yanıtlasın.</desc>
-    <category lang="tr">Finans</category>
   </programme>
   <programme start="20260302125500 +0000" stop="20260302130000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -18697,27 +18593,20 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302130000 +0000" stop="20260302132500 +0000" channel="ntv">
+  <programme start="20260302130000 +0000" stop="20260302134000 +0000" channel="ntv">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302132500 +0000" stop="20260302133000 +0000" channel="ntv">
+  <programme start="20260302134000 +0000" stop="20260302134500 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302133000 +0000" stop="20260302134000 +0000" channel="ntv">
+  <programme start="20260302134500 +0000" stop="20260302135500 +0000" channel="ntv">
     <title lang="tr">Spor</title>
     <desc lang="tr">Türkiye ve dünyadaki günün önemli spor gelişmeleri hakkında en taze haberler spor bültenlerinde ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302134000 +0000" stop="20260302135500 +0000" channel="ntv">
-    <title lang="tr">İftara Yakışan Tarifler</title>
-    <desc lang="tr">Geleneksel lezzetlerden pratik iftar yemeklerine, nefis tatlılardan sofrayı tamamlayan özel dokunuşlara kadar aradığınız her şey, Gürkan Kaya ile İftara Yakışan Tarifler ile Ramazan ayı boyunca izleyiciyle buluşuyor.
-Şef Gürkan Kaya&#x27;nın mutfağında; her gün iftar sofralarına ilham verecek özel tarifler, püf noktaları ve sunum önerileri izleyicilerle paylaşılıyor. Hem klasik tatları sevenler hem de sofralarına yeni lezzetler katmak isteyenler için dopdolu bir içerik ekranlara geliyor.
-Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan program, pratik anlatımı ve iştah açan önerileriyle iftar hazırlıklarını keyfe dönüştürüyor.</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260302135500 +0000" stop="20260302140000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -18726,20 +18615,15 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302140000 +0000" stop="20260302143000 +0000" channel="ntv">
+  <programme start="20260302140000 +0000" stop="20260302145000 +0000" channel="ntv">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302143000 +0000" stop="20260302143500 +0000" channel="ntv">
+  <programme start="20260302145000 +0000" stop="20260302145500 +0000" channel="ntv">
     <title lang="tr">Paranın Nabzı</title>
     <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302143500 +0000" stop="20260302145500 +0000" channel="ntv">
-    <title lang="tr">Gece Gündüz</title>
-    <desc lang="tr">Müzik, sinema, tiyatro, sergi, moda, kitap, tasarım, gösteri... Gece Gündüz Türkiye&#x27;nin kültür sanat gündemini mercek altına alıyor. Şehirde kültür sanata dair yaşanan ve yaşanacak her konuyu gündeme alıyor.</desc>
-    <category lang="tr">Kültür &amp; Sanat</category>
   </programme>
   <programme start="20260302145500 +0000" stop="20260302150000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -18748,24 +18632,14 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302150000 +0000" stop="20260302153500 +0000" channel="ntv">
+  <programme start="20260302150000 +0000" stop="20260302155000 +0000" channel="ntv">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Haber maratonu süresince gelişmelerin yaşandığı merkezlerden canlı bağlantılar, muhabirlerden yansıyan son gelişmeler sıcağı sıcağına izleyiciyle buluşuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302153500 +0000" stop="20260302154000 +0000" channel="ntv">
+  <programme start="20260302155000 +0000" stop="20260302155500 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302154000 +0000" stop="20260302154500 +0000" channel="ntv">
-    <title lang="tr">Uzman Bakışı</title>
-    <desc lang="tr">Sağlıktan sigortaya, emlaktan estetiğe farklı konular ve merak edilenler uzmanların görüşleriyle detaylanıyor. Birçok alandaki yeni teknikler hakkında bilinmyenler, profesyonel bir açıdan ekrana geliyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302154500 +0000" stop="20260302155500 +0000" channel="ntv">
-    <title lang="tr">Spor</title>
-    <desc lang="tr">Türkiye ve dünyadaki günün önemli spor gelişmeleri hakkında en taze haberler spor bültenlerinde ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260302155500 +0000" stop="20260302160000 +0000" channel="ntv">
@@ -18775,24 +18649,14 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302160000 +0000" stop="20260302161000 +0000" channel="ntv">
+  <programme start="20260302160000 +0000" stop="20260302165000 +0000" channel="ntv">
     <title lang="tr">Akşam Haberleri</title>
     <desc lang="tr">Türkiye ve dünya gündemindeki önemli ve sıcak gelişmeler, yorumlar, sorulması gereken sorular, gündem belirleyen konuklar, gözden kaçan önemli ayrıntılar ve günden geriye kalanlar her akşam Akşam Haberleri kuşağında...</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260302161000 +0000" stop="20260302161500 +0000" channel="ntv">
+  <programme start="20260302165000 +0000" stop="20260302165500 +0000" channel="ntv">
     <title lang="tr">Piyasalar</title>
     <desc lang="tr">Güne damgasını vuran piyasa gelişmelerine mercek tutuluyor. Manşetler ve ekonomi basını analiz ediliyor, dünya piyasalarına yakından bakılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302161500 +0000" stop="20260302165000 +0000" channel="ntv">
-    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
-    <desc lang="tr">Günün getirdikleri ve günün geride bıraktıklari Oyuncu Ceyda Düvenci, Bambaşka Sohbetler için, NTV&#x27;de izleyici karşısına çıkıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302165000 +0000" stop="20260302165500 +0000" channel="ntv">
-    <title lang="tr">Ana Haber Özet</title>
-    <desc lang="tr">Gün boyu yaşanan önemli gelişmeler başlıklar halinde ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260302165500 +0000" stop="20260302170000 +0000" channel="ntv">
@@ -18819,27 +18683,10 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260302180000 +0000" stop="20260302195500 +0000" channel="ntv">
+  <programme start="20260302180000 +0000" stop="20260302205500 +0000" channel="ntv">
     <title lang="tr">Doğrudan Siyaset</title>
-    <desc lang="tr">Güne damgasını vuran ya da ertesi günün gündemini yaratacak tüm konular bambaşka yönleriyle tartışılıyor. Siyasetin ve Türkiye gündeminin nabzı, konunun uzmanlarıyla Doğrudan Siyaset&#x27;te atıyor.</desc>
+    <desc lang="tr">Gündem hızlı değişiyor, peki siz yetişebiliyor musunuz? Her pazartesi, Türkiye ve dünya siyasetine doğrudan bakıyoruz.</desc>
     <category lang="tr">Tartışma</category>
-  </programme>
-  <programme start="20260302195500 +0000" stop="20260302200000 +0000" channel="ntv">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları, Hava Durumu kuşağında ekrana geliyor.
-
-İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Hava Durumu</category>
-  </programme>
-  <programme start="20260302200000 +0000" stop="20260302205000 +0000" channel="ntv">
-    <title lang="tr">Bugün Yarın</title>
-    <desc lang="tr">Güne damgasını vuran ya da ertesi günün gündemini yaratacak tüm konular bambaşka yönleriyle tartışılıyor. Siyasetin ve Türkiye gündeminin nabzı, konunun uzmanlarıyla Bugün Yarın&#x27;da atıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302205000 +0000" stop="20260302205500 +0000" channel="ntv">
-    <title lang="tr">Paranın Nabzı</title>
-    <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260302205500 +0000" stop="20260302210000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -19256,13 +19103,13 @@ Ramazan boyunca her gün farklı bir tarifle izleyici karşısına çıkan progr
   </programme>
   <programme start="20260302200000 +0000" stop="20260302205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260302205900 +0000" stop="20260303040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260302010000 +0000" stop="20260302030000 +0000" channel="s-sport">
     <title lang="tr">Girona - Celta Vigo</title>
@@ -20589,7 +20436,7 @@ Programı gönderen arkadaşı olayın hemen arkasından gizemli bir uçak kazas
     <desc lang="tr">Mavi ve neşeli Şirinler, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260302203000 +0000" stop="20260303205900 +0000" channel="spacetoon">
+  <programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="spacetoon">
     <title lang="tr">Şirinler - Smurf</title>
     <desc lang="tr">Mavi ve neşeli Şirinler, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -22688,9 +22535,9 @@ Minik davulcumuz kapınızı çalıyor. Küçük Davulcu Ramazan ayı boyunca se
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260302160300 +0000" stop="20260302160600 +0000" channel="trt-cocuk">
-    <title lang="tr">&#x27;ramazan Neşesi&#x27;</title>
-    <desc lang="tr">TRT Çocuk&#x27;un sevilen kahramanlarıyla birlikte Ramazan&#x27;ın Neşesi&#x27;ni paylaşmaya hazır olun!Ramazan Neşesi, Ramazan ayı boyunca her akşam senin kanalın TRT Çocuk&#x27;ta.</desc>
-    <category lang="tr">Diğer</category>
+    <title lang="tr">Ramazan Neşesi</title>
+    <desc lang="tr">TRT Çocuk&#x27;un sevilen kahramanlarıyla birlikte Ramazan&#x27;ın Neşesi&#x27;ni paylaşmaya hazır olun!</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260302160600 +0000" stop="20260302161000 +0000" channel="trt-cocuk">
     <title lang="tr">Ramazan Güncesi</title>
@@ -24384,7 +24231,7 @@ Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çık
   </programme>
   <programme start="20260302140000 +0000" stop="20260302153000 +0000" channel="trt-spor">
     <title lang="tr">Eczacıbaşı - Göztepe</title>
-    <desc lang="tr">AXA Sigorta Kupa Volley Çeyrek Final Voleybol Karşılaşması</desc>
+    <desc lang="tr">AXA Sigorta Kupa Voley Çeyrek Final Voleybol Karşılaşması: Eczacıbaşı - Göztepe</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302153000 +0000" stop="20260302155500 +0000" channel="trt-spor">
@@ -24405,12 +24252,16 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
   </programme>
   <programme start="20260302170000 +0000" stop="20260302190000 +0000" channel="trt-spor">
     <title lang="tr">Manisa - Arca Çorum</title>
-    <desc lang="tr">Trendyol 1. Lig Futbol Karşılaşması 28. Hafta</desc>
+    <desc lang="tr">Trendyol 1. Lig: Manisa - Arca Çorum / 28. Hafta</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302190000 +0000" stop="20260302203000 +0000" channel="trt-spor">
-    <title lang="tr">Futbol Anadolu</title>
-    <desc lang="tr">Anadolu kulüplerinin Süper Lig maçlarından özet görüntüler, görüntülü analizler, teknik direktörler ve futbolcularla özel röportajlar Futbol Anadolu&#x27;da..</desc>
+  <programme start="20260302190000 +0000" stop="20260302200000 +0000" channel="trt-spor">
+    <title lang="tr">Abdullah Avcı İle Analiz</title>
+    <desc lang="tr">Abdullah Avcı ile Analiz</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302200000 +0000" stop="20260302203000 +0000" channel="trt-spor">
+    <title lang="tr">41. Dakika</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302203000 +0000" stop="20260302220000 +0000" channel="trt-spor">
@@ -24529,16 +24380,14 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
 ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x27;nda...</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302114000 +0000" stop="20260302123000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260302114000 +0000" stop="20260302123500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Paralimpik Spor</title>
     <desc lang="tr">Paralimpik Oyunlarının değerlendirmeleri ekranlarınıza geliyor</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302123000 +0000" stop="20260302124000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Onsuz Asla</title>
-    <desc lang="tr">Her sporcunun bir sırrı vardır. Kimi bilekliğini takmadan sahaya çıkmaz, kimi uğurlu oyuncağını yanından ayırmaz. Çünkü bazen inanç, başarıya giden yoldaki en büyük güçtür.
-
-Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; programında...</desc>
+  <programme start="20260302123500 +0000" stop="20260302124000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Nedir, Nasıl Oynanır?</title>
+    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302124000 +0000" stop="20260302134500 +0000" channel="trt-spor-yildiz">
@@ -24546,40 +24395,40 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <desc lang="tr">Erivan&#x27;da yapılan Atıcılık Avrupa Şampiyonası Finalleri ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302134500 +0000" stop="20260302135000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Nedir, Nasıl Oynanır?</title>
-    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260302135000 +0000" stop="20260302141500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260302134500 +0000" stop="20260302141000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Dream Teams</title>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302141500 +0000" stop="20260302143000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Sormazsam Olmaz</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260302143000 +0000" stop="20260302144500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Yapabilir Misin?</title>
-    <desc lang="tr">&#x27;Yapabilir misin?&#x27; programında birbirinden farklı sporlar deneniyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260302144500 +0000" stop="20260302150000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Oyunu Başlatanlar</title>
-    <desc lang="tr">Farklı spor branşlarında başarılara imza atmış kadın hakemleri yakından tanıyoruz.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260302150000 +0000" stop="20260302151500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Haber Bülteni</title>
-    <desc lang="tr">Yurt içi ve yurt dışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260302151500 +0000" stop="20260302152500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260302141000 +0000" stop="20260302142000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Onsuz Asla</title>
     <desc lang="tr">Her sporcunun bir sırrı vardır. Kimi bilekliğini takmadan sahaya çıkmaz, kimi uğurlu oyuncağını yanından ayırmaz. Çünkü bazen inanç, başarıya giden yoldaki en büyük güçtür.
 
 Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; programında...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302142000 +0000" stop="20260302143500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Yapabilir Misin?</title>
+    <desc lang="tr">&#x27;Yapabilir misin?&#x27; programında birbirinden farklı sporlar deneniyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302143500 +0000" stop="20260302145000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Oyunu Başlatanlar</title>
+    <desc lang="tr">Farklı spor branşlarında başarılara imza atmış kadın hakemleri yakından tanıyoruz.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302145000 +0000" stop="20260302150500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Sormazsam Olmaz</title>
+    <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302150500 +0000" stop="20260302152000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Oyun Modu</title>
+    <desc lang="tr">E-Spor dünyasındaki gelişmelerin ekrana taşındığı programda; turnuvalara, takımlara ve oyuncularla yapılan röportajlara yer veriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260302152000 +0000" stop="20260302152500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Nedir, Nasıl Oynanır?</title>
+    <desc lang="tr">Çeşitli spor branşlarının nasıl oynandığıyla ilgili bilgilerin verildiği &#x27;Nedir, Nasıl Oynanır?&#x27; programı ekranlara geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302152500 +0000" stop="20260302163000 +0000" channel="trt-spor-yildiz">
@@ -24592,13 +24441,13 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <desc lang="tr">2027 Erkekler FIBA Basketbol Dünya Kupası Elemeleri</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302182000 +0000" stop="20260302191000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260302182000 +0000" stop="20260302191500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Paralimpik Spor</title>
     <desc lang="tr">Paralimpik Oyunlarının değerlendirmeleri ekranlarınıza geliyor</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260302191000 +0000" stop="20260302192500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">6.adam</title>
+  <programme start="20260302191500 +0000" stop="20260302192500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Çare Spor</title>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302192500 +0000" stop="20260302212000 +0000" channel="trt-spor-yildiz">
@@ -25076,7 +24925,7 @@ Kardeşlik köprülerinin kurulduğu, komşuluk bağlarının güçlendiği ve y
   </programme>
   <programme start="20260302180000 +0000" stop="20260302200000 +0000" channel="trt1">
     <title lang="tr">Türkiye - Sırbistan</title>
-    <desc lang="tr">FIBA 2027 Basketbol Dünya Kupası Elemeleri</desc>
+    <desc lang="tr">Türkiye ile Sırbistan, FIBA 2027 Basketbol Dünya Kupası eleme maçında karşı karşıya geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260302200000 +0000" stop="20260302224000 +0000" channel="trt1">
