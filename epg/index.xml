@@ -631,9 +631,9 @@
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303030000 +0000" stop="20260303040000 +0000" channel="24">
-    <title lang="tr">Masada Ne Var ?</title>
-    <desc lang="tr">Masada Ne Var?, güncel gündem konularını masaya yatıran, olayları anlaşılır ve tarafsız bir şekilde izleyiciye sunan bir news-info programıdır. Siyaset, ekonomi ve toplumdan öne çıkan başlıklar detaylı bir şekilde ele alınır, izleyiciye günü doğru anlaması için net bir çerçeve sunar.</desc>
-    <category lang="tr">Haber</category>
+    <title lang="tr">24 Portre</title>
+    <desc lang="tr">Zeynep Türkoğlu; kültür, siyaset ve sanat dünyasından günümüze damgasını vuran seçkin isimleri 24 TV&#x27;ye konuk ediyor. Zeynep Türkoğlu ile 24 Portre, her hafta Pazar günü saat 20.00&#x27;de 24 TV ekranlarında izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303040000 +0000" stop="20260303060000 +0000" channel="24">
     <title lang="tr">Moderatör Sabah</title>
@@ -3353,7 +3353,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   </programme>
   <programme start="20260303052000 +0000" stop="20260303055500 +0000" channel="beyaz-tv">
     <title lang="tr">Belma Belen&#x27;le Geziyoruz</title>
-    <desc lang="tr">Belma Belen&#x27;le Geziyoruz, izleyicileri Türkiye&#x27;nin ve dünyanın farklı köşelerine götüren keyifli bir gezi programıdır. Tarihi mekânlar, yerel tatlar ve kültürel zenginlikler; samimi anlatımıyla ekrana taşınır. Program, keşfetmeyi sevenler için ilham dolu bir yolculuk sunar.</desc>
+    <desc lang="tr">Belma Belen&#x27;le Geziyoruz, izleyicileri Türkiye&#x27;nin ve dünyanın farklı köşelerine götüren samimi bir gezi programıdır. Tarihi mekânlar, yerel lezzetler ve kültürel zenginlikler Belma Belen&#x27;in anlatımıyla ekrana taşınır. Program, keşfetmeyi seven izleyicilere hem bilgi hem de ilham dolu bir yolculuk sunar.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303055500 +0000" stop="20260303080000 +0000" channel="beyaz-tv">
@@ -3393,6 +3393,7 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
   </programme>
   <programme start="20260303183000 +0000" stop="20260303203000 +0000" channel="beyaz-tv">
     <title lang="tr">Kuzeyliler: Bir Viking Efsanesi</title>
+    <desc lang="tr">Kuzeyli savaşçılar, kendi topraklarını ve onurlarını korumak için zorlu bir yolculuğa çıkar. Claudio Fäh yönetmenliğinde, Tom Hopper&#x27;ın performansıyla öne çıkan film, hem stratejik savaş sahnelerini hem de karakterler arası bağları dramatik biçimde işler. İzleyici, aksiyonla dolu bir Viking macerasına sürüklenir.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260303203000 +0000" stop="20260303220000 +0000" channel="beyaz-tv">
@@ -6973,7 +6974,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260303124500 +0000" stop="20260303130000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Shift</title>
-    <desc lang="tr">Can I use blockchain technology? Will artificial intelligence take over my career? What exactly is &quot;Machine Learning&quot;? These are some of the questions &quot;SHIFT – Living in the Digital Age&quot; tries to answer. The program focuses on a single topic – in depth and in detail. We talk to experts, present the key facts and explain complicated subjects in a simple manner. SHIFT – substantial, never superficial.</desc>
+    <desc lang="tr">Canceling ChatGPT is just the start. Here&#x27;s what you need to know about breaking up with US tech giants, ICE&#x27;s expanding digital dragnet, and AI agents that can act across your emails, investments and apps.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303130000 +0000" stop="20260303130200 +0000" channel="deutsche-welle-english">
@@ -6983,12 +6984,13 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260303130200 +0000" stop="20260303131500 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News Focus</title>
+    <desc lang="tr">Our deep dive format explains the stories that matter _ with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&#x27;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303131500 +0000" stop="20260303133000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">ENTR</title>
+    <desc lang="tr">People have been protesting on the streets of Iran since the end of 2025. They&#x27;re demanding change and a new government. And those demonstrations have spread to Europe too, where they include a large number of Iranians living in exile. Among them is 25-year-old Romina, who continues her political activism in Germany.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260303133000 +0000" stop="20260303140000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Eco India</title>
@@ -7002,11 +7004,12 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260303140200 +0000" stop="20260303141500 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News Focus</title>
+    <desc lang="tr">Our deep dive format explains the stories that matter _ with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&#x27;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303141500 +0000" stop="20260303144500 +0000" channel="deutsche-welle-english">
     <title lang="tr">Close up: The Current Affairs Documentary</title>
-    <desc lang="tr">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
+    <desc lang="tr">Armed gangs control much of Haiti, including the vast majority of the capital Port-au-Prince. According to UN reports, the associated violence left almost 6,000 people dead in 2025 alone and over 1.4 million displaced.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260303144500 +0000" stop="20260303150000 +0000" channel="deutsche-welle-english">
@@ -7020,9 +7023,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Tomorrow Today</title>
-    <desc lang="tr">If you are into cosmos and universe, then this show is made for you. Find out if it is possible to predict solar storms, whether plants are smart, if synthetic fuels can help protect environment, what are the results of the largest-ever polar expedition, and many more questions in different spheres of life.</desc>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">DW News Focus</title>
+    <desc lang="tr">Our deep dive format explains the stories that matter _ with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&#x27;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
@@ -7031,7 +7034,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Global Us</title>
-    <desc lang="tr">Global Us provides unexpected insights and exemplary solutions _ it offers perspectives for a rapidly changing world. The focus is on people _ those who want change, drive it forward and inspire others.</desc>
+    <desc lang="tr">A deworming drug for animals is being tested in humans, with results that bring hope to millions. Why climate change is robbing Indian farmers of marriage prospects, and how volunteers in Libya are saving sea turtles.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303170000 +0000" stop="20260303171500 +0000" channel="deutsche-welle-english">
@@ -7040,13 +7043,13 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303171500 +0000" stop="20260303173000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">ENTR</title>
+    <desc lang="tr">People have been protesting on the streets of Iran since the end of 2025. They&#x27;re demanding change and a new government. And those demonstrations have spread to Europe too, where they include a large number of Iranians living in exile. Among them is 25-year-old Romina, who continues her political activism in Germany.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="deutsche-welle-english">
     <title lang="tr">REV</title>
-    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from the world of cars, examining the latest news and events pertaining to vehicles. From test driving the latest vehicles to examining how engineering is changing to combat climate change, Rev explores every avenue of car-based news, keeping fellow petrol heads up to date with developments within the industry.</desc>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from within the car industry, examining the latest news, vehicles, stories and events.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="deutsche-welle-english">
@@ -7066,16 +7069,17 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260303190200 +0000" stop="20260303191500 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News Focus</title>
+    <desc lang="tr">Our deep dive format explains the stories that matter _ with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&#x27;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303191500 +0000" stop="20260303193000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">ENTR</title>
+    <desc lang="tr">People have been protesting on the streets of Iran since the end of 2025. They&#x27;re demanding change and a new government. And those demonstrations have spread to Europe too, where they include a large number of Iranians living in exile. Among them is 25-year-old Romina, who continues her political activism in Germany.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260303193000 +0000" stop="20260303200000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Tomorrow Today</title>
-    <desc lang="tr">If you are into cosmos and universe, then this show is made for you. Find out if it is possible to predict solar storms, whether plants are smart, if synthetic fuels can help protect environment, what are the results of the largest-ever polar expedition, and many more questions in different spheres of life.</desc>
+    <desc lang="tr">Science show on DW provides its viewers a weekly dose of useful scientific information regarding various areas. If you are into cosmos and universe, then this show is made for you.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260303200000 +0000" stop="20260303203000 +0000" channel="deutsche-welle-english">
@@ -7758,7 +7762,7 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <desc lang="tr">Program, bu yıl da Ramazan ayının manevi havasına ayrı bir değer katıp izleyicilere Kur&#x27;an ziyafeti yaşatıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260303204500 +0000" stop="20260303210000 +0000" channel="diyanet-tv">
+  <programme start="20260303204500 +0000" stop="20260303221500 +0000" channel="diyanet-tv">
     <title lang="tr">Mavera</title>
     <desc lang="tr">Tarihteki ilk Alperenlerin hikayesi Mavera, Yusuf Hemedani tarafından Bağdat’a gönderilen Hace Ahmed Yesevi’nin o dönem adeta küçük bir dünya olan Bağdat’ta verdiği dirlik ve beraberliğin mücadelesini konu alıyor.
 
@@ -11697,6 +11701,7 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
   </programme>
   <programme start="20260303131500 +0000" stop="20260303140000 +0000" channel="fb-tv">
     <title lang="tr">Top 50</title>
+    <desc lang="tr">Spor tarihine damga vuran anları sıralayan Top 50, en etkileyici performansları ve hafızalara kazınan mücadeleleri izleyiciyle buluşturuyor. Programda unutulmaz goller, rekorlar ve yıldız sporcuların kariyerlerindeki dönüm noktaları detaylı anlatımlarla aktarılırken, her sıralama spor tutkunlarına heyecan dolu bir yolculuk yaşatıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260303140000 +0000" stop="20260303143000 +0000" channel="fb-tv">
@@ -13542,7 +13547,7 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
     <title lang="tr">Kend Hayatı</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260303205200 +0000" stop="20260304205900 +0000" channel="gzt-tv">
+  <programme start="20260303205200 +0000" stop="20260303210000 +0000" channel="gzt-tv">
     <title lang="tr">Rotasız Seyyah</title>
     <desc lang="tr">Rotasız Seyyah, dünya genelinde farklı yerleri gezip kültürleri, yemekleri ve doğal güzellikleri tanıtıyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
@@ -14429,6 +14434,126 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <title lang="tr">Ada Haber</title>
     <desc lang="tr">Kıbrıs&#x27;tan ve dünyadan en sıcak gelişmeleri tarafsız, hızlı ve güvenilir bir şekilde izleyiciye sunan güncel bir haber programıdır. Siyaset, ekonomi, kültür ve spordaki önemli olaylar profesyonel bir bakışla ekrana taşınır. Doğruluk ve güven önceliğiyle Kıbrıs&#x27;ta gündemi belirleyen haber kaynağıdır.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303040000 +0000" stop="20260303042500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Çizgi Film</title>
+    <desc lang="tr">Minik izleyiciler için hazırlanan Çizgi Film kuşağı, eğlenceli ve öğretici içerikleriyle çocuklara keyifli anlar yaşatır. Sevimli karakterlerin maceraları; dostluk, paylaşma ve dayanışma gibi değerleri eğlenceli hikâyelerle aktarır.</desc>
+    <category lang="tr">Animasyon</category>
+  </programme>
+  <programme start="20260303042500 +0000" stop="20260303043000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303043000 +0000" stop="20260303070000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Meltem Sonay İle Sabah Genç&#x27;te Sabah</title>
+    <desc lang="tr">Güne enerjik ve bilinçli bir başlangıç yapmak isteyen izleyiciler için hazırlanan modern bir sabah haber programı. Meltem Sonay&#x27;ın güçlü sunumuyla program; Türkiye ve dünyadan son dakika gelişmelerini, siyaset, ekonomi, kültür-sanat ve teknoloji başlıklarıyla kapsamlı biçimde ekrana taşır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303070000 +0000" stop="20260303072000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303072000 +0000" stop="20260303082000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Rotam 360</title>
+    <desc lang="tr">Rotam 360, güncel gelişmeler, kültürel etkinlikler ve toplumsal konuları ele alan magazin ve bilgi programıdır. Röportajlar, saha çalışmaları ve bilgilendirici içeriklerle izleyiciye hem eğlenceli hem öğretici bir deneyim sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303082000 +0000" stop="20260303084000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303084000 +0000" stop="20260303090000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">BZK</title>
+    <desc lang="tr">Bir Zamanlar Kıbrıs, Kıbrıs&#x27;ın tarihî olaylarını, kültürel zenginliklerini ve yaşanmış hikâyelerini ekrana taşıyan belgesel bir programdır. Tanıklık edenlerin anlatımlarıyla ada geçmişi yeniden canlandırılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303090000 +0000" stop="20260303095000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Pozitif Haber</title>
+    <desc lang="tr">Yerel halkın desteğiyle hayata geçirilen yeni proje, kısa sürede büyük bir başarıya ulaştı. Hem istihdama katkı sağlayan hem de toplumsal dayanışmayı güçlendiren çalışma, bölge sakinlerinden tam not aldı. Yetkililer, benzer projelerin artarak devam edeceğini belirtti.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303095000 +0000" stop="20260303100000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303100000 +0000" stop="20260303105500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Trendy Uk</title>
+    <desc lang="tr">Modern aile yaşamını, çocuk gelişimini, eğitimdeki yenilikleri ve ebeveynlere yönelik pratik önerileri ekrana taşıyan bilgilendirici bir programdır. İngiltere&#x27;den dünyaya yayılan en güncel eğitim modelleri, aile içi iletişim teknikleri ve sosyal gelişim trendleri her bölümde izleyicilerle buluşuyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303105500 +0000" stop="20260303110000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303110000 +0000" stop="20260303125500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Yağmur Çal İle Perspektif</title>
+    <desc lang="tr">Günümüz gündemini sadece haber olarak değil, anlam ve yorum katarak ele alan bir analiz programıdır. Toplumsal meseleler, siyasi gelişmeler ve sosyal değişimler, uzman görüşleri ve farklı perspektiflerle izleyiciye aktarılır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303125500 +0000" stop="20260303130000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Haluk Yerli İle Yerli Yerinde</title>
+    <desc lang="tr">Güncel gelişmeler, toplumsal olaylar ve kültürel konuları izleyicilere sunan bir magazin ve bilgi programıdır. Röportajlar ve bilgilendirici içeriklerle hem eğlenceli hem öğretici bir deneyim sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303140000 +0000" stop="20260303141500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303141500 +0000" stop="20260303154500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Akşam Saati</title>
+    <desc lang="tr">Gün boyunca yaşanan gelişmeleri değerlendiren ve gündemin öne çıkan başlıklarını analiz eden akşam kuşağı programıdır. Siyaset, ekonomi, kültür ve sosyal hayat uzman konuklarla ele alınır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303154500 +0000" stop="20260303160000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303160000 +0000" stop="20260303164500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Ana Haber Bülteni</title>
+    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini tarafsız, doğru ve hızlı bir şekilde izleyiciye ulaştıran haber programıdır. Siyaset, ekonomi, spor ve kültür-sanat haberleri güçlü habercilik anlayışıyla sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303164500 +0000" stop="20260303170000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303170000 +0000" stop="20260303172000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Er Meydanı: Özel</title>
+    <desc lang="tr">Er Meydanı, Kıbrıs gündeminin öne çıkan konularını özgürce tartışan bir programdır. Uzman konuklar, siyasetten toplumsal meselelere kadar görüşlerini paylaşır, izleyiciye farklı bakış açıları ve çarpıcı analizler sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303172000 +0000" stop="20260303194000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Er Meydanı</title>
+    <desc lang="tr">Er Meydanı, Kıbrıs gündeminin öne çıkan konularını özgürce tartışan bir programdır. Uzman konuklar, siyasetten toplumsal meselelere kadar görüşlerini paylaşır, izleyiciye farklı bakış açıları ve çarpıcı analizler sunar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260303194000 +0000" stop="20260303200000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260303200000 +0000" stop="20260303204500 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Hazal İle Kampüsten Lezzete</title>
+    <desc lang="tr">Sunuculuğunu Hazal Gümüş&#x27;ün yaptığı Hazalla Kampüsten Lezzete, Kıbrıs&#x27;ta yayınlanan bölümleriyle izleyicilerin beğenisini kazanıyor. Eğitim hayatının hareketli atmosferini mutfağın birleştirici gücüyle bir araya getiren program, kampüs kültüründen sofralara uzanan keyifli bir yolculuk vadediyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260303204500 +0000" stop="20260303210000 +0000" channel="kibris-genc-tv">
+    <title lang="tr">Reklam</title>
+    <desc lang="tr">Kıbrıs Genç TV&#x27;nin Reklam programı, yerel ve ulusal reklam kampanyalarını, yeni ürün tanıtımlarını ve yaratıcı marka iletişimlerini izleyiciyle buluşturuyor. Programda reklam dünyasındaki trendler ve sektörel gelişmeler ele alınıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260303030000 +0000" stop="20260303090000 +0000" channel="kibris-tv">
     <title lang="tr">Kibris TV</title>
@@ -15750,20 +15875,23 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="minika-go">
-    <title lang="tr">Ggo Football</title>
-    <desc lang="tr">Barefoot takımının GGO Football sahasındaki süper maçlarını ve direktörlerin heyecanlı maceralarını kaçırmayın!</desc>
+    <title lang="tr">Koyun Shaun</title>
+    <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303173000 +0000" stop="20260303174000 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
+    <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303174000 +0000" stop="20260303175000 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
+    <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303175000 +0000" stop="20260303180000 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
+    <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="minika-go">
@@ -15771,28 +15899,24 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Macera perest kardeşler Chris ve Martin yine iş başında. Dönüşüm giysilerini giyince istedikleri hayvanın gücüne sahip oluyorlar. Kratt kardeşlerin heyecan dolu maceralarını kaçırmayın...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303183000 +0000" stop="20260303183800 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
+  <programme start="20260303183000 +0000" stop="20260303184000 +0000" channel="minika-go">
+    <title lang="tr">Weasy Ailesi</title>
+    <desc lang="tr">Samanlığın çatı katında sıra dışı bir aileyle tanışmaya hazır mısınız? Enerjik ve meraklı gelincik Weasy, karşısına çıkan iki minik ördeği hiç tereddüt etmeden yavruları olarak kabul edince, karşımıza dünyanın en ilginç ve en eğlenceli babalarından biri çıkıyor!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303183800 +0000" stop="20260303184600 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
+  <programme start="20260303184000 +0000" stop="20260303185000 +0000" channel="minika-go">
+    <title lang="tr">Weasy Ailesi</title>
+    <desc lang="tr">Samanlığın çatı katında sıra dışı bir aileyle tanışmaya hazır mısınız? Enerjik ve meraklı gelincik Weasy, karşısına çıkan iki minik ördeği hiç tereddüt etmeden yavruları olarak kabul edince, karşımıza dünyanın en ilginç ve en eğlenceli babalarından biri çıkıyor!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303184600 +0000" stop="20260303185400 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
+  <programme start="20260303185000 +0000" stop="20260303190000 +0000" channel="minika-go">
+    <title lang="tr">Weasy Ailesi</title>
+    <desc lang="tr">Samanlığın çatı katında sıra dışı bir aileyle tanışmaya hazır mısınız? Enerjik ve meraklı gelincik Weasy, karşısına çıkan iki minik ördeği hiç tereddüt etmeden yavruları olarak kabul edince, karşımıza dünyanın en ilginç ve en eğlenceli babalarından biri çıkıyor!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303185400 +0000" stop="20260303190000 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260303190000 +0000" stop="20260303191500 +0000" channel="minika-go">
-    <title lang="tr">Küçük Prens Ve Arkadaşları</title>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260303191500 +0000" stop="20260303193000 +0000" channel="minika-go">
-    <title lang="tr">Küçük Prens Ve Arkadaşları</title>
+  <programme start="20260303190000 +0000" stop="20260303193000 +0000" channel="minika-go">
+    <title lang="tr">Akıncı</title>
+    <desc lang="tr">İnsanlık var olduğundan beri devam eden iyi ve kötünün mücadelesi, Akıncı ile yepyeni bir boyut kazanıyor. Gücünü ve cesaretini göğsündeki hilalden alan Akıncı, düzen ve adaleti sağlamak için mücadeleden asla vazgeçmiyor. Temeli binlerce yıl öncesine dayanan gizem dolu bir hikâye...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260303193000 +0000" stop="20260303194500 +0000" channel="minika-go">
@@ -15825,12 +15949,17 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Kavurucu sıcakların ortasında bir çölde Kertenkele Oscar’ın su ve yemek ararken karşılaştığı komik ve talihsiz olaylar dizisi... Bu macerada Oscar’ın şanssızlığı yemek ve su arayan tek kişinin o olmaması... Tilki Popy, Sırtlan Harchi ve Akbaba Buck da aynı arayışın içinde ve çelimsiz Kertenkele Oscar’a kıyasla biraz daha güçlüler.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303203000 +0000" stop="20260303204500 +0000" channel="minika-go">
+  <programme start="20260303203000 +0000" stop="20260303204000 +0000" channel="minika-go">
     <title lang="tr">Sonic Boom</title>
     <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260303204500 +0000" stop="20260303210000 +0000" channel="minika-go">
+  <programme start="20260303204000 +0000" stop="20260303205000 +0000" channel="minika-go">
+    <title lang="tr">Sonic Boom</title>
+    <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260303205000 +0000" stop="20260303210000 +0000" channel="minika-go">
     <title lang="tr">Sonic Boom</title>
     <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
     <category lang="tr">Çocuk</category>
@@ -17985,13 +18114,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260303200000 +0000" stop="20260303205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260303205900 +0000" stop="20260304040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="s-sport">
     <title lang="tr">Duke - NC State</title>
@@ -19080,20 +19209,25 @@ Programı gönderen arkadaşı olayın hemen arkasından gizemli bir uçak kazas
     <desc lang="tr">Ekrem Açıkel, hafta içi her akşam hayatın gerçeklerine ve memleketin vicdanına ışık tutuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303160000 +0000" stop="20260303180000 +0000" channel="sozcu-tv">
+  <programme start="20260303160000 +0000" stop="20260303170000 +0000" channel="sozcu-tv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları ekrana geliyor. Haberlerde gündem olan başlıklar ve gözden kaçan detaylar, canlı bağlantılar ile ön plana çıkarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303180000 +0000" stop="20260303190000 +0000" channel="sozcu-tv">
+  <programme start="20260303170000 +0000" stop="20260303183000 +0000" channel="sozcu-tv">
     <title lang="tr">Kırmızı Beyaz</title>
     <desc lang="tr">Ünlü gazeteci Yılmaz Özdil, ezber bozan yorumları ve çarpıcı analizleriyle gündemin nabzını tutarak izleyiciyle buluşuyor.</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260303190000 +0000" stop="20260303210000 +0000" channel="sozcu-tv">
+  <programme start="20260303183000 +0000" stop="20260303203000 +0000" channel="sozcu-tv">
     <title lang="tr">Karşı Karşıya</title>
     <desc lang="tr">Gündemin öne çıkan gelişmeleri Karşı Karşıya&#x27;da masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260303203000 +0000" stop="20260303210000 +0000" channel="sozcu-tv">
+    <title lang="tr">S Raporu</title>
+    <desc lang="tr">24 saatin tüm gelişmeleri S Raporu’nda ekrana getiriliyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303000000 +0000" stop="20260303003000 +0000" channel="spacetoon">
     <title lang="tr">Zatonya</title>
@@ -19462,9 +19596,9 @@ Keyifli sohbetleriyle dikkat çeken ikili; yemeklere dair özel hikâyeleri ve m
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303170000 +0000" stop="20260303210000 +0000" channel="star-tv">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&#x27;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260303170000 +0000" stop="20260303230000 +0000" channel="star-tv">
+    <title lang="tr">Sevdiğim Sensin</title>
+    <desc lang="tr">Bir dağ kulübesinde doğup büyüyen Dicle, acımasız abilerinin baskısı yüzünden adeta tutsak bir hayat sürmektedir. Annesiyle yaşadığı kulübenin bahçesinden öteye hiç çıkmamış, dünyaya çok yabancı kalmıştır. Bir gün bölgede yaşanan deprem nedeniyle yolu, İstanbul&#x27;daki konforlu hayatını geride bırakıp vicdan borcuyla askerliğini yapan Erkan&#x27;la kesişir. Kader, Dicle ve Erkan&#x27;ın yolunu dökülen kanla bağlar ve Erkan, Dicle&#x27;yi töre cinayetinden korumak için onunla evlenmek zorunda kalır. Dicle, saf kalbiyle bu evliliği gerçek sanırken, Erkan&#x27;ı askerden dönüşünde ailesinin planladığı başka bir evlilik beklemektedir.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260303063000 +0000" stop="20260303070000 +0000" channel="tabii-spor">
@@ -20047,8 +20181,8 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
   </programme>
   <programme start="20260303200000 +0000" stop="20260303210000 +0000" channel="tivi6">
     <title lang="tr">Ronaldo Belgeseli</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+    <desc lang="tr">Tüm zamanların en iyi futbolcularından biri olarak kabul edilen Ronaldo&#x27;nun yaşam öyküsü konu alınıyor.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260303001000 +0000" stop="20260303005500 +0000" channel="tlc">
     <title lang="tr">Gerçek Mahkumiyet</title>
@@ -22664,39 +22798,20 @@ Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#
     <desc lang="tr">Ramazan ayı boyunca ekrana gelen programda, konuklarımızla geçmişten günümüze Ramazan&#x27;ın güzellikleri konuşuluyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260303100000 +0000" stop="20260303105000 +0000" channel="trt-haber">
+  <programme start="20260303100000 +0000" stop="20260303110000 +0000" channel="trt-haber">
     <title lang="tr">Öğle Ana Haber</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303105000 +0000" stop="20260303105500 +0000" channel="trt-haber">
-    <title lang="tr">Piyasa Raporu</title>
-    <desc lang="tr">Yurt içi ve yurt dışı piyasalara yönelik son bilgiler ve veriler grafikler eşliğinde aktarılıyor.</desc>
-    <category lang="tr">Finans</category>
-  </programme>
-  <programme start="20260303105500 +0000" stop="20260303110000 +0000" channel="trt-haber">
-    <title lang="tr">Hava Durumu</title>
-    <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları, Hava Durumu kuşağında ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
-    <category lang="tr">Hava Durumu</category>
   </programme>
   <programme start="20260303110000 +0000" stop="20260303120000 +0000" channel="trt-haber">
     <title lang="tr">Öğle Ana Haber</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303120000 +0000" stop="20260303125000 +0000" channel="trt-haber">
+  <programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="trt-haber">
     <title lang="tr">Haber Ajandası</title>
     <desc lang="tr">Gündemin öne çıkan  başlıkları; sıcak noktalara canlı bağlantılar, dosya haberler, uzman konuklar ve muhabir bağlantılarıyla izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303125000 +0000" stop="20260303125500 +0000" channel="trt-haber">
-    <title lang="tr">Milli Güç Güçlü Türkiye</title>
-    <desc lang="tr">Türkiye&#x27;de üretilen savunma sanayi sistemleri hakkında bilgi veriliyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260303125500 +0000" stop="20260303130000 +0000" channel="trt-haber">
-    <title lang="tr">Asr-ı Saadet&#x27;in İzinde: Sahabe-i Kiram</title>
-    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="trt-haber">
     <title lang="tr">Haber Ajandası</title>
@@ -22708,20 +22823,10 @@ Sütlaç, Kıpır, Yengeç, Puf, Güçlü, Lila ve Sedef öğretmenle Mercanya&#
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültür sanattan eğitime, Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303150000 +0000" stop="20260303154900 +0000" channel="trt-haber">
+  <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="trt-haber">
     <title lang="tr">Günün İçinden</title>
     <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültür sanattan eğitime, Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303154900 +0000" stop="20260303155500 +0000" channel="trt-haber">
-    <title lang="tr">İstanbul için İftar Vakti</title>
-    <desc lang="tr">Ramazan ayı boyunca İstanbul için iftar vakti ekrana geliyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260303155500 +0000" stop="20260303160000 +0000" channel="trt-haber">
-    <title lang="tr">Piyasa Raporu</title>
-    <desc lang="tr">Yurt içi ve yurt dışı piyasalara yönelik son bilgiler ve veriler grafikler eşliğinde aktarılıyor.</desc>
-    <category lang="tr">Finans</category>
   </programme>
   <programme start="20260303160000 +0000" stop="20260303170000 +0000" channel="trt-haber">
     <title lang="tr">Sıcak Haber</title>
@@ -23095,12 +23200,13 @@ Müslüm Gürses&#x27;in 2002 tarihli Harbiye Açık Hava konseriyle bayram nost
     <desc lang="tr">Spor dünyası güne bu programla merhaba diyor. Günün öne çıkan gazete manşetlerini, köşe yazılarını ve spor dünyasındaki diğer tüm gelişmeleri sunucu yorumlarıyla ekranlarınıza geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260303093000 +0000" stop="20260303110000 +0000" channel="trt-spor">
-    <title lang="tr">Muhabir Saati</title>
-    <desc lang="tr">Dört büyük takım olan Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor&#x27;la ilgili tüm detaylar ve tartışmalı durumlar , canlı yayında TRT Spor muhabirleri tarafından değerlendiriliyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260303093000 +0000" stop="20260303103000 +0000" channel="trt-spor">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Gün içinde spora dair Türkiye ve dünyada yaşanan gelişmelerden ilk siz haberdar olun.
+Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Ortası&#x27;nda</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260303110000 +0000" stop="20260303123000 +0000" channel="trt-spor">
+  <programme start="20260303103000 +0000" stop="20260303123000 +0000" channel="trt-spor">
     <title lang="tr">Spor Stüdyosu</title>
     <desc lang="tr">Spor dünyasının nabzı Spor Stüdyosun&#x27;da atıyor.
 Son dakika haberler, sıcak gelişmeler, röportajlar ve günün ön plana çıkan başlıkları Spor Stüdyosu&#x27;yla evlerinize geliyor.</desc>
@@ -23509,201 +23615,6 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">Ramazan Güzeldir</title>
     <desc lang="tr">Ramazan ayı için yapılan ve bu kutsal ayı eğlenceli bir dil ile anlatan &#x27;Ramazan Güzeldir&#x27; TRT TÜRK ekranlarında.</desc>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260303000000 +0000" stop="20260303003000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303003000 +0000" stop="20260303010000 +0000" channel="trt-world">
-    <title lang="tr">Strait Talk</title>
-    <desc lang="tr">An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303010000 +0000" stop="20260303011500 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303011500 +0000" stop="20260303013000 +0000" channel="trt-world">
-    <title lang="tr">Newsfeed</title>
-    <desc lang="tr">Newsfeed reflects the day`s events and opinions,as reported or discussed on social media.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303013000 +0000" stop="20260303020000 +0000" channel="trt-world">
-    <title lang="tr">Roundtable</title>
-    <desc lang="tr">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="trt-world">
-    <title lang="tr">Across The Balkans</title>
-    <desc lang="tr">Across The Balkans takes you to a land of breathtaking beauty with a painful past to discover the issues and fault lines shaping Southeast Europe today.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303030000 +0000" stop="20260303040000 +0000" channel="trt-world">
-    <title lang="tr">Storyteller</title>
-    <desc lang="tr">In the face of a rapidly warming planet, scientists and visionaries work to mitigate climate change and minimize climate-related events.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303043000 +0000" stop="20260303050000 +0000" channel="trt-world">
-    <title lang="tr">Nexus</title>
-    <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303050000 +0000" stop="20260303053000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="trt-world">
-    <title lang="tr">Roundtable</title>
-    <desc lang="tr">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303060000 +0000" stop="20260303063000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303063000 +0000" stop="20260303070000 +0000" channel="trt-world">
-    <title lang="tr">Inside America</title>
-    <desc lang="tr">Exploring the issues shaping US politics through in-depth interviews with policy and opinion makers.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303070000 +0000" stop="20260303073000 +0000" channel="trt-world">
-    <title lang="tr">Business News</title>
-    <desc lang="tr">As the world grapples with ever changing politics and crises, economy is always center stage.  TRT World’s Business News gives you the insight.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303073000 +0000" stop="20260303080000 +0000" channel="trt-world">
-    <title lang="tr">The Newsmakers</title>
-    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303080000 +0000" stop="20260303090000 +0000" channel="trt-world">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303090000 +0000" stop="20260303093000 +0000" channel="trt-world">
-    <title lang="tr">Africa Matters</title>
-    <desc lang="tr">Every week, Africa Matters will bring you the untold, under-reported stories from across the continent and we&#x27;ll also unpack the issues that matter to Africans.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303093000 +0000" stop="20260303100000 +0000" channel="trt-world">
-    <title lang="tr">Just 2 Degrees</title>
-    <desc lang="tr">A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303100000 +0000" stop="20260303103000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303103000 +0000" stop="20260303110000 +0000" channel="trt-world">
-    <title lang="tr">My America</title>
-    <desc lang="tr">The media is often accused of ignoring the voices of ordinary Americans. My America journeys across the country to gain insight into issues affecting these communities.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303110000 +0000" stop="20260303113000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303113000 +0000" stop="20260303120000 +0000" channel="trt-world">
-    <title lang="tr">The Newsmakers</title>
-    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="trt-world">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303130000 +0000" stop="20260303133000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303133000 +0000" stop="20260303140000 +0000" channel="trt-world">
-    <title lang="tr">Bigger Than Five</title>
-    <desc lang="tr">Featuring interviews with political leaders and key policy makers from around the world, Bigger Than Five takes a critical look at issues of global injustice.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303140000 +0000" stop="20260303143000 +0000" channel="trt-world">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303143000 +0000" stop="20260303150000 +0000" channel="trt-world">
-    <title lang="tr">Nextech</title>
-    <desc lang="tr">NexTech looks at tomorrow’s industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="trt-world">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="trt-world">
-    <title lang="tr">Roundtable</title>
-    <desc lang="tr">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="trt-world">
-    <title lang="tr">The Newsmakers</title>
-    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="trt-world">
-    <title lang="tr">News - London</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="trt-world">
-    <title lang="tr">Nexus</title>
-    <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303180000 +0000" stop="20260303181500 +0000" channel="trt-world">
-    <title lang="tr">News - London</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303181500 +0000" stop="20260303183000 +0000" channel="trt-world">
-    <title lang="tr">Newsfeed</title>
-    <desc lang="tr">Newsfeed reflects the day`s events and opinions,as reported or discussed on social media.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303183000 +0000" stop="20260303190000 +0000" channel="trt-world">
-    <title lang="tr">Strait Talk</title>
-    <desc lang="tr">An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="trt-world">
-    <title lang="tr">Newshour - London</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303200000 +0000" stop="20260303203000 +0000" channel="trt-world">
-    <title lang="tr">News - London</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260303203000 +0000" stop="20260303210000 +0000" channel="trt-world">
-    <title lang="tr">Across The Balkans</title>
-    <desc lang="tr">Across The Balkans takes you to a land of breathtaking beauty with a painful past to discover the issues and fault lines shaping Southeast Europe today.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260303014000 +0000" stop="20260303031000 +0000" channel="trt1">
     <title lang="tr">Sahur Bereketi</title>
