@@ -1462,7 +1462,7 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
   </programme>
   <programme start="20260305173000 +0000" stop="20260305193000 +0000" channel="a-para">
     <title lang="tr">Aliağa - Gençlerbirliği</title>
-    <desc lang="tr">Ziraat Türkiye Kupası B Grubu Maçı</desc>
+    <desc lang="tr">Ziraat Türkiye Kupası maçları dönüşümlü olarak ekrana geliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260305193000 +0000" stop="20260305203000 +0000" channel="a-para">
@@ -2075,41 +2075,6 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   <programme start="20260305200000 +0000" stop="20260305220000 +0000" channel="al-quran-al-kareem">
     <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
     <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305000000 +0000" stop="20260305030000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305030000 +0000" stop="20260305060000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305060000 +0000" stop="20260305090000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305090000 +0000" stop="20260305120000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305120000 +0000" stop="20260305150000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305150000 +0000" stop="20260305180000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260305180000 +0000" stop="20260305210000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260305040000 +0000" stop="20260305070000 +0000" channel="as-tv">
@@ -2911,111 +2876,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Musical Melody,Şarkılar - Kafiyeler, Şarkılar - Kafiyeler, İyi Geceler Ayıcık Teddy,Küvet Hayvancıkları,Şarkılar - Kafiyeler, Büyükbaba Joe&#x27;nun Sihirli Bahçesi</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260305001000 +0000" stop="20260305010500 +0000" channel="bbc-earth">
-    <title lang="tr">Sıfırın Altında Yaşam</title>
-    <desc lang="tr">Kış yaklaşırken, Glenn, kar mağarası yapmak için dağa çıkar. Hailstone ailesi bir yandan kızakla et taşırken, diğer yandan bozulan bir kar makinesini Noorvik&#x27;e getirir. 12/14</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305010500 +0000" stop="20260305015500 +0000" channel="bbc-earth">
-    <title lang="tr">Ben Fogle ile Vahşilerin Yaşam Alanları</title>
-    <desc lang="tr">Ben Fogle, Toskana&#x27;ya gidiyor. 4/12</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305015500 +0000" stop="20260305024000 +0000" channel="bbc-earth">
-    <title lang="tr">Onay Bekleyen Program</title>
-    <desc lang="tr">Onay Bekleyen Program.</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305024000 +0000" stop="20260305032500 +0000" channel="bbc-earth">
-    <title lang="tr">Dünyanın En Tehlikeli Yolları</title>
-    <desc lang="tr">Yıllardır birlikte konserlere giden uzun süreli dostlar Joe Wilkinson ve Zoe Lyons, Türkiye&#x27;nin doğusundaki vahşi doğayı keşfe çıkıyor. 2/8</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305032500 +0000" stop="20260305041000 +0000" channel="bbc-earth">
-    <title lang="tr">Kasırga Adam</title>
-    <desc lang="tr">Josh süper tayfun Yutu&#x27;nun içine girmeye teşebbüs ediyor, bu 2018&#x27;in en güçlü fırtınasıdır, Josh tam tayfun elektrik hatlarını devirmeye başladığı sırada Filipinler&#x27;e varır. 8/8</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305041000 +0000" stop="20260305050000 +0000" channel="bbc-earth">
-    <title lang="tr">Richard Hammond&#x27;la Britanya&#x27;nın En Güzel Nehirleri</title>
-    <desc lang="tr">Richard, Derbyshire Peaks&#x27;ten Rolls-Royce&#x27;un evi olan Derby&#x27;ye doğru yolculuk yaparken Derwent Nehri&#x27;nin tarihsel önemini keşfeder. 4/4</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305050000 +0000" stop="20260305053500 +0000" channel="bbc-earth">
-    <title lang="tr">Ölümcül 60</title>
-    <desc lang="tr">Steve ilk kez Gabon&#x27;a gider. Loango Milli Parkı&#x27;nı keşfe çıkan Steve timsahlar, şaşırtıcı derecede öldürücü şempanzeler ve alıngan orman filleri arar. 3/11</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305053500 +0000" stop="20260305063500 +0000" channel="bbc-earth">
-    <title lang="tr">Ben Fogle ile Vahşilerin Yaşam Alanları</title>
-    <desc lang="tr">Ben Fogle, tropik bir adada kendi komününü oluşturan bir İngilizle yaşamak için Kamboçya&#x27;ya gidiyor. Ben, bir hamakta uyuyor, yağmur suyu içiyor ve bu küçük adada hayatın bu aile için nasıl ince bir pamuk ipliğine bağlı olduğunu deneyimliyor. 8/8</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305063500 +0000" stop="20260305074500 +0000" channel="bbc-earth">
-    <title lang="tr">Sıfırın Altında Yaşam</title>
-    <desc lang="tr">Jessie, Iditarod&#x27;da hayatının yarışını çıkarır. Ricko küçük hayvanları avlar. Hailstonelar ailece tavşan avına çıkarlar. Sue çatısından kar temizler. 10/22</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305074500 +0000" stop="20260305090500 +0000" channel="bbc-earth">
-    <title lang="tr">David Olusoga ile Britanya İmparatorluğu</title>
-    <desc lang="tr">Tarihçi David Olusoga, İngiliz imparatorluk tarihinin aile tarihi olduğunu ortaya çıkararak tarihi kişisel hale getiriyor. 2/3</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305090500 +0000" stop="20260305101000 +0000" channel="bbc-earth">
-    <title lang="tr">Fabrikanın İçinden</title>
-    <desc lang="tr">Gregg Wallace, Leeds&#x27;de günde 600 yaylı yatak üretilen devasa bir yatak fabrikasındadır. Sert çeliğin gelişinden yumuşak şiltelerin sevkiyata çıkmasına kadar yaylı yatakların tüm üretim aşamalarını takip ediyor. 4/9</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305101000 +0000" stop="20260305112000 +0000" channel="bbc-earth">
-    <title lang="tr">Büyük Kedilerin Tüm Yaşamı</title>
-    <desc lang="tr">Aslanların sayısı artmaya devam ediyor ama yeteri kadar yiyecek yok. Dişi bir anne aslan beş yavrusunu beslemek için hayatını riske atıyor. Ve Xudum&#x27;un yeni doğan leopar yavruları ölümcül bir tehditle karşı karşıya. 6/6</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305112000 +0000" stop="20260305123000 +0000" channel="bbc-earth">
-    <title lang="tr">Simon Reeve ile İnanılmaz Yolculuklar</title>
-    <desc lang="tr">Bu ilk bölümde Simon, dünyayı dolaşırken tanıştığı inanılmaz karakterleri tekrar ziyaret ediyor ve Bangladeş&#x27;te korkunç koşullarda çalışırken tanıştığı on yaşındaki bir çocukla yeniden bir araya geliyor. 1/4</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305123000 +0000" stop="20260305133000 +0000" channel="bbc-earth">
-    <title lang="tr">Sıfırın Altında Yaşam</title>
-    <desc lang="tr">Sue, Kavik&#x27;teki yaşama yeniden alışmaya başlar. Ricko kulübenin sobasını yeniler. Jessie dört çekerli aracını donmuş çamurdan kurtarmaya uğraşır. Chip ve Agnes zincirin tepesindeki bir yırtıcıyı avlarlar. 11/22</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305133000 +0000" stop="20260305143000 +0000" channel="bbc-earth">
-    <title lang="tr">Ben Fogle ile Vahşilerin Yaşam Alanları</title>
-    <desc lang="tr">Ben Ozark ulusal ormanlarına seyahat eder, usta zanaatkar Robert ile yaşamak, 70 yaşındaki eski tıp öğrencisinin 20 yıl önce niye Amerikan karşı-kültürü için eğitimini terkederek, ormanın derinliklerinde 100 dönüm arazi alıp, altı çocuklu bir aile kurduğunu öğrenmek için buradadır. 1/8</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305143000 +0000" stop="20260305154500 +0000" channel="bbc-earth">
-    <title lang="tr">David Olusoga ile Britanya İmparatorluğu</title>
-    <desc lang="tr">Tarihçi David Olusoga, İngiliz İmparatorluğu&#x27;nun dünya çapında nasıl yaşatıldığını ortaya çıkarıyor. 3/3</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305154500 +0000" stop="20260305165000 +0000" channel="bbc-earth">
-    <title lang="tr">Krallık</title>
-    <desc lang="tr">Leopar Mutima&#x27;nın annesiyle ilişkisi kırılma noktasına gelmiştir ve Nsefu&#x27;daki güç dengesi aslanların lehine değişirken, sırtlanlar ve vahşi köpekler yavrularını büyütmek için mücadele ederler. 2/6</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305165000 +0000" stop="20260305180000 +0000" channel="bbc-earth">
-    <title lang="tr">Çiftlik Hayatı</title>
-    <desc lang="tr">Kışın başındayız ve hava gittikçe soğuyor ve karanlıklaşıyor olsa da, bu mevsim çiftliklere yeni bir hayat getiriyor. İskoçya&#x27;nın doğusunda, Martin&#x27;in ahırları hamile ineklerle dolu ve özellikle endişelendiği iki anne adayı var. 4/12</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="bbc-earth">
-    <title lang="tr">Sıfırın Altında Yaşam</title>
-    <desc lang="tr">Kutuplarda mevsimlerin değişmesiyle Alaskalılar, bahar gelmeden, vahşi doğada farklı rotaları keşfederek avlanırlar. 13/14</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="bbc-earth">
-    <title lang="tr">Ben Fogle ile Vahşilerin Yaşam Alanları</title>
-    <desc lang="tr">Ben, bir milli parkın kenarına safari kulübesi inşa eden İngiliz bir ailenin yanında yaşamak için Zambiya&#x27;ya gider. Bu süreçte Ben, onları yangın ve sel gibi zorluklar karşısında devam etmeye motive eden şeyin ne olduğunu ortaya çıkarır. 5/12</desc>
-    <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260305200000 +0000" stop="20260305210500 +0000" channel="bbc-earth">
-    <title lang="tr">Krallık</title>
-    <desc lang="tr">Leopar Olimba bir eş bulur, ancak şans aslanların aleyhine döner. Aşırı sel, sırtlan klanı için felakete yol açar ve leopar Mutima&#x27;nın ayrılma zamanı gelir. 3/6</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
   <programme start="20260305000000 +0000" stop="20260305003000 +0000" channel="bbc-news">
     <title lang="tr">BBC News</title>
     <desc lang="tr">The latest news from the BBC.</desc>
@@ -3256,220 +3116,188 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Fiona Bruce presents an hour of topical debate.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260304050000 +0000" stop="20260304085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.G.İ.A.Keçiörengücü-Amed S.F</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304090000 +0000" stop="20260304105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Ümraniyespor - Bandırmaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304110000 +0000" stop="20260304125900 +0000" channel="beinsports2.tr">
+  <programme start="20260305050000 +0000" stop="20260305085900 +0000" channel="beinsports2.tr">
     <title lang="tr">Serikspor - Ö.Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304145900 +0000" channel="beinsports2.tr">
+  <programme start="20260305090000 +0000" stop="20260305105900 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.Ümraniyespor - Bandırmaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - S.G.Sarıyerspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304150000 +0000" stop="20260304165900 +0000" channel="beinsports2.tr">
+  <programme start="20260305130000 +0000" stop="20260305145900 +0000" channel="beinsports2.tr">
     <title lang="tr">Manisa FK - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304192900 +0000" channel="beinsports2.tr">
+  <programme start="20260305150000 +0000" stop="20260305165900 +0000" channel="beinsports2.tr">
     <title lang="tr">E.Erokspor - Boluspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304193000 +0000" stop="20260304213000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Man.City - Nott&#x27;m Forest</title>
+  <programme start="20260305170000 +0000" stop="20260305185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">İstanbulspor - A.H.Iğdır FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304044500 +0000" stop="20260304045900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="beinsports2.tr">
+    <title lang="tr">İ.A.Vanspor FK - Erzurumspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304050000 +0000" stop="20260304064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">W. Wanderers - Liverpool</title>
+  <programme start="20260305044500 +0000" stop="20260305045900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304064500 +0000" stop="20260304065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305050000 +0000" stop="20260305064400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Fulham - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304070000 +0000" stop="20260304084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Fulham - Tottenham Hotspur</title>
+  <programme start="20260305064500 +0000" stop="20260305065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304084500 +0000" stop="20260304085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305070000 +0000" stop="20260305084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Man. United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304090000 +0000" stop="20260304104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man. United - Crystal Palace</title>
+  <programme start="20260305084500 +0000" stop="20260305085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304104500 +0000" stop="20260304105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305090000 +0000" stop="20260305104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. City - Nottingham Forest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304110000 +0000" stop="20260304124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Everton - Burnley</title>
+  <programme start="20260305104500 +0000" stop="20260305105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304124500 +0000" stop="20260304125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305110000 +0000" stop="20260305124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton-Hove Albion - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Bournemouth - Brentford</title>
+  <programme start="20260305124500 +0000" stop="20260305125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304144500 +0000" stop="20260304145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305130000 +0000" stop="20260305144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304150000 +0000" stop="20260304164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Leeds United - Sunderland</title>
+  <programme start="20260305144500 +0000" stop="20260305145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304164500 +0000" stop="20260304165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260305150000 +0000" stop="20260305164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Fulham - West Ham United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304184400 +0000" channel="beinsports3.tr">
-    <title lang="tr">W. Wanderers - Liverpool</title>
+  <programme start="20260305164500 +0000" stop="20260305165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304184500 +0000" stop="20260304191900 +0000" channel="beinsports3.tr">
+  <programme start="20260305170000 +0000" stop="20260305184400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle United - Man. United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305184500 +0000" stop="20260305194900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304192000 +0000" stop="20260304192900 +0000" channel="beinsports3.tr">
+  <programme start="20260305195000 +0000" stop="20260305195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304193000 +0000" stop="20260304213000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brighton - Hove Albion-Arsenal</title>
+  <programme start="20260305200000 +0000" stop="20260305220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham H. - Crystal Palace</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304024500 +0000" stop="20260304025900 +0000" channel="beinsports4.tr">
+  <programme start="20260305024500 +0000" stop="20260305025900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304030000 +0000" stop="20260304044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Auxerre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304044500 +0000" stop="20260304045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304050000 +0000" stop="20260304064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Metz - Brest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304064500 +0000" stop="20260304065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304070000 +0000" stop="20260304085900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique de M. - Olympique L.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304090000 +0000" stop="20260304104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Rennes - Toulouse</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304104500 +0000" stop="20260304105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304110000 +0000" stop="20260304124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Monaco - Angers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304124500 +0000" stop="20260304125900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304130000 +0000" stop="20260304144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Havre - Paris Saint-Germain</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304144500 +0000" stop="20260304145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304150000 +0000" stop="20260304160000 +0000" channel="beinsports4.tr">
+  <programme start="20260305030000 +0000" stop="20260305044400 +0000" channel="beinsports4.tr">
     <title lang="tr">Strasbourg - Stade de Reims</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304150000 +0000" stop="20260304164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Strasbourg - Stade de Reims</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304164500 +0000" stop="20260304174500 +0000" channel="beinsports4.tr">
+  <programme start="20260305044500 +0000" stop="20260305045900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304164500 +0000" stop="20260304165900 +0000" channel="beinsports4.tr">
+  <programme start="20260305050000 +0000" stop="20260305064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Red Star - Le Mans</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305064500 +0000" stop="20260305065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Pau FC - Saint-Etienne</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305084500 +0000" stop="20260305085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M.-Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305124400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Lens</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris FC - Nice</title>
+  <programme start="20260305130000 +0000" stop="20260305144400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lorient - Nice</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris FC - Nice</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304173000 +0000" stop="20260304183000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Nantes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304173000 +0000" stop="20260304175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Nantes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304180000 +0000" stop="20260304190000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Auxerre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304180000 +0000" stop="20260304182900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Auxerre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304183000 +0000" stop="20260304193000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Metz - Brest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304183000 +0000" stop="20260304185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Metz - Brest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260304190000 +0000" stop="20260304200000 +0000" channel="beinsports4.tr">
+  <programme start="20260305144500 +0000" stop="20260305145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304190000 +0000" stop="20260304191900 +0000" channel="beinsports4.tr">
+  <programme start="20260305150000 +0000" stop="20260305164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de M. - Toulouse</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305164500 +0000" stop="20260305165900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304192000 +0000" stop="20260304202000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Maç Önü</title>
+  <programme start="20260305170000 +0000" stop="20260305172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Red Star - Le Mans</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304192000 +0000" stop="20260304192900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Maç Önü</title>
+  <programme start="20260305173000 +0000" stop="20260305175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Pau FC - Saint-Etienne</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304193000 +0000" stop="20260304203000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Aston Villa - Chelsea</title>
+  <programme start="20260305180000 +0000" stop="20260305182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ma Super Ligue 1</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260304193000 +0000" stop="20260304213000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Aston Villa - Chelsea</title>
+  <programme start="20260305183000 +0000" stop="20260305185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ma Super Ligue 1</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">This is Paris</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260305020000 +0000" stop="20260305050000 +0000" channel="benguturk">
@@ -3905,6 +3733,81 @@ Tolga, zengin bir ailenin varisi olarak aileyi kurtaracak tek çare gibi görün
     <title lang="tr">Nasıl Yapılır</title>
     <desc lang="tr">Günlük yaşamda ihtiyaç duyulan bilgi ve becerileri adım adım anlatan bu program, basit görünen işlerin püf noktalarını keşfetmeye davet eder. Pratik ipuçları, net anlatım ve uygulanabilir önerilerle izleyici, işleri daha kolay ve doğru şekilde yapmayı öğrenir.</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305010000 +0000" stop="20260305030000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg: The China Show</title>
+    <desc lang="tr">Your definitive source for news and analysis on the world&#x27;s second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305030000 +0000" stop="20260305050000 +0000" channel="bloomberg">
+    <title lang="tr">Insight with Haslinda Amin</title>
+    <desc lang="tr">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Horizons Middle East - Africa</title>
+    <desc lang="tr">Linking the market drivers from overnight in the US and across Asia into the region&#x27;s trading day, with deep dive analysis of the top business, energy and geopolitical stories.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Daybreak: Europe</title>
+    <desc lang="tr">Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we&#x27;ll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg: The Opening Trade</title>
+    <desc lang="tr">Everything you need to know as markets open across Europe. We break down today&#x27;s biggest stories and speak to guests with skin in the game.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="bloomberg">
+    <title lang="tr">The Pulse with Francine Lacqua</title>
+    <desc lang="tr">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Brief</title>
+    <desc lang="tr">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305140000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Surveillance</title>
+    <desc lang="tr">Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305160000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Open Interest</title>
+    <desc lang="tr">Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Tech</title>
+    <desc lang="tr">The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305180000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Markets</title>
+    <desc lang="tr">Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305183000 +0000" channel="bloomberg">
+    <title lang="tr">The David Rubenstein Show</title>
+    <desc lang="tr">Ray Dalio, Bridgewater Associates Founder. Billionaire investor Ray Dalio joins David Rubenstein for a wide-ranging conversation on the risks facing the US economy. S11, Ep9</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Chief Future Officer</title>
+    <desc lang="tr">Gina Goetter is the CFO and COO of Hasbro. She&#x27;s the architect of the company&#x27;s transformation, diversifying its manufacturing footprint and investing in Hasbro&#x27;s video game ambitions. S5, Ep7</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg Businessweek Daily</title>
+    <desc lang="tr">Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&#x27;s complex economy.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305220000 +0000" channel="bloomberg">
+    <title lang="tr">Bloomberg The Close</title>
+    <desc lang="tr">Romaine Bostick and Katie Greifeld break down the day&#x27;s top market-moving stories and trading action around the closing bell.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260305001000 +0000" stop="20260305013000 +0000" channel="bloomberg-ht">
     <title lang="tr">Pandora&#x27;nın Merakı</title>
@@ -11843,35 +11746,35 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
     <desc lang="tr">PGA Tour (Canlı)</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260305000000 +0000" stop="20260305001500 +0000" channel="fb-tv">
-    <title lang="tr">Gece Haberi</title>
-    <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260305010000 +0000" stop="20260305014500 +0000" channel="fb-tv">
+    <title lang="tr">Maçın Ardından</title>
+    <desc lang="tr">Maçın Ardından, oynanan karşılaşmanın öne çıkan anlarını, skorun hikâyesini ve maç sonrası gelişmeleri ele alıyor. İlk değerlendirmeler, röportajlar ve yorumlar programda yer alıyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260305001500 +0000" stop="20260305014500 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Euroleague</title>
-    <desc lang="tr">Basketbol: EuroLeague, kıtanın en güçlü kulüplerinin şampiyonluk için mücadele ettiği prestijli bir organizasyondur. Yüksek tempo, yıldız oyuncular ve taktik savaşları izleyiciye heyecan dolu anlar yaşatır.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260305014500 +0000" stop="20260305031500 +0000" channel="fb-tv">
+  <programme start="20260305014500 +0000" stop="20260305030000 +0000" channel="fb-tv">
     <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
     <desc lang="tr">Türkiye Basketbol Federasyonu tarafından düzenlenen Türk kadın basketbolunun en üst seviye ligi.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260305031500 +0000" stop="20260305041500 +0000" channel="fb-tv">
-    <title lang="tr">Yaşa Fenerbahçe</title>
-    <desc lang="tr">Yaşa Fenerbahçe, sarı-lacivertli kulübün tarihine damga vuran başarıları, efsane sporcuları ve unutulmaz anlarını ekrana taşıyor. Tribünlerden sahaya uzanan güçlü aidiyet duygusu, özel görüntüler ve anlatımlarla izleyiciyle buluşuyor. Program, Fenerbahçe camiasının birlik ve mücadele ruhunu yansıtıyor.</desc>
+  <programme start="20260305030000 +0000" stop="20260305050000 +0000" channel="fb-tv">
+    <title lang="tr">EuroLeague Analiz</title>
+    <desc lang="tr">EuroLeague Analiz, EuroLeague karşılaşmalarını detaylı biçimde ele alan bir basketbol programıdır. Program, maçların oyun planlarını, taktik tercihleri ve öne çıkan istatistikleri analiz ederek karşılaşmaları bütüncül bir bakışla değerlendirir.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260305041500 +0000" stop="20260305060000 +0000" channel="fb-tv">
-    <title lang="tr">Kadın Futbol Süper Ligi</title>
-    <desc lang="tr">Kadınlar Süper Ligi, sponsorluk anlaşması gereği Turkcell Kadın Futbol Süper Ligi adıyla da anılan, Türkiye Futbol Federasyonu tarafından düzenlenen en üst seviye kadın futbol ligidir. Her sezon güçlü takımların kıyasıya mücadelesine sahne olan lig, futbolseverlere yüksek tempolu ve heyecan dolu karşılaşmalar sunar.</desc>
+  <programme start="20260305050000 +0000" stop="20260305053000 +0000" channel="fb-tv">
+    <title lang="tr">Sportif</title>
+    <desc lang="tr">Fenerbahçe spor takımlarını tüm yönleriyle ekranlara getiren &quot;Sportif&quot; programı FB TV ekranlarında yayınlanıyor. Futboldan voleybola, atletizmden yüzmeye kadar her alanda faaliyet gösteren Fenerbahçe&#x27;nin Türk sporuna olan katkıları değerlendiriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305053000 +0000" stop="20260305054500 +0000" channel="fb-tv">
+    <title lang="tr">Fenerium Saati</title>
+    <desc lang="tr">Fenerium Saati, Fenerbahçe&#x27;nin resmi mağazası Fenerium&#x27;da yer alan ürünleri tanıtıyor. Yeni sezon koleksiyonları, özel tasarımlar ve kampanyalar programda izleyiciyle paylaşılıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="fb-tv">
-    <title lang="tr">Yaşayan Çınarlarımız</title>
-    <desc lang="tr">Yaşayan Çınarlarımız, Fenerbahçe tarihine emekleriyle iz bırakan isimlerin anılarını ve kulüple kurdukları güçlü bağı izleyiciyle buluşturuyor. Geçmişten bugüne uzanan hikâyeler programda yer alıyor.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260305054500 +0000" stop="20260305063000 +0000" channel="fb-tv">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
+    <desc lang="tr">Tarih ve Fenerbahçe, sarı-lacivertli kulübün kuruluşundan bugüne uzanan tarihini, önemli dönüm noktalarını ve unutulmaz başarılarını ele alıyor. Arşiv bilgileri ve anlatımlarla kulübün hafızası ekrana taşınıyor.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260305063000 +0000" stop="20260305064500 +0000" channel="fb-tv">
     <title lang="tr">Tarihte Bugün</title>
@@ -12310,6 +12213,22 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
   <programme start="20260305204500 +0000" stop="20260305210000 +0000" channel="flash-haber">
     <title lang="tr">Kültür Sanat</title>
     <desc lang="tr">Kültür Sanat, tiyatro, sinema, müzik, edebiyat ve görsel sanatlar dünyasındaki yenilikleri, güncel etkinlikleri ve önemli isimlerle yapılan özel röportajları bir araya getiriyor. Her bölümde sanatın toplumsal hayattaki yeri ve etkisi vurgulanırken, ilham veren projeler ve eserler izleyiciye sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="fm-tv">
+    <title lang="tr">Canlı Haber</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="fm-tv">
+    <title lang="tr">Kültür Köşesi</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305080000 +0000" channel="fm-tv">
+    <title lang="tr">Sanat ve Müzik</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260306050000 +0000" channel="fm-tv">
+    <title lang="tr">Gündem Sohbeti</title>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260305000000 +0000" stop="20260305001500 +0000" channel="france-24-arabic">
@@ -12893,6 +12812,534 @@ Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleş
   <programme start="20260305205300 +0000" stop="20260305210000 +0000" channel="france-24-arabic">
     <title lang="tr">Maghreb Focus</title>
     <desc lang="tr">A long format report dedicated to the Maghreb region, followed by an analysis with journalist and the presenter.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305000000 +0000" stop="20260305001500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305001500 +0000" stop="20260305002000 +0000" channel="france-24-english">
+    <title lang="tr">Business</title>
+    <desc lang="tr">Business on France 24 gives you a perfect chance to get the business updates as they come and to be up to speed on international finances and economics. Business keeps you posted on everything that really matters in our fast moving world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305002000 +0000" stop="20260305003000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305003000 +0000" stop="20260305004500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305004500 +0000" stop="20260305010000 +0000" channel="france-24-english">
+    <title lang="tr">Arts24</title>
+    <desc lang="tr">Daily international culture news from the world&#x27;s art, food and fashion capital, Paris.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305010000 +0000" stop="20260305011500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305011500 +0000" stop="20260305013000 +0000" channel="france-24-english">
+    <title lang="tr">A PROPOS</title>
+    <desc lang="tr">A comprehensive look at just one story that is making the headlines around the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305013000 +0000" stop="20260305014500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305014500 +0000" stop="20260305020000 +0000" channel="france-24-english">
+    <title lang="tr">Eye on Africa</title>
+    <desc lang="tr">Join Georja Calvin-Smith for all the news from Africa and the Maghreb, together with France 24&#x27;s correspondents and guests of the show. Eye on Africa is on every week day twice a day. Have a look at African life and find out what is going on there in the sphere of politics, health care, business.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305020000 +0000" stop="20260305021000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305021000 +0000" stop="20260305025300 +0000" channel="france-24-english">
+    <title lang="tr">The Debate</title>
+    <desc lang="tr">Live debate show on the key topic of the day with four guests from different spots of the globe, from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics, culture, sports, economy and healthcare. Get the latest facts and expert opinions about the most essential stories happening around us and draw your own conclusions.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260305025300 +0000" stop="20260305030000 +0000" channel="france-24-english">
+    <title lang="tr">Short Cuts</title>
+    <desc lang="tr">Inspiring topics and positive initiatives that are changing the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305030000 +0000" stop="20260305031000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305031000 +0000" stop="20260305031500 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305031500 +0000" stop="20260305033000 +0000" channel="france-24-english">
+    <title lang="tr">Talking Europe</title>
+    <desc lang="tr">Talking Europe guides you to the world of Europe&#x27;s politics and cultures. Presented by Catherine Nicholson, the program revolves around top EU issues and events. Find out latest news from politicians and researchers joined by the guests of the program.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260305033000 +0000" stop="20260305034000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305034000 +0000" stop="20260305040000 +0000" channel="france-24-english">
+    <title lang="tr">Revisited</title>
+    <desc lang="tr">Revisited presents certain places in different parts of the world several years after some significant events or accidents. See what the current situation is and find out what people think and feel after a while. Are there any changes?</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305040000 +0000" stop="20260305041500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305041500 +0000" stop="20260305043000 +0000" channel="france-24-english">
+    <title lang="tr">Eye on Africa</title>
+    <desc lang="tr">Join Georja Calvin-Smith for all the news from Africa and the Maghreb, together with France 24&#x27;s correspondents and guests of the show. Eye on Africa is on every week day twice a day. Have a look at African life and find out what is going on there in the sphere of politics, health care, business.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305043000 +0000" stop="20260305044500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305044500 +0000" stop="20260305050000 +0000" channel="france-24-english">
+    <title lang="tr">Arts24</title>
+    <desc lang="tr">Daily international culture news from the world&#x27;s art, food and fashion capital, Paris.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305050000 +0000" stop="20260305052000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305052000 +0000" stop="20260305053000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305053000 +0000" stop="20260305055000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305055000 +0000" stop="20260305055100 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305055100 +0000" stop="20260305060000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305060000 +0000" stop="20260305062000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305062000 +0000" stop="20260305063000 +0000" channel="france-24-english">
+    <title lang="tr">Press Review</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305063000 +0000" stop="20260305064500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305064500 +0000" stop="20260305065100 +0000" channel="france-24-english">
+    <title lang="tr">Global Grid</title>
+    <desc lang="tr">France 24&#x27;s International Affairs Editors come on set to give you their take on world events.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305065100 +0000" stop="20260305070000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305070000 +0000" stop="20260305072000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305072000 +0000" stop="20260305073000 +0000" channel="france-24-english">
+    <title lang="tr">In the Press</title>
+    <desc lang="tr">Presenters Solange Mougin, Alison Sargent and Dheepthika Laurent go through the day&#x27;s most exciting national and international newspaper headlines. Discover all the stories that make it to the pages, including news from politics, entertainment, environment, business and more. The presenters review these press headlines and offer details about the stories.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305073000 +0000" stop="20260305074500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305074500 +0000" stop="20260305075000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305075000 +0000" stop="20260305075700 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305075700 +0000" stop="20260305080000 +0000" channel="france-24-english">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305080000 +0000" stop="20260305081500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305081500 +0000" stop="20260305082100 +0000" channel="france-24-english">
+    <title lang="tr">Business</title>
+    <desc lang="tr">Business on France 24 gives you a perfect chance to get the business updates as they come and to be up to speed on international finances and economics. Business keeps you posted on everything that really matters in our fast moving world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305082100 +0000" stop="20260305083000 +0000" channel="france-24-english">
+    <title lang="tr">Press Review</title>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305083000 +0000" stop="20260305084000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305084000 +0000" stop="20260305084500 +0000" channel="france-24-english">
+    <title lang="tr">Perspective</title>
+    <desc lang="tr">Join presenters Eve Irvine and Stuart Norval, as they talk to various notable people about important topics such as social issues, culture, sport, science, business, and much more.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305084500 +0000" stop="20260305085000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305085000 +0000" stop="20260305090000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305091500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305091500 +0000" stop="20260305093000 +0000" channel="france-24-english">
+    <title lang="tr">Perspective</title>
+    <desc lang="tr">Join presenters Eve Irvine and Stuart Norval, as they talk to various notable people about important topics such as social issues, culture, sport, science, business, and much more.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305093000 +0000" stop="20260305094500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305094500 +0000" stop="20260305095000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305095000 +0000" stop="20260305100000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305100000 +0000" stop="20260305101500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305101500 +0000" stop="20260305101600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305101600 +0000" stop="20260305103000 +0000" channel="france-24-english">
+    <title lang="tr">France In Focus</title>
+    <desc lang="tr">France in Focus brings top stories and most essential reports on France, its political and social life. Be the first to know about latest events in politics, culture and economy, find out about the present and future of medicine, magnificent French heritage and so much more.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305103000 +0000" stop="20260305104500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305104500 +0000" stop="20260305104600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305104600 +0000" stop="20260305105800 +0000" channel="france-24-english">
+    <title lang="tr">Reporters</title>
+    <desc lang="tr">Reporters presents various reports by team of correspondents from all over the world regarding hot button issues. Directly from the suburbs of Ghana&#x27;s capital Accra or from Chile, Israel or USA, from any place of the globe the reporters tell latest stories and highlight what is going on.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305105800 +0000" stop="20260305110000 +0000" channel="france-24-english">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305111500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305111500 +0000" stop="20260305111600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305111600 +0000" stop="20260305113000 +0000" channel="france-24-english">
+    <title lang="tr">Arts24</title>
+    <desc lang="tr">Daily international culture news from the world&#x27;s art, food and fashion capital, Paris.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305113000 +0000" stop="20260305114500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305114500 +0000" stop="20260305114600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305114600 +0000" stop="20260305115100 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305115100 +0000" stop="20260305120000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305120000 +0000" stop="20260305122200 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305122200 +0000" stop="20260305123000 +0000" channel="france-24-english">
+    <title lang="tr">Business</title>
+    <desc lang="tr">Business on France 24 gives you a perfect chance to get the business updates as they come and to be up to speed on international finances and economics. Business keeps you posted on everything that really matters in our fast moving world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305123000 +0000" stop="20260305124000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305124000 +0000" stop="20260305124500 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305124500 +0000" stop="20260305125100 +0000" channel="france-24-english">
+    <title lang="tr">Down To Earth</title>
+    <desc lang="tr">Down To Earth presents people behind fascinating environmental, health and technological innovations in a bid for sustainable solutions to our changing world. The program draws viewers&#x27; attention to ecological responsibility and highlights latest solutions to pollution and waste problems all over the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305125100 +0000" stop="20260305130000 +0000" channel="france-24-english">
+    <title lang="tr">French Connections</title>
+    <desc lang="tr">French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305131500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305131500 +0000" stop="20260305133000 +0000" channel="france-24-english">
+    <title lang="tr">Culture Critics</title>
+    <desc lang="tr">Program reviewing the latest international news stories and trends form the world of culture, including film, music, literature and art.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305133000 +0000" stop="20260305134500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305134500 +0000" stop="20260305135000 +0000" channel="france-24-english">
+    <title lang="tr">Tech 24</title>
+    <desc lang="tr">The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305135000 +0000" stop="20260305135700 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305135700 +0000" stop="20260305140000 +0000" channel="france-24-english">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305140000 +0000" stop="20260305144200 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305144200 +0000" stop="20260305145400 +0000" channel="france-24-english">
+    <title lang="tr">Across Africa</title>
+    <desc lang="tr">Across Africa is a weekly news program presenting latest updates and stories from the African continent to the world. Get up-to-date full coverage of politics, social events, economic analysis with the help of our team of professional reporters.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305145400 +0000" stop="20260305150000 +0000" channel="france-24-english">
+    <title lang="tr">Short Cuts</title>
+    <desc lang="tr">Inspiring topics and positive initiatives that are changing the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305153000 +0000" stop="20260305154500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305154500 +0000" stop="20260305160000 +0000" channel="france-24-english">
+    <title lang="tr">People And Profit</title>
+    <desc lang="tr">People and Profit presents top business stories, analyses latest trends and explains what and how impact business operations. Find out what the business prospects are, how business and economic situation affect each and everyone.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305160000 +0000" stop="20260305161500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305161500 +0000" stop="20260305161600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305161600 +0000" stop="20260305163000 +0000" channel="france-24-english">
+    <title lang="tr">Arts24</title>
+    <desc lang="tr">Daily international culture news from the world&#x27;s art, food and fashion capital, Paris.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305163000 +0000" stop="20260305164500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305164500 +0000" stop="20260305164600 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305164600 +0000" stop="20260305165200 +0000" channel="france-24-english">
+    <title lang="tr">French Connections</title>
+    <desc lang="tr">French Connections revolves around France, its top stories and news, its experience in various spheres and cultural life, sport events, health care and education, cuisine and so much more. Find out what is like to live in France, get to know its regions, and feel the true taste of France.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305165200 +0000" stop="20260305165800 +0000" channel="france-24-english">
+    <title lang="tr">The Observers</title>
+    <desc lang="tr">The Observers on France 24 is a weekly show produced with photos, videos and personal accounts from Observers around the world. Top international current affairs are covered by using eyewitness accounts from Observers- people who are at the heart of an event. They send their photos and videos, which are verified and contextualized by France 24 team of professional journalists in Paris.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305165800 +0000" stop="20260305170000 +0000" channel="france-24-english">
+    <title lang="tr">Headlines</title>
+    <desc lang="tr">Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305171500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305171500 +0000" stop="20260305173000 +0000" channel="france-24-english">
+    <title lang="tr">Spotlight</title>
+    <desc lang="tr">Prime time interview of the day goes beyond the headlines: join us as news-making guests from around the globe go in depth on the stories that matter.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260305173000 +0000" stop="20260305174500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305174500 +0000" stop="20260305175100 +0000" channel="france-24-english">
+    <title lang="tr">Business</title>
+    <desc lang="tr">Business on France 24 gives you a perfect chance to get the business updates as they come and to be up to speed on international finances and economics. Business keeps you posted on everything that really matters in our fast moving world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305175100 +0000" stop="20260305180000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305181000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305181000 +0000" stop="20260305185300 +0000" channel="france-24-english">
+    <title lang="tr">The Debate</title>
+    <desc lang="tr">Live debate show on the key topic of the day with four guests from different spots of the globe, from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics, culture, sports, economy and healthcare. Get the latest facts and expert opinions about the most essential stories happening around us and draw your own conclusions.</desc>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260305185300 +0000" stop="20260305190000 +0000" channel="france-24-english">
+    <title lang="tr">Short Cuts</title>
+    <desc lang="tr">Inspiring topics and positive initiatives that are changing the world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305192000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305192000 +0000" stop="20260305193000 +0000" channel="france-24-english">
+    <title lang="tr">Sports</title>
+    <desc lang="tr">A summary of world sports news of the day, both on and off the pitch.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260305193000 +0000" stop="20260305194500 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305194500 +0000" stop="20260305195100 +0000" channel="france-24-english">
+    <title lang="tr">Truth or Fake</title>
+    <desc lang="tr">In our fast-moving challenging world it is of fundamental importance to sort what&#x27;s true from what&#x27;s fake online. The Truth or Fake is a short program designed to alert everyone to the dangers of fake news. The hosts emphasize that media literacy is a key part of the broad fight against disinformation.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305195100 +0000" stop="20260305200000 +0000" channel="france-24-english">
+    <title lang="tr">Focus</title>
+    <desc lang="tr">Keep up with the latest news from all over the globe with Focus on France 24. Focus programme provides exclusive reports from Monday to Friday at 7.50 am Paris time. Find out what&#x27;s going on in the world of economy, politics, culture, sport, medicine, ecology. Focus has it all covered for you.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305200000 +0000" stop="20260305202000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305202000 +0000" stop="20260305203000 +0000" channel="france-24-english">
+    <title lang="tr">Business</title>
+    <desc lang="tr">Business on France 24 gives you a perfect chance to get the business updates as they come and to be up to speed on international finances and economics. Business keeps you posted on everything that really matters in our fast moving world.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260305203000 +0000" stop="20260305204000 +0000" channel="france-24-english">
+    <title lang="tr">News</title>
+    <desc lang="tr">Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260305204000 +0000" stop="20260305210000 +0000" channel="france-24-english">
+    <title lang="tr">Eye on Africa</title>
+    <desc lang="tr">Join Georja Calvin-Smith for all the news from Africa and the Maghreb, together with France 24&#x27;s correspondents and guests of the show. Eye on Africa is on every week day twice a day. Have a look at African life and find out what is going on there in the sphere of politics, health care, business.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260305000000 +0000" stop="20260305004500 +0000" channel="fx">
@@ -13887,7 +14334,7 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="kanal-d">
     <title lang="tr">Bir Ramazan Akşamı</title>
-    <desc lang="tr">Serdar Er&#x27;in sunumuyla ramazan boyunca her gün iftar saatinde canlı yayınlanan programa Cumhurbaşkanlığı Külliyesi Beştepe Millet Camii avlusu ev sahipliği yapıyor. İftar bekleyişini huzurlu bir buluşmaya dönüştürecek Bir Ramazan Akşamı, ramazan boyunca kültür sanat dünyasından ünlü isimler ve akademisyenleri izleyenlerle buluşturuyor.</desc>
+    <desc lang="tr">Bir Ramazan Akşamı bu bölümde; Türk Tasavvuf Musikisi icracısı Ahmet Özhan ile dünyaca ünlü Mısırlı hafız Mahmud Şahhat&#x27;ı ağırlıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="kanal-d">
@@ -17843,35 +18290,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260305040000 +0000" stop="20260305070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260305070000 +0000" stop="20260305120000 +0000" channel="power-tv">
+  <programme start="20260305070000 +0000" stop="20260305130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260305130000 +0000" stop="20260305200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260305200000 +0000" stop="20260305205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260305205900 +0000" stop="20260306040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260305000000 +0000" stop="20260305023000 +0000" channel="s-sport">
     <title lang="tr">Oklahoma City Thunder - New York Knicks</title>
