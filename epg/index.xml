@@ -17980,13 +17980,13 @@ Murat&#x27;ın kayboluşunun ardından Murat&#x27;ın memleketi Halfeti&#x27;ye 
   </programme>
   <programme start="20260307160000 +0000" stop="20260307200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260307200000 +0000" stop="20260307230000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260307000000 +0000" stop="20260307023000 +0000" channel="s-sport">
     <title lang="tr">Miami Heat - Charlotte Hornets</title>
@@ -23859,7 +23859,7 @@ Esra, düğün masraflarını karşılayabilmek için çok çalışmaya başlar.
   </programme>
   <programme start="20260307131500 +0000" stop="20260307150000 +0000" channel="tv-4">
     <title lang="tr">Küçük Hanımefendi</title>
-    <desc lang="tr">Hülya Koçyiğit ve Kartal Tibet&#x27;in başrollerini paylaştığı 1970 yapımı filmde, kocası tarafından terk edilen genç bir kadının yeni bir hayata başlamasını ve kendini sil baştan yaratarak kocasının karşısına çıkıp onu kendisine aşık etmesi anlatılıyor.</desc>
+    <desc lang="tr">Şımarık tavırlarıyla çevresindekileri zor durumda bırakan genç ve zengin bir kızın hayatı, karşısına çıkan kararlı bir adamla değişmeye başlar. Yönetmenliğini Ertem Eğilmez&#x27;in üstlendiği filmde, Hülya Koçyiğit genç bir kadının değişim sürecini samimi ve romantik bir anlatımla izleyiciye sunuyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260307150000 +0000" stop="20260307170000 +0000" channel="tv-4">
@@ -23874,7 +23874,7 @@ Esra, düğün masraflarını karşılayabilmek için çok çalışmaya başlar.
   </programme>
   <programme start="20260307190000 +0000" stop="20260307204500 +0000" channel="tv-4">
     <title lang="tr">Küçük Hanımefendi</title>
-    <desc lang="tr">Hülya Koçyiğit ve Kartal Tibet&#x27;in başrollerini paylaştığı 1970 yapımı filmde, kocası tarafından terk edilen genç bir kadının yeni bir hayata başlamasını ve kendini sil baştan yaratarak kocasının karşısına çıkıp onu kendisine aşık etmesi anlatılıyor.</desc>
+    <desc lang="tr">Şımarık tavırlarıyla çevresindekileri zor durumda bırakan genç ve zengin bir kızın hayatı, karşısına çıkan kararlı bir adamla değişmeye başlar. Yönetmenliğini Ertem Eğilmez&#x27;in üstlendiği filmde, Hülya Koçyiğit genç bir kadının değişim sürecini samimi ve romantik bir anlatımla izleyiciye sunuyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260307204500 +0000" stop="20260307223000 +0000" channel="tv-4">
@@ -24357,6 +24357,7 @@ Burak Akkul&#x27;un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip ner
   </programme>
   <programme start="20260307164500 +0000" stop="20260307171500 +0000" channel="tv5">
     <title lang="tr">Panorama</title>
+    <desc lang="tr">Panorama, Türkiye ve dünyada öne çıkan gelişmeleri analizlerle ele alan bir haber programıdır. Günün önemli başlıkları, uzman yorumları ve farklı perspektiflerle değerlendiriliyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260307171500 +0000" stop="20260307172000 +0000" channel="tv5">
