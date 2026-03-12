@@ -926,6 +926,406 @@ Bu arada gazinoda şarkıcı olarak çalışmaya başlayan Orhan, çıkacağı i
     <desc lang="tr">Günün en son noktası, Gece Ajansı&#x27;yla konuluyor. Programda; spor, ekonomi, iç ve dış siyaset, kültür sanatın da aralarında bulunduğu her konu konuşuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="a-news">
+    <title lang="tr">Daybreak</title>
+    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="a-news">
+    <title lang="tr">Daybreak</title>
+    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="a-news">
+    <title lang="tr">Daybreak</title>
+    <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312032500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312032500 +0000" stop="20260312033000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312033000 +0000" stop="20260312035000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312035000 +0000" stop="20260312035500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312035500 +0000" stop="20260312040000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312042500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312042500 +0000" stop="20260312043000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312045000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312045000 +0000" stop="20260312045500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312045500 +0000" stop="20260312050000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312055000 +0000" channel="a-news">
+    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
+    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312055000 +0000" stop="20260312055500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312055500 +0000" stop="20260312060000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312061500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312061500 +0000" stop="20260312063000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312063000 +0000" stop="20260312065000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312065000 +0000" stop="20260312065500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312065500 +0000" stop="20260312070000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312072500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312072500 +0000" stop="20260312073000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312073000 +0000" stop="20260312075500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312075500 +0000" stop="20260312080000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312082500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312082500 +0000" stop="20260312083000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312083000 +0000" stop="20260312085000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312085000 +0000" stop="20260312085500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312085500 +0000" stop="20260312090000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312092500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312092500 +0000" stop="20260312093000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312093000 +0000" stop="20260312095000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312095000 +0000" stop="20260312095500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312095500 +0000" stop="20260312100000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312102500 +0000" channel="a-news">
+    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
+    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312102500 +0000" stop="20260312105000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312105000 +0000" stop="20260312105500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312105500 +0000" stop="20260312110000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312112500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312112500 +0000" stop="20260312113000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312113000 +0000" stop="20260312115000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312115000 +0000" stop="20260312115500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312115500 +0000" stop="20260312120000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312122500 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312122500 +0000" stop="20260312123000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312123000 +0000" stop="20260312125000 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312125000 +0000" stop="20260312125500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312125500 +0000" stop="20260312130000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312132500 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312132500 +0000" stop="20260312133000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312133000 +0000" stop="20260312135000 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312135000 +0000" stop="20260312135500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312135500 +0000" stop="20260312140000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312142500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312142500 +0000" stop="20260312143000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312143000 +0000" stop="20260312145000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312145000 +0000" stop="20260312145500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312145500 +0000" stop="20260312150000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312155000 +0000" channel="a-news">
+    <title lang="tr">Türkiye&#x27;s Diplomacy</title>
+    <desc lang="tr">Stay ahead of the world&#x27;s most critical developments with Türkiye&#x27;s Diplomacy.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312155000 +0000" stop="20260312155500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312155500 +0000" stop="20260312160000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312162500 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312162500 +0000" stop="20260312163000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312163000 +0000" stop="20260312165000 +0000" channel="a-news">
+    <title lang="tr">Newsroom</title>
+    <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312165000 +0000" stop="20260312165500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312165500 +0000" stop="20260312170000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312172500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312172500 +0000" stop="20260312173000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312173000 +0000" stop="20260312175000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312175000 +0000" stop="20260312175500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312175500 +0000" stop="20260312180000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312182500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312182500 +0000" stop="20260312183000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312183000 +0000" stop="20260312185000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312185000 +0000" stop="20260312185500 +0000" channel="a-news">
+    <title lang="tr">Sport</title>
+    <desc lang="tr">All about the sports.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312185500 +0000" stop="20260312190000 +0000" channel="a-news">
+    <title lang="tr">Weather</title>
+    <desc lang="tr">All about the weather.</desc>
+    <category lang="tr">Hava Durumu</category>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312194500 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312194500 +0000" stop="20260312200000 +0000" channel="a-news">
+    <title lang="tr">Finance and Markets</title>
+    <desc lang="tr">All about the finance world.</desc>
+    <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312210000 +0000" channel="a-news">
+    <title lang="tr">Newshour</title>
+    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="a-para">
     <title lang="tr">İzlence</title>
     <category lang="tr">Diğer</category>
@@ -1661,41 +2061,6 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   <programme start="20260312200000 +0000" stop="20260312220000 +0000" channel="al-quran-al-kareem">
     <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
     <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312030000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312060000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312090000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312120000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312150000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312150000 +0000" stop="20260312180000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312210000 +0000" channel="al-sunnah-al-nabawiyah">
-    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
-    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260312040000 +0000" stop="20260312070000 +0000" channel="as-tv">
@@ -2832,219 +3197,49 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Fiona Bruce presents an hour of topical debate.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260311044500 +0000" stop="20260311045900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Goller</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311050000 +0000" stop="20260311064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">İ.A.Vanspor FK - A.Demirspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311064500 +0000" stop="20260311082900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Serikspor - A.G.Pendikspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311083000 +0000" stop="20260311100900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - S.G.Sarıyerspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311101000 +0000" stop="20260311102900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311103000 +0000" stop="20260311123900 +0000" channel="beinsports2.tr">
-    <title lang="tr">İstanbulspor - Amed S.F.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311124000 +0000" stop="20260311125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311130000 +0000" stop="20260311152900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Ümraniyespor - Erzurumspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311153000 +0000" stop="20260311162900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Süper Lig Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311163000 +0000" stop="20260311163900 +0000" channel="beinsports2.tr">
+  <programme start="20260312044500 +0000" stop="20260312045900 +0000" channel="beinsports2.tr">
     <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311164000 +0000" stop="20260311165900 +0000" channel="beinsports2.tr">
+  <programme start="20260312050000 +0000" stop="20260312064400 +0000" channel="beinsports2.tr">
+    <title lang="tr">İstanbulspor - Amed S.F.</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260312064500 +0000" stop="20260312102900 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.Hatayspor - Ö.Sivasspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260312103000 +0000" stop="20260312123900 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.H.Iğdır FK - S.Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260312124000 +0000" stop="20260312125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311170000 +0000" stop="20260311192900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.G.İ.Keçiörengücü-Sakaryaspor</title>
+  <programme start="20260312130000 +0000" stop="20260312152900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Boluspor - A.Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311193000 +0000" stop="20260311213000 +0000" channel="beinsports2.tr">
+  <programme start="20260312153000 +0000" stop="20260312162900 +0000" channel="beinsports2.tr">
     <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311024500 +0000" stop="20260311025900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  <programme start="20260312163000 +0000" stop="20260312163900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311030000 +0000" stop="20260311044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Saint-Etienne - Red Star</title>
+  <programme start="20260312164000 +0000" stop="20260312165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311044500 +0000" stop="20260311045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  <programme start="20260312170000 +0000" stop="20260312192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.Erokspor - Bandırmaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260311050000 +0000" stop="20260311064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Lorient</title>
+  <programme start="20260312193000 +0000" stop="20260312213000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311064500 +0000" stop="20260311065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311070000 +0000" stop="20260311084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Havre</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311084500 +0000" stop="20260311085900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311090000 +0000" stop="20260311104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique Lyon - Paris FC</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311104500 +0000" stop="20260311105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311110000 +0000" stop="20260311124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint-Germain - Monaco</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311124500 +0000" stop="20260311125900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311130000 +0000" stop="20260311144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nantes - Angers</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311144500 +0000" stop="20260311145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311150000 +0000" stop="20260311164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Auxerre - Strasbourg</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311164500 +0000" stop="20260311165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311170000 +0000" stop="20260311172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Saint-Etienne - Red Star</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311173000 +0000" stop="20260311175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Stade de Reims - Dunkerque</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311180000 +0000" stop="20260311182900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Toulouse - Olympique de M.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311183000 +0000" stop="20260311185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lens - Metz</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311190000 +0000" stop="20260311192900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nice - Rennes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311193000 +0000" stop="20260311195900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311200000 +0000" stop="20260311202900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 2 Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260311203000 +0000" stop="20260311223000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312050000 +0000" channel="benguturk">
-    <title lang="tr">Program Tekrarı</title>
-    <desc lang="tr">Program Tekrarı, gün içinde yayınlanan programların tekrarlarını izleyiciye ulaştıran bir yayın kuşağıdır. Haberler, magazin spor ve kültürel içeriklerin tekrarları sayesinde izleyiciler, kaçırdıkları bölümleri kolayca yakalayabilir ve programları istedikleri zaman izleyebilir. İzleyiciye takip imkanı sağlar.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312070000 +0000" channel="benguturk">
-    <title lang="tr">Selvi Kahraman ile Bu Sabah</title>
-    <desc lang="tr">Selvi Kahraman ile Bu Sabah programı, Bengütürk ekranında izleyicilere gündem, analiz ve sıcak konuları aktarıyor. Bilgilendirici ve samimi sunumuyla haftanın önemli gelişmeleri, yorumlar ve tartışmalar anlaşılır bir dille sunuluyor. Sabahınızı güncel bilgilerle başlatabilirsiniz.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="benguturk">
-    <title lang="tr">Ekonomi Ekranı</title>
-    <desc lang="tr">Ekonomi Ekranı, sabah kuşağında izleyicilere ekonomik gündemi sunuyor. Döviz ve altın fiyatları, borsa analizleri ve makroekonomik göstergeler uzman konuklarla derinlemesine ele alınıyor. Program, ekonomik gelişmeleri anlaşılır ve yönlendirici şekilde aktarıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312080000 +0000" stop="20260312103000 +0000" channel="benguturk">
-    <title lang="tr">Ajans</title>
-    <desc lang="tr">Bengütürk ekranında Ajans programı gün boyunca gelişen önemli haberleri izleyiciye kapsamlı ve akıcı şekilde aktarır. Türkiye&#x27;den ve uluslararası gündemden kritik başlıklar, ekonomi, siyaset, yaşam ve asayiş haberleri bu bültende izlenebilir. İzleyenler günün öne çıkan haberlerine bu programla vakıf olur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="benguturk">
-    <title lang="tr">Spor Bülteni</title>
-    <desc lang="tr">Spor Bülteni, Bengütürk&#x27;te günün öne çıkan spor haberlerini, maç sonuçlarını ve analizleri izleyicilere hızlı ve net bir şekilde sunar.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="benguturk">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Gün Ortası, Bengütürk&#x27;te öğle saatlerinde Türkiye ve dünya gündemini uzman yorumlarla izleyiciye aktaran kapsamlı bir haber bültenidir.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="benguturk">
-    <title lang="tr">Dış Bakış</title>
-    <desc lang="tr">Dış Bakış, uluslararası gelişmeleri ve Türkiye&#x27;nin dış politikasını derinlikli analizlerle ele alan bir programdır. Diplomasi, bölgesel çatışmalar ve küresel trendler uzman konuklarla değerlendirilir. İzleyiciye yalnızca haber değil, analitik bir perspektif sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312154300 +0000" channel="benguturk">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Gündem programı Bengütürk ekranında günün en önemli haber başlıklarını kapsamlı şekilde izleyiciye aktarıyor. Türkiye ve dünyadan gelişmeler akıcı anlatımla izlenebilir hale getiriliyor, siyaset, ekonomi, toplumsal olaylar ve önemli gelişmeler tarafsız bir yaklaşım ile geniş şekilde ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312154300 +0000" stop="20260312160000 +0000" channel="benguturk">
-    <title lang="tr">Spor Bülteni</title>
-    <desc lang="tr">Spor Bülteni, Bengütürk&#x27;te günün öne çıkan spor haberlerini, maç sonuçlarını ve analizleri izleyicilere hızlı ve net bir şekilde sunar.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="benguturk">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Gündem programı Bengütürk ekranında günün en önemli haber başlıklarını kapsamlı şekilde izleyiciye aktarıyor. Türkiye ve dünyadan gelişmeler akıcı anlatımla izlenebilir hale getiriliyor, siyaset, ekonomi, toplumsal olaylar ve önemli gelişmeler tarafsız bir yaklaşım ile geniş şekilde ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312163000 +0000" stop="20260312165000 +0000" channel="benguturk">
-    <title lang="tr">Çevre Ekranı</title>
-    <desc lang="tr">&quot;Çevre Ekranı&quot;, Bengütürk&#x27;te çevre sorunları ve sürdürülebilirlik konularını ele alan, bilinçlendirici bir programdır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260312165000 +0000" stop="20260312170000 +0000" channel="benguturk">
-    <title lang="tr">Haber Önü</title>
-    <desc lang="tr">&quot;Haber Önü&quot;, Bengütürk&#x27;te akşam haber bülteni öncesinde günün öne çıkan gelişmelerini hızlı ve öz bir şekilde sunan bir haber kuşağıdır.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312183000 +0000" channel="benguturk">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber bülteni gün boyunca öne çıkan gelişmeleri sizlerle buluşturuyor. Tarafsız ve güvenilir sunumuyla haberleri hızlıca takip edin, gündemi kaçırmadan öğrenin. Bülten boyunca hem son dakika haberleri hem de olayların ayrıntılı yorumları yer alıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312183000 +0000" stop="20260312210000 +0000" channel="benguturk">
-    <title lang="tr">Son Nokta</title>
-    <desc lang="tr">&quot;Son Nokta&quot;, Bengütürk&#x27;te gündemdeki tartışmalı konuları derinlemesine irdeleyen, analiz ve yorum ağırlıklı bir program</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260312010000 +0000" stop="20260312033000 +0000" channel="beyaz-tv">
     <title lang="tr">Son Vurgun</title>
@@ -13488,6 +13683,79 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Güncel haberler, politika ve toplumsal gelişmeleri ele alan tarafsız bir haber programıdır. Uzman yorumları ve analizlerle olaylar ayrıntılı biçimde incelenir, gündem açık, anlaşılır ve güvenilir bir dille izleyiciye aktarılır. Program, doğru bilgiye ulaşmak isteyenler için hazır.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260312000000 +0000" stop="20260312014500 +0000" channel="ht-spor">
+    <title lang="tr">Futbol X</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312014500 +0000" stop="20260312020000 +0000" channel="ht-spor">
+    <title lang="tr">Belgesel</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="ht-spor">
+    <title lang="tr">Haber Bülteni</title>
+    <desc lang="tr">Güncel spor haberleri HT Spor&#x27;da...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312044500 +0000" channel="ht-spor">
+    <title lang="tr">Futbol X</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312044500 +0000" stop="20260312050000 +0000" channel="ht-spor">
+    <title lang="tr">Belgesel</title>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312070000 +0000" channel="ht-spor">
+    <title lang="tr">Başlama Vuruşu</title>
+    <desc lang="tr">Hafta içi her gün gazete ve günün manşetleriyle gün başlıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="ht-spor">
+    <title lang="tr">Schengen Vizesi</title>
+    <desc lang="tr">Avrupa liglerinde neler oluyor... Avrupa gündemine dair her şey bu programda konuşuluyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312093000 +0000" channel="ht-spor">
+    <title lang="tr">HT Spor Gündem</title>
+    <desc lang="tr">Cem Dizdar&#x27;ın yorumlarıyla gündeme dair her şey bu programda konuşuluyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312093000 +0000" stop="20260312103000 +0000" channel="ht-spor">
+    <title lang="tr">Kürsü</title>
+    <desc lang="tr">Tüm spor dallarının nabzı bu programda atıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312103000 +0000" stop="20260312120000 +0000" channel="ht-spor">
+    <title lang="tr">Bakış Açısı</title>
+    <desc lang="tr">Dosya haberler, gündemdeki konular, derinlemesine analizler hafta içi her gün Bakış Açısı&#x27;nda...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312150000 +0000" channel="ht-spor">
+    <title lang="tr">Satır Arası</title>
+    <desc lang="tr">Spora dair her şey, özel röportajlar, muhabir bağlantıları, son dakika gelişmeleri ve eğlenceli içeriklerin tümü bu programda...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="ht-spor">
+    <title lang="tr">Ana Haber Bülteni</title>
+    <desc lang="tr">Günün spor haberleri Sine Çakır&#x27;ın sunumuyla HT Spor Ana Haber&#x27;de...</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="ht-spor">
+    <title lang="tr">Gelmez Dediğin Yerden</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="ht-spor">
+    <title lang="tr">Maç Yolu</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="ht-spor">
+    <title lang="tr">Sahadan</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312210000 +0000" channel="ht-spor">
+    <title lang="tr">Gece Yarısı</title>
+    <desc lang="tr">Seçil Menteş keyifli bir söyleşi programıyla ekranlarda...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
   <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="kadirga-tv">
     <title lang="tr">Hatm-i Şerif</title>
     <desc lang="tr">Hatm-i Şerif, dini ve kültürel içeriklere odaklanan izleyiciye kutsal metinlerin anlamını, önemini ve ibadet pratiklerini detaylı ve anlaşılır bir şekilde sunan bir programdır. Programda dini ritüeller ve toplumsal değerler ele alınır izleyicilerin hem bilgi edinmesi hem de manevi olarak beslenmesi amaçlanır.</desc>
@@ -14300,6 +14568,116 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260312150000 +0000" stop="20260312210000 +0000" channel="kibris-tv">
     <title lang="tr">Kibris TV</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="kontv">
+    <title lang="tr">Kürsüden Gönüllere</title>
+    <desc lang="tr">Kürsüden paylaşılan düşünceler, toplumsal mesajlar ve ilham verici konuşmalar bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak, izleyiciye hem düşündürücü hem de farkındalık kazandıran bir deneyim sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312031400 +0000" channel="kontv">
+    <title lang="tr">Sahur Vakti</title>
+    <desc lang="tr">Sahur vakti, özellikle Ramazan ayında oruç tutacak Müslümanların imsak vaktinden önce yemek yediği ve ibadet ettiği zamandır. Bu vakitte yapılan sahur, oruç için güç verir ve aynı zamanda manevi açıdan bereketli bir zaman olarak kabul edilir.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312031400 +0000" stop="20260312033000 +0000" channel="kontv">
+    <title lang="tr">Esma-ül Hüsna</title>
+    <desc lang="tr">Esma-ül Hüsna, Allah&#x27;ın Kur&#x27;an ve hadislerde geçen en güzel 99 ismidir. Her bir isim, Allah&#x27;ın farklı bir sıfatını ve tecellisini ifade eder. Rahman, Rahim, Alîm ve Hakîm gibi isimler; merhametini, bilgisini, adaletini ve kudretini anlatır. Müslümanlar bu isimleri zikrederek Allah&#x27;ı daha iyi tanımayı ve O&#x27;na yakınlaşmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312033000 +0000" stop="20260312043000 +0000" channel="kontv">
+    <title lang="tr">Hatm-i Şerif</title>
+    <desc lang="tr">Hatm-i Şerif, Kur&#x27;an-ı Kerim&#x27;in baştan sona okunarak tamamlanmasıdır. Bireysel olarak veya bir grup tarafından yapılabilir. Kur&#x27;an okunduktan sonra dua edilir ve sevabı başta Peygamber Efendimiz olmak üzere geçmişlere bağışlanır. İslam kültüründe önemli bir ibadet ve gelenektir.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312053000 +0000" channel="kontv">
+    <title lang="tr">Sahib-i Ata Sohbetleri</title>
+    <desc lang="tr">Sahib-i Ata Sohbetleri, tarih, kültür ve toplum konularını detaylı ve anlaşılır biçimde izleyiciye sunan bir programdır. Tarihi olaylar kültürel miraslar ve toplumsal değerler ele alınırken, izleyicilere hem bilgilendirici hem düşündürücü içerikler sunulur. Konular derinlemesine işlenir ve ilgi canlı tutulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312053000 +0000" stop="20260312060000 +0000" channel="kontv">
+    <title lang="tr">Muzaffer Dereli Vaaz</title>
+    <desc lang="tr">İzleyiciye dini ve manevi konuları anlaşılır ve etkileyici bir şekilde aktaran bir programdır. Programda güncel toplumsal meseleler, dini öğretiler ve manevi değerler üzerinde durulur. İzleyici, hem bilgilendirici hem de düşündürücü içerikler aracılığıyla günlük yaşamına yön verecek farkındalık kazanır.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="kontv">
+    <title lang="tr">Sabah Gündemi</title>
+    <desc lang="tr">Sabah Gündemi, günün ilk saatlerinde ülke ve dünya gündemindeki önemli gelişmeleri izleyiciye anlaşılır ve tarafsız bir şekilde sunan bir bilgi programıdır. Program siyaset, ekonomi, kültür ve güncel yaşamdan öne çıkan haberleri aktarırken izleyiciye olayları kapsamlı bakış açısıyla takip etme imkanı sağlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="kontv">
+    <title lang="tr">Alın Teri</title>
+    <desc lang="tr">Alın Teri emek üretim ve iş dünyasına dair konuları izleyiciye detaylı ve anlaşılır bir şekilde sunan bir bilgi programıdır. Programda farklı sektörlerden çalışanların hikâyeleri üretim süreçleri ve iş yaşamındaki güncel gelişmeler ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü bir içerik sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="kontv">
+    <title lang="tr">Hatm-i Şerif</title>
+    <desc lang="tr">Hatm-i Şerif, Kur&#x27;an-ı Kerim&#x27;in baştan sona okunarak tamamlanmasıdır. Bireysel olarak veya bir grup tarafından yapılabilir. Kur&#x27;an okunduktan sonra dua edilir ve sevabı başta Peygamber Efendimiz olmak üzere geçmişlere bağışlanır. İslam kültüründe önemli bir ibadet ve gelenektir.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="kontv">
+    <title lang="tr">Kürsüden Gönüllere</title>
+    <desc lang="tr">Kürsüden paylaşılan düşünceler, toplumsal mesajlar ve ilham verici konuşmalar bu içerikte ele alınıyor. Sade ve anlaşılır bir dil kullanılarak, izleyiciye hem düşündürücü hem de farkındalık kazandıran bir deneyim sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="kontv">
+    <title lang="tr">Belgesel</title>
+    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="kontv">
+    <title lang="tr">Hayat Var</title>
+    <desc lang="tr">Hayat Var, izleyicilere günlük yaşam, toplumsal gelişmeler ve kültürel etkinlikler hakkında bilgi ve farkındalık sunan bir programdır. Programda yaşamın farklı alanları, ilgi çekici haberler, insan hikâyeleri ve güncel olaylar ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü içerikler sunar</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="kontv">
+    <title lang="tr">Asfora</title>
+    <desc lang="tr">Asfora dizisi, izleyicilere heyecanlı olaylar ve güçlü karakterlerle dolu bir hikâye sunar. Dizi; dostluk, mücadele, cesaret ve hayatta karşılaşılan zorluklarla başa çıkma gibi temaları işler. Bu yönüyle izleyicilere hem eğlence hem de düşündürücü bir deneyim kazandırır.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260312123000 +0000" stop="20260312134500 +0000" channel="kontv">
+    <title lang="tr">Dizi Kuşağı</title>
+    <desc lang="tr">Dizi kuşağında yer alan yapımlar, çeşitli temalar ve karakterlerin yaşamları üzerinden ele alınıyor. Sürükleyici olay örgüleri ve dramatik gelişmeler sade bir anlatımla aktarılırken, izleyiciye hem eğlenceli hem de merak uyandıran bir izleme deneyimi sunuluyor.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260312134500 +0000" stop="20260312155800 +0000" channel="kontv">
+    <title lang="tr">İftara Doğru</title>
+    <desc lang="tr">İftara Doğru, Ramazan ayında iftar saatine yaklaşırken izleyicilere manevi içerikler sunan özel bir yayındır. Programda dualar, kısa sohbetler ve Ramazan&#x27;ın anlamına dair paylaşımlar yer alır. Sıcak ve samimi anlatımıyla izleyicileri iftara hazırlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312155800 +0000" stop="20260312163000 +0000" channel="kontv">
+    <title lang="tr">Çelikkayalar</title>
+    <desc lang="tr">Konya&#x27;da kurulan Çelikkayalar Marketler Zinciri, gıda ve temel ihtiyaç ürünlerini uygun fiyatlarla sunan bir perakende market ağıdır. Geniş ürün çeşitliliği, kaliteli hizmet anlayışı ve birçok şubesiyle müşterilerine kolay ve güvenilir alışveriş imkânı sağlar.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260312163000 +0000" stop="20260312174000 +0000" channel="kontv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260312174000 +0000" stop="20260312180000 +0000" channel="kontv">
+    <title lang="tr">Esma-ül Hüsna</title>
+    <desc lang="tr">Esma-ül Hüsna, Allah&#x27;ın Kur&#x27;an ve hadislerde geçen en güzel 99 ismidir. Her bir isim, Allah&#x27;ın farklı bir sıfatını ve tecellisini ifade eder. Rahman, Rahim, Alîm ve Hakîm gibi isimler; merhametini, bilgisini, adaletini ve kudretini anlatır. Müslümanlar bu isimleri zikrederek Allah&#x27;ı daha iyi tanımayı ve O&#x27;na yakınlaşmayı amaçlar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312184500 +0000" channel="kontv">
+    <title lang="tr">Erkan Soruyor Asfora Kazandırıyor</title>
+    <desc lang="tr">Bilgiye dayalı sorular ve sürpriz ödüllerle dolu program izleyiciyle buluşuyor. Katılımcılar kendilerine yöneltilen soruları doğru yanıtlayarak ödül kazanma şansı elde ediyor. Eğlenceli anların yaşandığı bu program, bilgi ve rekabeti bir araya getiriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312184500 +0000" stop="20260312192000 +0000" channel="kontv">
+    <title lang="tr">İyilik Yolcuları</title>
+    <desc lang="tr">İyilik Yolcuları, toplumda iyilik ve dayanışma örneklerini izleyiciye detaylı ve anlaşılır bir şekilde sunan bir programdır. Programda yardım faaliyetleri, sosyal sorumluluk projeleri ve insan hikâyeleri ele alınır. İzleyiciye hem ilham veren hem de düşündürücü içerikler sunar.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312192000 +0000" stop="20260312203500 +0000" channel="kontv">
+    <title lang="tr">Rahmet İklimi</title>
+    <desc lang="tr">Yağışlar, sıcaklık değişimleri ve doğadaki canlı yaşamı bu içerikte ele alınıyor. Bereketin ve iklimin etkisi sade bir anlatımla aktarılırken, izleyiciye ekosistemin işleyişi ve doğayla insan arasındaki bağ gösteriliyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260312203500 +0000" stop="20260312210000 +0000" channel="kontv">
+    <title lang="tr">Çelikkayalar</title>
+    <desc lang="tr">Konya&#x27;da kurulan Çelikkayalar Marketler Zinciri, gıda ve temel ihtiyaç ürünlerini uygun fiyatlarla sunan bir perakende market ağıdır. Geniş ürün çeşitliliği, kaliteli hizmet anlayışı ve birçok şubesiyle müşterilerine kolay ve güvenilir alışveriş imkânı sağlar.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="krt-tv">
@@ -17670,6 +18048,81 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <desc lang="tr">Türkiye&#x27;de ki müzik listelerinde en çok izlenen video klipler bu programda</desc>
     <category lang="tr">Eğlence</category>
   </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="number1-tv">
+    <title lang="tr">NR1 TOP 20</title>
+    <desc lang="tr">NR1 TV&#x27;DE HAFTA BOYUNCA EN COK YAYINLANAN 20 VIDEO KLIBIN GERI SAYIMI NR1 TOP 20&#x27;DE.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312050000 +0000" channel="number1-tv">
+    <title lang="tr">Non Stop Pop</title>
+    <desc lang="tr">DUNYA LISTELERININ ZIRVESINDEKI EN POPULER MUZIK VIDEOLARININ ARKA ARKAYA SIRALANMIS HALI BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312070000 +0000" channel="number1-tv">
+    <title lang="tr">Top Hits</title>
+    <desc lang="tr">DUNYA LISTELERININ ZIRVESINDEKI EN HIT KLIPLER ARKA ARKAYA BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="number1-tv">
+    <title lang="tr">Discover</title>
+    <desc lang="tr">EN YENI MUZIK VIDEOLARI BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="number1-tv">
+    <title lang="tr">NR1 TOP 20</title>
+    <desc lang="tr">NR1 TV&#x27;DE HAFTA BOYUNCA EN COK YAYINLANAN 20 VIDEO KLIBIN GERI SAYIMI NR1 TOP 20&#x27;DE.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="number1-tv">
+    <title lang="tr">All NR1 Hits</title>
+    <desc lang="tr">GECMISTEN BUGUNE NR1 TV&#x27;NIN EN BUYUK HITLERI ARKA ARKAYA BU PROGRAMDA.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312120000 +0000" channel="number1-tv">
+    <title lang="tr">Non Stop Pop</title>
+    <desc lang="tr">DUNYA LISTELERININ ZIRVESINDEKI EN POPULER MUZIK VIDEOLARININ ARKA ARKAYA SIRALANMIS HALI BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="number1-tv">
+    <title lang="tr">Urban Hits</title>
+    <desc lang="tr">RNB, HIP HOP, RAP VE ELEKTRONIK POP MUZIGIN EN IYILERI URBAN HITS&#x27;DE.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="number1-tv">
+    <title lang="tr">Top Hits</title>
+    <desc lang="tr">DUNYA LISTELERININ ZIRVESINDEKI EN HIT KLIPLER ARKA ARKAYA BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="number1-tv">
+    <title lang="tr">Discover</title>
+    <desc lang="tr">EN YENI MUZIK VIDEOLARI BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312151500 +0000" channel="number1-tv">
+    <title lang="tr">Top K-Pop</title>
+    <desc lang="tr">EN YENI K-POP MUZIK VIDEOLARI ARKA ARKAYA BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312151500 +0000" stop="20260312160000 +0000" channel="number1-tv">
+    <title lang="tr">All NR1 Hits</title>
+    <desc lang="tr">GECMISTEN BUGUNE NR1 TV&#x27;NIN EN BUYUK HITLERI ARKA ARKAYA BU PROGRAMDA.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="number1-tv">
+    <title lang="tr">NR1 TOP 20</title>
+    <desc lang="tr">NR1 TV&#x27;DE HAFTA BOYUNCA EN COK YAYINLANAN 20 VIDEO KLIBIN GERI SAYIMI NR1 TOP 20&#x27;DE.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312190000 +0000" channel="number1-tv">
+    <title lang="tr">Non Stop Pop</title>
+    <desc lang="tr">DUNYA LISTELERININ ZIRVESINDEKI EN POPULER MUZIK VIDEOLARININ ARKA ARKAYA SIRALANMIS HALI BU PROGRAMDA</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312210000 +0000" channel="number1-tv">
+    <title lang="tr">Urban Hits</title>
+    <desc lang="tr">RNB, HIP HOP, RAP VE ELEKTRONIK POP MUZIGIN EN IYILERI URBAN HITS&#x27;DE.</desc>
+    <category lang="tr">Eğlence</category>
+  </programme>
   <programme start="20260312004000 +0000" stop="20260312004500 +0000" channel="on6">
     <title lang="tr">Reklam</title>
     <desc lang="tr">Reklam Bloğu, izleyicilere programlar arasında kısa bir nefes alma fırsatı sunar. Güncel kampanyalar, yaratıcı reklamlar ve dikkat çekici tanıtımlarla ekran başındaki izleyicilere keyifli bir mola yaşatır.</desc>
@@ -17917,35 +18370,28 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260312040000 +0000" stop="20260312070000 +0000" channel="power-tv">
     <title lang="tr">Power Morning</title>
-    <desc lang="tr">Her hafta içi sabah hit kliplerin çalındığı programda yol ve trafik durumu, hava durumu, facebook, twitter ve instagram aracılığı ile sosyal medyada olup bitenler ve izleyiciyle anında interaktif iletişim...
-
-Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden oluşan üç saatlik program, müzik ve eğlence dünyasının nabzını tutuyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Sabaha müzikle başla! Power Morning, enerjik klipler ve hit şarkılarla güne keyif katıyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260312070000 +0000" stop="20260312120000 +0000" channel="power-tv">
+  <programme start="20260312070000 +0000" stop="20260312130000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="power-tv">
-    <title lang="tr">Pop Up</title>
-    <desc lang="tr">Çekim hikayeleri, sanatçı ve şarkıcı ile ilgili bilgiler, mekan ve dekor detayları... Hepsi pop-up&#x27;lar halinde sevdiğiniz klibe eşlik ediyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260312130000 +0000" stop="20260312200000 +0000" channel="power-tv">
     <title lang="tr">Power Hits</title>
-    <desc lang="tr">Son günlerin zirvedeki şarkıları ekrana geliyor...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Power Hits, güncel müzik listelerinde üst sıralarda yer alan, dinleyicilerin favorisi olan hit parçaları bir araya getiriyor. Popüler şarkılar ve güçlü kliplerle müziğin nabzı tutuluyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260312200000 +0000" stop="20260312205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260312205900 +0000" stop="20260313040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
-    <category lang="tr">Müzik</category>
+    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260312020000 +0000" stop="20260312043000 +0000" channel="s-sport">
     <title lang="tr">Houston Rockets - Denver Nuggets</title>
@@ -20308,7 +20754,7 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
   </programme>
   <programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="trt-2">
     <title lang="tr">Musikişinas</title>
-    <desc lang="tr">Tanburi Cemil Bey&#x27;den Sadettin Kaynak&#x27;a, Klasik Türk Müziği&#x27;nde iz bırakmış bestekarların hayaları, sanatları ve eserleri Musikişinas ile ekrana taşınıyor.</desc>
+    <desc lang="tr">Tanburi Cemil Bey&#x27;den Sadettin Kaynak&#x27;a, Klasik Türk Müziği&#x27;nde iz bırakmış bestekarların hayatları, sanatları ve eserleri Musikişinas ile ekrana taşınıyor.</desc>
     <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="trt-2">
