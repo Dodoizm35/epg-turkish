@@ -7459,6 +7459,13 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <desc lang="tr">Program, bu yıl da Ramazan ayının manevi havasına ayrı bir değer katıp izleyicilere Kur&#x27;an ziyafeti yaşatıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
+  <programme start="20260312204500 +0000" stop="20260312221500 +0000" channel="diyanet-tv">
+    <title lang="tr">Mavera</title>
+    <desc lang="tr">Tarihteki ilk Alperenlerin hikayesi Mavera, Yusuf Hemedani tarafından Bağdat’a gönderilen Hace Ahmed Yesevi’nin o dönem adeta küçük bir dünya olan Bağdat’ta verdiği dirlik ve beraberliğin mücadelesini konu alıyor.
+
+Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleşiyor. Bir tarafta onu Bağdat’tan göndermek isteyenlerin kurduğu fitne mahfili; diğer tarafta ise Hâce Ahmed’in “Alp” bileğiyle koruyup, “Eren” yüreğiyle kucaklayacağı insanlar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
   <programme start="20260312000500 +0000" stop="20260312005000 +0000" channel="dmax">
     <title lang="tr">Alaska: Son Sınır</title>
     <desc lang="tr">Alaska&#x27;nın Homer kasabası yakınlarında yaşayan Kilcher ailesiyle parçası oldukları izole toplumu izleyeceğiz. Kilcher&#x27;ler dört kuşak boyunca kendi kır evlerinde yaşadı.</desc>
@@ -13293,6 +13300,11 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <title lang="tr">Wood Wolf</title>
     <category lang="tr">Belgesel</category>
   </programme>
+  <programme start="20260312205700 +0000" stop="20260312210000 +0000" channel="gzt-tv">
+    <title lang="tr">Karadenizli Maceracı</title>
+    <desc lang="tr">Karadenizli Maceracı kamp, doğa maceraları, balık avı ve kamp yemekleri gibi içerikleri sunuyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
   <programme start="20260312030000 +0000" stop="20260312050000 +0000" channel="haber-global">
     <title lang="tr">Türkiye&#x27;de Sabah</title>
     <desc lang="tr">Türkiye&#x27;de Sabah, Haber Global ekranında sabah kuşağında yayınlanan ve gece boyunca yaşanan önemli gelişmeleri izleyiciye aktaran bir haber programıdır. Gündemde öne çıkan başlıklar, son dakika haberleri ve gündemi belirleyen konular sade bir anlatımla ele alınıyor.</desc>
@@ -18142,13 +18154,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260312200000 +0000" stop="20260312205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260312205900 +0000" stop="20260313040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260312020000 +0000" stop="20260312043000 +0000" channel="s-sport">
     <title lang="tr">Houston Rockets - Denver Nuggets</title>
@@ -18993,111 +19005,6 @@ Ancak şöhretin bedeli ağırdır.</desc>
     <desc lang="tr">Karagöz ile Hacivat güldüren ve aynı zamanda da düşündüren sohbetleri ile karşımızda. Mekan Bursa ve zaman da 14. yüzyıl. Anadolu&#x27;daki Moğol tehlikesi mevcutken halkın büyük bir kısmı firarda. Bursa yeni yerleşim alanları. Hem halk hem de çeşitli devletlerin ve beyliklerin liderleri de bu kente sığınır. Dinleri, dilleri farklı olan insanların bir arada yaşadığı Bursa kaosa dönüşür. Osmanlı da, İmparatorluğu&#x27;nun ilk tohumlarını atmaktadır. Akıllı ama cahil, sinirli ama komik Karagöz, kendisinin aksi olan zekasını fırsatçılığı ile birleştirip her işten sıyrılan Hacivat ile tanışır. Orhan Gazi&#x27;nin adına yapılan caminin inşaatında beraber çalışmaya başlarlar. Bu sırada mizah yönü kuvvetli sohbetleri hemen fark edilir. Atışmaları sırasındaki komiklikleri o kadar ünlü olur ki, davetten davete koşmaya başlarlar. 
 Ancak şöhretin bedeli ağırdır.</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312040000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312040000 +0000" stop="20260312050000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260312200000 +0000" stop="20260312210000 +0000" channel="sky-news-arabia">
-    <title lang="tr">News</title>
-    <desc lang="tr">All the day&#x27;s news from Sky News Arabia&#x27;s correspondents across the Arab world and around the globe.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260312023000 +0000" stop="20260312030000 +0000" channel="sozcu-tv">
     <title lang="tr">Akıl ve İnanç</title>
@@ -20271,7 +20178,7 @@ Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki o
   </programme>
   <programme start="20260312184000 +0000" stop="20260312202500 +0000" channel="tlc">
     <title lang="tr">Son Oyun</title>
-    <desc lang="tr">Las Vegaslı güvenlik görevlisi Nick Wild sadist bir magandanın saldırısına uğrayan arkadaşının intikamını almak isteyince saldırganın bir mafya babasının oğlu olduğunu öğrenir.</desc>
+    <desc lang="tr">Eski bir kumarbaz olan Nick Wild, bu alışkanlığını bırakıp, yeni bir hayata başlamaya karar verir. Güvenlik görevlisi ve koruma olarak çalışmaya başlar ve hayatını sadece bu şekilde kazanır. Tek prensibi ise asla silah ya da benzeri bir mekanizma kullanmamaktır. Fakat yakın bir arkadaşı azılı bir çete tarafından ölesiye dövüldüğünde prensiplerini yeniden düşünür ve intikam planları kurmaya başlar.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260312202500 +0000" stop="20260312223500 +0000" channel="tlc">
