@@ -1621,176 +1621,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <desc lang="tr">Akit TV Başka Açıdan, güncel haberleri, siyaset ve toplumsal gelişmeleri farklı perspektiflerden izleyiciye sunan bir programdır. Uzman konuklar ve deneyimli sunucular eşliğinde hazırlanan program, analizler ve tartışmalarla olayları daha derinlemesine anlamayı sağlar, gündemi farklı açılardan değerlendirir.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314023000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314023000 +0000" stop="20260314030000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Making Peace: The Light Within</title>
-    <desc lang="tr">In a Salvadoran prison, young women from rival gangs must live together, learning to coexist and prepare for life beyond the walls.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260314030000 +0000" stop="20260314033000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314033000 +0000" stop="20260314040000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">101 East: Nepal&#x27;s Deadly Skies</title>
-    <desc lang="tr">From Al Jazeera network, 101 East is a groundbreaking series of investigative documentaries, exploring hard-hitting, controversial stories across Asia and the Pacific, providing a voice to unheard citizens of this region. Winning numerous accolades, such as a Royal Television Society award, human rights awards and three Emmy nominations, the show sends journalists into the world&#x27;s most populous region to examine and expose stories of injustice and social disparities.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314043000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">UpFront</title>
-    <desc lang="tr">Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314053000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314053000 +0000" stop="20260314060000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Inside Story</title>
-    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Witness: Gaza Fixer - Locked Out Locked In</title>
-    <desc lang="tr">Independent documentaries showcasing stories from the margin of society.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314073000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314073000 +0000" stop="20260314080000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">People &amp; Power: From the Balkans With Guns</title>
-    <desc lang="tr">A current affairs documentary series from Al Jazeera, examining powerful presidents, prime ministers, governments, religious institutions, and businesses, investigating how they use, or abuse, their powerful positions. The series has been running since 2007, sending investigative journalists across the world to capture stories at their source, many of which are divisive, criminal, or discordant.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314083000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314083000 +0000" stop="20260314090000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">The Stream</title>
-    <desc lang="tr">The programme aims to bring the social media at the center of the editorial process. The topics relate to social media and to what is in the public limelight on the different platforms such as Facebook, Twitter etc. It&#x27;s a look with a fresh eye from a different angle at the hottest issues of the day.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Counting the Cost</title>
-    <desc lang="tr">Weekly programme that gives viewers a chance to find out some of the most important business, finance and economics stories from around the world. Discover everything you need to know with the help from host Kamahl Santamaria.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314113000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314113000 +0000" stop="20260314120000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Inside Story</title>
-    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314143000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314143000 +0000" stop="20260314150000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">UpFront</title>
-    <desc lang="tr">Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314160000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314163000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314163000 +0000" stop="20260314170000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Making Peace: The Light Within</title>
-    <desc lang="tr">In a Salvadoran prison, young women from rival gangs must live together, learning to coexist and prepare for life beyond the walls.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314173000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314173000 +0000" stop="20260314180000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Inside Story</title>
-    <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314190000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314193000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">News Live</title>
-    <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314193000 +0000" stop="20260314200000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">The Listening Post</title>
-    <desc lang="tr">Fast-paced current affairs programme that investigates, analyses and critiques the world&#x27;s media and all the important news, explaining how they operate and what are the stories they cover. &#x27;&#x27;The Listening Post&#x27;&#x27; is created and hosted by Richard Gizbert.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314210000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
   <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="al-jazeera-english">
     <title lang="tr">News Bulletin</title>
     <desc lang="tr">Keep up with the latest news and main headlines, hot and happening events and reports from around the world with main emphasis on the Arab world developments. Take a glance at the top news stories of the day and beyond them, and have a look at hard work of correspondents and journalists working around the world.</desc>
@@ -3590,226 +3420,6 @@ Oğlu ölümle pençeleşen Şahinşah intikam yemini eder ve yüzündeki maskey
     <title lang="tr">90+0</title>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260314003000 +0000" stop="20260314005000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Pelin ile Lezzetler</title>
-    <desc lang="tr">Pelin Bozkurt Bilgiç&#x27;in rehberliğinde, geleneksel ve modern mutfaklardan seçilen pratik tarifleri izleyiciyle buluşturuyor. Samimi anlatımı ve kolay uygulanabilir önerileriyle, her seviyeden mutfak tutkununa ilham veriyor. Lezzet dolu sofralar için ideal bir program.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314005000 +0000" stop="20260314013000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Li&#x27;nin Dünyası</title>
-    <desc lang="tr">Li&#x27;nin gözünden hayatın farklı yönlerini keşfe çıkaran bu program, kültürden sanata, gündelik yaşamdan özel hikâyelere kadar geniş bir yelpaze sunar. Her bölümde yeni bir tema işlenirken, içten anlatımı ve farklı bakış açılarıyla izleyiciye ilham verici ve düşündürücü bir deneyim yaşatır</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314013000 +0000" stop="20260314015000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Adım Adım</title>
-    <desc lang="tr">Hayatın farklı yönlerini, yaşanmış deneyimleri ve ilham verici hikâyeleri samimi bir dille ele alan bu program, her bölümde yeni bir konuya odaklanır. Küçük ama anlamlı adımların gücünü hatırlatan anlatımıyla izleyiciye umut, motivasyon ve yaşam enerjisi sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314015000 +0000" stop="20260314021500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Çiçek Kokusu: 19</title>
-    <desc lang="tr">Program, doğayla estetiği buluşturmayı hedefler ve izleyicilere hem öğretici hem de keyifli bir deneyim yaşatır. Çiçeklerin renkleri, dokuları ve kokularının yaşam alanlarına kattığı pozitif enerjiyi gözler önüne sererken, izleyiciyi hem rahatlatır hem de ilham verir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314021500 +0000" stop="20260314024500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Işığın Kaynağı</title>
-    <desc lang="tr">Modern yaşamda aydınlatmanın önemine odaklanıyor. Işık tasarımından led teknolojilerine, ev ve ofis aydınlatmasından enerji verimliliğine kadar birçok konuyu uzman konuklarla ele alıyor. Hem teknik detaylara meraklı olanlara hem de yaşam alanlarını daha iyi aydınlatmak isteyenlere hitap ediyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314024500 +0000" stop="20260314032000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Kırılgan Sanat</title>
-    <desc lang="tr">Cam antik çağlardan beri insanlığın vazgeçilmezi. İstanbul Riva&#x27;daki Cam Ocağı Vakfı, cam hobisine ilgi duyanlara kendi ocakları, havuzu ve bahçesiyle unutulmaz bir deneyim sunuyor. Takılardan ev dekoruna kadar camın büyülü dünyasını keşfetmeye hazır olun.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314032000 +0000" stop="20260314033500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Koleksiyoncu</title>
-    <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314033500 +0000" stop="20260314035500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
-    <desc lang="tr">El emeği göz nurunun buluştuğu bu program, kâğıttan kumaşa, geri dönüşümden süslemeye kadar pek çok hobi alanını ekrana taşır. Ayşin Önol&#x27;un sıcak anlatımı ve pratik önerileriyle izleyici, evde kolayca uygulayabileceği projeler öğrenir, üretmenin keyfini keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314035500 +0000" stop="20260314043500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Dost Dünyam</title>
-    <desc lang="tr">Hayvan dostlarımızla kurduğumuz özel bağı ekrana taşıyan bu program, evcil hayvan bakımından eğitime, veteriner önerilerinden sokak hayvanlarına yönelik projelere kadar pek çok konuyu ele alır. İzleyiciye dostlarımızı daha yakından tanıma ve onlara bilinçli yaklaşma imkânı sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314043500 +0000" stop="20260314050500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">İlmek İlmek</title>
-    <desc lang="tr">Türk halılarının Orta Asya&#x27;dan Anadolu&#x27;ya uzanan yolculuğunu anlatan bu program, düğüm tekniklerinden motiflerin anlamlarına kadar pek çok detayı ekrana taşır. Her yörenin kendine özgü dokuma geleneği, kültürün ve hafızanın ilmek ilmek nasıl aktarıldığını gözler önüne serer.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314050500 +0000" stop="20260314053000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Adım Adım</title>
-    <desc lang="tr">Hayatın farklı yönlerini, yaşanmış deneyimleri ve ilham verici hikâyeleri samimi bir dille ele alan bu program, her bölümde yeni bir konuya odaklanır. Küçük ama anlamlı adımların gücünü hatırlatan anlatımıyla izleyiciye umut, motivasyon ve yaşam enerjisi sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314053000 +0000" stop="20260314060500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Pelin ile Lezzetler</title>
-    <desc lang="tr">Pelin Bozkurt Bilgiç&#x27;in rehberliğinde, geleneksel ve modern mutfaklardan seçilen pratik tarifleri izleyiciyle buluşturuyor. Samimi anlatımı ve kolay uygulanabilir önerileriyle, her seviyeden mutfak tutkununa ilham veriyor. Lezzet dolu sofralar için ideal bir program.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314060500 +0000" stop="20260314063500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Eskimeyenler</title>
-    <desc lang="tr">Geçmişten günümüze değerini yitirmeyen, klasikleşmiş eserleri ve unutulmaz hikâyeleri ekranlara taşıyor. Sanattan edebiyata, kültürden modaya kadar zamansız objeler ve fikirler, izleyicilerle buluşuyor. Program, geçmişle bugün arasında köprü kurarak kültürel mirasa ışık tutuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314063500 +0000" stop="20260314070000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Mutfak Ve Banyo Dünyası</title>
-    <desc lang="tr">Mutfak ve banyo yenilemelerinde dikkat edilmesi gereken detaylar, ekonomik bütçelerle modern çözümler üretmek, alanı daha kullanışlı hâle getirmek ve estetik bir bütünlük sağlamak programın temel odak noktalarını oluşturuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314072500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
-    <desc lang="tr">El emeği göz nurunun buluştuğu bu program, kâğıttan kumaşa, geri dönüşümden süslemeye kadar pek çok hobi alanını ekrana taşır. Ayşin Önol&#x27;un sıcak anlatımı ve pratik önerileriyle izleyici, evde kolayca uygulayabileceği projeler öğrenir, üretmenin keyfini keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314072500 +0000" stop="20260314075500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Evimiz Dünya</title>
-    <desc lang="tr">Doğayla barışık ve sürdürülebilir bir yaşamın ipuçlarını sunan bu program, enerji tasarrufundan geri dönüşüme, doğal malzemelerden ekolojik mimariye kadar pek çok başlığı ele alır. İzleyiciye hem evini hem de gezegeni korumanın mümkün olduğunu ilham verici örneklerle anlatır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314075500 +0000" stop="20260314082000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Koleksiyoncu</title>
-    <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314082000 +0000" stop="20260314085000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">A&#x27;dan Z&#x27;ye</title>
-    <desc lang="tr">Merak duygusunu canlı tutan bu program, sağlık, eğitim, teknoloji, kültür ve yaşam gibi pek çok alanda izleyiciyi bilginin keyifli dünyasına davet eder. Her bölümde farklı bir başlık ele alınır, uzman konuklar ve güncel içeriklerle izleyiciye rehberlik eden zengin bir deneyim sunulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314085000 +0000" stop="20260314091000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">İlmek İlmek</title>
-    <desc lang="tr">Türk halılarının Orta Asya&#x27;dan Anadolu&#x27;ya uzanan yolculuğunu anlatan bu program, düğüm tekniklerinden motiflerin anlamlarına kadar pek çok detayı ekrana taşır. Her yörenin kendine özgü dokuma geleneği, kültürün ve hafızanın ilmek ilmek nasıl aktarıldığını gözler önüne serer.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314091000 +0000" stop="20260314093500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Mobilya Dünyası</title>
-    <desc lang="tr">Mobilya sektörünün nabzını tutan bu program, klasikten moderne uzanan tasarımlar, yerli üretimler ve dünya trendleriyle izleyiciye ilham verir. Ustaların elinden çıkan detaylı işçilik örnekleri ve pratik yenileme tüyolarıyla estetik ve işlevselliği bir arada sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314093500 +0000" stop="20260314100000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Trend Home</title>
-    <desc lang="tr">Yaşam alanlarını daha estetik, işlevsel ve modern hâle getirmek isteyenler için hazırlanan bu program, iç mimarlık trendlerinden renk paletlerine, mobilya seçiminden küçük dokunuşlarla büyük değişimlere kadar pek çok başlığı ele alır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314103500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Li&#x27;nin Dünyası: 6</title>
-    <desc lang="tr">Li&#x27;nin gözünden hayatın farklı yönlerini keşfe çıkaran bu program, kültürden sanata, gündelik yaşamdan özel hikâyelere kadar geniş bir yelpaze sunar. Her bölümde yeni bir tema işlenirken, içten anlatımı ve farklı bakış açılarıyla izleyiciye ilham verici ve düşündürücü bir deneyim yaşatır</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314103500 +0000" stop="20260314105000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Nasıl Yapılır</title>
-    <desc lang="tr">Günlük yaşamda ihtiyaç duyulan bilgi ve becerileri adım adım anlatan bu program, basit görünen işlerin püf noktalarını keşfetmeye davet eder. Pratik ipuçları, net anlatım ve uygulanabilir önerilerle izleyici, işleri daha kolay ve doğru şekilde yapmayı öğrenir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314105000 +0000" stop="20260314112500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
-    <desc lang="tr">El emeği göz nurunun buluştuğu bu program, kâğıttan kumaşa, geri dönüşümden süslemeye kadar pek çok hobi alanını ekrana taşır. Ayşin Önol&#x27;un sıcak anlatımı ve pratik önerileriyle izleyici, evde kolayca uygulayabileceği projeler öğrenir, üretmenin keyfini keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314112500 +0000" stop="20260314120000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Evimiz Dünya</title>
-    <desc lang="tr">Doğayla barışık ve sürdürülebilir bir yaşamın ipuçlarını sunan bu program, enerji tasarrufundan geri dönüşüme, doğal malzemelerden ekolojik mimariye kadar pek çok başlığı ele alır. İzleyiciye hem evini hem de gezegeni korumanın mümkün olduğunu ilham verici örneklerle anlatır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314123000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Koleksiyoncu</title>
-    <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314123000 +0000" stop="20260314130000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">A&#x27;dan Z&#x27;ye</title>
-    <desc lang="tr">Merak duygusunu canlı tutan bu program, sağlık, eğitim, teknoloji, kültür ve yaşam gibi pek çok alanda izleyiciyi bilginin keyifli dünyasına davet eder. Her bölümde farklı bir başlık ele alınır, uzman konuklar ve güncel içeriklerle izleyiciye rehberlik eden zengin bir deneyim sunulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314133500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">İlmek İlmek</title>
-    <desc lang="tr">Türk halılarının Orta Asya&#x27;dan Anadolu&#x27;ya uzanan yolculuğunu anlatan bu program, düğüm tekniklerinden motiflerin anlamlarına kadar pek çok detayı ekrana taşır. Her yörenin kendine özgü dokuma geleneği, kültürün ve hafızanın ilmek ilmek nasıl aktarıldığını gözler önüne serer.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314133500 +0000" stop="20260314140500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Mobilya Dünyası</title>
-    <desc lang="tr">Mobilya sektörünün nabzını tutan bu program, klasikten moderne uzanan tasarımlar, yerli üretimler ve dünya trendleriyle izleyiciye ilham verir. Ustaların elinden çıkan detaylı işçilik örnekleri ve pratik yenileme tüyolarıyla estetik ve işlevselliği bir arada sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314140500 +0000" stop="20260314144500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Trend Home</title>
-    <desc lang="tr">Yaşam alanlarını daha estetik, işlevsel ve modern hâle getirmek isteyenler için hazırlanan bu program, iç mimarlık trendlerinden renk paletlerine, mobilya seçiminden küçük dokunuşlarla büyük değişimlere kadar pek çok başlığı ele alır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314144500 +0000" stop="20260314151500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Li&#x27;nin Dünyası: 6</title>
-    <desc lang="tr">Li&#x27;nin gözünden hayatın farklı yönlerini keşfe çıkaran bu program, kültürden sanata, gündelik yaşamdan özel hikâyelere kadar geniş bir yelpaze sunar. Her bölümde yeni bir tema işlenirken, içten anlatımı ve farklı bakış açılarıyla izleyiciye ilham verici ve düşündürücü bir deneyim yaşatır</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314151500 +0000" stop="20260314154000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Nasıl Yapılır</title>
-    <desc lang="tr">Günlük yaşamda ihtiyaç duyulan bilgi ve becerileri adım adım anlatan bu program, basit görünen işlerin püf noktalarını keşfetmeye davet eder. Pratik ipuçları, net anlatım ve uygulanabilir önerilerle izleyici, işleri daha kolay ve doğru şekilde yapmayı öğrenir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314154000 +0000" stop="20260314161500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
-    <desc lang="tr">El emeği göz nurunun buluştuğu bu program, kâğıttan kumaşa, geri dönüşümden süslemeye kadar pek çok hobi alanını ekrana taşır. Ayşin Önol&#x27;un sıcak anlatımı ve pratik önerileriyle izleyici, evde kolayca uygulayabileceği projeler öğrenir, üretmenin keyfini keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314161500 +0000" stop="20260314164500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Evimiz Dünya</title>
-    <desc lang="tr">Doğayla barışık ve sürdürülebilir bir yaşamın ipuçlarını sunan bu program, enerji tasarrufundan geri dönüşüme, doğal malzemelerden ekolojik mimariye kadar pek çok başlığı ele alır. İzleyiciye hem evini hem de gezegeni korumanın mümkün olduğunu ilham verici örneklerle anlatır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314164500 +0000" stop="20260314171000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Koleksiyoncu</title>
-    <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314171000 +0000" stop="20260314173500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">A&#x27;dan Z&#x27;ye</title>
-    <desc lang="tr">Merak duygusunu canlı tutan bu program, sağlık, eğitim, teknoloji, kültür ve yaşam gibi pek çok alanda izleyiciyi bilginin keyifli dünyasına davet eder. Her bölümde farklı bir başlık ele alınır, uzman konuklar ve güncel içeriklerle izleyiciye rehberlik eden zengin bir deneyim sunulur.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314173500 +0000" stop="20260314180500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">İlmek İlmek</title>
-    <desc lang="tr">Türk halılarının Orta Asya&#x27;dan Anadolu&#x27;ya uzanan yolculuğunu anlatan bu program, düğüm tekniklerinden motiflerin anlamlarına kadar pek çok detayı ekrana taşır. Her yörenin kendine özgü dokuma geleneği, kültürün ve hafızanın ilmek ilmek nasıl aktarıldığını gözler önüne serer.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314180500 +0000" stop="20260314183000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Mobilya Dünyası</title>
-    <desc lang="tr">Mobilya sektörünün nabzını tutan bu program, klasikten moderne uzanan tasarımlar, yerli üretimler ve dünya trendleriyle izleyiciye ilham verir. Ustaların elinden çıkan detaylı işçilik örnekleri ve pratik yenileme tüyolarıyla estetik ve işlevselliği bir arada sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314183000 +0000" stop="20260314190000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Trend Home</title>
-    <desc lang="tr">Yaşam alanlarını daha estetik, işlevsel ve modern hâle getirmek isteyenler için hazırlanan bu program, iç mimarlık trendlerinden renk paletlerine, mobilya seçiminden küçük dokunuşlarla büyük değişimlere kadar pek çok başlığı ele alır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314192000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Li&#x27;nin Dünyası: 6</title>
-    <desc lang="tr">Li&#x27;nin gözünden hayatın farklı yönlerini keşfe çıkaran bu program, kültürden sanata, gündelik yaşamdan özel hikâyelere kadar geniş bir yelpaze sunar. Her bölümde yeni bir tema işlenirken, içten anlatımı ve farklı bakış açılarıyla izleyiciye ilham verici ve düşündürücü bir deneyim yaşatır</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314192000 +0000" stop="20260314194500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Nasıl Yapılır</title>
-    <desc lang="tr">Günlük yaşamda ihtiyaç duyulan bilgi ve becerileri adım adım anlatan bu program, basit görünen işlerin püf noktalarını keşfetmeye davet eder. Pratik ipuçları, net anlatım ve uygulanabilir önerilerle izleyici, işleri daha kolay ve doğru şekilde yapmayı öğrenir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314194500 +0000" stop="20260314201000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Ayşin Önol&#x27;la Hobi Atölyesi</title>
-    <desc lang="tr">El emeği göz nurunun buluştuğu bu program, kâğıttan kumaşa, geri dönüşümden süslemeye kadar pek çok hobi alanını ekrana taşır. Ayşin Önol&#x27;un sıcak anlatımı ve pratik önerileriyle izleyici, evde kolayca uygulayabileceği projeler öğrenir, üretmenin keyfini keşfeder.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314201000 +0000" stop="20260314204500 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Evimiz Dünya</title>
-    <desc lang="tr">Doğayla barışık ve sürdürülebilir bir yaşamın ipuçlarını sunan bu program, enerji tasarrufundan geri dönüşüme, doğal malzemelerden ekolojik mimariye kadar pek çok başlığı ele alır. İzleyiciye hem evini hem de gezegeni korumanın mümkün olduğunu ilham verici örneklerle anlatır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314204500 +0000" stop="20260314210000 +0000" channel="bizim-ev-tv">
-    <title lang="tr">Koleksiyoncu</title>
-    <desc lang="tr">Farklı alanlardan nadir ve özel koleksiyonları mercek altına alan bu program, antikalardan sanat eserlerine, nostaljik objelerden özel parçalara uzanan büyüleyici bir dünya sunar. Koleksiyon tutkunlarının bilgisi ve tutkusu eşliğinde izleyici, tarih ve kültürle iç içe keyifli bir keşfe çıkar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
   <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="bloomberg">
     <title lang="tr">LEADERS with Francine Lacqua</title>
     <desc lang="tr">Francine visits Finland, where the threat from Russia looms large. She speaks to President Alexander Stubb about Finnish resilience and how his country is preparing for an uncertain future. S1, Ep1</desc>
@@ -4243,81 +3853,6 @@ Başarıya ulaşmak, doğru  okul  ve doğru bölümü tercih etmek için Sait G
   <programme start="20260314190000 +0000" stop="20260315035500 +0000" channel="brt-1">
     <title lang="tr">60+</title>
     <desc lang="tr">Program, 60 yaş ve üzeri bireylerin yaşam kalitesini artıracak konuları ele alıyor. Sağlık, hobiler ve sosyal yaşam gibi başlıklar sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye günlük yaşamda uygulanabilir bilgiler sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="brt-2">
-    <title lang="tr">Okudukça</title>
-    <desc lang="tr">Okudukça, edebiyatseverleri farklı yazarlarla söyleşiler, unutulmaz eserlerden alıntılar ve derinleştirilmiş analizlerle satır aralarına davet ediyor. Kitapla kurulan bağa odaklanan program, izleyicinin düşünce ufkunu genişletiyor ve edebiyat dünyasını keşfetmesine rehberlik ediyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="brt-2">
-    <title lang="tr">En Trend</title>
-    <desc lang="tr">En Trend, moda, yaşam, teknoloji ve popüler kültürün güncel gelişmelerini izleyiciye sunan dinamik bir programdır. Röportajlar, trend belirleyici kişiler ve uzman yorumlarıyla ekrana taşınan içerikler, izleyicilere hem bilgilendirici hem eğlenceli bir deneyim sunar ve yeni fikirler ile ilham kaynakları kazandırır.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314080000 +0000" channel="brt-2">
-    <title lang="tr">Futbol Anıları</title>
-    <desc lang="tr">Program, futbol tarihinden unutulmaz maçlar, goller ve oyuncu anılarını izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla hem bilgilendiriyor hem de futbolseverlere nostaljik bir deneyim sunuyor, geçmişe yolculuk fırsatı veriyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="brt-2">
-    <title lang="tr">Eczacı Gözüyle</title>
-    <desc lang="tr">Program, ilaç kullanımı, sağlık tavsiyeleri ve güncel sağlık konularını eczacılar aracılığıyla izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla bilinçli sağlık uygulamalarını öğretirken, izleyiciye güvenilir bilgiler sunuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314100000 +0000" channel="brt-2">
-    <title lang="tr">Zamanın İzinde</title>
-    <desc lang="tr">Tarihin farklı dönemlerinden seçilen olaylar ve yaşanmışlıklar bu içerikte ele alınıyor. Zaman içinde değişen yaşam biçimleri, toplumsal izler ve dikkat çeken ayrıntılar sade bir anlatımla aktarılırken, izleyiciye geçmişle bugün arasında anlamlı bir bağ kurma imkânı sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314130000 +0000" channel="brt-2">
-    <title lang="tr">KKTC Süper Lig</title>
-    <desc lang="tr">Program, KKTC Süper Lig&#x27;deki maçların özetlerini, golleri ve önemli anlarını izleyiciye aktarıyor. Sade ve anlaşılır anlatımıyla hem bilgilendiriyor hem de izleyiciye lig heyecanını yeniden yaşama fırsatı sunuyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="brt-2">
-    <title lang="tr">Trafikoloji</title>
-    <desc lang="tr">Trafikle ilgili güncel konular bu içerikte ele alınıyor. Sürüş güvenliği, yol kullanımı ve trafikte karşılaşılan sorunlar sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye bilinçli ve güvenli hareket etme konusunda yol gösterici bilgiler sunuluyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314150000 +0000" channel="brt-2">
-    <title lang="tr">Akademik Spor</title>
-    <desc lang="tr">Üniversite ve yükseköğretim düzeyinde sporun eğitim, sağlık ve kişisel gelişim üzerindeki etkilerini kapsamlı şekilde ele alır. Programın amacı, öğrencilerin bedensel ve zihinsel gelişimini destekleyen spor faaliyetlerini tanıtmak ve sporun akademik yaşamla olan bağlantısını izleyiciye aktarmaktır.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314160000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="brt-2">
-    <title lang="tr">Yaşamdan Konuklar</title>
-    <desc lang="tr">Yaşamdan Konuklar, farklı hayat deneyimlerine sahip konukların öykülerini ve başarılarını ekrana taşıyan özel bir programdır. Samimi sohbetlerle hayatın çeşitli yönleri ve değerli deneyimler izleyiciye sunulur. Program, izleyicilere ders çıkarma ve motivasyon kazanma fırsatı verir.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314180000 +0000" channel="brt-2">
-    <title lang="tr">Karşıt Görüş</title>
-    <desc lang="tr">BRT &#x27;de yayınlanan Karşıt Görüş, toplumsal, siyasal ve kültürel konuları derinlemesine tartışıyor. Her bölümde uzmanlar fikir çatışmaları, eleştiriler ve analizlerle izleyiciye kapsamlı bakış sunuyor. Moderatör tarafsızlığıyla izleyiciyi sorgulamaya ve aktif düşünmeye davet ediyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314200000 +0000" channel="brt-2">
-    <title lang="tr">Konser Saati</title>
-    <desc lang="tr">Program, canlı sahne konserlerini ve sanatçı performanslarını izleyiciyle buluşturuyor. Sade ve anlaşılır anlatımıyla müzikseverlere keyifli anlar sunarken, sahne atmosferini evlere taşıyor ve müzik deneyimini zenginleştiriyor.</desc>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260315050000 +0000" channel="brt-2">
-    <title lang="tr">Girişimcinin Dünyası</title>
-    <desc lang="tr">Girişimcilik dünyasına dair güncel konular bu içerikte ele alınıyor. İş fikirleri, üretim süreçleri ve başarı örnekleri sade ve anlaşılır bir anlatımla aktarılırken, izleyiciye girişimciliğin temel dinamiklerini tanıma ve ilham alma imkânı sunuluyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260314000500 +0000" stop="20260314001500 +0000" channel="cartoon-network">
@@ -6190,111 +5725,6 @@ Başarıya ulaşmak, doğru  okul  ve doğru bölümü tercih etmek için Sait G
     <desc lang="tr">Stars Of The Silver Screen, sinemanın ikonik dönemlerine odaklanıyor. Efsane oyuncuların performansları, unutulmaz sahneler ve film setlerinin perde arkası izleyicilere hem bilgi hem de görsel bir deneyim sunuyor. Her bölüm, sinema dünyasının büyüleyici detaylarını gözler önüne seriyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="cnn-international">
-    <title lang="tr">Anderson Cooper 360</title>
-    <desc lang="tr">Veteran journalist Anderson Cooper looks beyond the headlines to explore the deeper context of today&#x27;s news. Through in-depth investigations, on-the-ground reporting, and expert interviews, the program examines global and domestic events, offering clarity and insight into the stories shaping our world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="cnn-international">
-    <title lang="tr">The Source with Kaitlan Collins</title>
-    <desc lang="tr">The Source with Kaitlan Collins is CNN&#x27;s prime-time political news program focused on breaking developments from Washington and beyond. Kaitlan Collins leads in-depth interviews and sharp analysis, pressing decision-makers for answers while providing viewers with clear context on the political stories.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314030000 +0000" channel="cnn-international">
-    <title lang="tr">CNN NewsNight with Abby Phillip</title>
-    <desc lang="tr">NewsNight with Abby Phillip is CNN International&#x27;s nightly program that delivers a comprehensive roundtable approach to major world and national news. Hosted by Abby Phillip, the show brings together journalists and experts to dissect key developments, live reporting, and expert insight.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314030000 +0000" stop="20260314040000 +0000" channel="cnn-international">
-    <title lang="tr">Laura Coates Live</title>
-    <desc lang="tr">Laura Coates Live is CNN&#x27;s nightly program focused on the intersection of law, politics and power. Anchored by legal analyst Laura Coates, the show breaks down major court cases, investigations and political developments with expert insight, clear explanations and focused conversations that help viewers understand complex issues shaping public debate.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="cnn-international">
-    <title lang="tr">The Story Is: With Elex Michaelson</title>
-    <desc lang="tr">The Story Is: With Elex Michaelson is a nightly news program examining the day&#x27;s top headlines through political insight, local impact and national context. Elex Michaelson leads conversations with lawmakers, analysts and newsmakers, breaking down major stories, controversies and policy debates with clear explanations and balanced discussion.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="cnn-international">
-    <title lang="tr">The Story Is: With Elex Michaelson</title>
-    <desc lang="tr">The Story Is: With Elex Michaelson is a nightly news program examining the day&#x27;s top headlines through political insight, local impact and national context. Elex Michaelson leads conversations with lawmakers, analysts and newsmakers, breaking down major stories, controversies and policy debates with clear explanations and balanced discussion.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314070000 +0000" channel="cnn-international">
-    <title lang="tr">Anderson Cooper 360</title>
-    <desc lang="tr">Veteran journalist Anderson Cooper looks beyond the headlines to explore the deeper context of today&#x27;s news. Through in-depth investigations, on-the-ground reporting, and expert interviews, the program examines global and domestic events, offering clarity and insight into the stories shaping our world.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314080000 +0000" channel="cnn-international">
-    <title lang="tr">The Source with Kaitlan Collins</title>
-    <desc lang="tr">The Source with Kaitlan Collins is CNN&#x27;s prime-time political news program focused on breaking developments from Washington and beyond. Kaitlan Collins leads in-depth interviews and sharp analysis, pressing decision-makers for answers while providing viewers with clear context on the political stories.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom</title>
-    <desc lang="tr">CNN Newsroom provides continuous live coverage of global breaking news, featuring real-time reporting, verified updates and expert context. With correspondents across the world, the program covers major events, politics, business and social issues, delivering clear information and timely analysis as stories develop.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314100000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom</title>
-    <desc lang="tr">CNN Newsroom provides continuous live coverage of global breaking news, featuring real-time reporting, verified updates and expert context. With correspondents across the world, the program covers major events, politics, business and social issues, delivering clear information and timely analysis as stories develop.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="cnn-international">
-    <title lang="tr">CNN This Morning Weekend</title>
-    <desc lang="tr">CNN This Morning Weekend offers a fresh, in-depth look at the week&#x27;s top stories with live reporting, interviews and analysis. The program covers breaking news, politics, global affairs and culture, providing context and insight to help viewers understand key developments shaping the world in real time.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314120000 +0000" channel="cnn-international">
-    <title lang="tr">CNN This Morning Weekend</title>
-    <desc lang="tr">CNN This Morning Weekend offers a fresh, in-depth look at the week&#x27;s top stories with live reporting, interviews and analysis. The program covers breaking news, politics, global affairs and culture, providing context and insight to help viewers understand key developments shaping the world in real time.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="cnn-international">
-    <title lang="tr">CNN This Morning Weekend</title>
-    <desc lang="tr">CNN This Morning Weekend offers a fresh, in-depth look at the week&#x27;s top stories with live reporting, interviews and analysis. The program covers breaking news, politics, global affairs and culture, providing context and insight to help viewers understand key developments shaping the world in real time.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="cnn-international">
-    <title lang="tr">Smerconish</title>
-    <desc lang="tr">Smerconish is an analysis driven program that examines major political, social and media issues shaping the global agenda. Current debates are explored through expert commentary and diverse viewpoints, offering viewers deeper insight into global events, public opinion and the forces influencing modern society.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314150000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom Saturday</title>
-    <desc lang="tr">CNN Newsroom Saturday is CNN International&#x27;s live weekend news program providing continuous coverage of breaking stories from around the world. With real-time reporting, correspondent updates and expert context, the program covers global events, politics, business and major developing stories as they unfold.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314160000 +0000" channel="cnn-international">
-    <title lang="tr">The Amanpour Hour</title>
-    <desc lang="tr">The Amanpour Hour is CNN International&#x27;s in-depth interview and analysis program hosted by Christiane Amanpour. The show examines major global events, international politics and social issues through exclusive interviews with world leaders and influential voices, offering context and clarity beyond daily headlines.</desc>
-    <category lang="tr">Röportaj</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="cnn-international">
-    <title lang="tr">Smerconish</title>
-    <desc lang="tr">Smerconish is an analysis driven program that examines major political, social and media issues shaping the global agenda. Current debates are explored through expert commentary and diverse viewpoints, offering viewers deeper insight into global events, public opinion and the forces influencing modern society.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314180000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom Saturday</title>
-    <desc lang="tr">CNN Newsroom Saturday is CNN International&#x27;s live weekend news program providing continuous coverage of breaking stories from around the world. With real-time reporting, correspondent updates and expert context, the program covers global events, politics, business and major developing stories as they unfold.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314190000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom Saturday</title>
-    <desc lang="tr">CNN Newsroom Saturday is CNN International&#x27;s live weekend news program providing continuous coverage of breaking stories from around the world. With real-time reporting, correspondent updates and expert context, the program covers global events, politics, business and major developing stories as they unfold.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314200000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom Saturday</title>
-    <desc lang="tr">CNN Newsroom Saturday is CNN International&#x27;s live weekend news program providing continuous coverage of breaking stories from around the world. With real-time reporting, correspondent updates and expert context, the program covers global events, politics, business and major developing stories as they unfold.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314210000 +0000" channel="cnn-international">
-    <title lang="tr">CNN Newsroom Saturday</title>
-    <desc lang="tr">CNN Newsroom Saturday is CNN International&#x27;s live weekend news program providing continuous coverage of breaking stories from around the world. With real-time reporting, correspondent updates and expert context, the program covers global events, politics, business and major developing stories as they unfold.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
   <programme start="20260314030000 +0000" stop="20260314040000 +0000" channel="cnn-turk">
     <title lang="tr">Haber</title>
     <desc lang="tr">Türkiye&#x27;de ve dünyada yaşanan önemli gelişmelerin ayrıntıları izleyiciye taşınıyor. Siyasetten ekonomiye, spordan sanata, gündemi oluşturan haberlerin aktarıldığı programda, hava-yol durumu güncellemeleri de ekrana taşınıyor.</desc>
@@ -7666,6 +7096,201 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <title lang="tr">Süper Kediler</title>
     <desc lang="tr">Ekip, Ginny&#x27;yi özler. Oyuncak bir arabanın peşine düşer.</desc>
     <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260314000000 +0000" stop="20260314001500 +0000" channel="diyanet-tv">
+    <title lang="tr">Davulcu Orhan</title>
+    <desc lang="tr">Nesillerdir Ramazan davulculuğu yapan bir ailenin son temsilcisi olan Davulcu Orhan&#x27;ın hem komik hem hüzünlü hikayesi konu alınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314001500 +0000" stop="20260314003000 +0000" channel="diyanet-tv">
+    <title lang="tr">İslam Alimleri</title>
+    <desc lang="tr">Her biri yaşadıkları çağlarda yol gösterici olmuş, etkileri günümüze kadar ulaşan ilim adamlarımızın hayat hikayeleri ve yetiştirdikleri öğrenciler İslam Alimleri&#x27;nde ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314003000 +0000" stop="20260314011500 +0000" channel="diyanet-tv">
+    <title lang="tr">Hz. Ömer</title>
+    <desc lang="tr">Hz. Ömer&#x27;in cesareti, adaleti ve tevhid mücadelesi uğruna yaşadığı büyük tanıklığı konu alınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314011500 +0000" stop="20260314013000 +0000" channel="diyanet-tv">
+    <title lang="tr">Kardeş Vatanlar</title>
+    <desc lang="tr">Türkiye ile tarihi ve kültürel bağları bulunan ülkeler tanıtılıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314013000 +0000" stop="20260314025500 +0000" channel="diyanet-tv">
+    <title lang="tr">Bereket Vakti</title>
+    <desc lang="tr">İmtihan dünyasında ne çok zorlandık... Hızlı aktığını sandığımız zamanın aslında ne kadar da yavaş olduğunu öğrendik her inceliğin ne kadar önemli olduğunu... 
+Ama inandık ve bildik ki her zorluğun ardından bir kolaylık, her karanlığın arkasında bir ferahlık vardır.
+Şimdi gecenin en koyu karanlığında rabbimizin huzurundayız. Niyetlendiğimiz oruçlarımızla onun rahmetine talibiz. Ramazan&#x27;ın ikliminde sahurun bereketi orucun huzuruyla ekranlarınızdayız.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314025500 +0000" stop="20260314034500 +0000" channel="diyanet-tv">
+    <title lang="tr">Takipli Mukabele</title>
+    <desc lang="tr">Kur&#x27;an-ı Kerim&#x27;den her gün bir cüzün okunduğu programda, her ay Kur&#x27;an-ı Kerim&#x27;in tamamı hatmediliyor. Mukabele, izleyicilere Kur&#x27;an-ı Kerim&#x27;i okumayı ve anlamayı öğretiyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314034500 +0000" stop="20260314040000 +0000" channel="diyanet-tv">
+    <title lang="tr">Tesbihat</title>
+    <desc lang="tr">O halde onların söylediklerine sabret ve güneşin doğuşundan önce de, batışından önce de Rabbini hamd ederek tesbih et</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314040000 +0000" stop="20260314041500 +0000" channel="diyanet-tv">
+    <title lang="tr">Esma-i Hüsna</title>
+    <desc lang="tr">Esma-i Hüsna programı Allah&#x27;ın güzel isimlerini ekrana taşıyor. Allah&#x27;ın güzel isimlerinin anlamlarını ve derinliğini sizlerle paylaşıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314041500 +0000" stop="20260314043000 +0000" channel="diyanet-tv">
+    <title lang="tr">Kardeş Vatanlar</title>
+    <desc lang="tr">Türkiye ile tarihi ve kültürel bağları bulunan ülkeler tanıtılıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="diyanet-tv">
+    <title lang="tr">Kur&#x27;an-ı Kerim</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="diyanet-tv">
+    <title lang="tr">Diyanete Soralım</title>
+    <desc lang="tr">Aklınıza takılan soruları her bölümde işin uzmanına soruyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="diyanet-tv">
+    <title lang="tr">Niyaz</title>
+    <desc lang="tr">Günlük hayatın içinde, sıklıkla dilimizde olan ama gönlümüzde hakkıyla hissedemediğimiz niyazımızdır.
+Her an ve her yerde kendimizi, kendimize hatırlatmak, kulluk bilincini yeniden kazanmak için Niyaz; sizin dualarınızla, size, sizi hatırlatmak üzere ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314063000 +0000" stop="20260314064000 +0000" channel="diyanet-tv">
+    <title lang="tr">Namaz Kılmayı Öğreniyorum</title>
+    <desc lang="tr">Çocuklara animasyon eşliğinde namazın nasıl kılınacağı öğretiliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314064000 +0000" stop="20260314065000 +0000" channel="diyanet-tv">
+    <title lang="tr">Dedemin Öyküleri</title>
+    <desc lang="tr">Her bölümde farklı bir hikayenin anlatıldığı animasyonda çocuk izleyicilerimize milli ve manevi değerlerimiz öğretiliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314065000 +0000" stop="20260314070000 +0000" channel="diyanet-tv">
+    <title lang="tr">Hümeyra</title>
+    <desc lang="tr">Köy yaşantısı, çocukların köyde oynadığı oyunlar, yaşadıkları maceralar ve bu maceraların içerisinde geçen hikayeler Hümeyra&#x27;da...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314070000 +0000" stop="20260314073000 +0000" channel="diyanet-tv">
+    <title lang="tr">Bir Çocuk Bir Dünya</title>
+    <desc lang="tr">Her çocuk bir dünyadır. Bir Çocuk Bir Dünya programıyla siz değerli arkadaşlarımızın renkli dünyasına dalarak yeni hazineler keşfediyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314073000 +0000" stop="20260314075000 +0000" channel="diyanet-tv">
+    <title lang="tr">Şeker Hoca</title>
+    <desc lang="tr">Nasreddin Hoca&#x27;nın birbirinden eğlenceli maceraları ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314075000 +0000" stop="20260314081500 +0000" channel="diyanet-tv">
+    <title lang="tr">Ela İle Efe Umreye Gidiyor</title>
+    <desc lang="tr">Ela ile Efe adında iki çocuğun kutsal topraklara yaptığı umre ziyareti konu alınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314081500 +0000" stop="20260314082500 +0000" channel="diyanet-tv">
+    <title lang="tr">Ela İle Efe Umreye Gidiyor</title>
+    <desc lang="tr">Ela ile Efe adında iki çocuğun kutsal topraklara yaptığı umre ziyareti konu alınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314082500 +0000" stop="20260314083000 +0000" channel="diyanet-tv">
+    <title lang="tr">En Güzel İsimler</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314083000 +0000" stop="20260314090000 +0000" channel="diyanet-tv">
+    <title lang="tr">Birlikte Yapalım</title>
+    <desc lang="tr">Yarışmacı çocuklar, ikili grup şeklinde pratik kolay yemekler yapıyor ve dekorun çeşitli yerlerine saklanan soruları cevaplıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314090000 +0000" stop="20260314091500 +0000" channel="diyanet-tv">
+    <title lang="tr">Ailemizin Hekimi</title>
+    <desc lang="tr">Günümüz dünyasında hastalıklar, teşhis ve tedavi yöntemleri çok önemli ancak sağlığımızı korumak daha da önemli...
+Ailemizin Hekimi&#x27;nde uzman doktorlarla sağlığa ilişkin sorulara cevap aranıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314091500 +0000" stop="20260314093000 +0000" channel="diyanet-tv">
+    <title lang="tr">Eşsiz Sanat</title>
+    <desc lang="tr">Eşsiz Sanat, Allah&#x27;ın sonsuz yaratma kudreti ve var etme hikmeti ekranlara taşıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="diyanet-tv">
+    <title lang="tr">Tarih Ve Ötesi</title>
+    <desc lang="tr">Tarihi mekanların mimari özellikleri ile geçmişten bugüne taşıdıkları hikayeler, Zafer Bilgi&#x27;nin anlatımı ile ekranlara taşınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314100000 +0000" stop="20260314104500 +0000" channel="diyanet-tv">
+    <title lang="tr">Cuma Sevinci Vaaz</title>
+    <desc lang="tr">Cuma namazı ile namazın ardından verilen Cuma hutbesi ekrana taşınıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314104500 +0000" stop="20260314113000 +0000" channel="diyanet-tv">
+    <title lang="tr">Ahlak Atlası</title>
+    <desc lang="tr">Din, kültür ve geleneğimizden süzülen ahlak anlayışımızı, ahlaki duruşumuzu alanında uzman konuklarla ele alıyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314113000 +0000" stop="20260314114500 +0000" channel="diyanet-tv">
+    <title lang="tr">Akraba Kelimeler</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314114500 +0000" stop="20260314120000 +0000" channel="diyanet-tv">
+    <title lang="tr">Serlevha Ayetler</title>
+    <desc lang="tr">Mukabele sonrasında okunan her cüzden seçilen ayetler ve anlamları Serlevha Ayetler&#x27;de!</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="diyanet-tv">
+    <title lang="tr">Takipli Mukabele</title>
+    <desc lang="tr">Kur&#x27;an-ı Kerim&#x27;den her gün bir cüzün okunduğu programda, her ay Kur&#x27;an-ı Kerim&#x27;in tamamı hatmediliyor. Mukabele, izleyicilere Kur&#x27;an-ı Kerim&#x27;i okumayı ve anlamayı öğretiyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="diyanet-tv">
+    <title lang="tr">Hz. Ömer</title>
+    <desc lang="tr">Hz. Ömer&#x27;in cesaretini, adaletini ve tevhid mücadelesi uğruna yaşadığı büyük tanıklığı seyirciyle buluşturuluyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314140000 +0000" stop="20260314155000 +0000" channel="diyanet-tv">
+    <title lang="tr">İftarı Beklerken</title>
+    <desc lang="tr">Buruk bir baharda gelse de Ramazan, umutlu olacağız her zaman. Sanmayın ki ayrı kalacağız. Birlikte olacağımız günlere sabrederek tutacağız oruçlarımızı... 
+Omuzlarımız değmeyecek olsa da secdeye giderken alnımız, hep birlikte âmin diyeceğiz, minarelerden yükselen dualara... Ramazan&#x27;ın rahmetini, bereketini, maneviyatını hep birlikte yaşayacağız.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314155000 +0000" stop="20260314161500 +0000" channel="diyanet-tv">
+    <title lang="tr">Namaz Ve Hayat</title>
+    <desc lang="tr">Hayat; kimini zor şartlarla sınar. Kimini zamanla yarıştırır.Ve bu hayatta asıl kazananlar; zamana kapılmadan, şartlara esir olmadan vaktin peşinde olanlardır.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314161500 +0000" stop="20260314163000 +0000" channel="diyanet-tv">
+    <title lang="tr">İslam Alimleri</title>
+    <desc lang="tr">Her biri yaşadıkları çağlarda yol gösterici olmuş, etkileri günümüze kadar ulaşan ilim adamlarımızın hayat hikayeleri ve yetiştirdikleri öğrenciler İslam Alimleri&#x27;nde ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314163000 +0000" stop="20260314180000 +0000" channel="diyanet-tv">
+    <title lang="tr">Diyanet Ana Haber</title>
+    <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler ekrana geliyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314180000 +0000" stop="20260314190000 +0000" channel="diyanet-tv">
+    <title lang="tr">Dini Gündem</title>
+    <desc lang="tr">Toplumda polemik yaratan, halkın kafasını karıştıran, bilgi kirliliğine sebep olan durumlar her yerde. 
+Yanlış anlaşılması muhtemel, açıklanmasını istediğiniz konular her an karşımızda...
+Hayatımızda birden bire ortaya çıkan ve karşılığını bulamadığımız sorunlar var.
+Peki, doğruyu nasıl bulacağız? 
+Kafa karışıklığı nasıl son bulacak?  
+
+Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığı Din İşleri Yüksek Kurulu üye ve uzmanları ile merak ettiğiniz her konuya, Kur’an, sünnet ve sahih İslam geleneğinin rehberliğinde açıklık getiriyoruz.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314190000 +0000" stop="20260314204500 +0000" channel="diyanet-tv">
+    <title lang="tr">Kur&#x27;an-ı Kerim&#x27;i Güzel Okuma Yarışması</title>
+    <desc lang="tr">Program, bu yıl da Ramazan ayının manevi havasına ayrı bir değer katıp izleyicilere Kur&#x27;an ziyafeti yaşatıyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314204500 +0000" stop="20260314233000 +0000" channel="diyanet-tv">
+    <title lang="tr">Mavera</title>
+    <desc lang="tr">Tarihteki ilk Alperenlerin hikayesi Mavera, Yusuf Hemedani tarafından Bağdat’a gönderilen Hace Ahmed Yesevi’nin o dönem adeta küçük bir dünya olan Bağdat’ta verdiği dirlik ve beraberliğin mücadelesini konu alıyor.
+
+Hâce’nin hikmetli nefesi; insanların ruhuna dokundukça, saflar belirginleşiyor. Bir tarafta onu Bağdat’tan göndermek isteyenlerin kurduğu fitne mahfili; diğer tarafta ise Hâce Ahmed’in “Alp” bileğiyle koruyup, “Eren” yüreğiyle kucaklayacağı insanlar...</desc>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260314000500 +0000" stop="20260314005000 +0000" channel="dmax">
     <title lang="tr">Alaska: Son Sınır</title>
@@ -11111,446 +10736,6 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <title lang="tr">Agatha Christie&#x27;nin Marple&#x27;ı</title>
     <desc lang="tr">Amatör dedektif Bayan Jane Marple&#x27;ın bir çok cinayet gizem macerasına katılın; oldukça analitik bir zihne sahip olan Marple bir şekilde etrafındaki gizemli suçları ve cinayetleri kendine çekiyor gibi görünüyor.</desc>
     <category lang="tr">Dizi</category>
-  </programme>
-  <programme start="20260314000000 +0000" stop="20260314001500 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314001500 +0000" stop="20260314003000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314003000 +0000" stop="20260314010000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314011500 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314011500 +0000" stop="20260314013000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314013000 +0000" stop="20260314020000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314021400 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314021400 +0000" stop="20260314023000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314023000 +0000" stop="20260314024600 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314024600 +0000" stop="20260314030000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314030000 +0000" stop="20260314031500 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314031500 +0000" stop="20260314033000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314033000 +0000" stop="20260314040000 +0000" channel="euronews">
-    <title lang="tr">Global Week-End</title>
-    <desc lang="tr">News stories as they happen. Analysis and coverage of the most important global events as they unfold providing insight into their significance and relevance for communities worldwide. From politics to society all that has an impact or will impact on the globe as a whole is presented in an accessible and insightful form to allow one to keep up-to-date on the factors changing the world we live in.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314041500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314041500 +0000" stop="20260314043000 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314050500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314050500 +0000" stop="20260314052900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314052900 +0000" stop="20260314053400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314053400 +0000" stop="20260314060000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314060500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314060500 +0000" stop="20260314063000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314063000 +0000" stop="20260314063800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314063800 +0000" stop="20260314064800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314064800 +0000" stop="20260314070000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314070500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314070500 +0000" stop="20260314072900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314072900 +0000" stop="20260314073400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314073400 +0000" stop="20260314080000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314080500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314080500 +0000" stop="20260314083000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314083000 +0000" stop="20260314083800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314083800 +0000" stop="20260314084800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314084800 +0000" stop="20260314090000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314090500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314090500 +0000" stop="20260314092900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314092900 +0000" stop="20260314093400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314093400 +0000" stop="20260314100000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314100500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314100500 +0000" stop="20260314103000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314103000 +0000" stop="20260314103800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314103800 +0000" stop="20260314104800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314104800 +0000" stop="20260314110000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314110500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314110500 +0000" stop="20260314112900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314112900 +0000" stop="20260314113400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314113400 +0000" stop="20260314120000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314120500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314120500 +0000" stop="20260314123000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314123000 +0000" stop="20260314123800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314123800 +0000" stop="20260314124800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314124800 +0000" stop="20260314130000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314130500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314130500 +0000" stop="20260314132900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314132900 +0000" stop="20260314133400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314133400 +0000" stop="20260314140000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314140500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314140500 +0000" stop="20260314143000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314143000 +0000" stop="20260314143800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314143800 +0000" stop="20260314144800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314144800 +0000" stop="20260314150000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314150500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314150500 +0000" stop="20260314152900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314152900 +0000" stop="20260314153400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314153400 +0000" stop="20260314160000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314160500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314160500 +0000" stop="20260314163000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314163000 +0000" stop="20260314163800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314163800 +0000" stop="20260314164800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314164800 +0000" stop="20260314170000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314170500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314170500 +0000" stop="20260314172900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314172900 +0000" stop="20260314173400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314173400 +0000" stop="20260314180000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314180500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180500 +0000" stop="20260314183000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314183000 +0000" stop="20260314183800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314183800 +0000" stop="20260314184800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314184800 +0000" stop="20260314190000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314190500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314190500 +0000" stop="20260314192900 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314192900 +0000" stop="20260314193400 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314193400 +0000" stop="20260314200000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314200500 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314200500 +0000" stop="20260314203000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314203000 +0000" stop="20260314203800 +0000" channel="euronews">
-    <title lang="tr">5 Minutes</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314203800 +0000" stop="20260314204800 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314204800 +0000" stop="20260314210000 +0000" channel="euronews">
-    <title lang="tr">News</title>
-    <desc lang="tr">The leading news stories of the moment.</desc>
-    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="eurosport-1">
     <title lang="tr">2026 Masters</title>
@@ -17640,87 +16825,6 @@ Murat&#x27;ın kayboluşunun ardından Murat&#x27;ın memleketi Halfeti&#x27;ye 
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="number1-turk">
-    <title lang="tr">Djset Fatih Turgutalp</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="number1-turk">
-    <title lang="tr">Hit&#x27;s 20</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314040000 +0000" channel="number1-turk">
-    <title lang="tr">Love Song</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314060000 +0000" channel="number1-turk">
-    <title lang="tr">Sabah Enerjisi</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="number1-turk">
-    <title lang="tr">Start</title>
-    <desc lang="tr">Türkiye ve Dünyadaki motorsporlarından en son haberler bu programda.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="number1-turk">
-    <title lang="tr">New Arrival</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314073000 +0000" channel="number1-turk">
-    <title lang="tr">RAP 10</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314073000 +0000" stop="20260314080000 +0000" channel="number1-turk">
-    <title lang="tr">#Tbt</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="number1-turk">
-    <title lang="tr">Hit&#x27;s 20</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314110000 +0000" channel="number1-turk">
-    <title lang="tr">New Arrival</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314120000 +0000" channel="number1-turk">
-    <title lang="tr">Trend Setter</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="number1-turk">
-    <title lang="tr">Dijital Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="number1-turk">
-    <title lang="tr">Unutulmayanlar</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314150000 +0000" channel="number1-turk">
-    <title lang="tr">New Arrival</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314153000 +0000" channel="number1-turk">
-    <title lang="tr">RAP 10</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314153000 +0000" stop="20260314160000 +0000" channel="number1-turk">
-    <title lang="tr">#Tbt</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="number1-turk">
-    <title lang="tr">Dijital Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314190000 +0000" channel="number1-turk">
-    <title lang="tr">New Arrival</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314200000 +0000" channel="number1-turk">
-    <title lang="tr">Hit&#x27;s 20</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314210000 +0000" channel="number1-turk">
-    <title lang="tr">Dijital Hits</title>
-    <category lang="tr">Eğlence</category>
-  </programme>
   <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="number1-tv">
     <title lang="tr">Dj Set: Tarık Sarul</title>
     <desc lang="tr">DJ SET: TARIK SARUL Number One TV ekranlarında</desc>
@@ -20625,189 +19729,6 @@ Tam 100 yıl sonra adalılar ve tarihçiler bulgularını bir araya getiriyor: B
     <title lang="tr">Teknik Analiz</title>
     <desc lang="tr">Süper Lig maçlarının heyecanı Teknik Analiz&#x27;de yaşanıyor. Maç özetleri, hakem kararlarının değerlendirilmesi, maç sonu yorumları ve istatistikler hepsi Teknik Analiz&#x27;de sizleri bekliyor.</desc>
     <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314003000 +0000" stop="20260314010000 +0000" channel="trt-arabi">
-    <title lang="tr">Tafaul</title>
-    <desc lang="tr">Current affairs programme focusing on social media trends, hashtags and topics.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314014000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314014000 +0000" stop="20260314020000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314023000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314023000 +0000" stop="20260314030000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314030000 +0000" stop="20260314033000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314033000 +0000" stop="20260314040000 +0000" channel="trt-arabi">
-    <title lang="tr">For My Right</title>
-    <desc lang="tr">Weekly programme on basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314044000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314044000 +0000" stop="20260314050000 +0000" channel="trt-arabi">
-    <title lang="tr">Fil Iqtisad</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314054000 +0000" stop="20260314060000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314070000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314074000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314074000 +0000" stop="20260314080000 +0000" channel="trt-arabi">
-    <title lang="tr">For My Right</title>
-    <desc lang="tr">Weekly programme on basic human rights being violated nearly seven decades after the proclamation of the Human Rights Declaration.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314094000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314094000 +0000" stop="20260314100000 +0000" channel="trt-arabi">
-    <title lang="tr">Fil Iqtisad</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314104000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314104000 +0000" stop="20260314110000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314114000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314114000 +0000" stop="20260314120000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314134000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314134000 +0000" stop="20260314140000 +0000" channel="trt-arabi">
-    <title lang="tr">Documentary</title>
-    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314143000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314143000 +0000" stop="20260314150000 +0000" channel="trt-arabi">
-    <title lang="tr">New Haganah</title>
-    <desc lang="tr">Will history repeat itself with a decision to divide the West Bank between Palestinians and settlers?</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314154000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314154000 +0000" stop="20260314160000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314164000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314164000 +0000" stop="20260314170000 +0000" channel="trt-arabi">
-    <title lang="tr">Documentary</title>
-    <desc lang="tr">Award winning documentary series brings you personal journeys and uplifting stories of resilient people whose life has been affected by global turmoil.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314180000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314183000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314183000 +0000" stop="20260314190000 +0000" channel="trt-arabi">
-    <title lang="tr">After Al Assad</title>
-    <desc lang="tr">Current affairs programme broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314200000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314204000 +0000" channel="trt-arabi">
-    <title lang="tr">News</title>
-    <desc lang="tr">TRT Arabi not only brings you the latest from around the globe as it happens but goes deep and beyond to reveal the truth.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260314204000 +0000" stop="20260314210000 +0000" channel="trt-arabi">
-    <title lang="tr">After The Toufan</title>
-    <desc lang="tr">After the Toufan is broadcast from Gaza, the West Bank, Jerusalem, Beirut, and Sanaa, covering humanitarian, health, and military updates</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260314001500 +0000" stop="20260314003000 +0000" channel="trt-avaz">
     <title lang="tr">Bir Kıssa Bir Nağme</title>
@@ -25021,6 +23942,84 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <title lang="tr">Belgesel Kuşağı</title>
     <desc lang="tr">Belgesel Kuşağı, araştırmacı gazeteciliği görsel hikaye anlatımıyla bir araya getiriyor. Her bölümde gerçek olaylar derinlemesine ele alınırken, izleyiciye dünyayı, insanı ve yaşananları daha iyi anlama imkanı sunuluyor. Akıcı anlatımıyla merak uyandıran yapımlar ekrana güçlü bir perspektif taşıyor.</desc>
     <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260314003000 +0000" stop="20260314013000 +0000" channel="tyt-turk">
+    <title lang="tr">Şampiyon Mutfakta</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314013000 +0000" stop="20260314023000 +0000" channel="tyt-turk">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Türk ve dünya sinemasından en güzel filmler ve beğeni toplamış yapıtlar ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260314023000 +0000" stop="20260314031500 +0000" channel="tyt-turk">
+    <title lang="tr">Murat Çiftçi ile Sahur Sohbetleri</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314031500 +0000" stop="20260314050000 +0000" channel="tyt-turk">
+    <title lang="tr">Tek Nefes Anadolu Mukabele</title>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260314050000 +0000" stop="20260314080000 +0000" channel="tyt-turk">
+    <title lang="tr">Oylum Talu ile Hoşgeldin Hafta Sonu</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="tyt-turk">
+    <title lang="tr">Selin&#x27;in Yaşam Tarifleri</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="tyt-turk">
+    <title lang="tr">Yaşam Alanı</title>
+    <desc lang="tr">Yaşam alanlarınızın ruhuna dokunmaya gelen Yaşam Alanı, doğal ışık, sade dekorlar ve ferah alanlarla size huzuru vaat ediyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="tyt-turk">
+    <title lang="tr">Dolgu</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="tyt-turk">
+    <title lang="tr">Dijital Vatan</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314110000 +0000" stop="20260314121500 +0000" channel="tyt-turk">
+    <title lang="tr">Emret Komutanım</title>
+    <desc lang="tr">Her biri silah altında TSK mensubu ve 56. Piyade Er Eğitim Alayı&#x27;nda bir araya gelen askerler. Her biri Türkiye&#x27;nin farklı yerlerinden, ama aynı vatani görev için biraraya gelen bu insanlar askerlikleri boyunca hasret, arkadaşlık, vatan gibi kavramları yeni baştan öğreniyorlar...</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260314121500 +0000" stop="20260314130000 +0000" channel="tyt-turk">
+    <title lang="tr">Şampiyon Mutfakta</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="tyt-turk">
+    <title lang="tr">Demet Şener İle Bir Demet Hafta Sonu</title>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314140000 +0000" stop="20260314151500 +0000" channel="tyt-turk">
+    <title lang="tr">Seda Sayan İle Her Şey Masada</title>
+    <desc lang="tr">Eğlencenin, samimiyetin ve dopdolu sohbetlerin adresi Seda Sayan ile Her Şey Masada, ünlü konuklar, çarpıcı konular ve sıcacık anlarla ekrana geliyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260314151500 +0000" stop="20260314160000 +0000" channel="tyt-turk">
+    <title lang="tr">Murat Çiftçi ile Huzur Sohbetleri</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="tyt-turk">
+    <title lang="tr">TYT Hafta Sonu Ana Haber</title>
+    <desc lang="tr">Türkiye ve dünya gündeminden önemli başlıklar TYT Türk Hafta Sonu Ana Haber&#x27;de sizlerle buluşuyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260314170000 +0000" stop="20260314183000 +0000" channel="tyt-turk">
+    <title lang="tr">Balçiçek İlter İle Sormazsam Olmaz</title>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260314183000 +0000" stop="20260314203000 +0000" channel="tyt-turk">
+    <title lang="tr">Birlikte Söyleyelim</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260314203000 +0000" stop="20260314220000 +0000" channel="tyt-turk">
+    <title lang="tr">Sinema</title>
+    <desc lang="tr">Türk ve dünya sinemasından en güzel filmler ve beğeni toplamış yapıtlar ekrana geliyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260314010000 +0000" stop="20260314040000 +0000" channel="ulke-tv">
     <title lang="tr">Ülke&#x27;de Sahur</title>
