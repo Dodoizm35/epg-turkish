@@ -1803,15 +1803,15 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="al-jazeera-arabic">
+  <programme start="20260318160000 +0000" stop="20260318163500 +0000" channel="al-jazeera-arabic">
     <title lang="tr">News Live</title>
     <desc lang="tr">Up-to-date news and analysis from around the world.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260318163000 +0000" stop="20260318170000 +0000" channel="al-jazeera-arabic">
-    <title lang="tr">The Bottom Line</title>
-    <desc lang="tr">&#x27;&#x27;The Bottom Line&#x27;&#x27; is the programme that examines everything that is happening in U.S. politics, policies and society, and how it affects the rest of the world. Hosted by American journalist Steve Clemons, this show tackles all the important issues that United States are facing. He talks with different guests in each episode.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260318163500 +0000" stop="20260318170000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Talk to Al Jazeera: Abbas Araghchi</title>
+    <desc lang="tr">Captivating weekly interview show that includes one-on-one conversations with various people of influence from around the world. Take a look at what leaders, celebrities, influencers, and alternative voices that are shaping our times have to say about current events and topics dear to their heart.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260318170000 +0000" stop="20260318173000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">News Live</title>
@@ -2086,6 +2086,41 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
   <programme start="20260318200000 +0000" stop="20260318220000 +0000" channel="al-quran-al-kareem">
     <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
     <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318030000 +0000" stop="20260318060000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318060000 +0000" stop="20260318090000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318090000 +0000" stop="20260318120000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318120000 +0000" stop="20260318150000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318150000 +0000" stop="20260318180000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260318180000 +0000" stop="20260318210000 +0000" channel="al-sunnah-al-nabawiyah">
+    <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Hicretten sonra Medine&#x27;de Hz. Muhammed (S.A.V.) ve ashabı tarafından inşa edilen Mescid-i Nebevi&#x27;den yapılan canlı yayın müminlerle buluşturuluyor. Son peygamber Hz. Muhammed (S.A.V.)in kabri de Mescid-i Nebevi&#x27;de bulunuyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260318040000 +0000" stop="20260318070000 +0000" channel="as-tv">
@@ -7931,13 +7966,6 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
   <programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="diyanet-tv">
     <title lang="tr">Nebiler Tarihi</title>
     <desc lang="tr">Peygamberler... Allah&#x27;ın elçileri, insanlığın rehberleri ve tarihin asıl karakterleri. Peygamberler kıssalarının izinden gidilerek Nebiler Tarihi konuşuluyor.</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260318200000 +0000" stop="20260318233000 +0000" channel="diyanet-tv">
-    <title lang="tr">Aynalı Tüfek</title>
-    <desc lang="tr">Dünyada eşi benzeri olmayan kahramanlık destanı Çanakkale Savaşlarının hikayesi, savaşın gazilerinin ağzından Aynalı Tüfek belgeselinde anlatılıyor.
-
-Belgeselde, Çanakkale Savaşlarının şu an hayatta olmayan son gazileri, Edirne’den Diyarbakır&#x27;a, Suriye’den Filistin&#x27;e omuz omuza mücadele ettiği arkadaşlarının hikayelerini, büyük zaferin hangi şartlarda, nasıl kazanıldığını anlatıyor. Çanakkale Savaşları’na dair fotoğraf ve görüntülerin de yer aldığı arşiv niteliğindeki belgesel sonsuza dek dillerde ve yüreklerde yaşayacak Çanakkale Zaferinin hikayesinin gelecek nesillere aktarılmasına imkan sağlıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260318000500 +0000" stop="20260318005000 +0000" channel="dmax">
@@ -13868,7 +13896,7 @@ Belgeselde, Çanakkale Savaşlarının şu an hayatta olmayan son gazileri, Edir
     <title lang="tr">Pangvoss</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260318202900 +0000" stop="20260319205900 +0000" channel="gzt-tv">
+  <programme start="20260318202900 +0000" stop="20260318210400 +0000" channel="gzt-tv">
     <title lang="tr">Pangvoss</title>
     <category lang="tr">Yaşam</category>
   </programme>
@@ -17517,79 +17545,54 @@ Aslanlardan su aygırlarına, kurtlardan timsahlara kadar dünyanın farklı bö
     <desc lang="tr">Jack&#x27;in gizli sabah hayatı hakkındaki gerçeği öğrenmeye kararlı olan Lily, insanılmaz bir şey yapar ve erkenden uyanır. Ama hafiyeliği başlarını derde sokar. Lil ve dostları Anusha ve Debs, Hank N Beans atari salonunda ödül kazanmak için savaşır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318154000 +0000" stop="20260318163000 +0000" channel="nickelodeon">
-    <title lang="tr">Wylde Pak Ailesi</title>
-    <desc lang="tr">Lily, Jack&#x27;e en sevdiği video oyununu gösterir ancak Jack sürekli kaybedince oyunu bırakamaz ve toksik bir trole dönüşür. Günümüz aile dinamiklerini gösteren yaşam kesitleri verilir.</desc>
+  <programme start="20260318161600 +0000" stop="20260318165200 +0000" channel="nickelodeon">
+    <title lang="tr">Patrick Star Show</title>
+    <desc lang="tr">Yıldız Ailesi&#x27;nin çılgın evinde, genç Patrick, izleyicileri kendi tuhaf hayal dünyasına davet eder ve kendi şovunu sunar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318163000 +0000" stop="20260318164000 +0000" channel="nickelodeon">
-    <title lang="tr">Marsupilamiler</title>
-    <desc lang="tr">Marsupilamiler Hope, Twister ve Punch ile her gün kahkaha ve eğlence dolu. İkizler Jade ve Mica ile birlikte maceralara ve bolca kahkahaya katılın, tabii Marsupilamiler görünmediği sürece.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260318164000 +0000" stop="20260318165000 +0000" channel="nickelodeon">
-    <title lang="tr">Marsupilamiler</title>
-    <desc lang="tr">Mica ve Jade okullarına ödül kazandırmak için bir oyun sahnelerler, ancak önemli bir aksesuarı unuturlar ve Marsuplar yardım etmek için devreye girer.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260318165000 +0000" stop="20260318170000 +0000" channel="nickelodeon">
+  <programme start="20260318165200 +0000" stop="20260318170400 +0000" channel="nickelodeon">
     <title lang="tr">Gürültü Ailesi</title>
     <desc lang="tr">Geniş bir ailede büyümenin nasıl olduğunu hiç merak ettiniz mi? On bir yaşındaki Lincoln Loud devasa bir evdeki kaosla nasıl başa çıkılacağını yakından gösteriyor, özellikle de on kız kardeşin arasındaki tek erkek olarak.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318170000 +0000" stop="20260318172500 +0000" channel="nickelodeon">
+  <programme start="20260318170400 +0000" stop="20260318172700 +0000" channel="nickelodeon">
     <title lang="tr">Gürültü Ailesi</title>
     <desc lang="tr">Lincoln ilk rock konserine gidecektir ve Luna bunu dünyanın en iyi deneyimi yapmaya karar verir. Lincoln çatıda bir mektup bulur ve evin bir yerlerinde para saklı olduğuna inanmaya başlar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318172500 +0000" stop="20260318175000 +0000" channel="nickelodeon">
+  <programme start="20260318172700 +0000" stop="20260318175100 +0000" channel="nickelodeon">
     <title lang="tr">Gürültü Ailesi</title>
     <desc lang="tr">Lola hastalanıp güzellik yarışmasında yer alamayınca Lincoln, onun yerini alması için Lana&#x27;ya koçluk yapar. Lincoln&#x27;le Clyde kolay olacağını düşünerek ailenin en küçüğü Lily&#x27;ye bakıcılık yapma görevini üstlenirler.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318175000 +0000" stop="20260318180000 +0000" channel="nickelodeon">
+  <programme start="20260318175100 +0000" stop="20260318180300 +0000" channel="nickelodeon">
     <title lang="tr">Gürültü Ailesi</title>
     <desc lang="tr">Geniş bir ailede büyümenin nasıl olduğunu hiç merak ettiniz mi? On bir yaşındaki Lincoln Loud devasa bir evdeki kaosla nasıl başa çıkılacağını yakından gösteriyor, özellikle de on kız kardeşin arasındaki tek erkek olarak.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318180000 +0000" stop="20260318182500 +0000" channel="nickelodeon">
+  <programme start="20260318180300 +0000" stop="20260318182600 +0000" channel="nickelodeon">
     <title lang="tr">Yıldırım Ailesi Gizli Görevde</title>
     <desc lang="tr">Bayan Wong, Secret Shores&#x27;u ziyaret eder ve kasabaya, Thunderman&#x27;ların kimliğini açıklamakla tehdit eder. Ancak Max ve Phoebe&#x27;nin, Doktor Colosso&#x27;yu onu susturmak için kullanma planı hiç hayal etmedikleri gibi geri teper.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318182500 +0000" stop="20260318185000 +0000" channel="nickelodeon">
+  <programme start="20260318182600 +0000" stop="20260318185000 +0000" channel="nickelodeon">
     <title lang="tr">Yıldırım Ailesi Gizli Görevde</title>
     <desc lang="tr">Cherry Su Kenarı Kafesi&#x27;nde çalışırken Max onu restoranda, çift indirimi almak için sahte bir flört planı ile kandırır. Chloe, bilgi yarışmasını kazanmak ya da onun takımına katılmak isteyen kardeşi Billy&#x27;i desteklemek arasında zor bir seçim yapar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318185000 +0000" stop="20260318191500 +0000" channel="nickelodeon">
+  <programme start="20260318185000 +0000" stop="20260318191400 +0000" channel="nickelodeon">
     <title lang="tr">Risk Avcısı Henri</title>
     <desc lang="tr">Henry ile Ray, sevimsiz ve can sıkıcı olan Yağmacı ile başa çıkmak zorun-dadır. Piper popüler bir kulüp olan Kaptan Adan fan kulübüne girebilmek için sınırlarını zorlar.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318191500 +0000" stop="20260318193500 +0000" channel="nickelodeon">
+  <programme start="20260318191400 +0000" stop="20260318193700 +0000" channel="nickelodeon">
     <title lang="tr">Risk Avcısı Henri</title>
     <desc lang="tr">Çete ormanda koca ayakla arkadaş olur, Risk Çocuk ve Kaptan Adam da onu avlamaya çalışan inatçı bir avcıdan kurtulması için koca ayağa yardım eder.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260318193500 +0000" stop="20260318200000 +0000" channel="nickelodeon">
+  <programme start="20260318193700 +0000" stop="20260318213600 +0000" channel="nickelodeon">
     <title lang="tr">Risk Takımı</title>
-    <desc lang="tr">Risk Takımı&#x27;nı engellemek isteyen The Cell, Jeff ve Mitch Bilsky&#x27;yi Swellview Jr. Lisesi&#x27;ni satın almaya yönlendirir. Mika, Miles ve Chapa suçla savaşamayacak kadar aptallaşınca, arkadaşlarını Mitch Okulundan Bose kurtarır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260318200000 +0000" stop="20260318202500 +0000" channel="nickelodeon">
-    <title lang="tr">Ay Karli</title>
-    <desc lang="tr">Carly ve Sam bir proje için civciv büyütmeye karar verirler. Ancak civcivler tahminlerinden erken büyüyerek kuluçka makinesinden kaçarlar. Şimdi Carly, Sam, Freddie ve Spencer apartmana dağılan civcivleri bulmak zorundadırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260318202500 +0000" stop="20260318205000 +0000" channel="nickelodeon">
-    <title lang="tr">Ay Karli</title>
-    <desc lang="tr">Carly, arkadaşlıklarının yıl dönümünü kutlamak için Sam&#x27;e türünün tek örneği olan bir iCarly tişörtü yaptırır. Ancak Sam bu tişörtü konser biletleriyle takas edince, ikili kendilerini bir kavganın içinde bulur.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260318205000 +0000" stop="20260318211500 +0000" channel="nickelodeon">
-    <title lang="tr">Victoria&#x27;nın Şovu</title>
-    <desc lang="tr">Robbie, The Slap&#x27;teki Robarazzi isimli blog&#x27;u iptal edilme tehlikesine girince, arkadaşlarının özel hayatını kameraya çekmeye başlar. Blog&#x27;u tutar, ancak bedeli arkadaşlıkları olacaktır.</desc>
+    <desc lang="tr">Risk Takımı&#x27;nı engellemek isteyen The Cell, Jeff ve Mitch Bilsky&#x27;yi Swellview Jr. Lisesi&#x27;ni satın almaya yönlendirir. Mika, Miles ve Chapa suçla savaşamayacak kadar aptallaşınca, arkadaşlarını &#x27;Mitch Okulu&#x27;ndan Bose kurtarır.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260318000900 +0000" stop="20260318003100 +0000" channel="nicktoons">
@@ -18728,13 +18731,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260318200000 +0000" stop="20260318205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260318205900 +0000" stop="20260319040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="s-sport">
     <title lang="tr">NBA Action</title>
@@ -20746,7 +20749,7 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
   <programme start="20260318180000 +0000" stop="20260318200000 +0000" channel="tivi6">
     <title lang="tr">Söz Hakkı</title>
     <desc lang="tr">FATİH DEMİRTAŞ İLE SÖZ HAKKI PROGRAMI</desc>
-    <category lang="tr">Film</category>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260318200000 +0000" stop="20260318210000 +0000" channel="tivi6">
     <title lang="tr">Yırtıcı Final</title>
@@ -20878,17 +20881,17 @@ BBC&#x27;nin popüler dizisi The Traitors&#x27;ın Hollandalı yapımcılarında
     <desc lang="tr">Çiftler rüyalarını süsleyen göl evlerini arıyor! Yazlık ya da mesken fark etmez, bu alıcılar göl hayatına hazır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260318163000 +0000" stop="20260318184500 +0000" channel="tlc">
+  <programme start="20260318163000 +0000" stop="20260318182500 +0000" channel="tlc">
     <title lang="tr">Die Hart 2: Die Harter</title>
     <desc lang="tr">Kevin Hart başarısını sürdürmek için senaryosuz bir film projesi üzerinde çalışırken eski bir düşmanı ondan intikam almak için harekete geçer.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260318184500 +0000" stop="20260318204500 +0000" channel="tlc">
+  <programme start="20260318182500 +0000" stop="20260318202500 +0000" channel="tlc">
     <title lang="tr">Kolombiyalı: İntikam Meleği</title>
     <desc lang="tr">Ebeveynlerinin öldürülmesine tanık olan genç bir kadın büyüdüğünde tetikçi olup ailesinin intikamını almak için onları öldüren mafya liderinin peşine düşer.</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260318204500 +0000" stop="20260318230000 +0000" channel="tlc">
+  <programme start="20260318202500 +0000" stop="20260318222000 +0000" channel="tlc">
     <title lang="tr">Die Hart 2: Die Harter</title>
     <desc lang="tr">Kevin Hart başarısını sürdürmek için senaryosuz bir film projesi üzerinde çalışırken eski bir düşmanı ondan intikam almak için harekete geçer.</desc>
     <category lang="tr">Film</category>
