@@ -7317,7 +7317,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="deutsche-welle-english">
     <title lang="tr">To the Point</title>
-    <desc lang="tr">Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that&#x27;s making news. It&#x27;s controversy and confrontation. It&#x27;s background and analysis. It&#x27;s the issues that are moving our world. What do you think? Your opinion counts!</desc>
+    <desc lang="tr">The Iran war is turning into an operation with no exit route. The regime refuses to back down. U.S. president Trump is pressuring NATO to escort ships through the Strait of Hormuz. And Europe keeps hesitating. How long can they hold out? Our guests: Robert Chatterjee (zenith), Thorsten Benner (GPPi), Kristina Kausch (GmfUS)</desc>
     <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="deutsche-welle-english">
@@ -14910,27 +14910,37 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260319110000 +0000" stop="20260319123000 +0000" channel="kontv">
+  <programme start="20260319110000 +0000" stop="20260319120000 +0000" channel="kontv">
     <title lang="tr">Hayat Var</title>
     <desc lang="tr">Hayat Var, izleyicilere günlük yaşam, toplumsal gelişmeler ve kültürel etkinlikler hakkında bilgi ve farkındalık sunan bir programdır. Programda yaşamın farklı alanları, ilgi çekici haberler, insan hikâyeleri ve güncel olaylar ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü içerikler sunar</desc>
     <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="kontv">
+    <title lang="tr">Asfora</title>
+    <desc lang="tr">Asfora dizisi, izleyicilere heyecanlı olaylar ve güçlü karakterlerle dolu bir hikâye sunar. Dizi; dostluk, mücadele, cesaret ve hayatta karşılaşılan zorluklarla başa çıkma gibi temaları işler. Bu yönüyle izleyicilere hem eğlence hem de düşündürücü bir deneyim kazandırır.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260319123000 +0000" stop="20260319134500 +0000" channel="kontv">
     <title lang="tr">Dizi Kuşağı</title>
     <desc lang="tr">Dizi kuşağında yer alan yapımlar, çeşitli temalar ve karakterlerin yaşamları üzerinden ele alınıyor. Sürükleyici olay örgüleri ve dramatik gelişmeler sade bir anlatımla aktarılırken, izleyiciye hem eğlenceli hem de merak uyandıran bir izleme deneyimi sunuluyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260319134500 +0000" stop="20260319160500 +0000" channel="kontv">
+  <programme start="20260319134500 +0000" stop="20260319161100 +0000" channel="kontv">
     <title lang="tr">İftara Doğru</title>
     <desc lang="tr">İftara Doğru, Ramazan ayında iftar saatine yaklaşırken izleyicilere manevi içerikler sunan özel bir yayındır. Programda dualar, kısa sohbetler ve Ramazan&#x27;ın anlamına dair paylaşımlar yer alır. Sıcak ve samimi anlatımıyla izleyicileri iftara hazırlar.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319160500 +0000" stop="20260319172000 +0000" channel="kontv">
+  <programme start="20260319161100 +0000" stop="20260319164500 +0000" channel="kontv">
     <title lang="tr">Çelikkayalar</title>
     <desc lang="tr">Konya&#x27;da kurulan Çelikkayalar Marketler Zinciri, gıda ve temel ihtiyaç ürünlerini uygun fiyatlarla sunan bir perakende market ağıdır. Geniş ürün çeşitliliği, kaliteli hizmet anlayışı ve birçok şubesiyle müşterilerine kolay ve güvenilir alışveriş imkânı sağlar.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260319172000 +0000" stop="20260319180000 +0000" channel="kontv">
+  <programme start="20260319164500 +0000" stop="20260319171000 +0000" channel="kontv">
+    <title lang="tr">İyilikle Sevindir</title>
+    <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319171000 +0000" stop="20260319180000 +0000" channel="kontv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
@@ -14946,8 +14956,8 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260319194500 +0000" stop="20260319205000 +0000" channel="kontv">
-    <title lang="tr">Rahmet İklimi</title>
-    <desc lang="tr">Yağışlar, sıcaklık değişimleri ve doğadaki canlı yaşamı bu içerikte ele alınıyor. Bereketin ve iklimin etkisi sade bir anlatımla aktarılırken, izleyiciye ekosistemin işleyişi ve doğayla insan arasındaki bağ gösteriliyor.</desc>
+    <title lang="tr">Hayat Var</title>
+    <desc lang="tr">Hayat Var, izleyicilere günlük yaşam, toplumsal gelişmeler ve kültürel etkinlikler hakkında bilgi ve farkındalık sunan bir programdır. Programda yaşamın farklı alanları, ilgi çekici haberler, insan hikâyeleri ve güncel olaylar ele alınır. İzleyiciye hem bilgilendirici hem de düşündürücü içerikler sunar</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260319205000 +0000" stop="20260319210000 +0000" channel="kontv">
@@ -20455,6 +20465,81 @@ Kupa İtalya&#x27;ya dair her şey İtalya Kupası Magazin&#x27;le ekranlarını
     <desc lang="tr">Türkiye&#x27;nin gündemini belirleyen siyasi, toplumsal ve güncel gelişmeler bu programda masaya yatırılır. Uzman konuklar, çarpıcı yorumlar ve derinlemesine analizlerle izleyiciye çok yönlü bir perspektif sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
+  <programme start="20260319002000 +0000" stop="20260319013500 +0000" channel="tivi6">
+    <title lang="tr">Taşkınla Yüzleşmek</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319013500 +0000" stop="20260319024000 +0000" channel="tivi6">
+    <title lang="tr">Sahur Bereketi</title>
+    <desc lang="tr">LÜTFİ DOĞAN İLE SAHUR BEREKETİ PROGRAMI</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260319024000 +0000" stop="20260319035500 +0000" channel="tivi6">
+    <title lang="tr">Hatim</title>
+    <desc lang="tr">29.CÜZ</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260319035500 +0000" stop="20260319052500 +0000" channel="tivi6">
+    <title lang="tr">Silahşör</title>
+    <desc lang="tr">Meksika&#x27;daki bir köyün ahalisinin ürünlerini yağmalayan haydutlardan korunmak için Amerikalı bir grup silahşör kiralayarak haydutlara karşı verdikleri mücadele</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319052500 +0000" stop="20260319081000 +0000" channel="tivi6">
+    <title lang="tr">Yeraltı</title>
+    <desc lang="tr">Eski arkadaşının romanının ödül almasını hazmedemeyen Muharrem, nefret ettiği insanların bulunduğu kutlama yemeğine kendini zorla davet ettirir. Gece pişmanlık, göz yaşı ve öfkeyle dolarken Muharrem tek başına, onlar ise hep birlikte savaşmaktadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319081000 +0000" stop="20260319100000 +0000" channel="tivi6">
+    <title lang="tr">İnsandan Sonra Yaşam</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319105000 +0000" channel="tivi6">
+    <title lang="tr">Bizimkiler</title>
+    <desc lang="tr">19.BÖLÜM</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319105000 +0000" stop="20260319120000 +0000" channel="tivi6">
+    <title lang="tr">Ejder Avı</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="tivi6">
+    <title lang="tr">Berna Tan İle El Ele</title>
+    <desc lang="tr">BERNA TAN İLE EL ELE PROGRAMI</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="tivi6">
+    <title lang="tr">Son Canavarlar</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319160500 +0000" channel="tivi6">
+    <title lang="tr">İftar Bereketi</title>
+    <desc lang="tr">MUHAMMED OCAKOĞLU İLE İFTAR BEREKETİ PROGRAMI</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260319160500 +0000" stop="20260319170000 +0000" channel="tivi6">
+    <title lang="tr">Sihir Adası</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="tivi6">
+    <title lang="tr">Bizimkiler</title>
+    <desc lang="tr">20.BÖLÜM</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="tivi6">
+    <title lang="tr">Ufuk Çizgisi</title>
+    <desc lang="tr">YAVUZ SELİM DEMİRAĞ İLE UFUK ÇİZGİSİ PROGRAMI</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="tivi6">
+    <title lang="tr">Yırtıcı Final</title>
+    <desc lang="tr">BELGESEL KUŞAĞI</desc>
+    <category lang="tr">Film</category>
+  </programme>
   <programme start="20260319000500 +0000" stop="20260319005000 +0000" channel="tlc">
     <title lang="tr">Gerçek Mahkumiyet</title>
     <desc lang="tr">1988 yılında Donna Decker, bir eve yapılan acımasız bir saldırıda öldürülür. Tanık ve soruşturmacılar mahkumiyete varan ipucu ağını ortaya çıkarmak için olaya tekrar odaklanır.</desc>
@@ -23476,7 +23561,7 @@ Sevgilisini bırakmak istemeyen Reda&#x27;yla Hac&#x27;da ölmek isteyen babası
   </programme>
   <programme start="20260319154500 +0000" stop="20260319161500 +0000" channel="trt-muzik">
     <title lang="tr">Saz Söz İrfan</title>
-    <desc lang="tr">Doç. Dr. Ubeydullah Sezikli&#x27;nin sunumu ve icrasıyla ekrana gelen program, Ramazan ayının maneviyatını irfani sohbetler ve ilahiler eşliğinde ekrana taşıyor.</desc>
+    <desc lang="tr">Prof. Dr. Ubeydullah Sezikli&#x27;nin sunumu ve icrasıyla ekrana gelen program, Ramazan ayının en özel gecesi olan Kadir Gecesi&#x27;nin maneviyatını kalplere dokunacak ilahilerle ekranlara taşıyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260319161500 +0000" stop="20260319163000 +0000" channel="trt-muzik">
@@ -23904,9 +23989,14 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">İlahi Yorumlar</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="trt-turk">
-    <title lang="tr">Belene</title>
-    <desc lang="tr">Bulgaristan&#x27;da Türklere yapılan baskı ve zulüm ile Belene Sürgünü&#x27;nü konu alan dizi.</desc>
+  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="trt-turk">
+    <title lang="tr">Oyunbozan</title>
+    <desc lang="tr">İstiklal Destanı yeniden yazılıyor. Türkiye&#x27;yi, teknoloji ve savunma sanayii yarışında baş aktör haline getiren eşsiz mücadelenin ve isimsiz kahramanların hikâyesi Oyunbozan ile ekranlara taşınıyor.</desc>
+    <category lang="tr">Yaşam</category>
+  </programme>
+  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="trt-turk">
+    <title lang="tr">Temizlik Kulübü</title>
+    <desc lang="tr">Almanya&#x27;da yaşayan Ayşe&#x27;nin ailesi, yaşadıkları olumsuzluklar sonrası Türkiye&#x27;ye döner. Ayşe burada yeni bir okul ortamında bilim, müzik ve arkadaşlıkla iyileşme sürecine girer. Ayşe&#x27;nin arkadaşlarından Cemil obeziteyle, Ceylan ise dijital bağımlılıkla mücadele etmektedir. Dayanışma, merak ve keşifle zorlukların aşılmasını konu alan programda; her bölümde bir orijinal şarkı, eğitici deneyler ve renkli bir anlatım bulunur.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="trt-turk">
@@ -23970,30 +24060,22 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <title lang="tr">Almanya Ve Avusturya&#x27;da Ramazan</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260319181500 +0000" stop="20260319184500 +0000" channel="trt-turk">
-    <title lang="tr">Misafir Kapıda</title>
-    <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260319181500 +0000" stop="20260319191500 +0000" channel="trt-turk">
+    <title lang="tr">Belene</title>
+    <desc lang="tr">Bulgaristan&#x27;da Türklere yapılan baskı ve zulüm ile Belene Sürgünü&#x27;nü konu alan dizi.</desc>
+    <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260319184500 +0000" stop="20260319190000 +0000" channel="trt-turk">
+  <programme start="20260319191500 +0000" stop="20260319193000 +0000" channel="trt-turk">
     <title lang="tr">Fabrika Ayarı</title>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260319190000 +0000" stop="20260319191500 +0000" channel="trt-turk">
-    <title lang="tr">Zuhurat</title>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260319191500 +0000" stop="20260319194500 +0000" channel="trt-turk">
-    <title lang="tr">Bir Cami Bir Hikaye</title>
-    <category lang="tr">Yaşam</category>
-  </programme>
-  <programme start="20260319194500 +0000" stop="20260319200000 +0000" channel="trt-turk">
-    <title lang="tr">Yeni Hayatım Hakkında</title>
+  <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="trt-turk">
+    <title lang="tr">Misafir Kapıda</title>
+    <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="trt-turk">
-    <title lang="tr">Misafir Kapıda</title>
-    <desc lang="tr">Avrupa&#x27;da yaşayan Türklerin gurbet hikayelerini evlerinde kendileriyle çay kahve eşliğinde anlatan bir programdır. Tüm aile eşrafının bulunmuş olduğu ev ortamında, yapılan sohbetler, hobileri ( enstrüman çalma, resim yapma vb. gibi )  detaylar ile süslenerek Avrupa&#x27;da yaşayan Türklerin evlerinde kendi kültürlerini nasıl yaşadıklarını ve yansıttıklarını sade bir dille anlatımı amaçlayan bir programdır.</desc>
+    <title lang="tr">Bir Cami Bir Hikaye</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="trt-turk">
@@ -24087,13 +24169,13 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319090000 +0000" stop="20260319093000 +0000" channel="trt-world">
-    <title lang="tr">Nextech</title>
-    <desc lang="tr">NexTech looks at tomorrow’s industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.</desc>
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="trt-world">
-    <title lang="tr">Roundtable</title>
-    <desc lang="tr">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <title lang="tr">Bigger Than Five</title>
+    <desc lang="tr">Featuring interviews with political leaders and key policy makers from around the world, Bigger Than Five takes a critical look at issues of global injustice.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="trt-world">
@@ -24102,8 +24184,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="trt-world">
-    <title lang="tr">Across The Balkans</title>
-    <desc lang="tr">Across The Balkans takes you to a land of breathtaking beauty with a painful past to discover the issues and fault lines shaping Southeast Europe today.</desc>
+    <title lang="tr">Business News</title>
+    <desc lang="tr">As the world grapples with ever changing politics and crises, economy is always center stage.  TRT World’s Business News gives you the insight.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="trt-world">
@@ -24117,7 +24199,7 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="trt-world">
-    <title lang="tr">Newshour</title>
+    <title lang="tr">News</title>
     <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
@@ -24127,8 +24209,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="trt-world">
-    <title lang="tr">Beyond The Game</title>
-    <desc lang="tr">Beyond the Game has the stories behind the action. We’ll be at the biggest events, talking to the biggest names. If sport is your passion, this is your show.</desc>
+    <title lang="tr">Strait Talk</title>
+    <desc lang="tr">An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="trt-world">
@@ -24137,23 +24219,23 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319143000 +0000" stop="20260319150000 +0000" channel="trt-world">
-    <title lang="tr">Just 2 Degrees</title>
-    <desc lang="tr">A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="trt-world">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="trt-world">
     <title lang="tr">Roundtable</title>
     <desc lang="tr">Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
     <category lang="tr">Haber</category>
   </programme>
+  <programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="trt-world">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="trt-world">
+    <title lang="tr">News</title>
+    <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260319163000 +0000" stop="20260319170000 +0000" channel="trt-world">
-    <title lang="tr">The Newsmakers</title>
-    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <title lang="tr">Bigger Than Five</title>
+    <desc lang="tr">Featuring interviews with political leaders and key policy makers from around the world, Bigger Than Five takes a critical look at issues of global injustice.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="trt-world">
@@ -24162,23 +24244,18 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="trt-world">
-    <title lang="tr">Strait Talk</title>
-    <desc lang="tr">An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
+    <title lang="tr">Nexus</title>
+    <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319180000 +0000" stop="20260319181500 +0000" channel="trt-world">
+  <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="trt-world">
     <title lang="tr">News - London</title>
     <desc lang="tr">TRT World brings the latest news from around the globe when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319181500 +0000" stop="20260319183000 +0000" channel="trt-world">
-    <title lang="tr">Newsfeed</title>
-    <desc lang="tr">Newsfeed reflects the day`s events and opinions,as reported or discussed on social media.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
   <programme start="20260319183000 +0000" stop="20260319190000 +0000" channel="trt-world">
-    <title lang="tr">Nexus</title>
-    <desc lang="tr">Presented by Matthew Moore, Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
+    <title lang="tr">Business News</title>
+    <desc lang="tr">As the world grapples with ever changing politics and crises, economy is always center stage.  TRT World’s Business News gives you the insight.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319190000 +0000" stop="20260319200000 +0000" channel="trt-world">
@@ -24192,8 +24269,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="trt-world">
-    <title lang="tr">Bigger Than Five</title>
-    <desc lang="tr">Featuring interviews with political leaders and key policy makers from around the world, Bigger Than Five takes a critical look at issues of global injustice.</desc>
+    <title lang="tr">The Newsmakers</title>
+    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260319011500 +0000" stop="20260319024500 +0000" channel="trt1">
