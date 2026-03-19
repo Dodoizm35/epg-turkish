@@ -1424,7 +1424,12 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <title lang="tr">Biz Bize</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260319020000 +0000" stop="20260319030000 +0000" channel="a-spor">
+  <programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="a-spor">
+    <title lang="tr">Spor Gündemi</title>
+    <desc lang="tr">Gündeme ilişkin haberler ve gelişen spor olayları ekrana yansıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="a-spor">
     <title lang="tr">Avrupa&#x27;dan Futbol</title>
     <desc lang="tr">Avrupa&#x27;dan Futbol&#x27;da, Avrupa liglerinde oynanan maçlardan görüntüler, takımların son durumları ve oyuncuların performansları değerlendiriliyor.</desc>
     <category lang="tr">Spor</category>
@@ -3208,132 +3213,156 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Fiona Bruce presents an hour of topical debate.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260318044500 +0000" stop="20260318045900 +0000" channel="beinsports2.tr">
+  <programme start="20260319044500 +0000" stop="20260319045900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318050000 +0000" stop="20260318064400 +0000" channel="beinsports2.tr">
+  <programme start="20260319050000 +0000" stop="20260319064400 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.G.Pendikspor - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319064500 +0000" stop="20260319065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319084400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Erzurumspor FK - A.Hatayspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319084500 +0000" stop="20260319085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319104400 +0000" channel="beinsports2.tr">
     <title lang="tr">Ö.Sivasspor - E.Ümraniyespor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318064500 +0000" stop="20260318065900 +0000" channel="beinsports2.tr">
+  <programme start="20260319104500 +0000" stop="20260319105900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318070000 +0000" stop="20260318084400 +0000" channel="beinsports2.tr">
+  <programme start="20260319110000 +0000" stop="20260319124400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sarıyerspor-Keçiörengücü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318084500 +0000" stop="20260318085900 +0000" channel="beinsports2.tr">
+  <programme start="20260319124500 +0000" stop="20260319125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318090000 +0000" stop="20260318104400 +0000" channel="beinsports2.tr">
+  <programme start="20260319130000 +0000" stop="20260319144400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sakaryaspor - İ.A.Vanspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318104500 +0000" stop="20260318105900 +0000" channel="beinsports2.tr">
+  <programme start="20260319144500 +0000" stop="20260319145900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318110000 +0000" stop="20260318124400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Amed S.F. - Manisa FK</title>
+  <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318124500 +0000" stop="20260318125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260319153100 +0000" stop="20260319153600 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318130000 +0000" stop="20260318144400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bandırmaspor - A.H.Iğdır FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318144500 +0000" stop="20260318155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318160000 +0000" stop="20260318165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Başakşehir - Antalyaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318170000 +0000" stop="20260318192900 +0000" channel="beinsports2.tr">
-    <title lang="tr">R.Başakşehir - H.Antalyaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318193000 +0000" stop="20260318194400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Kayserispor - F.Karagümrük</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318194500 +0000" stop="20260318195900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Konyaspor - Gençlerbirliği</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318200000 +0000" stop="20260318203200 +0000" channel="beinsports2.tr">
-    <title lang="tr">Beşiktaş - Kasımpaşa</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318203300 +0000" stop="20260318223300 +0000" channel="beinsports2.tr">
+  <programme start="20260319153700 +0000" stop="20260319160600 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1. Lig Özetler</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318084500 +0000" stop="20260318085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260319160700 +0000" stop="20260319165100 +0000" channel="beinsports2.tr">
+    <title lang="tr">Konyaspor - Gençlerbirliği</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318090000 +0000" stop="20260318104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Wolverhampton W.</title>
+  <programme start="20260319165200 +0000" stop="20260319192100 +0000" channel="beinsports2.tr">
+    <title lang="tr">T.Konyaspor - Gençlerbirliği</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318104500 +0000" stop="20260318105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260319192200 +0000" stop="20260319202100 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318110000 +0000" stop="20260318124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Brighton Hove A.</title>
+  <programme start="20260319202200 +0000" stop="20260319202900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Özetler</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318124500 +0000" stop="20260318125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
+  <programme start="20260319203000 +0000" stop="20260319223000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Özetler</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318130000 +0000" stop="20260318144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Bournemouth</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318144500 +0000" stop="20260318145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318150000 +0000" stop="20260318165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Everton</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260318170000 +0000" stop="20260318172900 +0000" channel="beinsports3.tr">
+  <programme start="20260319050000 +0000" stop="20260319064400 +0000" channel="beinsports3.tr">
     <title lang="tr">Chelsea - Newcastle United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318173000 +0000" stop="20260318175900 +0000" channel="beinsports3.tr">
+  <programme start="20260319064500 +0000" stop="20260319065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319084400 +0000" channel="beinsports3.tr">
     <title lang="tr">West Ham United - Man. City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318180000 +0000" stop="20260318182900 +0000" channel="beinsports3.tr">
+  <programme start="20260319084500 +0000" stop="20260319085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319104400 +0000" channel="beinsports3.tr">
     <title lang="tr">Manchester United-Aston Villa</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318183000 +0000" stop="20260318185900 +0000" channel="beinsports3.tr">
+  <programme start="20260319104500 +0000" stop="20260319105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319124400 +0000" channel="beinsports3.tr">
     <title lang="tr">Nottingham Forest - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318190000 +0000" stop="20260318192900 +0000" channel="beinsports3.tr">
+  <programme start="20260319124500 +0000" stop="20260319125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319144400 +0000" channel="beinsports3.tr">
     <title lang="tr">Crystal Palace - Leeds United</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318193000 +0000" stop="20260318202900 +0000" channel="beinsports3.tr">
+  <programme start="20260319144500 +0000" stop="20260319145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Tottenham Hotspur</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319164500 +0000" stop="20260319165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - W. Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Brighton H.A.</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Burnley - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319183000 +0000" stop="20260319185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Arsenal - Everton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Newcastle United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Netbusters</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260318203000 +0000" stop="20260318223000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Stories</title>
+  <programme start="20260319200000 +0000" stop="20260319220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260319024500 +0000" stop="20260319025900 +0000" channel="beinsports4.tr">
@@ -10510,6 +10539,31 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <desc lang="tr">Join the two familiar characters who have become preschoolers but still love fun adventures which teach them about various useful things. In their amazing adventures, Mimo and Bobo learn about friendship, sharing, helping others and more, helping children develop their social and observational skills.</desc>
     <category lang="tr">Animasyon</category>
   </programme>
+  <programme start="20260319030000 +0000" stop="20260319070000 +0000" channel="ekol-tv">
+    <title lang="tr">Ekol Tv</title>
+    <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319110000 +0000" channel="ekol-tv">
+    <title lang="tr">Ekol Tv</title>
+    <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319150000 +0000" channel="ekol-tv">
+    <title lang="tr">Ekol Tv</title>
+    <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319190000 +0000" channel="ekol-tv">
+    <title lang="tr">Ekol Tv</title>
+    <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260320030000 +0000" channel="ekol-tv">
+    <title lang="tr">Ekol Tv</title>
+    <desc lang="tr">EKOL TV, Türkiye ve dünyadan son dakika gelişmelerini hızlı ve güvenilir yayın anlayışıyla izleyiciye ulaştırır. Gündemi belirleyen olaylar, anlık bilgiler ve sıcak gelişmeler gün boyunca EKOL TV ekranlarında takip edilir.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
   <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="ekoturk">
     <title lang="tr">Sabah Ekranı</title>
     <desc lang="tr">Küresel piyasalar güne nasıl uyanıyor? Asya piyasaları açılırken ABD ve Avrupa borsalarının kapanışlarına etki eden faktörler neler? Bir önceki günün makroekonomik verileri, yeni günde takip edilecek kritik başlıklar ve jeopolitik gelişmeler piyasaları nasıl etkiliyor?</desc>
@@ -11850,35 +11904,20 @@ Farklı şehirlerde farklı şekilde, fakat aynı duyguyla yaşanan Ramazan Ayı
     <desc lang="tr">PGA Tour (Canlı)</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260319000000 +0000" stop="20260319001500 +0000" channel="fb-tv">
-    <title lang="tr">Gece Haberi</title>
-    <desc lang="tr">Gece Haberi, gün boyunca yaşanan önemli olayları, son dakika gelişmelerini ve gündemin öne çıkan başlıklarını izleyiciyle buluşturuyor. Net ve anlaşılır bir anlatımla günü tamamlıyor.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="fb-tv">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
+    <desc lang="tr">Tarih ve Fenerbahçe, sarı-lacivertli kulübün kuruluşundan bugüne uzanan tarihini, önemli dönüm noktalarını ve unutulmaz başarılarını ele alıyor. Arşiv bilgileri ve anlatımlarla kulübün hafızası ekrana taşınıyor.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260319001500 +0000" stop="20260319014500 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Euroleague</title>
-    <desc lang="tr">Basketbol: EuroLeague, kıtanın en güçlü kulüplerinin şampiyonluk için mücadele ettiği prestijli bir organizasyondur. Yüksek tempo, yıldız oyuncular ve taktik savaşları izleyiciye heyecan dolu anlar yaşatır.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260319014500 +0000" stop="20260319031500 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-    <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260319031500 +0000" stop="20260319041500 +0000" channel="fb-tv">
+  <programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="fb-tv">
     <title lang="tr">Yaşa Fenerbahçe</title>
     <desc lang="tr">Yaşa Fenerbahçe, sarı-lacivertli kulübün tarihine damga vuran başarıları, efsane sporcuları ve unutulmaz anlarını ekrana taşıyor. Tribünlerden sahaya uzanan güçlü aidiyet duygusu, özel görüntüler ve anlatımlarla izleyiciyle buluşuyor. Program, Fenerbahçe camiasının birlik ve mücadele ruhunu yansıtıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260319041500 +0000" stop="20260319060000 +0000" channel="fb-tv">
-    <title lang="tr">Kadın Futbol Süper Ligi</title>
-    <desc lang="tr">Kadınlar Süper Ligi, sponsorluk anlaşması gereği Turkcell Kadın Futbol Süper Ligi adıyla da anılan, Türkiye Futbol Federasyonu tarafından düzenlenen en üst seviye kadın futbol ligidir. Her sezon güçlü takımların kıyasıya mücadelesine sahne olan lig, futbolseverlere yüksek tempolu ve heyecan dolu karşılaşmalar sunar.</desc>
+  <programme start="20260319020000 +0000" stop="20260319063000 +0000" channel="fb-tv">
+    <title lang="tr">Voleybol: Türkiye Kadınlar Ligi</title>
+    <desc lang="tr">Türkiye&#x27;nin en üst düzey kadın voleybol liginde oynanan karşılaşmaları konu alan bir spor yayınıdır. Programda, ligde mücadele eden takımların sahadaki rekabeti, maçların temposu ve üst düzey voleybol performansları izleyiciye aktarılmaktadır. Türkiye kadın voleybolunun en önemli organizasyonlarından biridir.</desc>
     <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319063000 +0000" channel="fb-tv">
-    <title lang="tr">Yaşayan Çınarlarımız</title>
-    <desc lang="tr">Yaşayan Çınarlarımız, Fenerbahçe tarihine emekleriyle iz bırakan isimlerin anılarını ve kulüple kurdukları güçlü bağı izleyiciyle buluşturuyor. Geçmişten bugüne uzanan hikâyeler programda yer alıyor.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260319063000 +0000" stop="20260319064500 +0000" channel="fb-tv">
     <title lang="tr">Tarihte Bugün</title>
@@ -19965,6 +20004,96 @@ Kupa İtalya&#x27;ya dair her şey İtalya Kupası Magazin&#x27;le ekranlarını
     <desc lang="tr">Uefa Avrupa Ligi Son 16 Rövanş Turu Futbol Karşılaşması</desc>
     <category lang="tr">Spor</category>
   </programme>
+  <programme start="20260319014800 +0000" stop="20260319023000 +0000" channel="tabii-tv">
+    <title lang="tr">Şaşıfelek Çıkmazı</title>
+    <desc lang="tr">Feru, Hilmi&#x27;nin gardını düşürerek onun son günlerde yaşadığı değişimin sebebini öğrenir. Murat işleri ilerletmek için bakkalın önünü şark kahvesine çevirir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319023000 +0000" stop="20260319032300 +0000" channel="tabii-tv">
+    <title lang="tr">Yeditepe İstanbul</title>
+    <desc lang="tr">Annesinin mektubu ile yıkılan Olcay, Duru izin vermese de annesinin yanına gitmek için yola çıkar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319032300 +0000" stop="20260319041200 +0000" channel="tabii-tv">
+    <title lang="tr">Derin Mor</title>
+    <desc lang="tr">Soner&#x27;i götürdükleri hastaneden bir an evvel kaçmak için bir ambulans şoföründen yardım isteyen Arif ve Melek, onlara katılan bir çift ile birlikte kendilerini bir cezaevinin kapısının önünde bulurlar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319041200 +0000" stop="20260319050500 +0000" channel="tabii-tv">
+    <title lang="tr">Şanzelize Düğün Salonu</title>
+    <desc lang="tr">Turgut, lunaparkta karşılaştığı boşanmış ve çaresiz hâlde olan yıllar önceki aşkı Eda&#x27;yı teselli ederken Rüstem adındaki arkadaşı, kaçırdığı bir gelinle soluğu Turgut&#x27;un kapısında alır. Bu esnada gelinin karanlık ailesi de kızı aramaktadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319050500 +0000" stop="20260319070900 +0000" channel="tabii-tv">
+    <title lang="tr">Filinta</title>
+    <desc lang="tr">İngiliz Sefiri, Davut Paşa&#x27;yı görmek ister. Farah&#x27;ı konuşturma işine bu kez Leyla dâhil olur. Abdullah&#x27;ın müthiş araştırmacı zekâsı onu çocuklarla ilgili bazı belgelere ve şifrelere sürükler. Süreyya bankanın olağanüstü toplantısında şaşırtan bir çıkış yapar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319070900 +0000" stop="20260319075000 +0000" channel="tabii-tv">
+    <title lang="tr">Şaşıfelek Çıkmazı</title>
+    <desc lang="tr">Feru, Hilmi&#x27;nin gardını düşürerek onun son günlerde yaşadığı değişimin sebebini öğrenir. Murat işleri ilerletmek için bakkalın önünü şark kahvesine çevirir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319075000 +0000" stop="20260319084300 +0000" channel="tabii-tv">
+    <title lang="tr">Yeditepe İstanbul</title>
+    <desc lang="tr">Annesinin mektubu ile yıkılan Olcay, Duru izin vermese de annesinin yanına gitmek için yola çıkar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319084300 +0000" stop="20260319093300 +0000" channel="tabii-tv">
+    <title lang="tr">Derin Mor</title>
+    <desc lang="tr">Soner&#x27;i götürdükleri hastaneden bir an evvel kaçmak için bir ambulans şoföründen yardım isteyen Arif ve Melek, onlara katılan bir çift ile birlikte kendilerini bir cezaevinin kapısının önünde bulurlar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319093300 +0000" stop="20260319102500 +0000" channel="tabii-tv">
+    <title lang="tr">Şanzelize Düğün Salonu</title>
+    <desc lang="tr">Turgut, lunaparkta karşılaştığı boşanmış ve çaresiz hâlde olan yıllar önceki aşkı Eda&#x27;yı teselli ederken Rüstem adındaki arkadaşı, kaçırdığı bir gelinle soluğu Turgut&#x27;un kapısında alır. Bu esnada gelinin karanlık ailesi de kızı aramaktadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319102500 +0000" stop="20260319123000 +0000" channel="tabii-tv">
+    <title lang="tr">Filinta</title>
+    <desc lang="tr">İngiliz Sefiri, Davut Paşa&#x27;yı görmek ister. Farah&#x27;ı konuşturma işine bu kez Leyla dâhil olur. Abdullah&#x27;ın müthiş araştırmacı zekâsı onu çocuklarla ilgili bazı belgelere ve şifrelere sürükler. Süreyya bankanın olağanüstü toplantısında şaşırtan bir çıkış yapar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319131100 +0000" channel="tabii-tv">
+    <title lang="tr">Şaşıfelek Çıkmazı</title>
+    <desc lang="tr">Feru, Hilmi&#x27;nin gardını düşürerek onun son günlerde yaşadığı değişimin sebebini öğrenir. Murat işleri ilerletmek için bakkalın önünü şark kahvesine çevirir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319131100 +0000" stop="20260319151500 +0000" channel="tabii-tv">
+    <title lang="tr">Filinta</title>
+    <desc lang="tr">İngiliz Sefiri, Davut Paşa&#x27;yı görmek ister. Farah&#x27;ı konuşturma işine bu kez Leyla dâhil olur. Abdullah&#x27;ın müthiş araştırmacı zekâsı onu çocuklarla ilgili bazı belgelere ve şifrelere sürükler. Süreyya bankanın olağanüstü toplantısında şaşırtan bir çıkış yapar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319151500 +0000" stop="20260319155600 +0000" channel="tabii-tv">
+    <title lang="tr">Şaşıfelek Çıkmazı</title>
+    <desc lang="tr">Feru, Hilmi&#x27;nin gardını düşürerek onun son günlerde yaşadığı değişimin sebebini öğrenir. Murat işleri ilerletmek için bakkalın önünü şark kahvesine çevirir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319155600 +0000" stop="20260319164900 +0000" channel="tabii-tv">
+    <title lang="tr">Yeditepe İstanbul</title>
+    <desc lang="tr">Annesinin mektubu ile yıkılan Olcay, Duru izin vermese de annesinin yanına gitmek için yola çıkar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319164900 +0000" stop="20260319173900 +0000" channel="tabii-tv">
+    <title lang="tr">Derin Mor</title>
+    <desc lang="tr">Soner&#x27;i götürdükleri hastaneden bir an evvel kaçmak için bir ambulans şoföründen yardım isteyen Arif ve Melek, onlara katılan bir çift ile birlikte kendilerini bir cezaevinin kapısının önünde bulurlar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319173900 +0000" stop="20260319183100 +0000" channel="tabii-tv">
+    <title lang="tr">Şanzelize Düğün Salonu</title>
+    <desc lang="tr">Turgut, lunaparkta karşılaştığı boşanmış ve çaresiz hâlde olan yıllar önceki aşkı Eda&#x27;yı teselli ederken Rüstem adındaki arkadaşı, kaçırdığı bir gelinle soluğu Turgut&#x27;un kapısında alır. Bu esnada gelinin karanlık ailesi de kızı aramaktadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260319183100 +0000" stop="20260319203600 +0000" channel="tabii-tv">
+    <title lang="tr">Filinta</title>
+    <desc lang="tr">İngiliz Sefiri, Davut Paşa&#x27;yı görmek ister. Farah&#x27;ı konuşturma işine bu kez Leyla dâhil olur. Abdullah&#x27;ın müthiş araştırmacı zekâsı onu çocuklarla ilgili bazı belgelere ve şifrelere sürükler. Süreyya bankanın olağanüstü toplantısında şaşırtan bir çıkış yapar.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
+  <programme start="20260319203600 +0000" stop="20260319213300 +0000" channel="tabii-tv">
+    <title lang="tr">Çiçek Taksi</title>
+    <desc lang="tr">Gasp edilen kadını kurtarmaya çalışan Ömer kafasına sert bir darbe alınca tavırları değişir.</desc>
+    <category lang="tr">Dizi</category>
+  </programme>
   <programme start="20260319000500 +0000" stop="20260319003500 +0000" channel="tarih-tv">
     <title lang="tr">Eski Yeni Hayat</title>
     <desc lang="tr">Süleyman Seyfi Öğün&#x27;ün anlatımıyla Horasan&#x27;dan Anadolu&#x27;ya geleneğin izinde bir yolculuk. Eski Yeni Hayat, Tarih TV&#x27;de.</desc>
@@ -20216,80 +20345,115 @@ Kupa İtalya&#x27;ya dair her şey İtalya Kupası Magazin&#x27;le ekranlarını
     <desc lang="tr">Başrol, Tele1 ekranında hayatın başrolündeki isimlerin bilinmeyen öykülerini anlatıyor. Türk müziği, sineması, edebiyatı ve futbolunun en etkili isimlerinin yaşamları ve Türkiye&#x27;nin geçirdiği büyük dönüşümler samimi ve detaylı bir şekilde izleyiciye sunuluyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260319002000 +0000" stop="20260319013500 +0000" channel="tivi6">
-    <title lang="tr">Taşkınla Yüzleşmek</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="tgrt-haber">
+    <title lang="tr">Huzura Doğru</title>
+    <desc lang="tr">Gündelik hayatın telaşından uzaklaşmak, ruhunu dinlendirmek ve içsel dengeyi yeniden bulmak isteyenler için bu program, manevi sohbetler ve anlamlı paylaşımlarla ekrana gelir. İzleyiciye huzurlu bir mola sunar.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260319013500 +0000" stop="20260319024000 +0000" channel="tivi6">
-    <title lang="tr">Sahur Bereketi</title>
-    <desc lang="tr">LÜTFİ DOĞAN İLE SAHUR BEREKETİ PROGRAMI</desc>
-    <category lang="tr">Dini</category>
+  <programme start="20260319020000 +0000" stop="20260319030000 +0000" channel="tgrt-haber">
+    <title lang="tr">Osman Ünlü ile Sahur Vakti</title>
+    <desc lang="tr">Ramazan gecelerinin huzurlu atmosferi sahur saatlerinde izleyiciye aktarılıyor. Programda manevi konular, günlük hayata dair önemli bilgiler ve Ramazan ayına dair merak edilen başlıklar ele alınıyor. Sahur vaktine eşlik eden sohbetler ve değerlendirmelerle izleyicilere anlamlı bir gece programı sunuluyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319024000 +0000" stop="20260319035500 +0000" channel="tivi6">
-    <title lang="tr">Hatim</title>
-    <desc lang="tr">29.CÜZ</desc>
-    <category lang="tr">Dini</category>
+  <programme start="20260319030000 +0000" stop="20260319040000 +0000" channel="tgrt-haber">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Günün önemli gelişmeleri ve son dakika haberleri bu bültende izleyiciye aktarılıyor. Türkiye ve dünyadan dikkat çeken başlıklar, siyaset, ekonomi ve toplum gündemindeki gelişmelerle birlikte ekrana geliyor. Program, günün haber akışını hızlı ve kapsamlı şekilde sunuyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319035500 +0000" stop="20260319052500 +0000" channel="tivi6">
-    <title lang="tr">Silahşör</title>
-    <desc lang="tr">Meksika&#x27;daki bir köyün ahalisinin ürünlerini yağmalayan haydutlardan korunmak için Amerikalı bir grup silahşör kiralayarak haydutlara karşı verdikleri mücadele</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319040000 +0000" stop="20260319064500 +0000" channel="tgrt-haber">
+    <title lang="tr">Günaydın Türkiye</title>
+    <desc lang="tr">Güne dair en önemli gelişmeleri, sıcak haberleri ve hayatı yakından ilgilendiren konuları izleyiciyle buluşturan program; ekonomiden sağlığa, gündemden yaşamın içinden hikâyelere uzanan içeriğiyle izleyiciye güvenilir bir rehber olur.</desc>
+    <category lang="tr">Eğlence</category>
   </programme>
-  <programme start="20260319052500 +0000" stop="20260319081000 +0000" channel="tivi6">
-    <title lang="tr">Yeraltı</title>
-    <desc lang="tr">Eski arkadaşının romanının ödül almasını hazmedemeyen Muharrem, nefret ettiği insanların bulunduğu kutlama yemeğine kendini zorla davet ettirir. Gece pişmanlık, göz yaşı ve öfkeyle dolarken Muharrem tek başına, onlar ise hep birlikte savaşmaktadır.</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319064500 +0000" stop="20260319070000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319081000 +0000" stop="20260319100000 +0000" channel="tivi6">
-    <title lang="tr">İnsandan Sonra Yaşam</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319070000 +0000" stop="20260319081500 +0000" channel="tgrt-haber">
+    <title lang="tr">Haberin İçinden</title>
+    <desc lang="tr">Gündemin öne çıkan başlıkları, arka planı ve bilinmeyen yönleriyle bu programda ele alınır. Sıcak gelişmeler, saha bağlantıları ve uzman yorumlarıyla derinlik kazanır. İzleyiciye yalnızca haber değil, olayların gerçek hikâyesi sunulur.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319100000 +0000" stop="20260319105000 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">19.BÖLÜM</desc>
-    <category lang="tr">Dizi</category>
+  <programme start="20260319081500 +0000" stop="20260319084500 +0000" channel="tgrt-haber">
+    <title lang="tr">Gündem Ekonomi</title>
+    <desc lang="tr">Piyasalardaki hareketlilik ve ekonomik gelişmeler bu programda ayrıntılı şekilde değerlendiriliyor. Döviz, altın ve borsa başta olmak üzere yatırım araçlarında yaşanan değişimler ele alınırken ekonomi gündeminin öne çıkan başlıkları izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319105000 +0000" stop="20260319120000 +0000" channel="tivi6">
-    <title lang="tr">Ejder Avı</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319084500 +0000" stop="20260319090000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="tivi6">
-    <title lang="tr">Berna Tan İle El Ele</title>
-    <desc lang="tr">BERNA TAN İLE EL ELE PROGRAMI</desc>
-    <category lang="tr">Yaşam</category>
+  <programme start="20260319090000 +0000" stop="20260319094500 +0000" channel="tgrt-haber">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="tivi6">
-    <title lang="tr">Son Canavarlar</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319094500 +0000" stop="20260319100000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319160500 +0000" channel="tivi6">
-    <title lang="tr">İftar Bereketi</title>
-    <desc lang="tr">MUHAMMED OCAKOĞLU İLE İFTAR BEREKETİ PROGRAMI</desc>
-    <category lang="tr">Dini</category>
+  <programme start="20260319100000 +0000" stop="20260319104500 +0000" channel="tgrt-haber">
+    <title lang="tr">Gün Ortası</title>
+    <desc lang="tr">Günün ilk saatlerinde yaşanan önemli gelişmeler, son dakika haberleri ve gündemin öne çıkan başlıkları bu programda bir araya gelir. Saha bağlantıları, uzman yorumları ve özet analizlerle izleyiciye günün fotoğrafı sunulur.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319160500 +0000" stop="20260319170000 +0000" channel="tivi6">
-    <title lang="tr">Sihir Adası</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319104500 +0000" stop="20260319110000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="tivi6">
-    <title lang="tr">Bizimkiler</title>
-    <desc lang="tr">20.BÖLÜM</desc>
-    <category lang="tr">Dizi</category>
+  <programme start="20260319110000 +0000" stop="20260319114500 +0000" channel="tgrt-haber">
+    <title lang="tr">Günün İçinden</title>
+    <desc lang="tr">Gün içinde yaşanan önemli gelişmeler, toplumu yakından ilgilendiren olaylar ve hayatın içinden renkli anlar bu programda ekrana taşınır. Haber, yaşam ve gündem başlıklarıyla izleyiciye günün nabzı net ve anlaşılır bir dille aktarılır.</desc>
+    <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="tivi6">
-    <title lang="tr">Ufuk Çizgisi</title>
-    <desc lang="tr">YAVUZ SELİM DEMİRAĞ İLE UFUK ÇİZGİSİ PROGRAMI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319114500 +0000" stop="20260319120000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="tivi6">
-    <title lang="tr">Yırtıcı Final</title>
-    <desc lang="tr">BELGESEL KUŞAĞI</desc>
-    <category lang="tr">Film</category>
+  <programme start="20260319120000 +0000" stop="20260319124500 +0000" channel="tgrt-haber">
+    <title lang="tr">Gündem</title>
+    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319124500 +0000" stop="20260319130000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319134500 +0000" channel="tgrt-haber">
+    <title lang="tr">Gündem</title>
+    <desc lang="tr">Ülkede ve dünyada yaşanan önemli gelişmeler, siyaset, ekonomi ve toplum başlıklarıyla bu programda ele alınır. Sıcak haberler, kısa analizler ve uzman yorumlarıyla izleyiciye gündemin fotoğrafı sunulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319134500 +0000" stop="20260319140000 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="tgrt-haber">
+    <title lang="tr">Dünyada Bugün</title>
+    <desc lang="tr">Küresel gündemde öne çıkan gelişmeler, siyasi ve ekonomik hareketlilik, toplumsal olaylar ve dikkat çeken başlıklar bu programda ele alınır. Uzman yorumları ve kısa analizlerle izleyiciye dünyadan kapsamlı bir bakış sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319164500 +0000" channel="tgrt-haber">
+    <title lang="tr">Pınar Ardor Işık ile Bu Akşam</title>
+    <desc lang="tr">Pınar Ardor Işık ile Bu Akşam programında Türkiye ve dünyada gün boyunca yaşanan önemli gelişmeler ekrana taşınıyor. Siyaset ekonomi ve toplumsal olaylar programın ana başlıklarını oluşturuyor. Günün gündemi sade bir anlatımla izleyiciye aktarılırken olayların perde arkası da ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260319164500 +0000" stop="20260319180000 +0000" channel="tgrt-haber">
+    <title lang="tr">Ana Haber Bülteni</title>
+    <desc lang="tr">Günün en önemli gelişmeleri, son dakika haberleri ve sıcak başlıklar bu bültende izleyiciyle buluşur. Tarafsız, net ve güvenilir anlatımıyla gündemin özeti sunulur.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319213000 +0000" channel="tgrt-haber">
+    <title lang="tr">Gürkan Hacır ile Taksim Meydanı</title>
+    <desc lang="tr">Türkiye&#x27;nin gündemini belirleyen siyasi, toplumsal ve güncel gelişmeler bu programda masaya yatırılır. Uzman konuklar, çarpıcı yorumlar ve derinlemesine analizlerle izleyiciye çok yönlü bir perspektif sunulur.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260319000500 +0000" stop="20260319005000 +0000" channel="tlc">
     <title lang="tr">Gerçek Mahkumiyet</title>
