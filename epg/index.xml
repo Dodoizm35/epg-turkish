@@ -3176,11 +3176,11 @@ Toplanacak toydan çıkacak kararın Bursa&#x27;nın sonu olacağını söyleyen
     <title lang="tr">Trendyol 1.Lig Özetler</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322100000 +0000" stop="20260322120100 +0000" channel="beinsports2.tr">
+  <programme start="20260322100000 +0000" stop="20260322115900 +0000" channel="beinsports2.tr">
     <title lang="tr">İ.A.Vanspor - S.G.Sarıyerspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322120200 +0000" stop="20260322121400 +0000" channel="beinsports2.tr">
+  <programme start="20260322120000 +0000" stop="20260322121400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -18988,6 +18988,56 @@ Sevdiği Şükran’la nişanı yapılır. Ancak Amerika’dan gelen miras koca 
     <desc lang="tr">Film, Kneecap adlı İrlandalı bir rap grubunun hikayesini konu ediyor. İrlanda&#x27;da 80.000 yerli İrlandalı konuşmacı vardır. Kuzey İrlanda&#x27;da ise 6.000 kişi yaşamaktadır. Bunlardan üçü Kneecap adında bir rap grubu kurar. Bu anarşik Belfast üçlüsü, ana dili kurtarmaya yönelik bir sivil haklar hareketinin alışılmadık bir figürü haline gelir.</desc>
     <category lang="tr">Film</category>
   </programme>
+  <programme start="20260322000000 +0000" stop="20260322014500 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Buz Ve Gökyüzü</title>
+    <desc lang="tr">Buzul bilimci Claude Lorius, Antarktika gerçekleştirilen bir kutlama töreni sırasında ilginç bir detay fark eder. Sondajdan çıkan bir buz kalıbını viskisine atar ve erimekte olan buzda yıllarca önce sıkışmış hava olduğunu fark eder; bu aslında bir tarihi eserdir!</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322014500 +0000" stop="20260322040000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Sevginin Gücü</title>
+    <desc lang="tr">Mathilda, New York&#x27;ta yaşayan ailesi dağılmış 12 yaşında küçük bir kızdır. Ailesini sevmeyen Mathilda için en değerli varlığı küçük kardeşidir. Babası uyuşturucu işlerine bulaşınca mafya ailenin tüm bireylerini öldürür. O sırada alışverişte olan Mathilda ise olaydan kılpayı kurtulur ve Leon&#x27;un kaldığı daireye saklanır. Leon ise çok soğukkanlı bir katildir. Ancak Mathilda&#x27;ya karşı içten bir sevgi besler ve ona kol kanat gerer. Aslında babalık, arkadaşlık gibi kavramlar ona çok yabancıdır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322060000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Karar Günü</title>
+    <desc lang="tr">Ulusal Futbol Ligi (NFL) için yapılacak seçimlerde Cleveland Browns takımının yöneticisi Sonny Weaver büyük bir sınav verecektir. Kendi kişisel tercihleri ve profesyonel seçimi arasında mekik dokuyan Waver, oyuncuların futbol geleceği üzerinde karar verme noktasına gelecektir. Herkes onun ağzından çıkacak isimlere odaklanmıştır…</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Artık Çocuk Değiller</title>
+    <desc lang="tr">Doughboy and Ricky Baker, yaşadıkları zor hayata karşı bambaşka tepkiler veren, birbirinin zıttı iki kardeştir. Futbol oynayan Ricky, iyi bir okulda burs kazanmayı istemektedir. Diğer yandan Dough, alkol, suç ve şiddet içeren bir hayat sürdürmektedir. İki kardeşin arkadaşı Tre ise babasının sözünden çıkmayan ve suç dünyasından uzak durmaya çalışan bir gençtir. Ancak yaşadıkları hayatın, onlar için her zaman yeni sürprizleri olacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322101500 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Ben Bir Katilim</title>
+    <desc lang="tr">1970&#x27;lerde yaşanmış gerçek olaylardan yola çıkılarak çekilen filmde bir seri katili kovalama hikayesi anlatılıyor. Sadece kadınları hedef alan ve vahşi cinayetler işleyen katili bulmak üzere oluşturulan ekibin başına genç Janusz Jasinski (Miroslaw Haniszewski) getirilmiştir. Ancak tecrübesiz Janusz, gücünü aşan böyle bir görev karşısında kendisiyle ve sistemin zayıflıklarıyla mücadele etmek zorunda kalacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322101500 +0000" stop="20260322123000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Çılgın Aşık</title>
+    <desc lang="tr">Daha 11 yaşında bir ruh çağırma seansında evleneceği adamın adını gören Faith yıllarca rüyalarının erkeğini ve ideal aşkı bekler. Ne var ki 15 yıllık beklemenin sonunda sıkılacak ve bir doktorla evlenmeye karar verecektir. Nikahtan bir gün önce damadın arkadaşlarından birinin yıllardır beklediği adamın adını taşıdığını öğrenince tüm planlar değişir ve İtalya&#x27;ya bir yolculuk şart olur. Zira adam İtalya&#x27;dadır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322150000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Akıl Oyunları</title>
+    <desc lang="tr">Dört ayrı dalda Oscar alan film, 1994&#x27;te Nobel Ekonomi Ödülü kazanan John Forbes&#x27;un yaşam öyküsü. Çok başarılı olmasına rağmen ukala ve antisosyal bir adam olan John (Russell Crowe), insanlarla vakit geçirmek yerine, kafasında canlandırdığı matematik formüllerine odaklanmaktadır. İletişim kurduğu tek kişi oda arkadaşı Charles ve MIT Üniversitesi&#x27;nde öğretim üyeliği yaparken tanıştığı öğrencisi Alicia&#x27;dır (Jennifer Connelly). Alicia ile evlenen John, zamanla akıl sağlığını yitirme noktasına gelir. Ancak Alicia hiç bir zaman kocasını yalnız bırakmayacak ve Nobel Ödülü&#x27;nü alana dek onu destekleyecektir.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322170000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">İyi Bir Yalan</title>
+    <desc lang="tr">Ülkelerindeki Soğuk Savaş&#x27;ın ardından köylerinde katliam yaşanınca 4 Sudanlı çocuk, yetim kalır. Bunun üzerine Kenya sınırındaki mülteci kampına ulaşabilmek için tehlikeli bir yolculuğa çıkarlar. Yıllar sonra, seçilmiş 3600 kişi Amerika&#x27;ya yerleştirilince aralarından sadece biri Boston&#x27;a gönderilir. Üç erkek ise Kansas&#x27;ta yeni bir yaşam kurmak zorunda kalırlar. Bu üç genç geçmişte yaşadıklarını unutup, yaşamlarını tamamen değiştirmek zorunda kalırlar.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322190000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">İç İşler</title>
+    <desc lang="tr">2008 yılında yaşanan ekonomik krizi merkezine alan film, krizin insanların hayatlarını nasıl etkilediğini ele alıyor. Yapılan araştırmalar ve finans uzmanlarıyla yapılan röportajlar, krizin tüm sektörlerde yol açtığı zararı gözler önüne seriyor.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322210000 +0000" channel="sinema-tv-1001">
+    <title lang="tr">Kramer Kramer&#x27;e Karşı</title>
+    <desc lang="tr">Dustin Hoffman&#x27;ın başrolde olduğu yapım, 1979 yılında tam beş ayrı Oscar almıştır. Ted Kramer (Dustin Hoffman), işini her şeyin, hatta ailesinin bile üzerinde tutan bir işadamıdır. Karısı Joanna (Meryl Streep), buna daha fazla dayanamaz ve Ted&#x27;i terkeder. Ted, ev işleri, çocukları Billy&#x27;e bakmak gibi, hiç alışık olmadığı işleri üstlenmek zorunda kalır. Ancak tam da yeni hayatına adapte olmuşken Joanna, Billy&#x27;nin velayetini almak istediğini söyler. Buna karşı olan Ted, kendini acımasız bir velayet davasının içinde bulacaktır.</desc>
+    <category lang="tr">Film</category>
+  </programme>
   <programme start="20260322000000 +0000" stop="20260322020000 +0000" channel="sinema-tv-2">
     <title lang="tr">Sessiz Bir Yer 2</title>
     <desc lang="tr">Evde yaşanan ölümcül olayların ardından Abbott ailesi, sessizce hayatta kalma mücadelesine devam ederken artık dış dünyanın dehşetiyle yüzleşmek zorundadır. Bilinmeyene doğru bir maceraya atılmak zorunda kaldıklarında, kum yolunun ötesinde pusuda bekleyen tek tehdidin sadece sesle avlanan yaratıklar olmadığını anlarlar.</desc>
@@ -20067,6 +20117,26 @@ Farah Pehlevi&#x27;nin hayatından yayınlanmamış arşiv görüntülerinin yer
     <title lang="tr">Nereden Nereye</title>
     <desc lang="tr">Uluslararası gerginlikler, küresel krizler geçmişteki hangi olaylara dayanıyor? Tarihteki olayların bugüne ve geleceğe etkisi ne olabilir? Prof. Dr. Ahmet Kasım Han ve Prof. Dr. Burak Küntay, dünyanın gündemindeki olayların tarihine, dayandığı temellere yeni bir pencere açıyor. Dünyadaki güç savaşlarının yarına nasıl yansıyabileceğini değerlendiriyorlar.</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="tarim-tv">
+    <title lang="tr">Tarım Orman Ekranı</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="tarim-tv">
+    <title lang="tr">Tarım Orman Ekranı</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322150000 +0000" channel="tarim-tv">
+    <title lang="tr">Tarım Orman Ekranı</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322190000 +0000" channel="tarim-tv">
+    <title lang="tr">Tarım Orman Ekranı</title>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322230000 +0000" channel="tarim-tv">
+    <title lang="tr">Tarım Orman Ekranı</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="tele1">
     <title lang="tr">Başrol</title>
