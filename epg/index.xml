@@ -1389,9 +1389,13 @@ Yaşadığı acılar yüzünden hırslı, sınır tanımayan biri olan Arzu, Fer
     <desc lang="tr">Gayrimenkul sektör analizi ve öne çıkan gayrimenkul hisseleri ekrana taşınıyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260323093000 +0000" stop="20260323095500 +0000" channel="a-para">
+  <programme start="20260323093000 +0000" stop="20260323095000 +0000" channel="a-para">
     <title lang="tr">Kobi Platformu</title>
     <category lang="tr">Finans</category>
+  </programme>
+  <programme start="20260323095000 +0000" stop="20260323095500 +0000" channel="a-para">
+    <title lang="tr">Hisse Atlası</title>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260323095500 +0000" stop="20260323100000 +0000" channel="a-para">
     <title lang="tr">Hava Durumu</title>
@@ -1601,60 +1605,60 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <desc lang="tr">Gün Başlıyor, Akit TV sabah kuşağında izleyiciye güne güncel ve enerjik bir başlangıç sunuyor. Günün öne çıkan haberleri, ekonomi, politika, kültür-sanat ve yaşam konuları deneyimli sunucular ve uzman yorumlarıyla ele alınıyor. Canlı bağlantılarla gündem anbean aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323083000 +0000" stop="20260323100000 +0000" channel="akit-tv">
-    <title lang="tr">Manşetlerin Dili</title>
-    <desc lang="tr">Gazete manşetleri üzerinden gündemin en sıcak gelişmelerini ve tartışma yaratan olayları ekrana taşıyan bir analiz programıdır. Güncel haberler, farklı bakış açıları ve yorumlarla ele alınarak izleyiciye kapsamlı bir gündem değerlendirmesi sunulur.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="akit-tv">
-    <title lang="tr">Öğle Bülteni</title>
+  <programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="akit-tv">
+    <title lang="tr">Öğle Bülteni: Feridun Erdoğral</title>
     <desc lang="tr">Günün ilk yarısında yaşanan önemli gelişmeleri izleyiciyle buluşturur. Ülke ve dünya gündemi, politika, ekonomi, kültür-sanat ve yaşam haberleri canlı bağlantılar, uzman yorumları ve deneyimli muhabirlerle aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323110000 +0000" stop="20260323120000 +0000" channel="akit-tv">
-    <title lang="tr">Gün Ortası</title>
+  <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="akit-tv">
+    <title lang="tr">Gün Ortası: Feridun Erdoğral</title>
     <desc lang="tr">Akit TV Gün Ortası, günün ortasında izleyicilere ülke ve dünya gündemindeki önemli gelişmeleri sunar. Politika, ekonomi, kültür-sanat ve yaşam konuları canlı bağlantılar, uzman yorumları ve deneyimli sunucular eşliğinde detaylı ve anlaşılır biçimde ele alınır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323120000 +0000" stop="20260323123000 +0000" channel="akit-tv">
+  <programme start="20260323110000 +0000" stop="20260323113000 +0000" channel="akit-tv">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323123000 +0000" stop="20260323130000 +0000" channel="akit-tv">
-    <title lang="tr">Ekonomi Ajandası</title>
+  <programme start="20260323113000 +0000" stop="20260323120000 +0000" channel="akit-tv">
+    <title lang="tr">Ekonomi Ajandası: Ziya Kaplan</title>
     <desc lang="tr">Finans dünyasındaki son gelişmeleri ve ekonomik gündemi izleyiciyle buluşturur. Döviz, borsa, faiz ve yatırım konuları; ekonomi uzmanları ve analistlerin yorumlarıyla ele alınır. Güncel veriler ve canlı bağlantılarla piyasalar detaylı şekilde analiz edilir.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260323130000 +0000" stop="20260323140000 +0000" channel="akit-tv">
-    <title lang="tr">Haber Bülteni</title>
+  <programme start="20260323120000 +0000" stop="20260323130000 +0000" channel="akit-tv">
+    <title lang="tr">Haber Bülteni: Feridun Erdoğral</title>
     <desc lang="tr">Akit TV Haber Bülteni, günün en önemli gelişmelerini izleyiciye aktaran kapsamlı bir haber programıdır. Ülke ve dünya gündemindeki siyasi, ekonomik, sosyal ve kültürel olaylar canlı bağlantılar, saha muhabirleri ve uzman yorumlarıyla doğru ve anlaşılır biçimde sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323140000 +0000" stop="20260323150000 +0000" channel="akit-tv">
-    <title lang="tr">Haber 16</title>
+  <programme start="20260323130000 +0000" stop="20260323140000 +0000" channel="akit-tv">
+    <title lang="tr">Haber 16: Ziya Kaplan</title>
     <desc lang="tr">Haber, gündemin nabzını tutan doğru, tarafsız ve hızlı bir haber programıdır. Türkiye ve dünyadan siyaset, ekonomi, sağlık, çevre, teknoloji ve daha birçok alandaki önemli gelişmeler canlı bağlantılar, özel haberler ve uzman yorumlarla izleyiciye sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323150000 +0000" stop="20260323154500 +0000" channel="akit-tv">
-    <title lang="tr">Akşama Doğru</title>
+  <programme start="20260323140000 +0000" stop="20260323143000 +0000" channel="akit-tv">
+    <title lang="tr">Akşama Doğru: Ziya Kaplan</title>
     <desc lang="tr">Akşama Doğru, günün ilerleyen saatlerinde yaşanan önemli gelişmeleri izleyiciyle buluşturur. Politika, ekonomi, toplumsal olaylar ve kültür-sanat gündemi; uzman konuklar, analizler ve canlı bağlantılarla detaylı şekilde ele alınır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323154500 +0000" stop="20260323170000 +0000" channel="akit-tv">
-    <title lang="tr">İş ve Ekonomi</title>
+  <programme start="20260323143000 +0000" stop="20260323153000 +0000" channel="akit-tv">
+    <title lang="tr">İş ve Ekonomi: Ziya Kaplan</title>
     <desc lang="tr">Paranın yönü, zamlar, vergiler, dış yatırımlar, ekonominin lokomotif sektörlerinde olup bitenler, şirketlerden haberler, piyasaların kapanış rakamları, yatırımcıya rehber olacak tüyolar ve uzman değerlendirmeleri eşliğinde İş ve Ekonomi programında.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260323170000 +0000" stop="20260323183000 +0000" channel="akit-tv">
-    <title lang="tr">Ana Haber</title>
+  <programme start="20260323153000 +0000" stop="20260323180000 +0000" channel="akit-tv">
+    <title lang="tr">Ana Haber: Erkan Tan</title>
     <desc lang="tr">Akit TV Ana Haber, günün en önemli gelişmelerini ve ülke ile dünya gündemini kapsamlı şekilde izleyiciye sunar. Politika, ekonomi, toplumsal olaylar ve kültür-sanat alanındaki kritik haberler; deneyimli sunucular, uzman yorumları ve canlı bağlantılarla aktarılır.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323183000 +0000" stop="20260323213000 +0000" channel="akit-tv">
-    <title lang="tr">Söz Meydanı</title>
-    <desc lang="tr">Söz Meydanı, Türkiye&#x27;nin geleceğini gençlerin bakış açısıyla ele alan bir programdır. Siyaset, toplum, eğitim ve ülkeyi ilgilendiren başlıklar gençlerin görüşleriyle tartışılır. Farklı düşünceler özgürce ifade edilir ve güncel konular derinlemesine incelenir.</desc>
-    <category lang="tr">Magazin</category>
+  <programme start="20260323180000 +0000" stop="20260323200000 +0000" channel="akit-tv">
+    <title lang="tr">Gündem Analiz</title>
+    <desc lang="tr">Türkiye ve dünya gündemindeki kritik başlıkları objektif ve kapsamlı bir yaklaşımla ele alır. Siyasi, ekonomik ve toplumsal gelişmeler uzman konukların katkılarıyla detaylandırılır. İzleyicilere hem güncel bilgiyi hem de derinlemesine analizleri bir arada sunarak karar verme süreçlerine ışık tutmayı hedefler.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260323200000 +0000" stop="20260324040000 +0000" channel="akit-tv">
+    <title lang="tr">Gece Ajansı: M. Tolga Köse</title>
+    <desc lang="tr">Günün siyasi gündemi, önemli gelişmeleri ve farklı bakış açılarını ekrana taşıyan bir programdır. Canlı bağlantılar, son dakika haberleri ve konuk yorumlarıyla izleyiciye detaylı ve kapsamlı bir haber sunar. Gece boyunca gündem hız kesmeden izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">Newshour</title>
@@ -2184,471 +2188,6 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Kim Milyoner Olmak İster?</title>
     <desc lang="tr">Dünyanın en çok seyredilen ve en çok kazandıran bilgi yarışması Kim Milyoner Olmak İster?, Oktay Kaynarca&#x27;nın sunumuyla ekrana geliyor. Programa Türkiye&#x27;nin farklı yerlerinden ya da farklı ülkelerden başvuru yapıp, mülakatla seçilen yarışmacılar katılıyor. Yine moral desteği için yarışmacıların yakınları da stüdyoda yerlerini alıyorlar. Toplamda on üç soruyu yanıtlamak için yarışmacılara joker hakları sunuluyor. Ayrıca iki baraj hakkı da veriliyor. Baraj sorularına doğru yanıt verildiğinde o ana kadar kazanılan ödül, her durumda yarışmacının oluyor. On üç soru doğru yanıtlanırsa kazanılacak ödül 5 milyon TL...</desc>
     <category lang="tr">Yarışma</category>
-  </programme>
-  <programme start="20260323000800 +0000" stop="20260323002500 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie teleferiklerin nasıl çalıştığını öğrenir ve nasıl yapıldığını görmek için bir gözlem kulesini ziyaret eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323002500 +0000" stop="20260323004700 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, çiftlik robotlarının nasıl çalıştığını öğreniyor ve 3 boyutlu baskılı nesnelerin nasıl yapıldığını gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323004700 +0000" stop="20260323010100 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Takımın yüksek teknolojili dans partisi bir elektrik kesintisi tehdidi altındayken, kendilerini yanlışlıkla tarihi bir köyde bulurlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323010100 +0000" stop="20260323011300 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mümkün olduğunca çok limonata nasıl satılır? Takım, öğrenmek için Sahra Çölü, Pekin, Çin ve Murmansk, Rusya&#x27;ya seyahat ediyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323011300 +0000" stop="20260323013400 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323013400 +0000" stop="20260323014200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor, Bhilka puanlarıyla halkı derin bir borç altına sokarak onlar üzerinde güç sahibi olur. Ama Sprinter&#x27;ın zekasını yanlış hesaplar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323014200 +0000" stop="20260323015000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter daha çok kahraman yetiştirmek için bir okul açar. Kötüler bir anda gelince, öğrenciler erken bir sınava girmek zorunda kalırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323015000 +0000" stop="20260323015600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor sonunda Bhilka&#x27;nın kontrolünü ele alır. Peki bu gerçekleşen bir rüya mı yoksa bir kabus mu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323015600 +0000" stop="20260323021000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor ve Kleopatra güç için savaşıyorlar. Sprinter şehri kurtarmaya ve iki kötü arasında barış sağlamaya çalışıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323021000 +0000" stop="20260323021900 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas, kamp gezisi için hazırladığı konserve yiyeceklerin bozulduğunun farkında değil. Simka, konserveyi açmadan yemek için güvenli olup olmadığını nasıl anlayacağını ona öğretir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323021900 +0000" stop="20260323022500 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas bilgisayar aracılığıyla arkadaşıyla konuşmak istiyor ancak mikrofonu yok. Simka ve Nolik, ona kulaklığını mikrofon olarak nasıl kullanacağını da gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323022500 +0000" stop="20260323023100 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Simka ve Nolik, Tom Thomas&#x27;ı şekerleme tadıcısı olarak denerler ancak çok geçmeden Tom Thomas&#x27;ın çok şeker yemekten dişleri ağrır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323023100 +0000" stop="20260323024600 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas, aynada hiçbir şeyi yansıtmayan karanlık bir nokta bırakarak aynanın arkasını çiziyor. Aynanın zarar gördüğünü bilmeyen Nolik, hayalete dönüştüğünden korkar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323024600 +0000" stop="20260323030000 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bob, kalesinin Bitz&#x27;inkine daha çok benzemesini ister ve herkes yardıma koşar, ancak işler planlandığı gibi gitmez.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323030000 +0000" stop="20260323031200 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Herkesin tören için hazırlandığı güzellik salonunda bir hayaletin müşterileri korkutup kaçırmasıyla Bayan Bell&#x27;in düğünü tehlikeye girer. Ancak Addison, bunun guruldamalar ve rüzgar gibi doğal sebeplerden kaynaklandığını düşünüyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323031200 +0000" stop="20260323032400 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison, birinin hobi bahçesinden ahududu çaldığı anlaşılınca, kılık değiştirir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323032400 +0000" stop="20260323034400 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison, takım seçmelerine kadar vuruşunu düzeltmek için Alex&#x27;in neden futbol topuna eskisi kadar iyi vuramadığını bulması gerekiyor. Alex uğursuz olduğunu düşünüyor ancak Donnie&#x27;nin Alex&#x27;in takıma giremediğinden emin olmak için bir çıkarı var.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323034400 +0000" stop="20260323035800 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, marmelatını Orman Kafe&#x27;de sunmaktan heyecan duyuyor. Sorun şu ki, Zip ve Pop yemeği servis etmek yerine yiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323035800 +0000" stop="20260323041100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Beceri Şehri&#x27;nde yarış günü. Bob, bir felaket gelip aracı dağılmaya başlayana kadar kupayı kazanmaya kararlıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323041100 +0000" stop="20260323043100 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Çölde bir yolculuğa çıkma zamanı. Ancak Bitz ve Purl, araçlarına aşırı mühendislik uyguladıklarında yarış yavaşlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323043100 +0000" stop="20260323044500 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Heni, bir haftalığına bakması için bahçesini Newts&#x27;a bırakır. Darwin ve Newts, bazı bitkilerin neden iyi büyümediğini anlamak zorundadır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323044500 +0000" stop="20260323045800 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Çekişmeli bir yemek pişirme yarışmasında Darwin ve Newts, bir şeyleri kabartmak için mayanın önemini keşfeder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323045800 +0000" stop="20260323051700 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Şiddetli bir yağmur, bazı Kivi Vadisi canlılarını tehlikeye atıyor ve çocukların sorunu çözmesi gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323051700 +0000" stop="20260323053400 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie teleferiklerin nasıl çalıştığını öğrenir ve nasıl yapıldığını görmek için bir gözlem kulesini ziyaret eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323053400 +0000" stop="20260323054900 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, çiftlik robotlarının nasıl çalıştığını öğreniyor ve 3 boyutlu baskılı nesnelerin nasıl yapıldığını gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323054900 +0000" stop="20260323061600 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Uzayda yaşam, astronotlar ve Uluslararası Uzay İstasyonu adlı uzay aracı hakkında daha fazla bilgi edinmek için Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323061600 +0000" stop="20260323063100 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Takımın yüksek teknolojili dans partisi bir elektrik kesintisi tehdidi altındayken, kendilerini yanlışlıkla tarihi bir köyde bulurlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323063100 +0000" stop="20260323064300 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mümkün olduğunca çok limonata nasıl satılır? Takım, öğrenmek için Sahra Çölü, Pekin, Çin ve Murmansk, Rusya&#x27;ya seyahat ediyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323064300 +0000" stop="20260323070400 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323070400 +0000" stop="20260323071200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Bumble, Dünya&#x27;daki yaşam hakkında hikayeler anlatıyor ama oraya hiç gitmediği için hikayeler doğru değil. Sprinter ve Leo ona yardım etmeli.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323071200 +0000" stop="20260323072000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Karnaval günü. Riwahl, savurmada Sprinter&#x27;dan çok daha iyi olduğuna inanıyor. İki rakip arasındaki çekişme başlıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323072000 +0000" stop="20260323072600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Pessi&#x27;nin yasaları mutlu olmayı yasaklar. Sprinter ve Leo, o ve Opti&#x27;nin tekrar mutlu olması için onu yasaları değiştirmeye çalışıyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323072600 +0000" stop="20260323073900 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Bumble akşam yemeği için leziz Dünya yemekleri pişirmek istiyor. Ama Bumble, hiç Dünya yemeği yemedi. Nasıl yapacağını nasıl bilecek?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323073900 +0000" stop="20260323074800 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas, Simka ve Nolik, eski bir ahşap kutudan çıkan tuhaf sesler karşısında paniğe kapılır. Fareler olabilir mi? Hayır. Büyükbaba bir müzik kutusunu tamir ediyor ve torunlarının yardımına ihtiyacı var.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323074800 +0000" stop="20260323075500 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Papus tüm enerjisini kaybetmesinin bir sonucu olarak bir vidaya dönüşür. Simka ve Nolik, apartmandaki birçok vidadan hangisinin babaları olduğunu bulmak için bir mıknatısın özel niteliklerini kullanır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323075500 +0000" stop="20260323080100 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Simka ve Nolik, bozuk bir el fenerini onarmaya çalışır. Tom Thomas&#x27;ın sokağın karşısındaki bir apartmanda yaşayan arkadaşı Katya&#x27;ya mesaj göndermesi gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323080100 +0000" stop="20260323083600 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas eski bir radyoyu fişe taktığında, tüm dairedeki elektriği kesen bir kısa devreye neden olur. Tamircikler, elektrik sigortasını bulur ve daireye güvenli bir şekilde elektriği geri verir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323083600 +0000" stop="20260323084300 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Bükmeli ve yuvarlamalı mühendislik eğlencesi, oyuncaklarımızı bir noktadan diğerine taşıyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323084300 +0000" stop="20260323085000 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Kontrol listelerinin kağıt uçakları nasıl uçurabildiğini ve bir balon arabayı pistte nasıl yarıştırabildiğini mühendislikle gösteriyoruz.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323085000 +0000" stop="20260323085500 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Bugün engelli parkurumuzda test edeceğimiz plastik şişe arabalar tasarlıyoruz.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323085500 +0000" stop="20260323090700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Oyuncakları farklı yüzeylerde yarıştırarak sürtünmeyi keşfediyoruz!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323090700 +0000" stop="20260323092100 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Göletteki balıkların hepsi ortadan kaybolunca, Addison ve Tess, okul kafeteryasının özel öğle yemeği için balık kroket olarak pişirildiklerinden korkuyorlar ve gizemi çözmek için işe koyuluyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323092100 +0000" stop="20260323093200 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison ve Alex, Bayan Rorschach&#x27;ın Büyükanne Lucha adlı şüpheli bir profesyonel güreşçi tarafından gizlice korkutulduğundan endişe ediyorlar, onun kimliğini bulmaya ve maskaralıklarına bir son vermeye kararlılar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323093200 +0000" stop="20260323095200 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Alex, gizli bir hayrandan imzasız bir not alır, kendisinin bu kadar harika olduğunu düşünen kişiyi bulmasına yardım etmesi için Addison&#x27;ı çağırır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323095200 +0000" stop="20260323100600 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Prensesler Purl ve Bitz, Sör Robot Bob ve Sör Bevel için bir parti düzenler ama onları davet etmeyi unuturlar. Bitz bunu düzeltmeye çalışır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323100600 +0000" stop="20260323102000 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, Bob ve Bevel müzik gruplarıyla bir pop yıldızını etkilemek isterler. Ama Bevel şarkı söyleyemez ve Bitz&#x27;in günü kurtarması gerekir!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323102000 +0000" stop="20260323103900 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Sahilde harika bir atlı karınca var ama Bevel dönme konusunda gergin. Herkes korkusunu yenmesine yardım etmek için destek olur.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323103900 +0000" stop="20260323105300 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Çekişmeli bir yemek pişirme yarışmasında Darwin ve Newts, bir şeyleri kabartmak için mayanın önemini keşfeder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323105300 +0000" stop="20260323110600 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Şiddetli bir yağmur, bazı Kivi Vadisi canlılarını tehlikeye atıyor ve çocukların sorunu çözmesi gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323110600 +0000" stop="20260323112500 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Darwin ve Newts, farklı kağıt uçak şekilleri öğreniyor. Sonra Heni&#x27;nin Burpee&#x27;yi bir ağacın tepesinden kurtarmasına yardım ediyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323112500 +0000" stop="20260323114200 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie teleferiklerin nasıl çalıştığını öğrenir ve nasıl yapıldığını görmek için bir gözlem kulesini ziyaret eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323114200 +0000" stop="20260323115700 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, çiftlik robotlarının nasıl çalıştığını öğreniyor ve 3 boyutlu baskılı nesnelerin nasıl yapıldığını gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323115700 +0000" stop="20260323122500 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Uzayda yaşam, astronotlar ve Uluslararası Uzay İstasyonu adlı uzay aracı hakkında daha fazla bilgi edinmek için Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323122500 +0000" stop="20260323123900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mümkün olduğunca çok limonata nasıl satılır? Takım, öğrenmek için Sahra Çölü, Pekin, Çin ve Murmansk, Rusya&#x27;ya seyahat ediyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323123900 +0000" stop="20260323125200 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323125200 +0000" stop="20260323131100 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto&#x27;nun oyuncak arabası bir yarışın ortasında bozulur ve bunun arabanın hatası olduğundan emin! Neden sadece Oto&#x27;nun arabası bozuldu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323131100 +0000" stop="20260323132000 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Sprinter daha çok kahraman yetiştirmek için bir okul açar. Kötüler bir anda gelince, öğrenciler erken bir sınava girmek zorunda kalırlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323132000 +0000" stop="20260323132800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor sonunda Bhilka&#x27;nın kontrolünü ele alır. Peki bu gerçekleşen bir rüya mı yoksa bir kabus mu?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323132800 +0000" stop="20260323133300 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">DiktaThor ve Kleopatra güç için savaşıyorlar. Sprinter şehri kurtarmaya ve iki kötü arasında barış sağlamaya çalışıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323133300 +0000" stop="20260323134800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Boom şimdiye kadarki en büyük planını yaptı. Boom&#x27;u durdurmak ve Bhilka&#x27;yı kurtarmak için dostlar ve düşmanlar bir araya gelmelidir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323134800 +0000" stop="20260323135600 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas bilgisayar aracılığıyla arkadaşıyla konuşmak istiyor ancak mikrofonu yok. Simka ve Nolik, ona kulaklığını mikrofon olarak nasıl kullanacağını da gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323135600 +0000" stop="20260323140200 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Simka ve Nolik, Tom Thomas&#x27;ı şekerleme tadıcısı olarak denerler ancak çok geçmeden Tom Thomas&#x27;ın çok şeker yemekten dişleri ağrır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323140200 +0000" stop="20260323140900 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas, aynada hiçbir şeyi yansıtmayan karanlık bir nokta bırakarak aynanın arkasını çiziyor. Aynanın zarar gördüğünü bilmeyen Nolik, hayalete dönüştüğünden korkar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323140900 +0000" stop="20260323144400 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Simka ve Nolik, Tom Thomas&#x27;ın kendisi değil kuzeni olduğunu iddia ederken yalan söylediğini kanıtlamak için bir yalan makinesi yapar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323144400 +0000" stop="20260323145200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Arkadaşlarımıza resim uçurmak için kendi balon yarışı çelik halatlarımızı yapıyoruz. Haydi yarışalım!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323145200 +0000" stop="20260323145700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Hadi eğlenelim!Bitz, Bob ve çocuklar kendi megafonlarını yapıyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323145700 +0000" stop="20260323150200 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Bitz, Bob ve çocuklar rüzgar gücünü kullanmak için kendi kağıt yel değirmenlerini tasarlıyorlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323150200 +0000" stop="20260323151500 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Sistem mühendisliğinin de yardımıyla çok sayıda tıpatıp aynı kelebek pastalarını süslüyoruz!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323151500 +0000" stop="20260323152900 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Herkesin tören için hazırlandığı güzellik salonunda bir hayaletin müşterileri korkutup kaçırmasıyla Bayan Bell&#x27;in düğünü tehlikeye girer. Ancak Addison, bunun guruldamalar ve rüzgar gibi doğal sebeplerden kaynaklandığını düşünüyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323152900 +0000" stop="20260323154100 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison, birinin hobi bahçesinden ahududu çaldığı anlaşılınca, kılık değiştirir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323154100 +0000" stop="20260323160000 +0000" channel="azoomee">
-    <title lang="tr">Addison</title>
-    <desc lang="tr">Addison, takım seçmelerine kadar vuruşunu düzeltmek için Alex&#x27;in neden futbol topuna eskisi kadar iyi vuramadığını bulması gerekiyor. Alex uğursuz olduğunu düşünüyor ancak Donnie&#x27;nin Alex&#x27;in takıma giremediğinden emin olmak için bir çıkarı var.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323160000 +0000" stop="20260323161400 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Bitz, marmelatını Orman Kafe&#x27;de sunmaktan heyecan duyuyor. Sorun şu ki, Zip ve Pop yemeği servis etmek yerine yiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323161400 +0000" stop="20260323162700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Beceri Şehri&#x27;nde yarış günü. Bob, bir felaket gelip aracı dağılmaya başlayana kadar kupayı kazanmaya kararlıdır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323162700 +0000" stop="20260323164700 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob</title>
-    <desc lang="tr">Çölde bir yolculuğa çıkma zamanı. Ancak Bitz ve Purl, araçlarına aşırı mühendislik uyguladıklarında yarış yavaşlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323164700 +0000" stop="20260323170100 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Heni, bir haftalığına bakması için bahçesini Newts&#x27;a bırakır. Darwin ve Newts, bazı bitkilerin neden iyi büyümediğini anlamak zorundadır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323170100 +0000" stop="20260323171400 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Çekişmeli bir yemek pişirme yarışmasında Darwin ve Newts, bir şeyleri kabartmak için mayanın önemini keşfeder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323171400 +0000" stop="20260323173400 +0000" channel="azoomee">
-    <title lang="tr">Darwin ve Newts</title>
-    <desc lang="tr">Şiddetli bir yağmur, bazı Kivi Vadisi canlılarını tehlikeye atıyor ve çocukların sorunu çözmesi gerekiyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323173400 +0000" stop="20260323175000 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie teleferiklerin nasıl çalıştığını öğrenir ve nasıl yapıldığını görmek için bir gözlem kulesini ziyaret eder.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323175000 +0000" stop="20260323180500 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Maddie, çiftlik robotlarının nasıl çalıştığını öğreniyor ve 3 boyutlu baskılı nesnelerin nasıl yapıldığını gösterir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323180500 +0000" stop="20260323183200 +0000" channel="azoomee">
-    <title lang="tr">Keşfetmeye Ne Dersin?</title>
-    <desc lang="tr">Uzayda yaşam, astronotlar ve Uluslararası Uzay İstasyonu adlı uzay aracı hakkında daha fazla bilgi edinmek için Maddie&#x27;ye katılın.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323183200 +0000" stop="20260323184700 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Takımın yüksek teknolojili dans partisi bir elektrik kesintisi tehdidi altındayken, kendilerini yanlışlıkla tarihi bir köyde bulurlar!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323184700 +0000" stop="20260323185900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Mümkün olduğunca çok limonata nasıl satılır? Takım, öğrenmek için Sahra Çölü, Pekin, Çin ve Murmansk, Rusya&#x27;ya seyahat ediyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323185900 +0000" stop="20260323191900 +0000" channel="azoomee">
-    <title lang="tr">Doki</title>
-    <desc lang="tr">Oto ve Doki bir böcek avcısı cihazı yapar. Mundi&#x27;ye göre bu yanlış bir şey. Cihazı alır ve Georgia&#x27;nın Okefenokee Bataklığı&#x27;na saklar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323191900 +0000" stop="20260323192800 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Bumble, Dünya&#x27;daki yaşam hakkında hikayeler anlatıyor ama oraya hiç gitmediği için hikayeler doğru değil. Sprinter ve Leo ona yardım etmeli.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323192800 +0000" stop="20260323193600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Karnaval günü. Riwahl, savurmada Sprinter&#x27;dan çok daha iyi olduğuna inanıyor. İki rakip arasındaki çekişme başlıyor.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323193600 +0000" stop="20260323194200 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Pessi&#x27;nin yasaları mutlu olmayı yasaklar. Sprinter ve Leo, o ve Opti&#x27;nin tekrar mutlu olması için onu yasaları değiştirmeye çalışıyorlar.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323194200 +0000" stop="20260323195600 +0000" channel="azoomee">
-    <title lang="tr">Süper Kahraman Sprinter Galore</title>
-    <desc lang="tr">Bumble akşam yemeği için leziz Dünya yemekleri pişirmek istiyor. Ama Bumble, hiç Dünya yemeği yemedi. Nasıl yapacağını nasıl bilecek?</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323195600 +0000" stop="20260323200500 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas, Simka ve Nolik, eski bir ahşap kutudan çıkan tuhaf sesler karşısında paniğe kapılır. Fareler olabilir mi? Hayır. Büyükbaba bir müzik kutusunu tamir ediyor ve torunlarının yardımına ihtiyacı var.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323200500 +0000" stop="20260323201200 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Papus tüm enerjisini kaybetmesinin bir sonucu olarak bir vidaya dönüşür. Simka ve Nolik, apartmandaki birçok vidadan hangisinin babaları olduğunu bulmak için bir mıknatısın özel niteliklerini kullanır.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323201200 +0000" stop="20260323201800 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Simka ve Nolik, bozuk bir el fenerini onarmaya çalışır. Tom Thomas&#x27;ın sokağın karşısındaki bir apartmanda yaşayan arkadaşı Katya&#x27;ya mesaj göndermesi gerekir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323201800 +0000" stop="20260323205200 +0000" channel="azoomee">
-    <title lang="tr">Tamircikler</title>
-    <desc lang="tr">Tom Thomas eski bir radyoyu fişe taktığında, tüm dairedeki elektriği kesen bir kısa devreye neden olur. Tamircikler, elektrik sigortasını bulur ve daireye güvenli bir şekilde elektriği geri verir.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323205200 +0000" stop="20260323205900 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Bükmeli ve yuvarlamalı mühendislik eğlencesi, oyuncaklarımızı bir noktadan diğerine taşıyor!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323205900 +0000" stop="20260323210600 +0000" channel="azoomee">
-    <title lang="tr">Bitz ve Bob - Sen De Yapabilirsin</title>
-    <desc lang="tr">Kontrol listelerinin kağıt uçakları nasıl uçurabildiğini ve bir balon arabayı pistte nasıl yarıştırabildiğini mühendislikle gösteriyoruz.</desc>
-    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260323000000 +0000" stop="20260323003000 +0000" channel="babytv">
     <title lang="tr">Rüya Dolu Geceler</title>
@@ -3205,71 +2744,71 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260322044500 +0000" stop="20260322045900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260323044500 +0000" stop="20260323045900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322050000 +0000" stop="20260322064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Ümraniyespor-A.G.Pendikspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322064500 +0000" stop="20260322065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322070000 +0000" stop="20260322084500 +0000" channel="beinsports2.tr">
+  <programme start="20260323050000 +0000" stop="20260323064500 +0000" channel="beinsports2.tr">
     <title lang="tr">Serikspor - Sakaryaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322084600 +0000" stop="20260322085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260323064600 +0000" stop="20260323065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322090000 +0000" stop="20260322091500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260323070000 +0000" stop="20260323084400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Boluspor - Bandırmaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322091600 +0000" stop="20260322095900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Özetler</title>
+  <programme start="20260323084500 +0000" stop="20260323085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322100000 +0000" stop="20260322115900 +0000" channel="beinsports2.tr">
-    <title lang="tr">İ.A.Vanspor - S.G.Sarıyerspor</title>
+  <programme start="20260323090000 +0000" stop="20260323104400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Manisa FK - Ö.Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322120000 +0000" stop="20260322121400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bir Yıldız On Gol</title>
+  <programme start="20260323104500 +0000" stop="20260323105900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322121500 +0000" stop="20260322125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Özetler</title>
+  <programme start="20260323110000 +0000" stop="20260323124400 +0000" channel="beinsports2.tr">
+    <title lang="tr">İ.A.Vanspor - S.G.Sarıyerspo</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322130000 +0000" stop="20260322145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A.H.Iğdır FK - A.Çorum FK</title>
+  <programme start="20260323124500 +0000" stop="20260323125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322150000 +0000" stop="20260322153900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Süper Lig Maç Özetleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322154000 +0000" stop="20260322155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322182900 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Erokspor - Erzurumspor FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322183000 +0000" stop="20260322185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Özetler</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322204400 +0000" channel="beinsports2.tr">
+  <programme start="20260323130000 +0000" stop="20260323144400 +0000" channel="beinsports2.tr">
     <title lang="tr">A.Hatayspor - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260322204500 +0000" stop="20260322224500 +0000" channel="beinsports2.tr">
+  <programme start="20260323144500 +0000" stop="20260323145900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323150000 +0000" stop="20260323164400 +0000" channel="beinsports2.tr">
+    <title lang="tr">A.H.Iğdır FK - A.Çorum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323164500 +0000" stop="20260323165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323170000 +0000" stop="20260323184400 +0000" channel="beinsports2.tr">
+    <title lang="tr">İstanbulspor - S.Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323184500 +0000" stop="20260323185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1. Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323190000 +0000" stop="20260323204400 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.Erokspor - Erzurumspor FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260323204500 +0000" stop="20260323224500 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1. Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -7140,7 +6679,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260323131500 +0000" stop="20260323133000 +0000" channel="deutsche-welle-english">
     <title lang="tr">The Dip</title>
-    <desc lang="tr">How has the war in Iran shown up the lack of progress that Europe has made since the war in Ukraine began?</desc>
+    <desc lang="tr">Helen Toner, interim executive director at Georgetown&#x27;s Center for Security and Emerging Technology and a former OpenAI board member, lays out how AI is moving from back-office support into the machinery of war. When AI helps shape deadly outcomes, who is responsible?</desc>
     <category lang="tr">Finans</category>
   </programme>
   <programme start="20260323133000 +0000" stop="20260323140000 +0000" channel="deutsche-welle-english">
@@ -7190,7 +6729,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260323171500 +0000" stop="20260323173000 +0000" channel="deutsche-welle-english">
     <title lang="tr">The Dip</title>
-    <desc lang="tr">How has the war in Iran shown up the lack of progress that Europe has made since the war in Ukraine began?</desc>
+    <desc lang="tr">Helen Toner, interim executive director at Georgetown&#x27;s Center for Security and Emerging Technology and a former OpenAI board member, lays out how AI is moving from back-office support into the machinery of war. When AI helps shape deadly outcomes, who is responsible?</desc>
     <category lang="tr">Finans</category>
   </programme>
   <programme start="20260323173000 +0000" stop="20260323180000 +0000" channel="deutsche-welle-english">
@@ -7205,7 +6744,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260323183000 +0000" stop="20260323190000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Close up: The Current Affairs Documentary</title>
-    <desc lang="tr">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
+    <desc lang="tr">If you dominate EV battery manufacturing, you dominate electromobility. China is building one gigafactory after another, while Europe struggles with political uncertainty, lack of know-how, and large-scale projects that end up delayed or cancelled.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260323190000 +0000" stop="20260323190200 +0000" channel="deutsche-welle-english">
@@ -7220,7 +6759,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260323191500 +0000" stop="20260323193000 +0000" channel="deutsche-welle-english">
     <title lang="tr">The Dip</title>
-    <desc lang="tr">How has the war in Iran shown up the lack of progress that Europe has made since the war in Ukraine began?</desc>
+    <desc lang="tr">Helen Toner, interim executive director at Georgetown&#x27;s Center for Security and Emerging Technology and a former OpenAI board member, lays out how AI is moving from back-office support into the machinery of war. When AI helps shape deadly outcomes, who is responsible?</desc>
     <category lang="tr">Finans</category>
   </programme>
   <programme start="20260323193000 +0000" stop="20260323200000 +0000" channel="deutsche-welle-english">
@@ -7893,11 +7432,6 @@ Sunumunu Betül Erbaş’ın yaptığı programda sizlerden gelen sorulara hem s
   <programme start="20260323200000 +0000" stop="20260323203000 +0000" channel="diyanet-tv">
     <title lang="tr">Bir Ömürlük Seyahat Evliya Çelebi</title>
     <desc lang="tr">Bir seyyah, 47 ülke, 257 şehir, bir eser ve 50 yıl... Hepsi Bir Ömürlük Seyahat Evliya Çelebi programında...</desc>
-    <category lang="tr">Dini</category>
-  </programme>
-  <programme start="20260323203000 +0000" stop="20260324010000 +0000" channel="diyanet-tv">
-    <title lang="tr">Arasta</title>
-    <desc lang="tr">Her iş ustasının elinde, her kavram düşüncenin derinliğinde yankı bulur. Ustaların hünerli elleri ile hayatın izleri bu programda bir araya geliyor. Arasta, zanaatkarların dünyasına ve hayatın katmanlarına ustalıkla dokunuyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
   <programme start="20260323000000 +0000" stop="20260323004500 +0000" channel="dmax">
@@ -14935,8 +14469,8 @@ Sadakat beklenmedik bir suçlamayla cezaevine girerken, Cihan annesini kurtarmak
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="kontv">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Gerçek olayları ve ilham veren hikâyeleri merkeze alan bu belgesel, doğadan insana, tarihten bilime uzanan konuları sade ve etkileyici bir anlatımla ele alır. Uzman görüşleri ve çarpıcı görsellerle izleyici, dünyayı farklı açılardan tanıma ve derinlemesine keşfetme fırsatı bulur.</desc>
+    <title lang="tr">Belgesel Kuşağı</title>
+    <desc lang="tr">Belgesel Kuşağı, araştırmacı gazeteciliği görsel hikaye anlatımıyla bir araya getiriyor. Her bölümde gerçek olaylar derinlemesine ele alınırken, izleyiciye dünyayı, insanı ve yaşananları daha iyi anlama imkanı sunuluyor. Akıcı anlatımıyla merak uyandıran yapımlar ekrana güçlü bir perspektif taşıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260323110000 +0000" stop="20260323123000 +0000" channel="kontv">
@@ -14955,9 +14489,9 @@ Sadakat beklenmedik bir suçlamayla cezaevine girerken, Cihan annesini kurtarmak
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260323140000 +0000" stop="20260323150000 +0000" channel="kontv">
-    <title lang="tr">İsmailce</title>
-    <desc lang="tr">İsmailce, izleyiciye Türkiye&#x27;nin farklı bölgelerindeki yaşamı, kültürel değerleri ve toplumsal dinamikleri detaylı ve anlaşılır bir şekilde sunan bir belgesel programıdır. Programda yöresel yaşam, gelenekler, günlük yaşam hikâyeleri ve toplumsal değişimler ele alınır.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">Otostart</title>
+    <desc lang="tr">Otostart, otomobil dünyasındaki yenilikleri, test sürüşlerini, teknolojik gelişmeleri ve sektördeki güncel haberleri izleyiciye anlaşılır ve detaylı bir şekilde sunan bir bilgi programıdır. Programda araç incelemeleri, sürüş deneyimleri ve otomobil tutkunlarını ilgilendiren farklı konular ele alınır.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260323150000 +0000" stop="20260323163000 +0000" channel="kontv">
     <title lang="tr">Düzlem</title>
@@ -14969,17 +14503,12 @@ Sadakat beklenmedik bir suçlamayla cezaevine girerken, Cihan annesini kurtarmak
     <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323174000 +0000" stop="20260323183000 +0000" channel="kontv">
+  <programme start="20260323174000 +0000" stop="20260323184000 +0000" channel="kontv">
     <title lang="tr">Sora Sora Yarışma</title>
     <desc lang="tr">Sora Sora Yarışma izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260323183000 +0000" stop="20260323200000 +0000" channel="kontv">
-    <title lang="tr">Spor Gündemi</title>
-    <desc lang="tr">Spor dünyasındaki gelişmeler, maç özetleri ve öne çıkan performanslar bu içerikte ele alınıyor. Sade ve akıcı bir anlatımla sunulan bilgiler, izleyiciye güncel spor olaylarını takip etme imkânı ve geniş bir bakış açısı sağlıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260323200000 +0000" stop="20260323210000 +0000" channel="kontv">
+  <programme start="20260323184000 +0000" stop="20260323210000 +0000" channel="kontv">
     <title lang="tr">Spor Gündemi</title>
     <desc lang="tr">Spor dünyasındaki gelişmeler, maç özetleri ve öne çıkan performanslar bu içerikte ele alınıyor. Sade ve akıcı bir anlatımla sunulan bilgiler, izleyiciye güncel spor olaylarını takip etme imkânı ve geniş bir bakış açısı sağlıyor.</desc>
     <category lang="tr">Spor</category>
@@ -16246,9 +15775,19 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Dünyayı robot istilasından kurtarmak üzere mekanize olan ikilinin kahramanlık hikayesine ortak olmak ister misiniz?</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323140000 +0000" stop="20260323143000 +0000" channel="minika-go">
+  <programme start="20260323140000 +0000" stop="20260323140800 +0000" channel="minika-go">
     <title lang="tr">Koyun Shaun</title>
     <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260323140800 +0000" stop="20260323141500 +0000" channel="minika-go">
+    <title lang="tr">Koyun Shaun</title>
+    <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260323141500 +0000" stop="20260323143000 +0000" channel="minika-go">
+    <title lang="tr">Bilim / Matamatik</title>
+    <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260323143000 +0000" stop="20260323144500 +0000" channel="minika-go">
@@ -16309,37 +15848,37 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Kavurucu sıcakların ortasında bir çölde Kertenkele Oscar’ın su ve yemek ararken karşılaştığı komik ve talihsiz olaylar dizisi... Bu macerada Oscar’ın şanssızlığı yemek ve su arayan tek kişinin o olmaması... Tilki Popy, Sırtlan Harchi ve Akbaba Buck da aynı arayışın içinde ve çelimsiz Kertenkele Oscar’a kıyasla biraz daha güçlüler.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323170000 +0000" stop="20260323171000 +0000" channel="minika-go">
+  <programme start="20260323170000 +0000" stop="20260323170800 +0000" channel="minika-go">
     <title lang="tr">Koyun Shaun</title>
     <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323171000 +0000" stop="20260323172000 +0000" channel="minika-go">
+  <programme start="20260323170800 +0000" stop="20260323171600 +0000" channel="minika-go">
     <title lang="tr">Koyun Shaun</title>
     <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323172000 +0000" stop="20260323173000 +0000" channel="minika-go">
+  <programme start="20260323171600 +0000" stop="20260323172400 +0000" channel="minika-go">
     <title lang="tr">Koyun Shaun</title>
     <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323173000 +0000" stop="20260323173600 +0000" channel="minika-go">
+  <programme start="20260323172400 +0000" stop="20260323173000 +0000" channel="minika-go">
+    <title lang="tr">Koyun Shaun</title>
+    <desc lang="tr">Koyun Shaun’un çılgın çiftliğine hoş geldiniz! Burada hareket ve eğlence hiç bitmiyor. Çiftliğin en haylaz koyunu Shaun, kuzeni Timmy ve arkadaşlarıyla birlikte çoban köpeği Blitzer ve Çiftçi’yi çileden çıkartıyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260323173000 +0000" stop="20260323173800 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
     <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323173600 +0000" stop="20260323174200 +0000" channel="minika-go">
+  <programme start="20260323173800 +0000" stop="20260323174600 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
     <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323174200 +0000" stop="20260323174800 +0000" channel="minika-go">
-    <title lang="tr">Bilim / Matamatik</title>
-    <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323174800 +0000" stop="20260323175400 +0000" channel="minika-go">
+  <programme start="20260323174600 +0000" stop="20260323175400 +0000" channel="minika-go">
     <title lang="tr">Bilim / Matamatik</title>
     <desc lang="tr">Matematiğin en eğlenceli hali burada.</desc>
     <category lang="tr">Çocuk</category>
@@ -16404,17 +15943,12 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Kavurucu sıcakların ortasında bir çölde Kertenkele Oscar’ın su ve yemek ararken karşılaştığı komik ve talihsiz olaylar dizisi... Bu macerada Oscar’ın şanssızlığı yemek ve su arayan tek kişinin o olmaması... Tilki Popy, Sırtlan Harchi ve Akbaba Buck da aynı arayışın içinde ve çelimsiz Kertenkele Oscar’a kıyasla biraz daha güçlüler.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323203000 +0000" stop="20260323204000 +0000" channel="minika-go">
+  <programme start="20260323203000 +0000" stop="20260323204500 +0000" channel="minika-go">
     <title lang="tr">Sonic Boom</title>
     <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260323204000 +0000" stop="20260323205000 +0000" channel="minika-go">
-    <title lang="tr">Sonic Boom</title>
-    <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260323205000 +0000" stop="20260323210000 +0000" channel="minika-go">
+  <programme start="20260323204500 +0000" stop="20260323210000 +0000" channel="minika-go">
     <title lang="tr">Sonic Boom</title>
     <desc lang="tr">Kirpi Sonic, Miles Tails Prower, Ekidne Knuckles ve Amy Rose, Dr.Eggman&#x27;ın planlarını durdurmaya çalışırken antik bir tapınak bulurlar. Sonic iyi bir şey yapacağını sanarak Lyric&#x27;i serbest bırakır. Lyric Kaos Kristallerini alıp robot dünyası yapmak istemektedir. Sonic, Kristallerin bir kısmını toplar. En son Lyric dünyanın bir kısmını robotlaştırır ama Sonic ona engel olur. En sonunda Sonic Lyric&#x27;i yener.</desc>
     <category lang="tr">Çocuk</category>
@@ -20061,7 +19595,7 @@ Nuh ve Melek, annelerini bulmak için geldikleri Kapadokya&#x27;da Şansalan ail
   </programme>
   <programme start="20260323170000 +0000" stop="20260323190000 +0000" channel="sports-tv">
     <title lang="tr">EHF Şampiyonlar Ligi</title>
-    <desc lang="tr">Avrupa hentbolunun en prestijli organizasyonu EHF Şampiyonlar Ligi&#x27;nde takımlar kıyasıya mücadele ediyor. Canlı maç yayınları, skorlar, kritik anlar ve uzman yorumlarıyla izleyiciler, sahadaki strateji ve heyecanı evlerinden takip edebiliyor. Her hafta Avrupa&#x27;nın en iyi ekipleriyle nefes kesen mücadeleler ekranda.</desc>
+    <desc lang="tr">Avrupa hentbolunun prestijli organizasyonu EHF Şampiyonlar Ligi&#x27;nde takımlar kıyasıya mücadele ediyor. Canlı maçlar, kritik anlar ve uzman yorumlarıyla izleyiciler sahadaki strateji ve heyecanı evlerinden takip ediyor. Her hafta Avrupa&#x27;nın en iyi ekipleri ekranda.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260323190000 +0000" stop="20260323200000 +0000" channel="sports-tv">
@@ -24126,12 +23660,12 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323090000 +0000" stop="20260323093100 +0000" channel="trt-world">
+  <programme start="20260323090000 +0000" stop="20260323093000 +0000" channel="trt-world">
     <title lang="tr">News</title>
     <desc lang="tr">TRT World brings the latest news from around the globe, when it happens.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260323093100 +0000" stop="20260323100000 +0000" channel="trt-world">
+  <programme start="20260323093000 +0000" stop="20260323100000 +0000" channel="trt-world">
     <title lang="tr">Africa Matters</title>
     <desc lang="tr">Every week, Africa Matters will bring you the untold, under-reported stories from across the continent and we&#x27;ll also unpack the issues that matter to Africans.</desc>
     <category lang="tr">Haber</category>
@@ -24187,8 +23721,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323153000 +0000" stop="20260323160000 +0000" channel="trt-world">
-    <title lang="tr">Bigger Than Five</title>
-    <desc lang="tr">Featuring interviews with political leaders and key policy makers from around the world, Bigger Than Five takes a critical look at issues of global injustice.</desc>
+    <title lang="tr">Inside America</title>
+    <desc lang="tr">Exploring the issues shaping US politics through in-depth interviews with policy and opinion makers.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323160000 +0000" stop="20260323170000 +0000" channel="trt-world">
@@ -24202,8 +23736,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323173000 +0000" stop="20260323180000 +0000" channel="trt-world">
-    <title lang="tr">Inside America</title>
-    <desc lang="tr">Exploring the issues shaping US politics through in-depth interviews with policy and opinion makers.</desc>
+    <title lang="tr">The Newsmakers</title>
+    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323180000 +0000" stop="20260323183000 +0000" channel="trt-world">
@@ -24227,8 +23761,8 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323203000 +0000" stop="20260323210000 +0000" channel="trt-world">
-    <title lang="tr">The Newsmakers</title>
-    <desc lang="tr">With in-depth reports and strong, unfiltered debates - The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <title lang="tr">Strait Talk</title>
+    <desc lang="tr">An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260323024000 +0000" stop="20260323033500 +0000" channel="trt1">
@@ -25736,7 +25270,11 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <desc lang="tr">Eğlencenin, samimiyetin ve dopdolu sohbetlerin adresi Seda Sayan ile Her Şey Masada, ünlü konuklar, çarpıcı konular ve sıcacık anlarla ekrana geliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260323183000 +0000" stop="20260323210000 +0000" channel="tyt-turk">
+  <programme start="20260323183000 +0000" stop="20260323203000 +0000" channel="tyt-turk">
+    <title lang="tr">Siyaset Masası</title>
+    <category lang="tr">Tartışma</category>
+  </programme>
+  <programme start="20260323203000 +0000" stop="20260323220000 +0000" channel="tyt-turk">
     <title lang="tr">Siyaset Masası</title>
     <category lang="tr">Tartışma</category>
   </programme>
