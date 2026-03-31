@@ -770,15 +770,10 @@ Kurtlar tarafından büyütülen bir Aybiçe, obasında öldürülenlerin intika
     <desc lang="tr">Stüdyodaki yarışmacılar ve ekran başındaki seyirciler farklı kategorilerle ilgili soruları yanıtlamaya çalışıyor. Siz de &#x27;Ben Bilirim&#x27; diyorsanız, bu yarışma size göre...</desc>
     <category lang="tr">Yarışma</category>
   </programme>
-  <programme start="20260331180000 +0000" stop="20260331200000 +0000" channel="360">
+  <programme start="20260331180000 +0000" stop="20260331203000 +0000" channel="360">
     <title lang="tr">Ömrümce Aradım</title>
     <desc lang="tr">Aynı fabrikada çalışan Doğan ile Selma evlilik hazırlığı yapmaktadır. Fabrika sahibinin kızı Meral de Doğan&#x27;a aşıktır. Doğan, Selma&#x27;nın annesinin ameliyatı için kendini feda eder ve Meral&#x27;le evlenir. Bu olaylar sonrasında Doğan&#x27;ın arkadaşı Murat da Selma ile evlenir. Doğan&#x27;ın bir oğlu, doğum sırasında ölen Selma&#x27;nın da bir kızı olur. Yıllar sonra çocuklarının yolları da annesi ve babası gibi kesişecektir.</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331203000 +0000" channel="360">
-    <title lang="tr">Öykü Cengiz ile O An&#x27;ın Öykü&#x27;sü</title>
-    <desc lang="tr">Ünlü konuklar, o anın perde arkasını ilk kez anlatıyor. Nostalji, samimiyet ve sürprizlerle dolu bir yolculuk için “Öykü Cengiz ile O An’ın Öykü’sü” 360’ta!</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260331203000 +0000" stop="20260331214500 +0000" channel="360">
     <title lang="tr">Öykü Cengiz ile O An&#x27;ın Öykü&#x27;sü</title>
@@ -13688,7 +13683,7 @@ Ankara Mevlevihanesi&#x27;nden ekranlara gelen programda, Dr. Ömer Demirbağ ve
     <desc lang="tr">Azerbaycan&#x27;ın Kafkas Dağları&#x27;nda yer alan uzak bir köyde yaşayan bir ailenin günlük yaşamını ve mutfak kültürünü belgeliyor.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260331204100 +0000" stop="20260401205900 +0000" channel="gzt-tv">
+  <programme start="20260331204100 +0000" stop="20260331210000 +0000" channel="gzt-tv">
     <title lang="tr">Solo Dağcı</title>
     <desc lang="tr">Ben Çağan Çelik, doğa yürüyüşü ve dağcılık alanlarında diyalogsuz ve rahatlatıcı içerikler sunuyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
@@ -14856,40 +14851,35 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Dizi kuşağında yer alan yapımlar, çeşitli temalar ve karakterlerin yaşamları üzerinden ele alınıyor. Sürükleyici olay örgüleri ve dramatik gelişmeler sade bir anlatımla aktarılırken, izleyiciye hem eğlenceli hem de merak uyandıran bir izleme deneyimi sunuluyor.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260331134500 +0000" stop="20260331160900 +0000" channel="kontv">
-    <title lang="tr">İftara Doğru</title>
-    <desc lang="tr">İftara Doğru, Ramazan ayında iftar saatine yaklaşırken izleyicilere manevi içerikler sunan özel bir yayındır. Programda dualar, kısa sohbetler ve Ramazan&#x27;ın anlamına dair paylaşımlar yer alır. Sıcak ve samimi anlatımıyla izleyicileri iftara hazırlar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260331160900 +0000" stop="20260331170400 +0000" channel="kontv">
-    <title lang="tr">Çelikkayalar</title>
-    <desc lang="tr">Konya&#x27;da kurulan Çelikkayalar Marketler Zinciri, gıda ve temel ihtiyaç ürünlerini uygun fiyatlarla sunan bir perakende market ağıdır. Geniş ürün çeşitliliği, kaliteli hizmet anlayışı ve birçok şubesiyle müşterilerine kolay ve güvenilir alışveriş imkânı sağlar.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260331170400 +0000" stop="20260331180000 +0000" channel="kontv">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331184500 +0000" channel="kontv">
-    <title lang="tr">Asfora</title>
-    <desc lang="tr">Asfora dizisi, izleyicilere heyecanlı olaylar ve güçlü karakterlerle dolu bir hikâye sunar. Dizi; dostluk, mücadele, cesaret ve hayatta karşılaşılan zorluklarla başa çıkma gibi temaları işler. Bu yönüyle izleyicilere hem eğlence hem de düşündürücü bir deneyim kazandırır.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260331184500 +0000" stop="20260331194500 +0000" channel="kontv">
-    <title lang="tr">İyilikle Sevindir</title>
-    <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260331194500 +0000" stop="20260331205000 +0000" channel="kontv">
+  <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="kontv">
     <title lang="tr">Sora Sora Yarışma</title>
     <desc lang="tr">Sora Sora Yarışma izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260331205000 +0000" stop="20260331210000 +0000" channel="kontv">
-    <title lang="tr">Çelikkayalar</title>
-    <desc lang="tr">Konya&#x27;da kurulan Çelikkayalar Marketler Zinciri, gıda ve temel ihtiyaç ürünlerini uygun fiyatlarla sunan bir perakende market ağıdır. Geniş ürün çeşitliliği, kaliteli hizmet anlayışı ve birçok şubesiyle müşterilerine kolay ve güvenilir alışveriş imkânı sağlar.</desc>
-    <category lang="tr">Diğer</category>
+  <programme start="20260331150000 +0000" stop="20260331163000 +0000" channel="kontv">
+    <title lang="tr">Cengiz Acar&#x27;la Derin Tarih</title>
+    <desc lang="tr">Cengiz Acar&#x27;la Derin Tarih, Kon TV ekranlarında tarih meraklılarını ekrana kilitleyen özel bir programdır. Osmanlı&#x27;dan Cumhuriyet&#x27;e, yakın tarihten gizli kalmış olaylara kadar pek çok konu Cengiz Acar&#x27;ın güçlü anlatımıyla işleniyor. Program, olayların arka planını, etkilerini tanıklarla gözler önüne seriyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260331163000 +0000" stop="20260331174000 +0000" channel="kontv">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Ana Haber, günün öne çıkan gelişmelerini, haber başlıklarını ve toplumsal olayları tarafsız ve anlaşılır dille izleyiciye sunar. Siyaset, ekonomi, kültür ve gündemdeki konuları kapsayan program, uzman görüşleri ve analizlerle olayların arka planını ele alarak izleyicinin gündemi doğru takip etmesini sağlar.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260331174000 +0000" stop="20260331184000 +0000" channel="kontv">
+    <title lang="tr">İyilikle Sevindir</title>
+    <desc lang="tr">Toplumda iyilik duygusunu güçlendiren adımlar, yardımlaşma ve gönüllülük teması etrafında bu içerikte ele alınıyor. Küçük dokunuşların hayatlarda yarattığı büyük değişimler sade bir anlatımla aktarılırken, samimi hikâyeler izleyiciye ilham ve farkındalık kazandırıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260331184000 +0000" stop="20260331200000 +0000" channel="kontv">
+    <title lang="tr">Tarihin Kadrajından</title>
+    <desc lang="tr">Tarihe tanıklık eden fotoğraflar ve görsel kayıtlar bu belgeselde ele alınıyor. Her kare, yaşanmışlıkları ve dönemin ruhunu yansıtırken, olayların arka planı sade ve anlaşılır bir dille izleyiciye aktarılıyor. Görseller üzerinden yapılan anlatım, geçmişi daha yakından hissettirmeyi amaçlıyor.</desc>
+    <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="kontv">
+    <title lang="tr">Türkü Filmi</title>
+    <desc lang="tr">Aşk, hüzün ve umut dolu bir hikâyeyi ekrana taşıyor. Karakterlerin iç dünyasını ve yaşadıkları olayları türkülerin rehberliğinde anlatırken izleyiciye hem nostalji hem de duygu dolu anlar yaşatıyor. Türk kültürünün sıcaklığını yansıtan film, müzik severler için kaçırılmayacak bir deneyim sunuyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="krt-tv">
     <title lang="tr">En iyisi</title>
@@ -17129,6 +17119,66 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">En popüler ailenin dünya ekranlarına göz kamaştırıcı dönüşü! BARBAPAPA. Büyük mutlu bir aile! Barbapapalar için rutin diye bir şey yoktur: her gün sürprizlerle dolu neşeli bir maceradır!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
+  <programme start="20260331150300 +0000" stop="20260331155100 +0000" channel="nickelodeon">
+    <title lang="tr">Sünger Bob Kare Pantolon</title>
+    <desc lang="tr">Işın Adam hafta sonu için Squidward&#x27;ın evini kiralar, hayin planlarını durdurmak da Sünger Bob ve Patrick&#x27;e düşer. Bay Yengeç tatile gider ve geçici olarak yönetimi Larry&#x27;ye devreder.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331155100 +0000" stop="20260331160300 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Geniş bir ailede büyümenin nasıl olduğunu hiç merak ettiniz mi? On bir yaşındaki Lincoln Loud devasa bir evdeki kaosla nasıl başa çıkılacağını yakından gösteriyor, özellikle de on kız kardeşin arasındaki tek erkek olarak.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331160300 +0000" stop="20260331162700 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">İlkokulun unutulmazları arasına girmek isteyen Lincoln ve Clyde, bunun için yıllık grup fotoğrafına girebilmek için her şeyi yapar. Kardeşlerinin kavgasını görünce Lincoln, o ve Clyde&#x27;ın yaptığı uyumluluk testine göre oda yerleşimi önerisi yapar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331162700 +0000" stop="20260331165100 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Şakacı Luan, 1 Nisan&#x27;da kampta diye aile kendini güvende hisseder. Ama bu garip bir otelin önünde karavanları bozulana kadar devam edecektir. Çocuklar, babalarının her zamanki IT işinde olmadığını öğrenirler, şimdi bulaşıkçılık yapmaktadır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331165100 +0000" stop="20260331170300 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Geniş bir ailede büyümenin nasıl olduğunu hiç merak ettiniz mi? On bir yaşındaki Lincoln Loud devasa bir evdeki kaosla nasıl başa çıkılacağını yakından gösteriyor, özellikle de on kız kardeşin arasındaki tek erkek olarak.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331170300 +0000" stop="20260331172600 +0000" channel="nickelodeon">
+    <title lang="tr">Yıldırım Ailesi Gizli Görevde</title>
+    <desc lang="tr">Cherry Su Kenarı Kafesi&#x27;nde çalışırken Max onu restoranda, çift indirimi almak için sahte bir flört planı ile kandırır. Chloe, bilgi yarışmasını kazanmak ya da onun takımına katılmak isteyen kardeşi Billy&#x27;i desteklemek arasında zor bir seçim yapar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331172600 +0000" stop="20260331175000 +0000" channel="nickelodeon">
+    <title lang="tr">Yıldırım Ailesi Gizli Görevde</title>
+    <desc lang="tr">Chloe&#x27;nin doğum günü partisi iptal olunca, Max ve Phoebe, yenisini vermek için kapışırlar. Max&#x27;in zamanı durduran doğum günü hediyesi yanlış ellere düşünce Phoebe ile bu oyunbozanların Chloe&#x27;nin partisini bozmasını durdurmak için birlikte çalışır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331175000 +0000" stop="20260331181400 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Avcısı Henri</title>
+    <desc lang="tr">13 yaşındaki Henry Hart, yarım zamanlı olarak süper kahraman Kaptan Adam&#x27;ın yardımcılığını yapmaktadır. Henry, yeni kimliğini sır olarak saklayacağına dair söz verdikten sonra ikili bir hayat sürdürmek zorunda kalır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331181400 +0000" stop="20260331183700 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Avcısı Henri</title>
+    <desc lang="tr">Ray, Piper’ın öfke sorunları için Küçükler için Öfke Kontrolü’ne gittiğini duyar, Henry ile gece bitmeden Piper’ın öfkesini kontrol edemeyeceğine dair bahse girer.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331183700 +0000" stop="20260331203800 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Takımı</title>
+    <desc lang="tr">Risk Takımı ve Kaptan Adam, para kazanmak için ünlülerin &#x27;Holla&#x27; videoları yapmaya bağımlı olur. Ancak ünlü videosu yapmak popülerlik yarışına dönüşünce, yanlışlıkla gizli kimliklerini ortaya çıkan bir &#x27;Holla&#x27; videosu paylaşırlar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331203800 +0000" stop="20260331205900 +0000" channel="nickelodeon">
+    <title lang="tr">Ninja Kaplumbağalar&#x27;ın Maceraları</title>
+    <desc lang="tr">Kaplumbağalar ve Mutant Hayvanlar Yüzyılın Fırtınası&#x27;na yakalandı! Ama yeni bir DENİZ MUTANTI grubu şehri tehdit ettiğinde... Raph günü kurtarmak için SÖZCÜKLERİ kullanmak zorunda kalacak.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260331205900 +0000" stop="20260331212300 +0000" channel="nickelodeon">
+    <title lang="tr">Ninja Kaplumbağalar&#x27;ın Maceraları</title>
+    <desc lang="tr">Mikey ve Cengiz Kurbağa, marketten yiyecek almak için fırtınada dışarı çıktıklarında elektrik yüklü YILAN BALIĞI LEE ile karşılaşır! Artık Mikey öne çıkıp bir LİDER olmak zorundadır!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
   <programme start="20260331001900 +0000" stop="20260331004000 +0000" channel="nicktoons">
     <title lang="tr">Shimmer and Shine</title>
     <desc lang="tr">When the girls bake a cake with bouncing flour, it bounces off and they must catch it in time for Roya&#x27;s Feather Day party! // A potion spill turns Rocket&#x27;s barks magical. But when the magic gets out of control, the kids must find a way to stop it.</desc>
@@ -18307,13 +18357,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260331200000 +0000" stop="20260331205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260331205900 +0000" stop="20260401040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="s-sport">
     <title lang="tr">Outdoor Sports</title>
@@ -23981,13 +24031,11 @@ Ancak asıl mesaj, bir çeşme başında verilir. Bosnalı kadınlara saygısız
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260331150000 +0000" stop="20260331180000 +0000" channel="tv">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <desc lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</desc>
+    <title lang="tr">Turkcell Gücünde Shaq Diye 5G</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260331180000 +0000" stop="20260331210000 +0000" channel="tv">
-    <title lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</title>
-    <desc lang="tr">TV+&#x27;ın Zengin İçerik Dünyası</desc>
+    <title lang="tr">Turkcell Gücünde Shaq Diye 5G</title>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260331014500 +0000" stop="20260331033000 +0000" channel="tv-4">
