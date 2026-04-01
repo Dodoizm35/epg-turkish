@@ -1758,10 +1758,15 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <desc lang="tr">Hear the emotional and captivating true stories from across the world in this series of documentries from the Al Jazeera Network. You will have a chance to find out something new about different people and places that make up our incredible world.</desc>
     <category lang="tr">Röportaj</category>
   </programme>
-  <programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="al-jazeera-arabic">
+  <programme start="20260401130000 +0000" stop="20260401133500 +0000" channel="al-jazeera-arabic">
     <title lang="tr">Newshour</title>
     <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260401133500 +0000" stop="20260401140000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Talk to Al Jazeera: Abbas Araghchi</title>
+    <desc lang="tr">Captivating weekly interview show that includes one-on-one conversations with various people of influence from around the world. Take a look at what leaders, celebrities, influencers, and alternative voices that are shaping our times have to say about current events and topics dear to their heart.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260401140000 +0000" stop="20260401143000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">News Live</title>
@@ -1798,10 +1803,15 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <desc lang="tr">Inside Story is a daily news programme broadcast by Al Jazeera English. The news programme provides a closer look at recent stories from the globe. Politics, extremism, elections, influence of artificial intelligence on our future, economic crisis and its analysis by global news agencies, all of these and much more is covered by Inside Story so keep your finger on the past.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="al-jazeera-arabic">
+  <programme start="20260401180000 +0000" stop="20260401184000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">Newshour</title>
     <desc lang="tr">&#x27;&#x27;Newshour&#x27;&#x27; is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260401184000 +0000" stop="20260401190000 +0000" channel="al-jazeera-arabic">
+    <title lang="tr">Talk to Al Jazeera: Marco Rubio</title>
+    <desc lang="tr">Captivating weekly interview show that includes one-on-one conversations with various people of influence from around the world. Take a look at what leaders, celebrities, influencers, and alternative voices that are shaping our times have to say about current events and topics dear to their heart.</desc>
+    <category lang="tr">Tartışma</category>
   </programme>
   <programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="al-jazeera-arabic">
     <title lang="tr">News Live</title>
@@ -1957,6 +1967,111 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <title lang="tr">News Bulletin</title>
     <desc lang="tr">Keep up with the latest news and main headlines, hot and happening events and reports from around the world with main emphasis on the Arab world developments. Take a glance at the top news stories of the day and beyond them, and have a look at hard work of correspondents and journalists working around the world.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
+  </programme>
+  <programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="al-quran-al-kareem">
+    <title lang="tr">Kabe&#x27;den Canlı Yayın</title>
+    <desc lang="tr">Yılın 365 günü 24 saat muhteşem tavaf görüntüleriyle, deruni dualarla coşku dolu dakikalar yaşayacağınız dakikalar...</desc>
+    <category lang="tr">Dini</category>
   </programme>
   <programme start="20260401000000 +0000" stop="20260401030000 +0000" channel="al-sunnah-al-nabawiyah">
     <title lang="tr">Mescid-i Nebevi&#x27;den Canlı Yayın</title>
@@ -3641,6 +3756,7 @@ sorumlu tutan Noyan, Memduh&#x27;un kızı Dünya&#x27;yı konağında hapsedip 
   </programme>
   <programme start="20260401184500 +0000" stop="20260401201500 +0000" channel="bi-kanal">
     <title lang="tr">Transmorphers: Mekanik Canavarlar</title>
+    <desc lang="tr">Transmorphers olaylarından yirmi yıl sonra, daha gelişmiş ve tehlikeli bir uzaylı robot türü yeniden inşa edilmiş Dünya’ya iner ve gezegeni bir kez daha yok etme tehdidinde bulunur.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260401201500 +0000" stop="20260401204500 +0000" channel="bi-kanal">
@@ -7976,7 +8092,7 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
     <desc lang="tr">Ülkemizde, İslam coğrafyasında ve dünyada yaşanan gelişmelerin, dini ve sosyal meselelerin, farklı bir dille tartışıldığı programda; alanında uzman konuklarla gündem analiz ediliyor.</desc>
     <category lang="tr">Dini</category>
   </programme>
-  <programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="diyanet-tv">
+  <programme start="20260401203000 +0000" stop="20260401211500 +0000" channel="diyanet-tv">
     <title lang="tr">Burhan İşliyen ile Hacı Bayram Kürsüsünden</title>
     <desc lang="tr">Kur&#x27;an ve sünnetten hareket ederek insan ilişkileri, yaşam tarzları, hayat prensipleri ve kişilerin sorumlulukları anlatılıyor.</desc>
     <category lang="tr">Dini</category>
@@ -14713,8 +14829,9 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="kibris-ada-tv">
-    <title lang="tr">Ramazan Özel</title>
-    <category lang="tr">Magazin</category>
+    <title lang="tr">Haber Ajansı</title>
+    <desc lang="tr">Gündemi yakından takip etmek isteyenler için güvenilir bir haber bültenidir. Siyaset, ekonomi, kültür-sanat ve spor alanlarındaki günün öne çıkan gelişmeleri tarafsız ve hızlı biçimde ekrana taşır. Canlı bağlantılar, uzman konuk yorumları ve son dakika haberleriyle izleyiciye doğru ve güncel bilgiyi sunar.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="kibris-ada-tv">
     <title lang="tr">Ana Haber Bülteni</title>
@@ -14993,7 +15110,7 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Sora Sora Yarışma izleyicilere eğlenceli ve öğretici bir yarışma deneyimi sunan bir programdır. Programda farklı bilgi ve yetenek oyunları yarışmalar ve eğlenceli sorular izleyiciye aktarılır. Katılımcıların performansları değerlendirilirken izleyici de keyifli bir şekilde bilgi ve kültür dünyasını keşfeder.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260401193000 +0000" stop="20260401220000 +0000" channel="kontv">
+  <programme start="20260401193000 +0000" stop="20260401210000 +0000" channel="kontv">
     <title lang="tr">Türkü Filmi: Ormancı</title>
     <desc lang="tr">Aşk, hüzün ve umut dolu bir hikâyeyi ekrana taşıyor. Karakterlerin iç dünyasını ve yaşadıkları olayları türkülerin rehberliğinde anlatırken izleyiciye hem nostalji hem de duygu dolu anlar yaşatıyor. Türk kültürünün sıcaklığını yansıtan film, müzik severler için kaçırılmayacak bir deneyim sunuyor.</desc>
     <category lang="tr">Film</category>
@@ -15253,10 +15370,15 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <desc lang="tr">Anadolu&#x27;nun farklı bölgelerinde alın teriyle hayatını kazanan insanların öyküleri Milletin Efendisi ile ekranlara geliyor. Tarımdan sanayiye, küçük esnaftan üreticiye kadar toplumun temel direklerini oluşturan emekçiler, yaşam mücadelelerini ve tecrübelerini samimi anlatımlarla paylaşıyor.</desc>
     <category lang="tr">Röportaj</category>
   </programme>
-  <programme start="20260401085500 +0000" stop="20260401095500 +0000" channel="meltem-tv">
+  <programme start="20260401085500 +0000" stop="20260401092500 +0000" channel="meltem-tv">
     <title lang="tr">Gün Ortası Haberler</title>
     <desc lang="tr">Türkiye ve dünya gündeminde sabah saatlerinden itibaren yaşanan önemli gelişmeler detaylı şekilde değerlendiriliyor. Siyaset, ekonomi ve toplumsal olaylara dair başlıklar sade bir anlatımla sunulurken, günün dikkat çeken açıklamaları ve gelişmeleri bütüncül bir çerçevede izleyiciye ulaştırılıyor.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260401092500 +0000" stop="20260401095500 +0000" channel="meltem-tv">
+    <title lang="tr">Film</title>
+    <desc lang="tr">Komedi ve aksiyonun buluştuğu filmler, izleyiciyi hem güldürecek hem de heyecan dolu anlar yaşatacak. Önümüzdeki dakikalarda eğlence, sürükleyici sahneler ve keyifli vakit garantisi sizlerle.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260401095500 +0000" stop="20260401105500 +0000" channel="meltem-tv">
     <title lang="tr">Belgesel</title>
@@ -19374,12 +19496,12 @@ Nuh ve Melek, annelerini bulmak için geldikleri Kapadokya&#x27;da Şansalan ail
     <desc lang="tr">Ekrem Açıkel, hafta içi her akşam hayatın gerçeklerine ve memleketin vicdanına ışık tutuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401160000 +0000" stop="20260401180000 +0000" channel="sozcu-tv">
+  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="sozcu-tv">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Gündemin öne çıkan haberleri ve olayları ekrana geliyor. Haberlerde gündem olan başlıklar ve gözden kaçan detaylar, canlı bağlantılar ile ön plana çıkarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401210000 +0000" channel="sozcu-tv">
+  <programme start="20260401170000 +0000" stop="20260401210000 +0000" channel="sozcu-tv">
     <title lang="tr">Türkiye&#x27;nin Sözü</title>
     <desc lang="tr">Ülke gündeminde bulunan en önemli başlıklar masaya yatırılıyor.</desc>
     <category lang="tr">Tartışma</category>
@@ -19537,9 +19659,9 @@ Bir düğün gecesinde ortadan kaybolan sefirin kızı, tam dokuz yıl sonra, ba
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401170000 +0000" stop="20260401210000 +0000" channel="star-tv">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&#x27;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260401170000 +0000" stop="20260401230000 +0000" channel="star-tv">
+    <title lang="tr">Çirkin</title>
+    <desc lang="tr">Küçük yaşta ailesini kaybeden ve çevresinde Çirkin lakabıyla tanınan Meryem&#x27;in hayatı, çocukluk aşkı Kadir&#x27;in ona yaptığı evlilik teklifiyle bambaşka bir yöne evriliyor. Zorluklarla büyüyen Meryem&#x27;in verdiği hayat mücadelesi sırasında Kadir&#x27;le yaşayacağı sarsıcı aşk, ikisi için de yeni bir dönemin kapılarını aralayacak.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="tabii-spor">
@@ -20159,59 +20281,29 @@ Farah Pehlevi&#x27;nin hayatından yayınlanmamış arşiv görüntülerinin yer
     <desc lang="tr">Birbirinden farklı konularda ekranlara gelen belgeseller izleyenlerle buluşuyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260401123500 +0000" stop="20260401124500 +0000" channel="tivi6">
+  <programme start="20260401123500 +0000" stop="20260401132000 +0000" channel="tivi6">
     <title lang="tr">Gezdik Gördük</title>
     <desc lang="tr">KUZGUNCUK ÇENGELKÖY</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260401124500 +0000" stop="20260401132000 +0000" channel="tivi6">
-    <title lang="tr">Ülkeler</title>
-    <desc lang="tr">Kültürel ve coğrafi zenginlikleriyle ülkeler tanıtılıyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260401132000 +0000" stop="20260401140000 +0000" channel="tivi6">
+  <programme start="20260401132000 +0000" stop="20260401151000 +0000" channel="tivi6">
     <title lang="tr">Güngörmüşler</title>
     <desc lang="tr">Servet avcılığına soyunan eski bir milyonerin aşk yüzünden yaşadığı açmazları konu alır</desc>
     <category lang="tr">Film</category>
   </programme>
-  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="tivi6">
-    <title lang="tr">İHA Haber</title>
-    <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401151000 +0000" channel="tivi6">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Birbirinden farklı konularda ekranlara gelen belgeseller izleyenlerle buluşuyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260401151000 +0000" stop="20260401163000 +0000" channel="tivi6">
+  <programme start="20260401151000 +0000" stop="20260401170000 +0000" channel="tivi6">
     <title lang="tr">Dünya Mercek Altında</title>
     <desc lang="tr">BELGESEL KUŞAĞI</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="tivi6">
-    <title lang="tr">Belgesel</title>
-    <desc lang="tr">Birbirinden farklı konularda ekranlara gelen belgeseller izleyenlerle buluşuyor.</desc>
-    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="tivi6">
     <title lang="tr">Bizimkiler</title>
     <desc lang="tr">33. BÖLÜM</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401183000 +0000" channel="tivi6">
+  <programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="tivi6">
     <title lang="tr">Ufuk Çizgisi</title>
     <desc lang="tr">YAVUZ SELİM DEMİRAĞ İLE UFUK ÇİZGİSİ PROGRAMI</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260401183000 +0000" stop="20260401194500 +0000" channel="tivi6">
-    <title lang="tr">Yabancı Sinema</title>
-    <desc lang="tr">Dünya sinemasının seçkin örnekleri ekrana geliyor.</desc>
-    <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260401194500 +0000" stop="20260401200000 +0000" channel="tivi6">
-    <title lang="tr">Yeşilçam Kuşağı</title>
-    <desc lang="tr">Yeşilçam sinemasının popüler filmleri izleyicilerle buluşuyor.</desc>
     <category lang="tr">Film</category>
   </programme>
   <programme start="20260401200000 +0000" stop="20260401210000 +0000" channel="tivi6">
@@ -22036,7 +22128,7 @@ Birbirinden eğlenceli karakterler ve atasözleriyle dolu maceralar ile Gugular 
     <desc lang="tr">Yılmaz ailesinin sahneye dönüşen kamyonetleriyle köy köy gezip oynadıkları doğaçlama oyunlar Heybeli Tiyatro&#x27;da...</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260401205000 +0000" stop="20260401211000 +0000" channel="trt-diyanet-cocuk">
+  <programme start="20260401205000 +0000" stop="20260401210500 +0000" channel="trt-diyanet-cocuk">
     <title lang="tr">Cümbür Cemaat ( Kamptayız )</title>
     <desc lang="tr">Yılmaz ailesinin cümbür cemaat çıktığı komik ve eğlenceli kamp maceraları ekrana geliyor.</desc>
     <category lang="tr">Çocuk</category>
@@ -23255,9 +23347,9 @@ Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; prog
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260401205000 +0000" stop="20260401210500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Olimpiyat Yıldızları</title>
-    <desc lang="tr">Olimpiyatlara katılma hakkı almış ve almaya yakın sporcuların hazırlıkları ve günlük hayatları konu alınıyor.</desc>
-    <category lang="tr">Spor</category>
+    <title lang="tr">Spor Her Yerde</title>
+    <desc lang="tr">Gençlik ve Spor Bakanlığı bünyesinde yer alan ve futbol dışında kalan federasyonların, üniversitelerin, kamu kurumlarının spor etkinliklerini, ulusal ve uluslararası müsabakaları konu alarak ilgili konu ve konuklar Spor Her Yerde programında...</desc>
+    <category lang="tr">Söyleşi</category>
   </programme>
   <programme start="20260401000000 +0000" stop="20260401004500 +0000" channel="trt-turk">
     <title lang="tr">Dünyadaki Türkiye</title>
@@ -23428,7 +23520,7 @@ Yaşadığı bu çetin muhasebesin sonunda Yunus’un yolu Tapduk Emre dergâhı
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260401164500 +0000" stop="20260401170000 +0000" channel="trt-turk">
-    <title lang="tr">Mikrofon Senin İsveç</title>
+    <title lang="tr">Mikrofon Senin Danimarka</title>
     <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260401170000 +0000" stop="20260401174500 +0000" channel="trt-turk">
