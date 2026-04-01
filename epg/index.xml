@@ -11967,39 +11967,44 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
     <desc lang="tr">Türkiye ve dünyadan güncel gelişmeleri, sıcak başlıkları ve önemli olayları izleyiciyle buluşturuyor. Tarafsız ve anlaşılır anlatımıyla gündemi yakından takip etme imkânı sunuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401131500 +0000" stop="20260401140000 +0000" channel="fb-tv">
-    <title lang="tr">Tarih Ve Fenerbahçe</title>
-    <desc lang="tr">Tarih ve Fenerbahçe, sarı-lacivertli kulübün kuruluşundan bugüne uzanan tarihini, önemli dönüm noktalarını ve unutulmaz başarılarını ele alıyor. Arşiv bilgileri ve anlatımlarla kulübün hafızası ekrana taşınıyor.</desc>
-    <category lang="tr">Belgesel</category>
-  </programme>
-  <programme start="20260401140000 +0000" stop="20260401143000 +0000" channel="fb-tv">
-    <title lang="tr">One Day</title>
-    <desc lang="tr">One Day, Fenerbahçe&#x27;nin bir gününe odaklanarak kulüp içinden özel görüntüler, hazırlıklar ve dikkat çeken anları izleyiciyle buluşturuyor. Günlük tempo ve kulüp atmosferi programın merkezinde yer alıyor.</desc>
+  <programme start="20260401131500 +0000" stop="20260401134500 +0000" channel="fb-tv">
+    <title lang="tr">Sarı Lacivert Hayatlar</title>
+    <desc lang="tr">Sarı Lacivert Hayatlar, Fenerbahçe&#x27;ye gönül veren isimlerin günlük yaşamlarını, kulüple kurdukları bağı ve özel anlarını izleyiciyle buluşturuyor. Taraftar kültürü ve camia ruhu programın merkezinde yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260401143000 +0000" stop="20260401160700 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Euroleague</title>
-    <desc lang="tr">Basketbol: EuroLeague, kıtanın en güçlü kulüplerinin şampiyonluk için mücadele ettiği prestijli bir organizasyondur. Yüksek tempo, yıldız oyuncular ve taktik savaşları izleyiciye heyecan dolu anlar yaşatır.</desc>
-    <category lang="tr">Diğer</category>
+  <programme start="20260401134500 +0000" stop="20260401141500 +0000" channel="fb-tv">
+    <title lang="tr">Spor Okulları</title>
+    <desc lang="tr">Türkiye&#x27;nin farklı şehirlerinde faaliyet gösteren spor okullarında yapılan çalışmalar bu programda bir araya geliyor. Genç sporcuların antrenmanlarından görüntüler, antrenörlerin değerlendirmeleri ve eğitim süreçlerine dair detaylar ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260401160700 +0000" stop="20260401163000 +0000" channel="fb-tv">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ana Haber, iç ve dış gündemde öne çıkan başlıkları, son dakika gelişmelerini ve önemli olayları kapsamlı bir bakış açısıyla ekrana taşıyor. Güvenilir bilgi ve net anlatım ön planda yer alıyor.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260401141500 +0000" stop="20260401144500 +0000" channel="fb-tv">
+    <title lang="tr">EuroLeague Analiz</title>
+    <desc lang="tr">EuroLeague Analiz, EuroLeague karşılaşmalarını detaylı biçimde ele alan bir basketbol programıdır. Program, maçların oyun planlarını, taktik tercihleri ve öne çıkan istatistikleri analiz ederek karşılaşmaları bütüncül bir bakışla değerlendirir.</desc>
+    <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="fb-tv">
+  <programme start="20260401144500 +0000" stop="20260401160000 +0000" channel="fb-tv">
     <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
     <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="fb-tv">
-    <title lang="tr">Yaşa Fenerbahçe</title>
-    <desc lang="tr">Yaşa Fenerbahçe, sarı-lacivertli kulübün tarihine damga vuran başarıları, efsane sporcuları ve unutulmaz anlarını ekrana taşıyor. Tribünlerden sahaya uzanan güçlü aidiyet duygusu, özel görüntüler ve anlatımlarla izleyiciyle buluşuyor. Program, Fenerbahçe camiasının birlik ve mücadele ruhunu yansıtıyor.</desc>
+  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="fb-tv">
+    <title lang="tr">Euroleague Özel</title>
+    <desc lang="tr">Euroleague Özel&#x27;de maçlar, takımlar ve yıldız oyuncular; istatistikler ve uzman yorumlarıyla detaylı biçimde ele alınıyor. Haftanın öne çıkan başlıkları değerlendiriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260401190000 +0000" stop="20260401204500 +0000" channel="fb-tv">
-    <title lang="tr">Futbol: Süper Lig</title>
-    <desc lang="tr">Türkiye Süper Ligi, Türkiye&#x27;nin en yüksek profesyonel futbol ligidir. Bu lig 1957&#x27;de kuruldu ve şu anda 18 kulüpten oluşuyor. Puan tablosunu birinci sırada tamamlayan takım, UEFA Şampiyonlar Ligi grup aşamasına doğrudan yerleşiyor.</desc>
+  <programme start="20260401170000 +0000" stop="20260401190000 +0000" channel="fb-tv">
+    <title lang="tr">Maç Havası</title>
+    <desc lang="tr">Maç Havası, karşılaşma öncesi atmosferi, tribün nabzını ve maç gününe dair öne çıkan detayları izleyiciyle buluşturuyor. Taraftar röportajları ve stadyumdan görüntüler programın merkezinde yer alıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="fb-tv">
+    <title lang="tr">Euroleague Özel</title>
+    <desc lang="tr">Euroleague Özel&#x27;de maçlar, takımlar ve yıldız oyuncular; istatistikler ve uzman yorumlarıyla detaylı biçimde ele alınıyor. Haftanın öne çıkan başlıkları değerlendiriliyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260401193000 +0000" stop="20260401204500 +0000" channel="fb-tv">
+    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+    <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260401204500 +0000" stop="20260401210000 +0000" channel="fb-tv">
@@ -13899,7 +13904,7 @@ Dini Gündem ile tüm sorularınız cevap buluyor. Diyanet İşleri Başkanlığ
     <title lang="tr">Pangvoss</title>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260401204300 +0000" stop="20260402205900 +0000" channel="gzt-tv">
+  <programme start="20260401204300 +0000" stop="20260401210000 +0000" channel="gzt-tv">
     <title lang="tr">Hasan Ada</title>
     <desc lang="tr">Hasan Ada, terkedilmiş yapıları, tarihi alanları ve unutulmuş köyleri keşfederek izleyicilere sunuyor.</desc>
     <category lang="tr">Gezi &amp; Seyahat</category>
@@ -18454,13 +18459,13 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
   </programme>
   <programme start="20260401200000 +0000" stop="20260401205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260401205900 +0000" stop="20260402040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260401000000 +0000" stop="20260401023000 +0000" channel="s-sport">
     <title lang="tr">New York Knicks - Houston Rockets</title>
@@ -19526,13 +19531,64 @@ Nuh ve Melek, annelerini bulmak için geldikleri Kapadokya&#x27;da Şansalan ail
     <title lang="tr">Spacetoon TV</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260401150000 +0000" stop="20260401180000 +0000" channel="spacetoon">
+  <programme start="20260401150000 +0000" stop="20260401153000 +0000" channel="spacetoon">
     <title lang="tr">Spacetoon TV</title>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401210000 +0000" channel="spacetoon">
-    <title lang="tr">Spacetoon TV</title>
-    <category lang="tr">Diğer</category>
+  <programme start="20260401153000 +0000" stop="20260401160000 +0000" channel="spacetoon">
+    <title lang="tr">Bluey</title>
+    <desc lang="tr">Enerjik köpek Bluey ve ailesi, günlük yaşamı oyun ve hayal gücüyle eğlenceli maceralara dönüştürüyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401160000 +0000" stop="20260401163000 +0000" channel="spacetoon">
+    <title lang="tr">Şirinler - Smurf</title>
+    <desc lang="tr">Mavi ve neşeli Şirinler - Smurf, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="spacetoon">
+    <title lang="tr">Tara Duncan</title>
+    <desc lang="tr">Sihirli güçlerini keşfeden Tara ve arkadaşlarının, kötülere karşı verdiği nefes kesen mücadeleye ortak olun.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401173000 +0000" channel="spacetoon">
+    <title lang="tr">Şirinler - Smurf</title>
+    <desc lang="tr">Mavi ve neşeli Şirinler - Smurf, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="spacetoon">
+    <title lang="tr">Şirinler - Smurf</title>
+    <desc lang="tr">Mavi ve neşeli Şirinler - Smurf, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401183000 +0000" channel="spacetoon">
+    <title lang="tr">Doraemon</title>
+    <desc lang="tr">Doraemon, bilim ve hayal gücünü harmanlayan bir komedi dizisidir. Robot kedi Doraemon ve 8 yaşındaki Nobita&#x27;nın her bölümde karşılaştıkları eğlenceli ve öğretici olaylar, çocukların düşünme yeteneklerini geliştirir.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401183000 +0000" stop="20260401190000 +0000" channel="spacetoon">
+    <title lang="tr">Naruto</title>
+    <desc lang="tr">Genç bir ninja olan Naruto, en güçlü ninja olup köyünün saygısını kazanmayı hayal eder. Kırılmaz azmi ve sarsılmaz kararlılığıyla tehlikeli görevleri üstlenir, arkadaşlarını korumak ve kendini kanıtlamak için mücadele eder.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="spacetoon">
+    <title lang="tr">Naruto</title>
+    <desc lang="tr">Genç bir ninja olan Naruto, en güçlü ninja olup köyünün saygısını kazanmayı hayal eder. Kırılmaz azmi ve sarsılmaz kararlılığıyla tehlikeli görevleri üstlenir, arkadaşlarını korumak ve kendini kanıtlamak için mücadele eder.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="spacetoon">
+    <title lang="tr">Beyblade X</title>
+    <desc lang="tr">Yeni nesil Blader&#x27;lar arenaya girerken yüksek hızda mücadeleye hazır olun! Son teknoloji ekipmanlar ve nefes kesen aksiyonla Beyblade X, heyecanı bir üst seviyeye taşıyor. Oyuncular zafer için fırlatıyor!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="spacetoon">
+    <title lang="tr">Şirinler - Smurf</title>
+    <desc lang="tr">Mavi ve neşeli Şirinler - Smurf, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="spacetoon">
+    <title lang="tr">Şirinler - Smurf</title>
+    <desc lang="tr">Mavi ve neşeli Şirinler - Smurf, sihirli köylerinde yeni maceralara atılıyor! Gargamelin tuzaklarından kaçarken dostluk, eğlence ve heyecan dolu anlar onları bekliyor.</desc>
+    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260401030000 +0000" stop="20260401050000 +0000" channel="sports-tv">
     <title lang="tr">EHF Şampiyonlar Ligi</title>
@@ -20192,9 +20248,14 @@ Farah Pehlevi&#x27;nin hayatından yayınlanmamış arşiv görüntülerinin yer
     <desc lang="tr">Küresel gündemde öne çıkan gelişmeler, siyasi ve ekonomik hareketlilik, toplumsal olaylar ve dikkat çeken başlıklar bu programda ele alınır. Uzman yorumları ve kısa analizlerle izleyiciye dünyadan kapsamlı bir bakış sunulur.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260401143000 +0000" stop="20260401164500 +0000" channel="tgrt-haber">
-    <title lang="tr">Pınar Ardor Işık ile Bu Akşam</title>
-    <desc lang="tr">Pınar Ardor Işık ile Bu Akşam programında Türkiye ve dünyada gün boyunca yaşanan önemli gelişmeler ekrana taşınıyor. Siyaset ekonomi ve toplumsal olaylar programın ana başlıklarını oluşturuyor. Günün gündemi sade bir anlatımla izleyiciye aktarılırken olayların perde arkası da ele alınıyor.</desc>
+  <programme start="20260401143000 +0000" stop="20260401163000 +0000" channel="tgrt-haber">
+    <title lang="tr">Akşam Gündemi</title>
+    <desc lang="tr">Akşam kuşağında günün öne çıkan haber başlıklarını ve sıcak gelişmeleri bir araya getirir. Siyasi, ekonomik ve toplumsal gündemi değerlendiren bu kuşakta, uzman analizleri ve yorumlar izleyiciye günün kritik haberlerini daha iyi anlamaya dönük bir çerçevede aktarılır.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260401163000 +0000" stop="20260401164500 +0000" channel="tgrt-haber">
+    <title lang="tr">Hayatın içinden</title>
+    <desc lang="tr">Hayatın içinden gelen gerçek öyküler, insanların sevinçleri, mücadeleleri ve umutları bu programda samimi bir dille anlatılır. Toplumun farklı kesimlerinden renkli portreler ve yaşamdan kesitlerle izleyiciye sıcak ve içten bir dünya sunulur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260401164500 +0000" stop="20260401180000 +0000" channel="tgrt-haber">
