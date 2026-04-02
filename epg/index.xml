@@ -1442,15 +1442,11 @@ Vergiden tüketim alışkanlıklarına, sermaye piyasalarından teknolojiye, san
     <desc lang="tr">Türkiye ile dünyanın bazı merkezlerinin hava koşulları ekrana geliyor. İzleyici, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair, belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260402170000 +0000" stop="20260402180000 +0000" channel="a-para">
-    <title lang="tr">Yıldızlı Sohbetler</title>
-    <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="a-para">
-    <title lang="tr">İstanbul&#x27;un Altınları</title>
-    <desc lang="tr">Reşat Altın, ailesini ve apartmanını komşulardan korumaya çalışan, kuruntulu bir adamdır. Annesi Saadet ise yeni komşularıyla çok iyi anlaşmakta ve çatışmaların ortasında bir barış köprüsü olmaktadır. Reşat Bey, kendini kadın haklarına adamış opera sanatçısı komşusu İsmet Hanım&#x27;a karşı hislerini başlangıçta anlamlandıramaz.   
-
-İsmet Azmarazlı, Reşat Altın’ın kurduğu bütün düzeni yıkmak üzere apartmana yerleşen, Avrupa’da eğitim görmüş ve on beş senede beş koca eskitmiş bir operacıdır.</desc>
+  <programme start="20260402170000 +0000" stop="20260402200000 +0000" channel="a-para">
+    <title lang="tr">Destan</title>
+    <desc lang="tr">8. yüzyılda, Orta Asya’da, İslam’ın henüz kucaklamadığı topraklarda vahşi bir çağ hüküm sürmektedir. Çin sivri dişlerini Türk budununa doğrultmuştur; Rus Varegler, Moğollar, Sogdlar ve Persler tuzakta beklemektedir. Yetmezmiş gibi, aynı kana atam diyen Türk boyları birbirine düşmüştür. İkisi de Türk olan Gök Hanlığı ile Dağ Hanlığı arasında ise çok büyük bir düşmanlık vardır.
+ 
+Bu siyasi şartlarda, Gök Hanlığı’nın ulu kağanı Alpagu Han, başkaldırmasından kuşkulandığı kardeşi Balamir Yabgu’nun kızını, çolak ve topal oğlu Batuga’ya gelin almaya karar verir. Ailesini toplayıp kız istemek üzere Batı Gök Kağanlığı’na doğru yola çıkar. Yolda onları çok büyük bir tehlike beklemektedir: Çocukluğundan beri intikam ateşi ile yanan Dağ savaşçısı Akkız!...</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="a-para">
@@ -3584,15 +3580,15 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <desc lang="tr">Ekonomi Ekranı, sabah kuşağında izleyicilere ekonomik gündemi sunuyor. Döviz ve altın fiyatları, borsa analizleri ve makroekonomik göstergeler uzman konuklarla derinlemesine ele alınıyor. Program, ekonomik gelişmeleri anlaşılır ve yönlendirici şekilde aktarıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260402070000 +0000" stop="20260402093000 +0000" channel="benguturk">
+  <programme start="20260402070000 +0000" stop="20260402090000 +0000" channel="benguturk">
     <title lang="tr">Ajans</title>
     <desc lang="tr">Bengütürk ekranında Ajans programı gün boyunca gelişen önemli haberleri izleyiciye kapsamlı ve akıcı şekilde aktarır. Türkiye&#x27;den ve uluslararası gündemden kritik başlıklar, ekonomi, siyaset, yaşam ve asayiş haberleri bu bültende izlenebilir. İzleyenler günün öne çıkan haberlerine bu programla vakıf olur.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="benguturk">
-    <title lang="tr">Spor Bülteni</title>
-    <desc lang="tr">Spor dünyasında gün boyunca yaşanan gelişmeler ve liglerden öne çıkan başlıklar kapsamlı bir bültende izleyiciyle buluşuyor. Futbol başta olmak üzere farklı branşlardaki önemli karşılaşmalar, sonuçlar ve dikkat çeken performanslar detaylı şekilde aktarılıyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260402090000 +0000" stop="20260402100000 +0000" channel="benguturk">
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Türkiye ve dünyada yaşanan son dakika gelişmeleri bu bültende ekrana taşınıyor. Siyaset, ekonomi, güvenlik ve toplumsal olaylara dair önemli başlıklar sade ve anlaşılır bir anlatımla izleyiciye sunuluyor. Günün öne çıkan haberleri detaylı özetlerle aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20260402100000 +0000" stop="20260402120000 +0000" channel="benguturk">
     <title lang="tr">Gün Ortası</title>
@@ -3600,46 +3596,31 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260402120000 +0000" stop="20260402130000 +0000" channel="benguturk">
-    <title lang="tr">Dış Bakış</title>
-    <desc lang="tr">Dış Bakış, uluslararası gelişmeleri ve Türkiye&#x27;nin dış politikasını derinlikli analizlerle ele alan bir programdır. Diplomasi, bölgesel çatışmalar ve küresel trendler uzman konuklarla değerlendirilir. İzleyiciye yalnızca haber değil, analitik bir perspektif sunar.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260402130000 +0000" stop="20260402144300 +0000" channel="benguturk">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Gündem programı Bengütürk ekranında günün en önemli haber başlıklarını kapsamlı şekilde izleyiciye aktarıyor. Türkiye ve dünyadan gelişmeler akıcı anlatımla izlenebilir hale getiriliyor, siyaset, ekonomi, toplumsal olaylar ve önemli gelişmeler tarafsız bir yaklaşım ile geniş şekilde ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260402144300 +0000" stop="20260402150000 +0000" channel="benguturk">
-    <title lang="tr">Spor Bülteni</title>
-    <desc lang="tr">Spor dünyasında gün boyunca yaşanan gelişmeler ve liglerden öne çıkan başlıklar kapsamlı bir bültende izleyiciyle buluşuyor. Futbol başta olmak üzere farklı branşlardaki önemli karşılaşmalar, sonuçlar ve dikkat çeken performanslar detaylı şekilde aktarılıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="benguturk">
-    <title lang="tr">Gündem</title>
-    <desc lang="tr">Gündem programı Bengütürk ekranında günün en önemli haber başlıklarını kapsamlı şekilde izleyiciye aktarıyor. Türkiye ve dünyadan gelişmeler akıcı anlatımla izlenebilir hale getiriliyor, siyaset, ekonomi, toplumsal olaylar ve önemli gelişmeler tarafsız bir yaklaşım ile geniş şekilde ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260402153000 +0000" stop="20260402155000 +0000" channel="benguturk">
-    <title lang="tr">Çevre Ekranı</title>
-    <desc lang="tr">Doğanın korunması ve sürdürülebilir yaşam konuları bu programda ele alınıyor. Çevre sorunları, iklim değişikliği ve doğayı korumaya yönelik projeler uzman görüşleri ve saha örnekleriyle değerlendiriliyor. Farkındalık yaratan içerikler izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Magazin</category>
-  </programme>
-  <programme start="20260402155000 +0000" stop="20260402160000 +0000" channel="benguturk">
-    <title lang="tr">Haber Önü</title>
-    <desc lang="tr">Günün öne çıkan gelişmeleri ve gündemin dikkat çeken başlıkları ana haber öncesinde ekrana taşınıyor. Siyaset, ekonomi ve toplum hayatına dair sıcak gelişmeler kısa başlıklar ve özet bilgilerle izleyiciye aktarılıyor. Günün akışını belirleyen önemli olaylar bu bölümde ele alınıyor.</desc>
+    <title lang="tr">Haber</title>
+    <desc lang="tr">Türkiye ve dünyada yaşanan son dakika gelişmeleri bu bültende ekrana taşınıyor. Siyaset, ekonomi, güvenlik ve toplumsal olaylara dair önemli başlıklar sade ve anlaşılır bir anlatımla izleyiciye sunuluyor. Günün öne çıkan haberleri detaylı özetlerle aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402160000 +0000" stop="20260402173000 +0000" channel="benguturk">
+  <programme start="20260402130000 +0000" stop="20260402150000 +0000" channel="benguturk">
+    <title lang="tr">Gündem</title>
+    <desc lang="tr">Gündem programı Bengütürk ekranında günün en önemli haber başlıklarını kapsamlı şekilde izleyiciye aktarıyor. Türkiye ve dünyadan gelişmeler akıcı anlatımla izlenebilir hale getiriliyor, siyaset, ekonomi, toplumsal olaylar ve önemli gelişmeler tarafsız bir yaklaşım ile geniş şekilde ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="benguturk">
+    <title lang="tr">Ajanda</title>
+    <desc lang="tr">Selvi Kahraman ile Ajanda, Türkiye ve dünyanın nabzını tutuyor. Güncel olaylardan siyasete, toplumsal gelişmelerden analizlere kadar, bilmeniz gereken her şey bu programda. Gündemi kaçırmamak, konulara derinlemesine bakmak için Ajanda&#x27;yı takip edin.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="benguturk">
     <title lang="tr">Ana Haber</title>
     <desc lang="tr">Ana Haber bülteni gün boyunca öne çıkan gelişmeleri sizlerle buluşturuyor. Tarafsız ve güvenilir sunumuyla haberleri hızlıca takip edin, gündemi kaçırmadan öğrenin. Bülten boyunca hem son dakika haberleri hem de olayların ayrıntılı yorumları yer alıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402173000 +0000" stop="20260402200000 +0000" channel="benguturk">
-    <title lang="tr">Son Nokta</title>
-    <desc lang="tr">Gündemin sıcak başlıklarının ardından, gün içinde öne çıkan gelişmeler daha geniş bir çerçevede masaya yatırılıyor. Siyasetten ekonomiye, toplumsal hayattan uluslararası gelişmelere kadar pek çok konu farklı yönleriyle değerlendiriliyor. Analizler ve yorumlarla olayların arka planı izleyiciye aktarılıyor.</desc>
+  <programme start="20260402170000 +0000" stop="20260402200000 +0000" channel="benguturk">
+    <title lang="tr">Devlet Aklı</title>
+    <desc lang="tr">Devlet Aklı programı siyaset analizlerini derinlemesine işleyen bir içerikle izleyicilere sunuluyor. Ulusal gündemden önemli konularla birlikte küresel siyasete dair gelişmeler akıcı ve bilgilendirici şekilde ele alınıyor. Program farklı bakış açılarıyla izleyicinin olayları daha iyi kavramasını sağlıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="benguturk">
+  <programme start="20260402200000 +0000" stop="20260402214000 +0000" channel="benguturk">
     <title lang="tr">Gece Haberleri</title>
     <desc lang="tr">Gece Haberleri, gün boyunca yaşanan gelişmeleri ve gündemi belirleyen başlıkları gece kuşağında izleyiciye sunan bir haber bültenidir. Programda iç ve dış gündemde öne çıkan olaylar, son dakika gelişmeleri ve dikkat çeken haberler derli toplu ve anlaşılır bir özetle ekrana taşınır.</desc>
     <category lang="tr">Haber</category>
@@ -7200,7 +7181,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260402111500 +0000" stop="20260402113000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Sports Life</title>
-    <desc lang="tr">Sports Life explores the world of sport, bringing you updates, interviews and reports from across the globe. Sport has the power to break down barriers, improve lives, connect communities, and of course, improve health. The show delves into all aspects of sport, from professionals competing at the very top to everyday individuals simply enjoying a pastime, demonstrating how sport and life are regularly connected.</desc>
+    <desc lang="tr">From professionals competing at the very top to everyday individuals simply enjoying a pastime, Sports Life explores the world of sport, bringing you updates, interviews and reports from across the globe.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402113000 +0000" stop="20260402120000 +0000" channel="deutsche-welle-english">
@@ -7208,12 +7189,12 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <desc lang="tr">What drives people in Europe _ politically, socially and culturally? How do Europeans lead their lives? What are their views, hopes and fears? Focus on Europe _ Spotlight on People provides the answers.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260402120000 +0000" stop="20260402120300 +0000" channel="deutsche-welle-english">
+  <programme start="20260402120000 +0000" stop="20260402120200 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
     <desc lang="tr">DW News is news and information channel from a German international broadcaster Deutsche Well (German Wall). It provides latest news from Europe and all around the world in several languages on a daily basis. DW news is informative, entertaining, up-to-date and what is more important, reliable source of news.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402120300 +0000" stop="20260402130000 +0000" channel="deutsche-welle-english">
+  <programme start="20260402120200 +0000" stop="20260402130000 +0000" channel="deutsche-welle-english">
     <title lang="tr">The Da Vinci Code - Myth or Truth?</title>
     <desc lang="tr">Dan Brown&#x27;s novel &quot;&quot;The Da Vinci Code&quot; is one of the century&#x27;s most successful thrillers worldwide. But how much truth is behind the claims made in the book _ and what is pure fiction?</desc>
     <category lang="tr">Belgesel</category>
@@ -7229,13 +7210,13 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260402131500 +0000" stop="20260402133000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW&#x27;s Anja Koch takes you to two of the country&#x27;s most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260402133000 +0000" stop="20260402140000 +0000" channel="deutsche-welle-english">
     <title lang="tr">REV</title>
-    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from the world of cars, examining the latest news and events pertaining to vehicles. From test driving the latest vehicles to examining how engineering is changing to combat climate change, Rev explores every avenue of car-based news, keeping fellow petrol heads up to date with developments within the industry.</desc>
+    <desc lang="tr">Life isn&#x27;t about the destination, but the journey to get there, something Rev completely adheres to. The show brings you updates from within the car industry, examining the latest news, vehicles, stories and events.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260402140000 +0000" stop="20260402140200 +0000" channel="deutsche-welle-english">
@@ -7260,7 +7241,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="deutsche-welle-english">
     <title lang="tr">In Good Shape</title>
-    <desc lang="tr">In Good Shape is the weekly health show on DW, entirely dedicated to health care. The show offers opportunities to receive tips and tools for a healthy lifestyle directly from experts.</desc>
+    <desc lang="tr">In Good Shape is the weekly health show on DW, entirely dedicated to health care.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="deutsche-welle-english">
@@ -7279,9 +7260,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260402171500 +0000" stop="20260402173000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW&#x27;s Anja Koch takes you to two of the country&#x27;s most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260402173000 +0000" stop="20260402180000 +0000" channel="deutsche-welle-english">
     <title lang="tr">DW News</title>
@@ -7295,7 +7276,7 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
   </programme>
   <programme start="20260402183000 +0000" stop="20260402190000 +0000" channel="deutsche-welle-english">
     <title lang="tr">Global Us</title>
-    <desc lang="tr">Global Us provides unexpected insights and exemplary solutions _ it offers perspectives for a rapidly changing world. The focus is on people _ those who want change, drive it forward and inspire others.</desc>
+    <desc lang="tr">How creative citizen initiatives in Germany&#x27;s capital are making the city more livable, and inspiring cities elsewhere. In Zambia, lead pollution from old mines is devastating the lives of those living there today.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260402190000 +0000" stop="20260402190200 +0000" channel="deutsche-welle-english">
@@ -7309,9 +7290,9 @@ Dünyada ve Türkiye&#x27;de olup biten tüm gelişmeler Ana Haber&#x27;de izley
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260402191500 +0000" stop="20260402193000 +0000" channel="deutsche-welle-english">
-    <title lang="tr">Best of DW-online Content</title>
-    <desc lang="tr">See the world differently: surprising stories, original analysis and news that matters.</desc>
-    <category lang="tr">Belgesel</category>
+    <title lang="tr">DW Travel</title>
+    <desc lang="tr">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW&#x27;s Anja Koch takes you to two of the country&#x27;s most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
+    <category lang="tr">Röportaj</category>
   </programme>
   <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="deutsche-welle-english">
     <title lang="tr">The Omnivore - How Calico Crayfish are Threatening Species Diversity</title>
@@ -11955,10 +11936,15 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Fenerium Saati, Fenerbahçe&#x27;nin resmi mağazası Fenerium&#x27;da yer alan ürünleri tanıtıyor. Yeni sezon koleksiyonları, özel tasarımlar ve kampanyalar programda izleyiciyle paylaşılıyor.</desc>
     <category lang="tr">Diğer</category>
   </programme>
-  <programme start="20260402070000 +0000" stop="20260402090000 +0000" channel="fb-tv">
+  <programme start="20260402070000 +0000" stop="20260402083000 +0000" channel="fb-tv">
     <title lang="tr">Voleybol: Efeler Ligi</title>
     <desc lang="tr">Efeler Ligi&#x27;nde heyecan tüm hızıyla sürüyor! Türkiye&#x27;nin en güçlü voleybol takımları, zirve yarışında her seti final havasında oynuyor. Büyük rekabet, etkileyici smaçlar ve kritik anlarla dolu bu mücadeleler, voleybolun tüm heyecanını ekranlara taşıyor. Şampiyonluk yolundaki bu tempoyu kaçırmayın.</desc>
     <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260402083000 +0000" stop="20260402090000 +0000" channel="fb-tv">
+    <title lang="tr">Euroleague Özel</title>
+    <desc lang="tr">Euroleague Özel&#x27;de maçlar, takımlar ve yıldız oyuncular; istatistikler ve uzman yorumlarıyla detaylı biçimde ele alınıyor. Haftanın öne çıkan başlıkları değerlendiriliyor.</desc>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402090000 +0000" stop="20260402091500 +0000" channel="fb-tv">
     <title lang="tr">Haber</title>
@@ -11970,14 +11956,24 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Tarihte Bugün, Fenerbahçe tarihine damga vuran maçları, başarıları ve unutulmaz anları gün gün hatırlatıyor. Sarı-lacivertli kulübün hafızasında yer eden gelişmeler arşiv görüntüleriyle izleyiciyle buluşuyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402093000 +0000" stop="20260402103000 +0000" channel="fb-tv">
-    <title lang="tr">Yaşa Fenerbahçe</title>
-    <desc lang="tr">Yaşa Fenerbahçe, sarı-lacivertli kulübün tarihine damga vuran başarıları, efsane sporcuları ve unutulmaz anlarını ekrana taşıyor. Tribünlerden sahaya uzanan güçlü aidiyet duygusu, özel görüntüler ve anlatımlarla izleyiciyle buluşuyor. Program, Fenerbahçe camiasının birlik ve mücadele ruhunu yansıtıyor.</desc>
-    <category lang="tr">Spor</category>
+  <programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="fb-tv">
+    <title lang="tr">Spor Okulları</title>
+    <desc lang="tr">Türkiye&#x27;nin farklı şehirlerinde faaliyet gösteren spor okullarında yapılan çalışmalar bu programda bir araya geliyor. Genç sporcuların antrenmanlarından görüntüler, antrenörlerin değerlendirmeleri ve eğitim süreçlerine dair detaylar ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260402100000 +0000" stop="20260402101500 +0000" channel="fb-tv">
+    <title lang="tr">Sponsorluk Imza Töreni</title>
+    <desc lang="tr">Sponsorluk İmza Töreni&#x27;nde kulüp ve sponsor arasında gerçekleştirilen anlaşmanın detayları, törenden öne çıkan anlarla izleyiciyle buluşuyor. Resmi imzalar ve açıklamalar ekrana geliyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260402101500 +0000" stop="20260402103000 +0000" channel="fb-tv">
+    <title lang="tr">Fenerium Saati</title>
+    <desc lang="tr">Fenerium Saati, Fenerbahçe&#x27;nin resmi mağazası Fenerium&#x27;da yer alan ürünleri tanıtıyor. Yeni sezon koleksiyonları, özel tasarımlar ve kampanyalar programda izleyiciyle paylaşılıyor.</desc>
+    <category lang="tr">Diğer</category>
   </programme>
   <programme start="20260402103000 +0000" stop="20260402110000 +0000" channel="fb-tv">
-    <title lang="tr">One Day</title>
-    <desc lang="tr">One Day, Fenerbahçe&#x27;nin bir gününe odaklanarak kulüp içinden özel görüntüler, hazırlıklar ve dikkat çeken anları izleyiciyle buluşturuyor. Günlük tempo ve kulüp atmosferi programın merkezinde yer alıyor.</desc>
+    <title lang="tr">Sarı Lacivert Hayatlar</title>
+    <desc lang="tr">Sarı Lacivert Hayatlar, Fenerbahçe&#x27;ye gönül veren isimlerin günlük yaşamlarını, kulüple kurdukları bağı ve özel anlarını izleyiciyle buluşturuyor. Taraftar kültürü ve camia ruhu programın merkezinde yer alıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402110000 +0000" stop="20260402111500 +0000" channel="fb-tv">
@@ -11990,39 +11986,44 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Tarihte Bugün, Fenerbahçe tarihine damga vuran maçları, başarıları ve unutulmaz anları gün gün hatırlatıyor. Sarı-lacivertli kulübün hafızasında yer eden gelişmeler arşiv görüntüleriyle izleyiciyle buluşuyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402113000 +0000" stop="20260402123000 +0000" channel="fb-tv">
-    <title lang="tr">40+</title>
-    <desc lang="tr">Yıllarını futbola adamış, sarı-lacivertli formayla hafızalara kazınmış deneyimli isimler bu içerikte bir araya geliyor. Sahada yaşanan unutulmaz anlar, kariyerlerinin dönüm noktaları ve futbolun değişen yüzüne dair samimi değerlendirmeler izleyiciyle buluşuyor.</desc>
+  <programme start="20260402113000 +0000" stop="20260402130000 +0000" channel="fb-tv">
+    <title lang="tr">Fenerbahçe Günlüğü</title>
+    <desc lang="tr">Fenerbahçe Günlüğü, kulübün sahadaki mücadelesini ve saha dışındaki gelişmeleri güncel başlıklarla ekrana taşıyor. Maçlardan öne çıkan anlar, antrenmanlardan görüntüler, teknik ekip ve oyuncuların çalışmaları programda bir araya geliyor. Sarı-lacivertli camianın nabzı, gün gün bu programda tutuluyor.</desc>
     <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402123000 +0000" stop="20260402130000 +0000" channel="fb-tv">
-    <title lang="tr">Yaşayan Çınarlarımız</title>
-    <desc lang="tr">Yaşayan Çınarlarımız, Fenerbahçe tarihine emekleriyle iz bırakan isimlerin anılarını ve kulüple kurdukları güçlü bağı izleyiciyle buluşturuyor. Geçmişten bugüne uzanan hikâyeler programda yer alıyor.</desc>
-    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260402130000 +0000" stop="20260402131500 +0000" channel="fb-tv">
     <title lang="tr">Haber</title>
     <desc lang="tr">Türkiye ve dünyadan güncel gelişmeleri, sıcak başlıkları ve önemli olayları izleyiciyle buluşturuyor. Tarafsız ve anlaşılır anlatımıyla gündemi yakından takip etme imkânı sunuyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402131500 +0000" stop="20260402133000 +0000" channel="fb-tv">
-    <title lang="tr">Tarihte Bugün</title>
-    <desc lang="tr">Tarihte Bugün, Fenerbahçe tarihine damga vuran maçları, başarıları ve unutulmaz anları gün gün hatırlatıyor. Sarı-lacivertli kulübün hafızasında yer eden gelişmeler arşiv görüntüleriyle izleyiciyle buluşuyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402133000 +0000" stop="20260402150000 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-    <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260402150000 +0000" stop="20260402154500 +0000" channel="fb-tv">
+  <programme start="20260402131500 +0000" stop="20260402134500 +0000" channel="fb-tv">
     <title lang="tr">Tarih Ve Fenerbahçe</title>
     <desc lang="tr">Tarih ve Fenerbahçe, sarı-lacivertli kulübün kuruluşundan bugüne uzanan tarihini, önemli dönüm noktalarını ve unutulmaz başarılarını ele alıyor. Arşiv bilgileri ve anlatımlarla kulübün hafızası ekrana taşınıyor.</desc>
     <category lang="tr">Belgesel</category>
   </programme>
-  <programme start="20260402154500 +0000" stop="20260402160700 +0000" channel="fb-tv">
+  <programme start="20260402134500 +0000" stop="20260402140000 +0000" channel="fb-tv">
+    <title lang="tr">Maç Başlıyor</title>
+    <desc lang="tr">Maç Başlıyor, karşılaşma öncesi son dakika bilgileri, ilk 11&#x27;ler ve maç atmosferiyle izleyiciyi maça hazırlıyor. Stadyumdan canlı bağlantılar ve detaylar programda yer alıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402140000 +0000" stop="20260402141500 +0000" channel="fb-tv">
+    <title lang="tr">Tarihte Bugün</title>
+    <desc lang="tr">Tarihte Bugün, Fenerbahçe tarihine damga vuran maçları, başarıları ve unutulmaz anları gün gün hatırlatıyor. Sarı-lacivertli kulübün hafızasında yer eden gelişmeler arşiv görüntüleriyle izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402141500 +0000" stop="20260402153000 +0000" channel="fb-tv">
+    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
+    <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
+    <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260402153000 +0000" stop="20260402154500 +0000" channel="fb-tv">
     <title lang="tr">Evladıma Miras Bu Sevda</title>
     <desc lang="tr">Nesilden nesile aktarılan Fenerbahçe sevgisinin en içten hikâyeleri. Sarı lacivert bir mirasın izinde duygusal bir yolculuk.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402154500 +0000" stop="20260402160700 +0000" channel="fb-tv">
+    <title lang="tr">Süper Yıldızlar</title>
+    <desc lang="tr">Süper Lig futbolcularının en iyi başarıları hakkında bir program. En çekici hamleler, savunmalar ve goller... Sadece FB TV&#x27;de</desc>
     <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402160700 +0000" stop="20260402163000 +0000" channel="fb-tv">
@@ -12030,25 +12031,29 @@ Sadâları kulaklar duymasa da Kur’an-ı Kerim’i yürekler işitir.</desc>
     <desc lang="tr">Ana Haber, iç ve dış gündemde öne çıkan başlıkları, son dakika gelişmelerini ve önemli olayları kapsamlı bir bakış açısıyla ekrana taşıyor. Güvenilir bilgi ve net anlatım ön planda yer alıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402163000 +0000" stop="20260402183000 +0000" channel="fb-tv">
-    <title lang="tr">Basketbol: Kadınlar Süper Ligi</title>
-    <desc lang="tr">Kadınlar Basketbol Süper Ligi&#x27;nde sezonun kritik karşılaşmalarından biri! Türkiye&#x27;nin en başarılı kadın basketbol takımları sahaya galibiyet hedefiyle çıkıyor. Yüksek tempo, sert savunma ve etkili hücum organizasyonlarıyla geçen mücadelede her sayı büyük önem taşıyor.</desc>
-    <category lang="tr">Diğer</category>
-  </programme>
-  <programme start="20260402183000 +0000" stop="20260402193000 +0000" channel="fb-tv">
-    <title lang="tr">Biz Bize</title>
-    <desc lang="tr">Taraftarların sevdiği isimlerle yapılan samimi sohbetler, eski ve yeni anılar, kulüp gündemine dair özel yorumlar bu içerikte bir araya geliyor. Sporun heyecanı ve aidiyet duygusu, izleyiciyi ekrana kilitleyen keyifli bir akış sunuyor.</desc>
+  <programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="fb-tv">
+    <title lang="tr">Sarı Kanaryalar</title>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402193000 +0000" stop="20260402203000 +0000" channel="fb-tv">
-    <title lang="tr">40+</title>
-    <desc lang="tr">Yıllarını futbola adamış, sarı-lacivertli formayla hafızalara kazınmış deneyimli isimler bu içerikte bir araya geliyor. Sahada yaşanan unutulmaz anlar, kariyerlerinin dönüm noktaları ve futbolun değişen yüzüne dair samimi değerlendirmeler izleyiciyle buluşuyor.</desc>
+  <programme start="20260402170000 +0000" stop="20260402180000 +0000" channel="fb-tv">
+    <title lang="tr">Yaşa Fenerbahçe</title>
+    <desc lang="tr">Yaşa Fenerbahçe, sarı-lacivertli kulübün tarihine damga vuran başarıları, efsane sporcuları ve unutulmaz anlarını ekrana taşıyor. Tribünlerden sahaya uzanan güçlü aidiyet duygusu, özel görüntüler ve anlatımlarla izleyiciyle buluşuyor. Program, Fenerbahçe camiasının birlik ve mücadele ruhunu yansıtıyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402203000 +0000" stop="20260402204500 +0000" channel="fb-tv">
-    <title lang="tr">Fenerium Saati</title>
-    <desc lang="tr">Fenerium Saati, Fenerbahçe&#x27;nin resmi mağazası Fenerium&#x27;da yer alan ürünleri tanıtıyor. Yeni sezon koleksiyonları, özel tasarımlar ve kampanyalar programda izleyiciyle paylaşılıyor.</desc>
+  <programme start="20260402180000 +0000" stop="20260402193000 +0000" channel="fb-tv">
+    <title lang="tr">Voleybol: Türkiye Kadınlar Ligi</title>
+    <desc lang="tr">Türkiye&#x27;nin en üst düzey kadın voleybol liginde oynanan karşılaşmaları konu alan bir spor yayınıdır. Programda, ligde mücadele eden takımların sahadaki rekabeti, maçların temposu ve üst düzey voleybol performansları izleyiciye aktarılmaktadır. Türkiye kadın voleybolunun en önemli organizasyonlarından biridir.</desc>
     <category lang="tr">Diğer</category>
+  </programme>
+  <programme start="20260402193000 +0000" stop="20260402200000 +0000" channel="fb-tv">
+    <title lang="tr">Spor Okulları</title>
+    <desc lang="tr">Türkiye&#x27;nin farklı şehirlerinde faaliyet gösteren spor okullarında yapılan çalışmalar bu programda bir araya geliyor. Genç sporcuların antrenmanlarından görüntüler, antrenörlerin değerlendirmeleri ve eğitim süreçlerine dair detaylar ekrana taşınıyor.</desc>
+    <category lang="tr">Magazin</category>
+  </programme>
+  <programme start="20260402200000 +0000" stop="20260402204500 +0000" channel="fb-tv">
+    <title lang="tr">Tarih Ve Fenerbahçe</title>
+    <desc lang="tr">Tarih ve Fenerbahçe, sarı-lacivertli kulübün kuruluşundan bugüne uzanan tarihini, önemli dönüm noktalarını ve unutulmaz başarılarını ele alıyor. Arşiv bilgileri ve anlatımlarla kulübün hafızası ekrana taşınıyor.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260402204500 +0000" stop="20260402210000 +0000" channel="fb-tv">
     <title lang="tr">Gece Haberi</title>
@@ -14573,20 +14578,12 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
   </programme>
   <programme start="20260402170000 +0000" stop="20260402201500 +0000" channel="kanal-d">
     <title lang="tr">The Traitors Türkiye</title>
-    <desc lang="tr">Yarışmanın bu bölümünde; Kaledeki kahvaltı, beklenmedik bir sürprizle başlar ve dengeler altüst olur. Artan kuşkular ortamı giderek gererken Cem, oyunda kontrolü ele geçirmek için hamle
-yapar ve okları Selim&#x27;e yöneltir. Görevde kazanılan altınlarla kasa büyürken, yuvarlak
-masa toplantısında tansiyon zirveye çıkar. Pascal&#x27;ın çıkışı kaledeki gerginliği iyice
-artırır. Masumlar hainleri ortaya çıkarmaya çalışırken, Giray Altınok&#x27;un sürpriz planları
-herkesi şaşırtır. Yeni gelişmeler, kalede kurulan tüm dengeleri değiştirebilir.</desc>
+    <desc lang="tr">Yarışmanın bu bölümünde; Kaledeki kahvaltı, beklenmedik bir sürprizle başlar ve dengeler altüst olur. Artan kuşkular ortamı giderek gererken Cem, oyunda kontrolü ele geçirmek için hamle yapar ve okları Selim&#x27;e yöneltir. Görevde kazanılan altınlarla kasa büyürken, yuvarlak masa toplantısında tansiyon zirveye çıkar. Pascal&#x27;ın çıkışı kaledeki gerginliği iyice artırır. Masumlar hainleri ortaya çıkarmaya çalışırken, Giray Altınok&#x27;un sürpriz planları herkesi şaşırtır. Yeni gelişmeler, kalede kurulan tüm dengeleri değiştirebilir.</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20260402201500 +0000" stop="20260402230000 +0000" channel="kanal-d">
     <title lang="tr">The Traitors Türkiye</title>
-    <desc lang="tr">Yarışmanın bu bölümünde; Kaledeki kahvaltı, beklenmedik bir sürprizle başlar ve dengeler altüst olur. Artan kuşkular ortamı giderek gererken Cem, oyunda kontrolü ele geçirmek için hamle
-yapar ve okları Selim&#x27;e yöneltir. Görevde kazanılan altınlarla kasa büyürken, yuvarlak
-masa toplantısında tansiyon zirveye çıkar. Pascal&#x27;ın çıkışı kaledeki gerginliği iyice
-artırır. Masumlar hainleri ortaya çıkarmaya çalışırken, Giray Altınok&#x27;un sürpriz planları
-herkesi şaşırtır. Yeni gelişmeler, kalede kurulan tüm dengeleri değiştirebilir.</desc>
+    <desc lang="tr">Yarışmanın bu bölümünde; Kaledeki kahvaltı, beklenmedik bir sürprizle başlar ve dengeler altüst olur. Artan kuşkular ortamı giderek gererken Cem, oyunda kontrolü ele geçirmek için hamle yapar ve okları Selim&#x27;e yöneltir. Görevde kazanılan altınlarla kasa büyürken, yuvarlak masa toplantısında tansiyon zirveye çıkar. Pascal&#x27;ın çıkışı kaledeki gerginliği iyice artırır. Masumlar hainleri ortaya çıkarmaya çalışırken, Giray Altınok&#x27;un sürpriz planları herkesi şaşırtır. Yeni gelişmeler, kalede kurulan tüm dengeleri değiştirebilir.</desc>
     <category lang="tr">Yarışma</category>
   </programme>
   <programme start="20260402030000 +0000" stop="20260402090000 +0000" channel="kanal-t">
@@ -17887,22 +17884,17 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
 İzleyiciler, gün içerisindeki sıcaklık, rüzgar ve yağış koşullarına dair belli aralıklarla bilgilendiriliyor.</desc>
     <category lang="tr">Hava Durumu</category>
   </programme>
-  <programme start="20260402120000 +0000" stop="20260402122500 +0000" channel="ntv">
+  <programme start="20260402120000 +0000" stop="20260402125000 +0000" channel="ntv">
     <title lang="tr">Öğle Bülteni</title>
     <desc lang="tr">Önceki gün, gece veya günün sabah saatlerinde yaşanan gelişmeler, tüm ayrıntılarıyla izleyicilere aktarılıyor. 
 
 Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen gelişmeler, dış ülkelerde yaşananlar, izleyicilere ayrıntılarıyla sunuluyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402122500 +0000" stop="20260402123000 +0000" channel="ntv">
+  <programme start="20260402125000 +0000" stop="20260402125500 +0000" channel="ntv">
     <title lang="tr">Paranın Nabzı</title>
     <desc lang="tr">Piyasalarda bugün ne oldu? Şu an ne oluyor, gelecekte ne olabilir?</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260402123000 +0000" stop="20260402125500 +0000" channel="ntv">
-    <title lang="tr">Bakış</title>
-    <desc lang="tr">Trafikten sağlığa tüm sigortalar... Bireysel emeklilik sistemi... Tarım ve depreme kadar hayatın tüm riskleri... Siz sorun, uzmanlar yanıtlasın.</desc>
-    <category lang="tr">Finans</category>
   </programme>
   <programme start="20260402125500 +0000" stop="20260402130000 +0000" channel="ntv">
     <title lang="tr">Hava Durumu</title>
@@ -23539,27 +23531,25 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <desc lang="tr">Voleybol Erkekler 1. Lig Yarı Finali 1. Maç</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402074500 +0000" stop="20260402082000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402074500 +0000" stop="20260402081000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Engelsiz Spor</title>
     <desc lang="tr">Engelsiz Spor programında, ilham veren başarı hikayelerine yer veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402082000 +0000" stop="20260402083500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402081000 +0000" stop="20260402082500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Sormazsam Olmaz</title>
+    <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402082500 +0000" stop="20260402084000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sporla Değişen Hayatlar</title>
     <desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye&#x27;nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402083500 +0000" stop="20260402085500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402084000 +0000" stop="20260402090000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Yıldız&#x27;da Söyleşi</title>
     <desc lang="tr">Spor dünyasının önemli isimleriyle yaşamlarına ve çalışmalarına dair keyifli sohbetler gerçekleştiriliyor.</desc>
     <category lang="tr">Haber</category>
-  </programme>
-  <programme start="20260402085500 +0000" stop="20260402090000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Onsuz Asla</title>
-    <desc lang="tr">Her sporcunun bir sırrı vardır. Kimi bilekliğini takmadan sahaya çıkmaz, kimi uğurlu oyuncağını yanından ayırmaz. Çünkü bazen inanç, başarıya giden yoldaki en büyük güçtür.
-
-Sporun kalbinde, totemlerin ve ritüellerin hikayesi &#x27;Onsuz Asla&#x27; programında...</desc>
-    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402090000 +0000" stop="20260402091500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Haber Bülteni</title>
@@ -23582,7 +23572,11 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
     <desc lang="tr">Basketbol Şampiyonlar Ligi Çeyrek Final 1. Maç</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402132000 +0000" stop="20260402135500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402132000 +0000" stop="20260402133000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">6.adam</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402133000 +0000" stop="20260402135500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Engelsiz Spor</title>
     <desc lang="tr">Engelsiz Spor programında, ilham veren başarı hikayelerine yer veriliyor.</desc>
     <category lang="tr">Spor</category>
@@ -23592,53 +23586,53 @@ ve ekstrem sporcuların birbirinden özel adrenalin dolu anları Spor Atlası&#x
     <desc lang="tr">2025 - 2026 Sezonu Vodafone Sultanlar Ligi / Play-Off 1-4 Müsabakaları 2. Maç</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402160000 +0000" stop="20260402161000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">6.adam</title>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402161000 +0000" stop="20260402163500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Dream Teams</title>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402163500 +0000" stop="20260402165500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Etnospor</title>
-    <desc lang="tr">Geleneksel sporlarla ilgili etkinlikler...</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402165500 +0000" stop="20260402185000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Athinaikos Qualco-Mersin ÇBK</title>
-    <desc lang="tr">Kadınlar Basketbol Eurocup Maçı</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402185000 +0000" stop="20260402192500 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Sessiz Oyun Defalympıcs</title>
-    <desc lang="tr">İşitme engelli sporcuların azmi, başarısı ve mücadelesi ekrana taşınıyor.</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402192500 +0000" stop="20260402194000 +0000" channel="trt-spor-yildiz">
-    <title lang="tr">Sporla Değişen Hayatlar</title>
-    <desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye&#x27;nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
-    <category lang="tr">Spor</category>
-  </programme>
-  <programme start="20260402194000 +0000" stop="20260402200500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402160000 +0000" stop="20260402162500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sporun İkonları</title>
     <desc lang="tr">Spor dünyasında başarılı işlere imza atmış sporcular ve önemli spor olayları hakkında bilgiler veriliyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402200500 +0000" stop="20260402202500 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402162500 +0000" stop="20260402165000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Dream Teams</title>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402165000 +0000" stop="20260402170500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Sporla Değişen Hayatlar</title>
+    <desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye&#x27;nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402170500 +0000" stop="20260402172500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Etnospor</title>
+    <desc lang="tr">Geleneksel sporlarla ilgili etkinlikler...</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402172500 +0000" stop="20260402192000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Athinaikos Qualco-Mersin ÇBK</title>
+    <desc lang="tr">Kadınlar Basketbol Eurocup Maçı</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402192000 +0000" stop="20260402195500 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">Sessiz Oyun Defalympıcs</title>
+    <desc lang="tr">İşitme engelli sporcuların azmi, başarısı ve mücadelesi ekrana taşınıyor.</desc>
+    <category lang="tr">Spor</category>
+  </programme>
+  <programme start="20260402195500 +0000" stop="20260402201500 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Albümdeki Yıldızlar</title>
     <desc lang="tr">Önemli başarılara imza atmış sporcularla sohbet ediliyor. Ayrıca onların çocukluklarından bugüne yaşamlarını fotoğraf kareleri eşliğinde öğreniyoruz.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260402202500 +0000" stop="20260402204000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402201500 +0000" stop="20260402203000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Sormazsam Olmaz</title>
     <desc lang="tr">Spor dünyasının önemli isimleri kendilerine yöneltilen sorulara yanıt veriyor.</desc>
     <category lang="tr">Spor</category>
   </programme>
-  <programme start="20260402204000 +0000" stop="20260402210000 +0000" channel="trt-spor-yildiz">
+  <programme start="20260402203000 +0000" stop="20260402205000 +0000" channel="trt-spor-yildiz">
     <title lang="tr">Yıldız&#x27;da Söyleşi</title>
     <desc lang="tr">Spor dünyasının önemli isimleriyle yaşamlarına ve çalışmalarına dair keyifli sohbetler gerçekleştiriliyor.</desc>
     <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260402205000 +0000" stop="20260402210000 +0000" channel="trt-spor-yildiz">
+    <title lang="tr">6.adam</title>
+    <category lang="tr">Spor</category>
   </programme>
   <programme start="20260402001000 +0000" stop="20260402004500 +0000" channel="trt-turk">
     <title lang="tr">Kalbimdeki Türkiye</title>
