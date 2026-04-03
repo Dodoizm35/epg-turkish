@@ -3393,11 +3393,11 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Gençlerbirliği - Göztepe</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403170000 +0000" stop="20260403190000 +0000" channel="beinsports2.tr">
+  <programme start="20260403170000 +0000" stop="20260403185900 +0000" channel="beinsports2.tr">
     <title lang="tr">Çorum FK - Bandırmaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403190100 +0000" stop="20260403204400 +0000" channel="beinsports2.tr">
+  <programme start="20260403190000 +0000" stop="20260403204400 +0000" channel="beinsports2.tr">
     <title lang="tr">AdanaDemirspor - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3501,71 +3501,35 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403090000 +0000" stop="20260403100000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Olympique de Marseille - Lille</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403090000 +0000" stop="20260403105900 +0000" channel="beinsports4.tr">
     <title lang="tr">Olympique de Marseille - Lille</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Rennes - Metz</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260403110000 +0000" stop="20260403124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Rennes - Metz</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403124500 +0000" stop="20260403134500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403124500 +0000" stop="20260403125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nantes - Strasbourg</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260403130000 +0000" stop="20260403144400 +0000" channel="beinsports4.tr">
     <title lang="tr">Nantes - Strasbourg</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403144500 +0000" stop="20260403154500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403144500 +0000" stop="20260403145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Show</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260403150000 +0000" stop="20260403152900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Show</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403153000 +0000" stop="20260403163000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Preview</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403153000 +0000" stop="20260403155900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Preview</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="beinsports4.tr">
-    <title lang="tr">WTA Bogota Çeyrek Final</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403160000 +0000" stop="20260403175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">WTA Bogota Çeyrek Final</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="beinsports4.tr">
     <title lang="tr">WTA Bogota Çeyrek Final</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -3573,24 +3537,12 @@ Bu arada çiftler her gün bir zarf seçerek şanslarını arttırmaya çalış�
     <title lang="tr">WTA Bogota Çeyrek Final</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Geniş Özet WTA Dubai Final</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403200000 +0000" stop="20260403201400 +0000" channel="beinsports4.tr">
     <title lang="tr">Geniş Özet WTA Dubai Final</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260403201500 +0000" stop="20260403211500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Geniş Özet WTA Austin Final</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260403201500 +0000" stop="20260403202900 +0000" channel="beinsports4.tr">
     <title lang="tr">Geniş Özet WTA Austin Final</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260403203000 +0000" stop="20260403213000 +0000" channel="beinsports4.tr">
-    <title lang="tr">Almaty Open 2025</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260403203000 +0000" stop="20260403223000 +0000" channel="beinsports4.tr">
@@ -15178,9 +15130,9 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260403184000 +0000" stop="20260403200000 +0000" channel="kontv">
-    <title lang="tr">Görüş Alanı</title>
-    <desc lang="tr">Görüş Alanı, gündeme farklı açılardan yaklaşan, olaylara derinlik kazandıran bir tartışma ve analiz programıdır. Uzman konuklar, akademisyenler ve gazeteciler olayları kendi perspektiflerinden değerlendirir. Her görüşe yer verilir ve izleyiciye ezber bozan yorumlar sunulur.</desc>
-    <category lang="tr">Tartışma</category>
+    <title lang="tr">İsmailce</title>
+    <desc lang="tr">İsmailce, izleyiciye Türkiye&#x27;nin farklı bölgelerindeki yaşamı, kültürel değerleri ve toplumsal dinamikleri detaylı ve anlaşılır bir şekilde sunan bir belgesel programıdır. Programda yöresel yaşam, gelenekler, günlük yaşam hikâyeleri ve toplumsal değişimler ele alınır.</desc>
+    <category lang="tr">Belgesel</category>
   </programme>
   <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="kontv">
     <title lang="tr">Türkü Filmi</title>
@@ -17687,12 +17639,12 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
     <desc lang="tr">En çarpıcı görüntüler, Türkiye ve dünyadan en sıcak gelişmeler Selçuk Tepeli ile NOW Ana Haber&#x27;de ekrana geliyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260403170000 +0000" stop="20260403200000 +0000" channel="now">
-    <title lang="tr">Doktor: Başka Hayatta</title>
-    <desc lang="tr">Başarılı doktor İnan Kural, öfkeli bir hasta yakını tarafından vurulur. Mucize eseri kurtulur ama uyandığında son 12 senesini hatırlamamaktır. Bu sürede ailesini kaybettiğini öğrenen İnan, şimdi mesleğini de kaybetme tehlikesiyle karşı karşıyadır. Düpedüz yabancısı olduğu bir hayata uyanan İnan, parçalanmış hayatını birleştirmeye karar verir. Hayatının son döneminde mucize dediği aşkı Elif, yıllar önce ayrıldığı eski eşi Aylin, onun kardeşi Toprak ve kırdığını bile hatırlamadığı tüm kalpleri onarırken, hastaların hayatı ve ölümle mücadele ettiği, zorlu ama inadına umutlu bir yolculuğa çıkar.</desc>
-    <category lang="tr">Dizi</category>
+  <programme start="20260403170000 +0000" stop="20260403193000 +0000" channel="now">
+    <title lang="tr">Bursa Bülbülü</title>
+    <desc lang="tr">En büyük hayali bir kaset çıkarmak olan Cengiz, Bursa&#x27;da bir çay bahçesinde şarkıcılık yapar. Onun hayatı, Taşkın ile tanışmasıyla bambaşka bir hal alır. Cengiz, Taşkın&#x27;ın babası olan, döneminin ünlü bestekarı Şerafettin&#x27;in bestesi ile kaset çıkarmanın kendisine büyük şans getireceğine inanır. Bu amaçla da ağabeyinden borç alır. Ancak Cengiz bu süreçte kendisini, Taşkın ve Taşkın&#x27;ın kardeşi Arzu ile birlikte birbirinden talihsiz bir dizi olayın içinde bulur.</desc>
+    <category lang="tr">Film</category>
   </programme>
-  <programme start="20260403200000 +0000" stop="20260403224500 +0000" channel="now">
+  <programme start="20260403193000 +0000" stop="20260403221500 +0000" channel="now">
     <title lang="tr">Yeraltı</title>
     <desc lang="tr">Derin devlet tarafından mafyanın içine yerleştirilen bir adamın, narkomafya ve İstanbul kartelinin ortasında şekillenen soluksuz macerası ve aşkla sınavı.</desc>
     <category lang="tr">Dizi</category>
@@ -18517,13 +18469,12 @@ Zincirleme Reaksiyon&#x27;da her hafta yeni konular ve alanlarının en önemli 
   </programme>
   <programme start="20260403170000 +0000" stop="20260403200000 +0000" channel="power-tv">
     <title lang="tr">Power Stage</title>
-    <desc lang="tr">Sahne şimdi onlarda! Power Stage&#x27;de yerli ve yabancı yıldızların canlı performansları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260403200000 +0000" stop="20260404050000 +0000" channel="power-tv">
     <title lang="tr">Dance Trippin</title>
-    <desc lang="tr">Dünyanın dört bir yanından DJ setleri ve elektronik müzik partileri Dance Trippin&#x27;de!</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların en hit parçaları...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260403013000 +0000" stop="20260403020000 +0000" channel="s-sport">
     <title lang="tr">NBA Özetler</title>
@@ -19942,9 +19893,9 @@ Bir düğün gecesinde ortadan kaybolan sefirin kızı, tam dokuz yıl sonra, ba
 Deneyimli spiker Nazlı Çelik&#x27;in sunduğu Star Haber&#x27;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260403170000 +0000" stop="20260403210000 +0000" channel="star-tv">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&#x27;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260403170000 +0000" stop="20260403230000 +0000" channel="star-tv">
+    <title lang="tr">Çirkin</title>
+    <desc lang="tr">Küçük yaşta ailesini kaybeden ve çevresinde Çirkin lakabıyla tanınan Meryem&#x27;in hayatı, çocukluk aşkı Kadir&#x27;in ona yaptığı evlilik teklifiyle bambaşka bir yöne evriliyor. Zorluklarla büyüyen Meryem&#x27;in verdiği hayat mücadelesi sırasında Kadir&#x27;le yaşayacağı sarsıcı aşk, ikisi için de yeni bir dönemin kapılarını aralayacak.</desc>
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260403063000 +0000" stop="20260403081000 +0000" channel="tabii-spor">
@@ -20521,7 +20472,7 @@ Sömürgecilik ve denizcilik tarihinin bu çarpıcı sayfasını parça parça y
     <desc lang="tr">TACİRE BAKTAŞ İLE ANKETLER KONUŞUYOR PROGRAMI</desc>
     <category lang="tr">Tartışma</category>
   </programme>
-  <programme start="20260403200500 +0000" stop="20260403210000 +0000" channel="tivi6">
+  <programme start="20260403200500 +0000" stop="20260403220000 +0000" channel="tivi6">
     <title lang="tr">Kanun Benim</title>
     <desc lang="tr">Kanunsuzluk ve karmaşanın hüküm sürdüğü kasabalara seyyah olarak giden iki arkadaş Virgil Cole ve Everett Hitch, gittikleri yerlerde kanun adamı olarak görev yaparlar</desc>
     <category lang="tr">Film</category>
@@ -24367,10 +24318,20 @@ Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyh
     <desc lang="tr">Kübra Par ile Ana Haber Bülteni, Türkiye ve dünyadan günün en önemli gelişmelerini, son dakika başlıklarını ve sıcak haberleri izleyiciyle buluşturuyor. Canlı bağlantılar, sahadan aktarımlar ve kısa analizlerle olayların arka planı ele alınıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260403173000 +0000" stop="20260403210000 +0000" channel="tv100">
+  <programme start="20260403173000 +0000" stop="20260403183000 +0000" channel="tv100">
+    <title lang="tr">Özel Röportaj</title>
+    <desc lang="tr">AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın, Tv100 ekranlarında son gelişmeleri, siyasi gündemi ve parti politikalarını değerlendiriyor. Röportajda güncel konulara dair açıklamalarda bulunuyor ve izleyicilerin sorularını yanıtlıyor.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
+  <programme start="20260403183000 +0000" stop="20260403203000 +0000" channel="tv100">
     <title lang="tr">Şimdi Konuşalım</title>
     <desc lang="tr">Gündemde öne çıkan gelişmeleri, toplumu yakından ilgilendiren meseleleri ve tartışmalı konuları masaya yatıran bir sohbet ve analiz programıdır. Uzman konuklar ve farklı görüşler eşliğinde olaylar derinlemesine ele alınır, izleyiciye yeni perspektifler sunulur.</desc>
     <category lang="tr">Eğlence</category>
+  </programme>
+  <programme start="20260403203000 +0000" stop="20260403213000 +0000" channel="tv100">
+    <title lang="tr">Tarihin İzinde Bugün</title>
+    <desc lang="tr">Her gün geçmişte yaşanan önemli olayları, dönüm noktalarını ve hafızalara kazınan anları ekrana getirir. Program, tarihin tozlu sayfalarından çıkan hikâyeleri sade bir dille aktarır ve izleyiciye bugünün anlamını geçmiş üzerinden yeniden düşünme fırsatı sunar.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260403004500 +0000" stop="20260403014500 +0000" channel="tv2">
     <title lang="tr">Kanıt</title>
