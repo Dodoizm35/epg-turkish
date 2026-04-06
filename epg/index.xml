@@ -16574,13 +16574,9 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <desc lang="tr">Uzay ve zamanın ötesinde, dinozorlarla dolu, kimsenin bilmediği bir yer!</desc>
     <category lang="tr">Çocuk</category>
   </programme>
-  <programme start="20260406151500 +0000" stop="20260406152400 +0000" channel="minika-go">
+  <programme start="20260406151500 +0000" stop="20260406153000 +0000" channel="minika-go">
     <title lang="tr">Dinoster</title>
     <desc lang="tr">Uzay ve zamanın ötesinde, dinozorlarla dolu, kimsenin bilmediği bir yer!</desc>
-    <category lang="tr">Çocuk</category>
-  </programme>
-  <programme start="20260406152400 +0000" stop="20260406153000 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406153000 +0000" stop="20260406154500 +0000" channel="minika-go">
@@ -16651,19 +16647,19 @@ Luna&#x27;yla kardeşi Jüpiter bilimin altını üstüne getiriyor.</desc>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406180000 +0000" stop="20260406180800 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
+    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406180800 +0000" stop="20260406181600 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
+    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406181600 +0000" stop="20260406182400 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
+    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406182400 +0000" stop="20260406183000 +0000" channel="minika-go">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
+    <title lang="tr">Bir Varmiş Bir Yokmuş</title>
     <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406183000 +0000" stop="20260406183800 +0000" channel="minika-go">
@@ -17197,6 +17193,56 @@ Tıpkı bir aslanın bir gnuyu yakaladığı gibi bu 6 bölümlük belgesel seri
     <title lang="tr">Yetenekli Dr. Pol</title>
     <desc lang="tr">Yetenekli Dr. Pol&#x27;un bu sezonunda doktorlar, kritik klinik ziyaretlerine ve acil çiftlik aramalarına yetişebilmek için sürekli yarış halindeler. Pol ve ekibi, orta Michigan bölgesinde haftada yedi gün çalışırken sizler de bu vahşi yolculuğa ortak olun!</desc>
     <category lang="tr">Belgesel</category>
+  </programme>
+  <programme start="20260406155100 +0000" stop="20260406160300 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Büyük bir ailede büyümek nasıldır hiç merak ettiniz mi? 11 yaşındaki Lincoln Gürültü, izleyicilere büyük ailelerde kaosa rağmen nasıl hayatta kalınır, onu gösteriyor. Hem de on kız kardeşin arasında!</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406160300 +0000" stop="20260406162700 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Lincoln ilk rock konserine gidecektir ve Luna bunu dünyanın en iyi deneyimi yapmaya karar verir. Lincoln çatıda bir mektup bulur ve evin bir yerlerinde para saklı olduğuna inanmaya başlar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406162700 +0000" stop="20260406165100 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Lynn, ortaokul beysbol takımının yıldız atıcısı olur ve Liam&#x27;ı sınırlarını zorlar. Lincoln&#x27;ün arkadaşları, ortaokul yetenek şovunda sihir gösterisi yapmasını engellemeye çalışır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406165100 +0000" stop="20260406172600 +0000" channel="nickelodeon">
+    <title lang="tr">Gürültü Ailesi</title>
+    <desc lang="tr">Geniş bir ailede büyümenin nasıl olduğunu hiç merak ettiniz mi? On bir yaşındaki Lincoln Loud devasa bir evdeki kaosla nasıl başa çıkılacağını yakından gösteriyor, özellikle de on kız kardeşin arasındaki tek erkek olarak.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406172600 +0000" stop="20260406175000 +0000" channel="nickelodeon">
+    <title lang="tr">Yıldırım Ailesi Gizli Görevde</title>
+    <desc lang="tr">Billy, yeni yardımcısı Steve&#x27;in T-Gücü&#x27;ne katılabileceği umuduyla gelir. Phoebe ve Max bunu düşünür ama kısa süre sonra Steve&#x27;in süper gücünün marşmelov yapmak olduğunu keşfederler. Steve reddedilince kötü adama dönüşür ve intikam yemini eder.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406175000 +0000" stop="20260406181400 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Avcısı Henri</title>
+    <desc lang="tr">Henry  ve Ray, Risk Avcısı Çocuk ve Kaptan Adam’ın çizgi romanının berbat olduğunu görünce, büyük açılış partisinden önce çizgi romanı düzelmek için aceleyle işe koyulur.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406181400 +0000" stop="20260406183700 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Avcısı Henri</title>
+    <desc lang="tr">Charlotte&#x27;ın doğum günü için Boo Man Grubu’nun gösterisine gitmek istemektedir ancak seyahat, Kaptan Adam ve Risk Avcısı Çocuk acil bir duruma düşünce amacından sapar.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406183700 +0000" stop="20260406203800 +0000" channel="nickelodeon">
+    <title lang="tr">Risk Takımı</title>
+    <desc lang="tr">AWOL, gelecekle ilgili şeyleri gerçekleşmeden hemen önce görmeye başladığında, Kaptan Adam bunun Swellview&#x27;in önde gelen zaman suçlusu kötü adamı Time Jerker&#x27;ın işi olduğuna inanır.</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406203800 +0000" stop="20260406205900 +0000" channel="nickelodeon">
+    <title lang="tr">Ninja Kaplumbağalar&#x27;ın Maceraları</title>
+    <desc lang="tr">Leo, yanlışlıkla metro istasyonundaki masum insanları kurtarınca, Gece Ninjası olarak suçla mücadele eden bir kahraman olmaya karar verir! Peki ya karşısında kötü kalpli La Fleur ve köpek kaçıran çetesi varsa? Onlarla başa çıkabilecek mi?</desc>
+    <category lang="tr">Çocuk</category>
+  </programme>
+  <programme start="20260406205900 +0000" stop="20260406212300 +0000" channel="nickelodeon">
+    <title lang="tr">Ninja Kaplumbağalar&#x27;ın Maceraları</title>
+    <desc lang="tr">Kötü kalpli, köpeklerden nefret eden deli Stratch, şehrin köpeklerini esir aldı! Tek isteği ise, Gece Ninjası&#x27;nın teslim olması! Leo, April ve Kaplumbağalar, Scratch&#x27;in göründüğü gibi olmadığını fark eder.</desc>
+    <category lang="tr">Çocuk</category>
   </programme>
   <programme start="20260406001700 +0000" stop="20260406003800 +0000" channel="nicktoons">
     <title lang="tr">Best and Bester</title>
@@ -18367,13 +18413,13 @@ Türkiye ve dünya çapında müzik dolu haber gündemi ve spor haberlerinden ol
   </programme>
   <programme start="20260406200000 +0000" stop="20260406205900 +0000" channel="power-tv">
     <title lang="tr">All Time Hits</title>
-    <desc lang="tr">Zamana meydan okuyan hitler All Time Hits&#x27;te! Müzik tarihinin unutulmaz şarkıları seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">Tüm zamanların hitlerinden, 90&#x27;ların efsanevi parçaları, 2000&#x27;lerin liste başlarından günümüze kadar haftanın beş gecesi Power TV ekranlarında iki saatlik bir müzik keyfi...</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260406205900 +0000" stop="20260407040000 +0000" channel="power-tv">
     <title lang="tr">Power Love</title>
-    <desc lang="tr">Aşkın en güzel şarkıları Power Love&#x27;da! Romantik klipler ve duygusal melodiler seni bekliyor.</desc>
-    <category lang="tr">Eğlence</category>
+    <desc lang="tr">İki saatinizi romantizme ayırın, gece yarısını takiben slow dans parçaları, gelmiş geçmiş en iyi aşk parçaları ve unutulmaz melodiler bu programda hayat buluyor.</desc>
+    <category lang="tr">Müzik</category>
   </programme>
   <programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="s-sport">
     <title lang="tr">Moto GP</title>
@@ -20456,20 +20502,15 @@ Kralların sofralarını hangi malzemeler ve lezzetler süslüyor? Bu yemekler h
     <desc lang="tr">Dave ve Jenny yükselişteki bir bölgedeki 1980&#x27;ler tarzı bir çiftlik evini büyüleyici bir kiralık mülke dönüştürmek üzere satın alır.</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260406163000 +0000" stop="20260406183000 +0000" channel="tlc">
+  <programme start="20260406163000 +0000" stop="20260406182000 +0000" channel="tlc">
     <title lang="tr">Ağır Yaşamlar</title>
     <desc lang="tr">Lindsey her şeye sahip gibi gözüküyor ancak yemek bağımlılığı her şeyi berbat edebilir. Kilo kaybı yolculuğunada kocası bir destek mi yoksa bir bağımlı mı?</desc>
     <category lang="tr">Yaşam</category>
   </programme>
-  <programme start="20260406183000 +0000" stop="20260406203000 +0000" channel="tlc">
+  <programme start="20260406182000 +0000" stop="20260406202500 +0000" channel="tlc">
     <title lang="tr">Zaman Tükeniyor</title>
     <desc lang="tr">Cinayetle suçlanan bir kasaba şerifi kanser hastası sevgilisine yardım etmek için delil dolabından uyuşturucu parası çalınca olaylar çığırından çıkar.</desc>
     <category lang="tr">Film</category>
-  </programme>
-  <programme start="20260406203000 +0000" stop="20260406223000 +0000" channel="tlc">
-    <title lang="tr">Ağır Yaşamlar</title>
-    <desc lang="tr">Lindsey her şeye sahip gibi gözüküyor ancak yemek bağımlılığı her şeyi berbat edebilir. Kilo kaybı yolculuğunada kocası bir destek mi yoksa bir bağımlı mı?</desc>
-    <category lang="tr">Yaşam</category>
   </programme>
   <programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="tmb-tv">
     <title lang="tr">Belgesel</title>
@@ -24272,8 +24313,8 @@ Ege&#x27;nin sımsıcak kıyılarında, cennetten bir parça gibi duran bu kasab
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406203000 +0000" channel="tv100">
-    <title lang="tr">Eşit Ağırlık</title>
-    <desc lang="tr">Eşit Ağırlık, gündemi belirleyen siyasi, ekonomik ve toplumsal gelişmeleri farklı bakış açılarıyla ele alıyor. Karşıt görüşler, uzman yorumları ve kısa analizlerle olayların artıları ve eksileri masaya yatırılıyor.</desc>
+    <title lang="tr">Başak Şengül Ile Doğru Yorum</title>
+    <desc lang="tr">Uzman konuklar, çarpıcı analizler ve net sorularla olayların perde arkası aydınlatılıyor. Program, izleyiciye tek yönlü değil, dengeli ve derinlikli bir bakış sunarak gündemi daha doğru okuma imkânı sağlıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260406203000 +0000" stop="20260406223000 +0000" channel="tv100">
@@ -25106,15 +25147,15 @@ Olaylar genelde Mükremin&#x27;in ve arkadaşı Tirbüşon&#x27;un etrafında ge
     <desc lang="tr">Sabah başlayan olayların güncel hali, siyasi gelişmeler, piyasa hareketleri, uluslararası haberler, deprem ve afet durumları, spor ve hava tahminleri detaylıca ele alınıyor. Canlı saha raporları, uzman yorumları, hızlı analizler, millî bakış açısıyla zenginleştirilmiş sunum ön planda.</desc>
     <category lang="tr">Magazin</category>
   </programme>
-  <programme start="20260406144500 +0000" stop="20260406160000 +0000" channel="ulusal-kanal">
+  <programme start="20260406144500 +0000" stop="20260406200000 +0000" channel="ulusal-kanal">
     <title lang="tr">Dostoyevski</title>
     <desc lang="tr">Rus edebiyatının başyapıtı Dostoyevski&#x27;nin derin dünyasına adım atın. Dram ve gerilimle dolu bu muhteşem yapım, suç ve insan ruhunun karanlık köşelerini keşfediyor. Her karakterin içsel çatışmalarına tanık olurken, ruhsal bir yolculuğa çıkmaya hazırlanın. &quot;Dostoyevski&quot; dizisi, her bölümüyle sizi ekran başına kilitleyecek.</desc>
     <category lang="tr">Dizi</category>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406210000 +0000" channel="ulusal-kanal">
-    <title lang="tr">Ana Haber</title>
-    <desc lang="tr">Ulusal Kanal Ana Haber Bülteni, Serkan Aksarı&#x27;nın sunumuyla hafta içi her gün izleyiciyle buluşuyor. Türkiye&#x27;den ve dünyadan öne çıkan gelişmeler, sahadan canlı bağlantılar ve özet analizlerle aktarılıyor. Program, izleyiciye güvenilir, net ve kesintisiz bir gündem takibi sunuyor her gün düzenli şekilde.</desc>
-    <category lang="tr">Haber</category>
+  <programme start="20260406200000 +0000" stop="20260406210000 +0000" channel="ulusal-kanal">
+    <title lang="tr">Kısa Film</title>
+    <desc lang="tr">Kısa Film ile kısa filmin gücüne tanık olun. Farklı türlerden seçilen yapımlar, aşk acısı, yalnızlık, toplumsal eleştiri, mizah, deneysel anlatımlar detaylıca ele alınıyor. Yönetmenlerin kısa sürede yarattığı yoğun duygu, özgün kurgu teknikleri, festival başarıları samimi bir anlatımla sunuluyor.</desc>
+    <category lang="tr">Film</category>
   </programme>
   <programme start="20260406000000 +0000" stop="20260406014500 +0000" channel="vav-tv">
     <title lang="tr">Doğu&#x27;dan Batı&#x27;ya Tarih</title>
