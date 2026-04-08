@@ -88,87 +88,175 @@
     <title lang="tr">Trendyol 1.Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407144500 +0000" stop="20260407145900 +0000" channel="beinsports3.tr">
+  <programme start="20260408044500 +0000" stop="20260408045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407150000 +0000" stop="20260407164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Tottenham Hotspur</title>
+  <programme start="20260408050000 +0000" stop="20260408064400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - Bournemouth</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407164500 +0000" stop="20260407165900 +0000" channel="beinsports3.tr">
+  <programme start="20260408064500 +0000" stop="20260408065900 +0000" channel="beinsports3.tr">
     <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407170000 +0000" stop="20260407172900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Chelsea - Bournemouth</title>
+  <programme start="20260408070000 +0000" stop="20260408084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham United - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407173000 +0000" stop="20260407175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Newcastle United</title>
+  <programme start="20260408084500 +0000" stop="20260408085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407180000 +0000" stop="20260407182900 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham United-Brighton H.A.</title>
+  <programme start="20260408090000 +0000" stop="20260408104400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Burnley - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407183000 +0000" stop="20260407185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Nottingham Forest - Everton</title>
+  <programme start="20260408104500 +0000" stop="20260408105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407190000 +0000" stop="20260407192900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Aston Villa</title>
+  <programme start="20260408110000 +0000" stop="20260408124400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Aston Villa</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407193000 +0000" stop="20260407195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Manchester United-W. Wanderers</title>
+  <programme start="20260408124500 +0000" stop="20260408125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407200000 +0000" stop="20260407220000 +0000" channel="beinsports3.tr">
+  <programme start="20260408130000 +0000" stop="20260408144400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Leeds United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408144500 +0000" stop="20260408145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408150000 +0000" stop="20260408164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Crystal Palace - Tottenham H.</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408164500 +0000" stop="20260408165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408170000 +0000" stop="20260408172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man. United - Newcastle United</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408173000 +0000" stop="20260408175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nottingham Forest - Man. City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408180000 +0000" stop="20260408182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Arsenal - B. Hove Albion</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408183000 +0000" stop="20260408185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - W.  Wanderers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408190000 +0000" stop="20260408192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408193000 +0000" stop="20260408195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham United - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408200000 +0000" stop="20260408220000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407144500 +0000" stop="20260407145900 +0000" channel="beinsports4.tr">
+  <programme start="20260408024500 +0000" stop="20260408025900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407150000 +0000" stop="20260407164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Angers - Olympique Lyon</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260407164500 +0000" stop="20260407165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260407170000 +0000" stop="20260407172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Montpellier - Troyes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260407173000 +0000" stop="20260407175900 +0000" channel="beinsports4.tr">
+  <programme start="20260408030000 +0000" stop="20260408044400 +0000" channel="beinsports4.tr">
     <title lang="tr">Nancy - Saint-Etienne</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407180000 +0000" stop="20260407182900 +0000" channel="beinsports4.tr">
+  <programme start="20260408044500 +0000" stop="20260408045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408050000 +0000" stop="20260408064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Lens</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408064500 +0000" stop="20260408065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408070000 +0000" stop="20260408084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Angers - Olympique Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408084500 +0000" stop="20260408085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408090000 +0000" stop="20260408104400 +0000" channel="beinsports4.tr">
     <title lang="tr">Lorient - Paris FC</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407183000 +0000" stop="20260407185900 +0000" channel="beinsports4.tr">
+  <programme start="20260408104500 +0000" stop="20260408105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408110000 +0000" stop="20260408124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Havre - Auxerre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407190000 +0000" stop="20260407192900 +0000" channel="beinsports4.tr">
+  <programme start="20260408124500 +0000" stop="20260408125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408130000 +0000" stop="20260408144400 +0000" channel="beinsports4.tr">
     <title lang="tr">Metz - Nantes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407193000 +0000" stop="20260407195900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Monaco-Olympique de Marseille</title>
+  <programme start="20260408144500 +0000" stop="20260408145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407200000 +0000" stop="20260407202900 +0000" channel="beinsports4.tr">
+  <programme start="20260408150000 +0000" stop="20260408164400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Olympique de M.</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408164500 +0000" stop="20260408165900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408170000 +0000" stop="20260408172900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Nancy - Saint-Etienne</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408173000 +0000" stop="20260408175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Montpellier - Troyes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408180000 +0000" stop="20260408182900 +0000" channel="beinsports4.tr">
+    <title lang="tr">PSG  - Toulouse</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408183000 +0000" stop="20260408185900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Strasbourg - Nice</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408190000 +0000" stop="20260408192900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Rennes</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408193000 +0000" stop="20260408195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Lille - Lens</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260408200000 +0000" stop="20260408202900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260407203000 +0000" stop="20260407223000 +0000" channel="beinsports4.tr">
+  <programme start="20260408203000 +0000" stop="20260408223000 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
