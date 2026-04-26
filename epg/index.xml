@@ -136,72 +136,80 @@
     <title lang="tr">Burnley - Manchester City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425024500 +0000" stop="20260425025900 +0000" channel="beinsports4.tr">
+  <programme start="20260426024500 +0000" stop="20260426025900 +0000" channel="beinsports4.tr">
     <title lang="tr">On A Revu</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425030000 +0000" stop="20260425044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint-Germain - Nantes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425044500 +0000" stop="20260425045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">On A Revu</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425050000 +0000" stop="20260425064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lens - Toulouse</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425064500 +0000" stop="20260425065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">On A Revu</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425070000 +0000" stop="20260425084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Strasbourg - Nice</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425084500 +0000" stop="20260425085900 +0000" channel="beinsports4.tr">
-    <title lang="tr">On A Revu</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425090000 +0000" stop="20260425104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Lens</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425104500 +0000" stop="20260425105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Coupe de France Goller</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425110000 +0000" stop="20260425112900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425113000 +0000" stop="20260425115900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Preview</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260425120000 +0000" stop="20260425135900 +0000" channel="beinsports4.tr">
+  <programme start="20260426030000 +0000" stop="20260426044400 +0000" channel="beinsports4.tr">
     <title lang="tr">Stade de Reims - Nancy</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425140000 +0000" stop="20260425155900 +0000" channel="beinsports4.tr">
-    <title lang="tr">W. Wanderers - Tottenham H.</title>
+  <programme start="20260426044500 +0000" stop="20260426045900 +0000" channel="beinsports4.tr">
+    <title lang="tr">On A Revu</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425160000 +0000" stop="20260425162900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ma Super Ligue 1</title>
+  <programme start="20260426050000 +0000" stop="20260426064400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Saint-Etienne - Troyes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425163000 +0000" stop="20260425165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ma Super Ligue 1</title>
+  <programme start="20260426064500 +0000" stop="20260426065900 +0000" channel="beinsports4.tr">
+    <title lang="tr">On A Revu</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425170000 +0000" stop="20260425190400 +0000" channel="beinsports4.tr">
+  <programme start="20260426070000 +0000" stop="20260426084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique Lyon - Auxerre</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426084500 +0000" stop="20260426085900 +0000" channel="beinsports4.tr">
+    <title lang="tr">On A Revu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426090000 +0000" stop="20260426104400 +0000" channel="beinsports4.tr">
     <title lang="tr">Angers - Paris Saint-Germain</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260425190500 +0000" stop="20260425210500 +0000" channel="beinsports4.tr">
+  <programme start="20260426104500 +0000" stop="20260426105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Coupe de France Goller</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426110000 +0000" stop="20260426124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Toulouse - Monaco</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426124500 +0000" stop="20260426125900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426130000 +0000" stop="20260426145900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Amedspor - Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426150000 +0000" stop="20260426151400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426151500 +0000" stop="20260426171400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Paris FC - Lille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426171500 +0000" stop="20260426174400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ma Super Ligue 1</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426174500 +0000" stop="20260426181400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426181500 +0000" stop="20260426184400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426184500 +0000" stop="20260426204400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Olympique de Marseille - Nice</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426204500 +0000" stop="20260426224500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Coupe de France Goller</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
