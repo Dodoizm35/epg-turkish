@@ -72,8 +72,12 @@
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260426200000 +0000" stop="20260426220000 +0000" channel="beinsports2.tr">
+  <programme start="20260426200000 +0000" stop="20260426204400 +0000" channel="beinsports2.tr">
     <title lang="tr">Süper Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260426204500 +0000" stop="20260426224500 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260426044500 +0000" stop="20260426045900 +0000" channel="beinsports3.tr">
