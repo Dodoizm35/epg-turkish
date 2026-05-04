@@ -172,7 +172,11 @@
     <title lang="tr">Lille - Havre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260504144500 +0000" stop="20260504145900 +0000" channel="beinsports4.tr">
+  <programme start="20260504144500 +0000" stop="20260504144600 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260504144700 +0000" stop="20260504145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
