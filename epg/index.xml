@@ -16,68 +16,60 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260506044500 +0000" stop="20260506045900 +0000" channel="beinsports2.tr">
+  <programme start="20260507044500 +0000" stop="20260507045900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506050000 +0000" stop="20260506064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bandırmaspor - Sivasspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506064500 +0000" stop="20260506065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506070000 +0000" stop="20260506084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ümraniyespor - Keçiörengücü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506084500 +0000" stop="20260506085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506090000 +0000" stop="20260506104400 +0000" channel="beinsports2.tr">
+  <programme start="20260507050000 +0000" stop="20260507064400 +0000" channel="beinsports2.tr">
     <title lang="tr">Hatayspor - Vanspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506104500 +0000" stop="20260506105900 +0000" channel="beinsports2.tr">
+  <programme start="20260507064500 +0000" stop="20260507065900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506110000 +0000" stop="20260506124400 +0000" channel="beinsports2.tr">
+  <programme start="20260507070000 +0000" stop="20260507084400 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Serikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506124500 +0000" stop="20260506125900 +0000" channel="beinsports2.tr">
+  <programme start="20260507084500 +0000" stop="20260507085900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506130000 +0000" stop="20260506144400 +0000" channel="beinsports2.tr">
+  <programme start="20260507090000 +0000" stop="20260507104400 +0000" channel="beinsports2.tr">
     <title lang="tr">İstanbulspor - AdanaDemirspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506144500 +0000" stop="20260506145900 +0000" channel="beinsports2.tr">
+  <programme start="20260507104500 +0000" stop="20260507105900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506150000 +0000" stop="20260506164400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - Sakaryaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506164500 +0000" stop="20260506165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260506170000 +0000" stop="20260506185900 +0000" channel="beinsports2.tr">
+  <programme start="20260507110000 +0000" stop="20260507125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Iğdır FK - Amed S.F.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506190000 +0000" stop="20260506204400 +0000" channel="beinsports2.tr">
-    <title lang="tr">E.Erokspor - Pendikspor</title>
+  <programme start="20260507130000 +0000" stop="20260507144400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Çorum FK - Erzurumspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260506204500 +0000" stop="20260506224500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260507144500 +0000" stop="20260507163900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Ümraniyespor - Keçiörengücü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260507164000 +0000" stop="20260507165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260507170000 +0000" stop="20260507192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Çorum FK - Keçiörengücü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260507193000 +0000" stop="20260507195900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Haftası</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260507200000 +0000" stop="20260507220000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260506050000 +0000" stop="20260506065900 +0000" channel="beinsports3.tr">
