@@ -104,8 +104,12 @@
     <title lang="tr">C.Palace - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512130000 +0000" stop="20260512145900 +0000" channel="beinsports3.tr">
+  <programme start="20260512130000 +0000" stop="20260512144400 +0000" channel="beinsports3.tr">
     <title lang="tr">Burnley - A.Villa</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260512144500 +0000" stop="20260512145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Goller</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260512150000 +0000" stop="20260512165900 +0000" channel="beinsports3.tr">
@@ -128,8 +132,12 @@
     <title lang="tr">Brighton - Wolves</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512190000 +0000" stop="20260512210000 +0000" channel="beinsports3.tr">
+  <programme start="20260512190000 +0000" stop="20260512195900 +0000" channel="beinsports3.tr">
     <title lang="tr">Fulham - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260512200000 +0000" stop="20260512220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260512024600 +0000" stop="20260512025900 +0000" channel="beinsports4.tr">
@@ -168,19 +176,19 @@
     <title lang="tr">Saint-Étienne - Amiens</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512130000 +0000" stop="20260512150000 +0000" channel="beinsports4.tr">
+  <programme start="20260512130000 +0000" stop="20260512145900 +0000" channel="beinsports4.tr">
     <title lang="tr">PSG - Lyon</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512150100 +0000" stop="20260512164500 +0000" channel="beinsports4.tr">
+  <programme start="20260512150000 +0000" stop="20260512164400 +0000" channel="beinsports4.tr">
     <title lang="tr">Le Havre - Marseille</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512164600 +0000" stop="20260512170000 +0000" channel="beinsports4.tr">
+  <programme start="20260512164500 +0000" stop="20260512165900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260512170100 +0000" stop="20260512172900 +0000" channel="beinsports4.tr">
+  <programme start="20260512170000 +0000" stop="20260512172900 +0000" channel="beinsports4.tr">
     <title lang="tr">Saint-Étienne - Amiens</title>
     <category lang="tr">Sports</category>
   </programme>
