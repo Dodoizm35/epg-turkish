@@ -16,55 +16,55 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260516050000 +0000" stop="20260516064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Vanspor FK - Sivasspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516064500 +0000" stop="20260516065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516070000 +0000" stop="20260516084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bodrum FK - Çorum FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516084500 +0000" stop="20260516085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516090000 +0000" stop="20260516104400 +0000" channel="beinsports2.tr">
-    <title lang="tr">AdanaDemirspor - Erzurumspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516104500 +0000" stop="20260516123100 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - E.Erokspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516123200 +0000" stop="20260516141400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sarıyerspor - Pendikspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516141500 +0000" stop="20260516155900 +0000" channel="beinsports2.tr">
+  <programme start="20260517044500 +0000" stop="20260517071400 +0000" channel="beinsports2.tr">
     <title lang="tr">Çorum FK - Bodrum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516160000 +0000" stop="20260516165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Gaziantep FK - Başakşehir</title>
+  <programme start="20260517071500 +0000" stop="20260517085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">E.Erokspor - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516170000 +0000" stop="20260516192900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Gaziantep F.K - Başakşehir F.K</title>
+  <programme start="20260517090000 +0000" stop="20260517104400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sivasspor - AdanaDemirspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516193000 +0000" stop="20260516201400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Kasımpaşa - Galatasaray</title>
+  <programme start="20260517104500 +0000" stop="20260517105900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516201500 +0000" stop="20260516202900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trabzonspor - Gençlerbirliği</title>
+  <programme start="20260517110000 +0000" stop="20260517125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Amed S.F. - Sarıyerspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516203000 +0000" stop="20260516223000 +0000" channel="beinsports2.tr">
+  <programme start="20260517130000 +0000" stop="20260517132800 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517132900 +0000" stop="20260517135900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig P.O. Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517140000 +0000" stop="20260517160100 +0000" channel="beinsports2.tr">
+    <title lang="tr">Everton - Sunderland</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517160200 +0000" stop="20260517165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517170000 +0000" stop="20260517192900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Fenerbahçe - İ.Eyüpspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517193000 +0000" stop="20260517194400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bir Yıldız On Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517194500 +0000" stop="20260517200300 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig P.O. Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260517200400 +0000" stop="20260517220400 +0000" channel="beinsports2.tr">
     <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -112,24 +112,12 @@
     <title lang="tr">A.Villa - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516164700 +0000" stop="20260516174700 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Goller</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260516164700 +0000" stop="20260516170000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Goller</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260516170100 +0000" stop="20260516180100 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham Utd - Arsenal</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260516170100 +0000" stop="20260516185900 +0000" channel="beinsports3.tr">
     <title lang="tr">West Ham Utd - Arsenal</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260516190000 +0000" stop="20260516200000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Tottenham - Leeds Utd</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260516190000 +0000" stop="20260516210000 +0000" channel="beinsports3.tr">
