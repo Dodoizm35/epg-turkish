@@ -124,19 +124,23 @@
     <title lang="tr">Arsenal - Burnley</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260521144500 +0000" stop="20260521145900 +0000" channel="beinsports3.tr">
+  <programme start="20260521144500 +0000" stop="20260521144600 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260521150000 +0000" stop="20260521164400 +0000" channel="beinsports3.tr">
+  <programme start="20260521144700 +0000" stop="20260521150000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260521150100 +0000" stop="20260521164500 +0000" channel="beinsports3.tr">
     <title lang="tr">Bournemouth - Man.City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260521164500 +0000" stop="20260521165900 +0000" channel="beinsports3.tr">
+  <programme start="20260521164600 +0000" stop="20260521170000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260521170000 +0000" stop="20260521184400 +0000" channel="beinsports3.tr">
+  <programme start="20260521170100 +0000" stop="20260521184400 +0000" channel="beinsports3.tr">
     <title lang="tr">Chelsea - Tottenham</title>
     <category lang="tr">Sports</category>
   </programme>
