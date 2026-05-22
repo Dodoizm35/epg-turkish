@@ -204,11 +204,15 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260522140500 +0000" stop="20260522145900 +0000" channel="beinsports4.tr">
+  <programme start="20260522140500 +0000" stop="20260522145800 +0000" channel="beinsports4.tr">
     <title lang="tr">F2 Kanada GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260522150000 +0000" stop="20260522152600 +0000" channel="beinsports4.tr">
+  <programme start="20260522145900 +0000" stop="20260522151200 +0000" channel="beinsports4.tr">
+    <title lang="tr">DTM Geniş Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260522151300 +0000" stop="20260522152600 +0000" channel="beinsports4.tr">
     <title lang="tr">DTM Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
