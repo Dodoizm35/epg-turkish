@@ -96,8 +96,12 @@
     <title lang="tr">West Ham Utd - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260530110000 +0000" stop="20260530145900 +0000" channel="beinsports3.tr">
+  <programme start="20260530110000 +0000" stop="20260530125900 +0000" channel="beinsports3.tr">
     <title lang="tr">Man.City - Tottenham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260530130000 +0000" stop="20260530145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brentford - A.Villa</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260530150000 +0000" stop="20260530165900 +0000" channel="beinsports3.tr">
