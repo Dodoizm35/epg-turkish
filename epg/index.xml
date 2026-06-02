@@ -16,104 +16,36 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260601044600 +0000" stop="20260601045900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260602050000 +0000" stop="20260602065900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man.Utd - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601050000 +0000" stop="20260601064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sivasspor - Amed S.F.</title>
+  <programme start="20260602070000 +0000" stop="20260602085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Newcastle Utd</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601064500 +0000" stop="20260601065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260602090000 +0000" stop="20260602105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601070000 +0000" stop="20260601084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - İstanbulspor</title>
+  <programme start="20260602110000 +0000" stop="20260602125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Brighton - Tottenham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601084500 +0000" stop="20260601085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260602130000 +0000" stop="20260602145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">West Ham Utd - C.Palace</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601090000 +0000" stop="20260601104400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Keçiörengücü - Boluspor</title>
+  <programme start="20260602150000 +0000" stop="20260602165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Wolves - Leeds Utd</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601104500 +0000" stop="20260601105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
+  <programme start="20260602170000 +0000" stop="20260602185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man.Utd - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260601110000 +0000" stop="20260601124400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Serikspor - E.Erokspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601124500 +0000" stop="20260601125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601130000 +0000" stop="20260601144400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Pendikspor - Erzurumspor FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601144500 +0000" stop="20260601145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601150000 +0000" stop="20260601164500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sarıyerspor - Çorum FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601164600 +0000" stop="20260601165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601170000 +0000" stop="20260601184400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sivasspor - Amed S.F.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601184500 +0000" stop="20260601185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601190000 +0000" stop="20260601204400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Manisa FK - İstanbulspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601204500 +0000" stop="20260601224500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601050000 +0000" stop="20260601065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Chelsea</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601070000 +0000" stop="20260601085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Liverpool</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601090000 +0000" stop="20260601105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Arsenal - Nott&#x27;m Forest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601110000 +0000" stop="20260601125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Newcastle Utd - Wolves</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601130000 +0000" stop="20260601145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Bournemouth - Brighton</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601150000 +0000" stop="20260601165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">West Ham Utd - Tottenham</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601170000 +0000" stop="20260601185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Brentford - Chelsea</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260601190000 +0000" stop="20260601210000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Burnley - Liverpool</title>
+  <programme start="20260602190000 +0000" stop="20260602210000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Newcastle Utd</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260601024500 +0000" stop="20260601025900 +0000" channel="beinsports4.tr">
