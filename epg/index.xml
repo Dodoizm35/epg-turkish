@@ -68,16 +68,32 @@
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260602170000 +0000" stop="20260602180000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bandırmaspor - Vanspor FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260602170000 +0000" stop="20260602184400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bandırmaspor - Vanspor FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260602184500 +0000" stop="20260602194500 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260602184500 +0000" stop="20260602185900 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20260602190000 +0000" stop="20260602200000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Boluspor - Sakaryaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20260602190000 +0000" stop="20260602204400 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Sakaryaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260602204500 +0000" stop="20260602214500 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260602204500 +0000" stop="20260602224500 +0000" channel="beinsports2.tr">
@@ -110,10 +126,6 @@
   </programme>
   <programme start="20260602170000 +0000" stop="20260602185900 +0000" channel="beinsports3.tr">
     <title lang="tr">Man.Utd - Chelsea</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260602190000 +0000" stop="20260602200000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Bournemouth - Newcastle Utd</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260602190000 +0000" stop="20260602210000 +0000" channel="beinsports3.tr">
