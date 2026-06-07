@@ -212,32 +212,28 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607131300 +0000" stop="20260607152900 +0000" channel="beinsports4.tr">
+  <programme start="20260607131300 +0000" stop="20260607151600 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Monaco GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607153000 +0000" stop="20260607165800 +0000" channel="beinsports4.tr">
+  <programme start="20260607151700 +0000" stop="20260607164500 +0000" channel="beinsports4.tr">
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607165900 +0000" stop="20260607192900 +0000" channel="beinsports4.tr">
+  <programme start="20260607164600 +0000" stop="20260607185900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Monaco GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607193000 +0000" stop="20260607202700 +0000" channel="beinsports4.tr">
-    <title lang="tr">European Le Mans</title>
+  <programme start="20260607190000 +0000" stop="20260607202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607202800 +0000" stop="20260607204200 +0000" channel="beinsports4.tr">
+  <programme start="20260607203000 +0000" stop="20260607204400 +0000" channel="beinsports4.tr">
     <title lang="tr">DTM Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260607204300 +0000" stop="20260607205700 +0000" channel="beinsports4.tr">
+  <programme start="20260607204500 +0000" stop="20260607224500 +0000" channel="beinsports4.tr">
     <title lang="tr">DTM Geniş Özet</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260607205800 +0000" stop="20260607225800 +0000" channel="beinsports4.tr">
-    <title lang="tr">Chasing The Dream</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
