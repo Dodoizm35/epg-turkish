@@ -56,24 +56,24 @@
     <title lang="tr">Bandırmaspor - Keçiörengücü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623144500 +0000" stop="20260623145900 +0000" channel="beinsports2.tr">
+  <programme start="20260623144500 +0000" stop="20260623144700 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623150000 +0000" stop="20260623164400 +0000" channel="beinsports2.tr">
+  <programme start="20260623144800 +0000" stop="20260623150000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260623150100 +0000" stop="20260623164600 +0000" channel="beinsports2.tr">
     <title lang="tr">Iğdır FK - Serikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623164500 +0000" stop="20260623165900 +0000" channel="beinsports2.tr">
+  <programme start="20260623164700 +0000" stop="20260623170100 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623170000 +0000" stop="20260623184400 +0000" channel="beinsports2.tr">
+  <programme start="20260623170200 +0000" stop="20260623185900 +0000" channel="beinsports2.tr">
     <title lang="tr">Amed S.F. - Pendikspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260623184500 +0000" stop="20260623185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260623190000 +0000" stop="20260623204400 +0000" channel="beinsports2.tr">
@@ -124,27 +124,31 @@
     <title lang="tr">West Ham Utd - Man.Utd</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623144500 +0000" stop="20260623145900 +0000" channel="beinsports3.tr">
+  <programme start="20260623144500 +0000" stop="20260623154500 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623150000 +0000" stop="20260623164400 +0000" channel="beinsports3.tr">
+  <programme start="20260623144600 +0000" stop="20260623145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260623150000 +0000" stop="20260623164300 +0000" channel="beinsports3.tr">
     <title lang="tr">Man.City - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623164500 +0000" stop="20260623165900 +0000" channel="beinsports3.tr">
+  <programme start="20260623164400 +0000" stop="20260623170000 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623170000 +0000" stop="20260623184400 +0000" channel="beinsports3.tr">
+  <programme start="20260623170100 +0000" stop="20260623184600 +0000" channel="beinsports3.tr">
     <title lang="tr">Sunderland - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623184500 +0000" stop="20260623185900 +0000" channel="beinsports3.tr">
+  <programme start="20260623184700 +0000" stop="20260623190100 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260623190000 +0000" stop="20260623204400 +0000" channel="beinsports3.tr">
+  <programme start="20260623190200 +0000" stop="20260623204400 +0000" channel="beinsports3.tr">
     <title lang="tr">Brentford - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
