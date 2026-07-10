@@ -108,100 +108,28 @@
     <title lang="tr">Burnley - Nott&#x27;m Forest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260710144500 +0000" stop="20260710145900 +0000" channel="beinsports3.tr">
+  <programme start="20260710144500 +0000" stop="20260710144600 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260710150000 +0000" stop="20260710165900 +0000" channel="beinsports3.tr">
+  <programme start="20260710144700 +0000" stop="20260710145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260710150000 +0000" stop="20260710170000 +0000" channel="beinsports3.tr">
     <title lang="tr">Man.Utd - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260710170000 +0000" stop="20260710184400 +0000" channel="beinsports3.tr">
+  <programme start="20260710170100 +0000" stop="20260710184500 +0000" channel="beinsports3.tr">
     <title lang="tr">Sunderland - A.Villa</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260710184500 +0000" stop="20260710185900 +0000" channel="beinsports3.tr">
+  <programme start="20260710184600 +0000" stop="20260710190100 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260710190000 +0000" stop="20260710210000 +0000" channel="beinsports3.tr">
+  <programme start="20260710190200 +0000" stop="20260710210200 +0000" channel="beinsports3.tr">
     <title lang="tr">Arsenal - Man.City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710024500 +0000" stop="20260710025900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710030000 +0000" stop="20260710044400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Le Havre - Paris FC</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710044500 +0000" stop="20260710045900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710050000 +0000" stop="20260710064400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Auxerre - Metz</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710064500 +0000" stop="20260710065900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710070000 +0000" stop="20260710084400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - O.Lyon</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710084500 +0000" stop="20260710085900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710090000 +0000" stop="20260710104400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Monaco</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710104500 +0000" stop="20260710105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710110000 +0000" stop="20260710124400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lille - Marseille</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710124500 +0000" stop="20260710125900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710130000 +0000" stop="20260710144400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Paris Saint Germain - Rennes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710144500 +0000" stop="20260710145900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710150000 +0000" stop="20260710164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Le Havre - Paris FC</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710164500 +0000" stop="20260710165900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710170000 +0000" stop="20260710184400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Auxerre - Metz</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710184500 +0000" stop="20260710185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710190000 +0000" stop="20260710204400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - O.Lyon</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260710204500 +0000" stop="20260710224500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
