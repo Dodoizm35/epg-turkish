@@ -56,27 +56,27 @@
     <title lang="tr">E.Erokspor - Keçiörengücü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724144500 +0000" stop="20260724145900 +0000" channel="beinsports2.tr">
+  <programme start="20260724144500 +0000" stop="20260724144600 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724150000 +0000" stop="20260724164400 +0000" channel="beinsports2.tr">
+  <programme start="20260724144700 +0000" stop="20260724145900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Trendyol 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724150000 +0000" stop="20260724165900 +0000" channel="beinsports2.tr">
     <title lang="tr">Çorum FK - Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724164500 +0000" stop="20260724165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Trendyol 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260724170000 +0000" stop="20260724184500 +0000" channel="beinsports2.tr">
+  <programme start="20260724170000 +0000" stop="20260724184800 +0000" channel="beinsports2.tr">
     <title lang="tr">İstanbulspor - Sarıyerspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724184600 +0000" stop="20260724185900 +0000" channel="beinsports2.tr">
+  <programme start="20260724184900 +0000" stop="20260724190100 +0000" channel="beinsports2.tr">
     <title lang="tr">Trendyol 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724190000 +0000" stop="20260724204400 +0000" channel="beinsports2.tr">
+  <programme start="20260724190200 +0000" stop="20260724204400 +0000" channel="beinsports2.tr">
     <title lang="tr">Manisa FK - Serikspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -124,7 +124,11 @@
     <title lang="tr">Arsenal - A.Villa</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724144500 +0000" stop="20260724145900 +0000" channel="beinsports3.tr">
+  <programme start="20260724144500 +0000" stop="20260724144600 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724144700 +0000" stop="20260724145900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -240,31 +244,39 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724140500 +0000" stop="20260724145400 +0000" channel="beinsports4.tr">
+  <programme start="20260724140500 +0000" stop="20260724144900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 2 Macaristan</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724145500 +0000" stop="20260724162400 +0000" channel="beinsports4.tr">
+  <programme start="20260724145000 +0000" stop="20260724145400 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724162500 +0000" stop="20260724172900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Yarış Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260724173000 +0000" stop="20260724174400 +0000" channel="beinsports4.tr">
-    <title lang="tr">F1 Britanya GP Geniş Özet</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260724174500 +0000" stop="20260724175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">F1 Belçika GP Geniş Özet</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260724180000 +0000" stop="20260724191400 +0000" channel="beinsports4.tr">
+  <programme start="20260724145500 +0000" stop="20260724161900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Macaristan GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260724191500 +0000" stop="20260724211500 +0000" channel="beinsports4.tr">
+  <programme start="20260724162000 +0000" stop="20260724162400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Yarış Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724162500 +0000" stop="20260724172400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Porsche Mobil 1 Super Cup</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724172500 +0000" stop="20260724174000 +0000" channel="beinsports4.tr">
+    <title lang="tr">F1 Britanya GP Geniş Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724174100 +0000" stop="20260724175500 +0000" channel="beinsports4.tr">
+    <title lang="tr">F1 Belçika GP Geniş Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724175600 +0000" stop="20260724190900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Macaristan GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260724191000 +0000" stop="20260724211000 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Macaristan GP</title>
     <category lang="tr">Sports</category>
   </programme>
