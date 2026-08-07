@@ -52,20 +52,28 @@
     <title lang="tr">Çorum FK - Bodrum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260807155900 +0000" stop="20260807161300 +0000" channel="beinsports2.tr">
+  <programme start="20260807155900 +0000" stop="20260807165900 +0000" channel="beinsports2.tr">
     <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260807161400 +0000" stop="20260807180800 +0000" channel="beinsports2.tr">
+  <programme start="20260807160000 +0000" stop="20260807161400 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260807161500 +0000" stop="20260807180900 +0000" channel="beinsports2.tr">
     <title lang="tr">E.Erokspor - Çorum FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260807180900 +0000" stop="20260807182800 +0000" channel="beinsports2.tr">
+  <programme start="20260807181000 +0000" stop="20260807182900 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260807182900 +0000" stop="20260807202900 +0000" channel="beinsports2.tr">
+  <programme start="20260807183000 +0000" stop="20260807202900 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Manisa FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260807203000 +0000" stop="20260807223000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260807044500 +0000" stop="20260807045900 +0000" channel="beinsports3.tr">
