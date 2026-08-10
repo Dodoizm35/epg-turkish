@@ -16,48 +16,60 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260809044500 +0000" stop="20260809045900 +0000" channel="beinsports2.tr">
+  <programme start="20260810044500 +0000" stop="20260810045900 +0000" channel="beinsports2.tr">
     <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809050000 +0000" stop="20260809064700 +0000" channel="beinsports2.tr">
+  <programme start="20260810050000 +0000" stop="20260810064500 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809064800 +0000" stop="20260809083300 +0000" channel="beinsports2.tr">
+  <programme start="20260810064600 +0000" stop="20260810065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260810070000 +0000" stop="20260810084400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bandırmaspor - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809083400 +0000" stop="20260809101400 +0000" channel="beinsports2.tr">
+  <programme start="20260810084500 +0000" stop="20260810085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260810090000 +0000" stop="20260810104400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sivasspor - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809101500 +0000" stop="20260809115900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ümraniyespor - Mardin 1969</title>
+  <programme start="20260810104500 +0000" stop="20260810105900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809120000 +0000" stop="20260809134500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Antalyaspor - A. Keçiörengücü</title>
+  <programme start="20260810110000 +0000" stop="20260810124400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bodrum FK - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809134600 +0000" stop="20260809153900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Boluspor - Manisa FK</title>
+  <programme start="20260810124500 +0000" stop="20260810142900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Vanspor FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809154000 +0000" stop="20260809155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260809160000 +0000" stop="20260809180900 +0000" channel="beinsports2.tr">
+  <programme start="20260810143000 +0000" stop="20260810161400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sarıyer - Muğlaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809181000 +0000" stop="20260809182900 +0000" channel="beinsports2.tr">
+  <programme start="20260810161500 +0000" stop="20260810175900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Igdır FK - F. Karagümrük</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260810180000 +0000" stop="20260810180900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol - Van Persıe</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260810181000 +0000" stop="20260810182900 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260809183000 +0000" stop="20260809203000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bodrum FK - Bursaspor</title>
+  <programme start="20260810183000 +0000" stop="20260810203000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Pendikspor - Batman P.</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260810044500 +0000" stop="20260810045900 +0000" channel="beinsports3.tr">
@@ -112,11 +124,11 @@
     <title lang="tr">West Ham Utd - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260810184800 +0000" stop="20260810190000 +0000" channel="beinsports3.tr">
+  <programme start="20260810184800 +0000" stop="20260810190100 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Goller</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260810190100 +0000" stop="20260810210100 +0000" channel="beinsports3.tr">
+  <programme start="20260810190200 +0000" stop="20260810210200 +0000" channel="beinsports3.tr">
     <title lang="tr">Tottenham - Leeds Utd</title>
     <category lang="tr">Sports</category>
   </programme>
