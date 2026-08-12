@@ -32,20 +32,36 @@
     <title lang="tr">Igdır FK - F. Karagümrük</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812130000 +0000" stop="20260812145900 +0000" channel="beinsports2.tr">
+  <programme start="20260812130000 +0000" stop="20260812144400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bodrum FK - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812150000 +0000" stop="20260812165900 +0000" channel="beinsports2.tr">
+  <programme start="20260812144500 +0000" stop="20260812145900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812164400 +0000" channel="beinsports2.tr">
     <title lang="tr">Vanspor FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812170000 +0000" stop="20260812185900 +0000" channel="beinsports2.tr">
+  <programme start="20260812164500 +0000" stop="20260812165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812184400 +0000" channel="beinsports2.tr">
     <title lang="tr">Pendikspor - Batman P.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812190000 +0000" stop="20260812210000 +0000" channel="beinsports2.tr">
+  <programme start="20260812184500 +0000" stop="20260812185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260812190000 +0000" stop="20260812204500 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Manisa FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260812204600 +0000" stop="20260812224600 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260812044500 +0000" stop="20260812045900 +0000" channel="beinsports3.tr">
@@ -84,15 +100,15 @@
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812170000 +0000" stop="20260812184500 +0000" channel="beinsports3.tr">
+  <programme start="20260812170000 +0000" stop="20260812184700 +0000" channel="beinsports3.tr">
     <title lang="tr">Liverpool - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812184600 +0000" stop="20260812185900 +0000" channel="beinsports3.tr">
+  <programme start="20260812184800 +0000" stop="20260812190100 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812190000 +0000" stop="20260812210000 +0000" channel="beinsports3.tr">
+  <programme start="20260812190200 +0000" stop="20260812210200 +0000" channel="beinsports3.tr">
     <title lang="tr">Sunderland - Chelsea</title>
     <category lang="tr">Sports</category>
   </programme>
