@@ -16,51 +16,71 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260812050000 +0000" stop="20260812065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ümraniyespor - Mardin 1969</title>
+  <programme start="20260813044500 +0000" stop="20260813045900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812070000 +0000" stop="20260812085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Antalyaspor - A. Keçiörengücü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260812090000 +0000" stop="20260812105900 +0000" channel="beinsports2.tr">
+  <programme start="20260813050000 +0000" stop="20260813064400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sarıyer - Muğlaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812110000 +0000" stop="20260812125900 +0000" channel="beinsports2.tr">
+  <programme start="20260813064500 +0000" stop="20260813065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813070000 +0000" stop="20260813084400 +0000" channel="beinsports2.tr">
     <title lang="tr">Igdır FK - F. Karagümrük</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812130000 +0000" stop="20260812144400 +0000" channel="beinsports2.tr">
+  <programme start="20260813084500 +0000" stop="20260813085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813090000 +0000" stop="20260813104400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bodrum FK - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812144500 +0000" stop="20260812145900 +0000" channel="beinsports2.tr">
+  <programme start="20260813104500 +0000" stop="20260813105900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812150000 +0000" stop="20260812164400 +0000" channel="beinsports2.tr">
+  <programme start="20260813110000 +0000" stop="20260813124400 +0000" channel="beinsports2.tr">
     <title lang="tr">Vanspor FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812164500 +0000" stop="20260812165900 +0000" channel="beinsports2.tr">
+  <programme start="20260813124500 +0000" stop="20260813125900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812170000 +0000" stop="20260812184400 +0000" channel="beinsports2.tr">
+  <programme start="20260813130000 +0000" stop="20260813144400 +0000" channel="beinsports2.tr">
     <title lang="tr">Pendikspor - Batman P.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812184500 +0000" stop="20260812185900 +0000" channel="beinsports2.tr">
+  <programme start="20260813144500 +0000" stop="20260813145900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812190000 +0000" stop="20260812204500 +0000" channel="beinsports2.tr">
+  <programme start="20260813150000 +0000" stop="20260813164500 +0000" channel="beinsports2.tr">
     <title lang="tr">Boluspor - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260812204600 +0000" stop="20260812224600 +0000" channel="beinsports2.tr">
+  <programme start="20260813164600 +0000" stop="20260813165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813170000 +0000" stop="20260813184400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bandırmaspor - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813184500 +0000" stop="20260813185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813190000 +0000" stop="20260813204400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sivasspor - E. Erokspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260813204500 +0000" stop="20260813224500 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
