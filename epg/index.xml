@@ -16,72 +16,56 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260813044500 +0000" stop="20260813045900 +0000" channel="beinsports2.tr">
+  <programme start="20260814044500 +0000" stop="20260814045900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813050000 +0000" stop="20260813064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sarıyer - Muğlaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813064500 +0000" stop="20260813065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813070000 +0000" stop="20260813084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Igdır FK - F. Karagümrük</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813084500 +0000" stop="20260813085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813090000 +0000" stop="20260813104400 +0000" channel="beinsports2.tr">
+  <programme start="20260814050000 +0000" stop="20260814064400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bodrum FK - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813104500 +0000" stop="20260813105900 +0000" channel="beinsports2.tr">
+  <programme start="20260814064500 +0000" stop="20260814065900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813110000 +0000" stop="20260813124400 +0000" channel="beinsports2.tr">
+  <programme start="20260814070000 +0000" stop="20260814084400 +0000" channel="beinsports2.tr">
     <title lang="tr">Vanspor FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813124500 +0000" stop="20260813125900 +0000" channel="beinsports2.tr">
+  <programme start="20260814084500 +0000" stop="20260814085900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813130000 +0000" stop="20260813144500 +0000" channel="beinsports2.tr">
+  <programme start="20260814090000 +0000" stop="20260814104400 +0000" channel="beinsports2.tr">
     <title lang="tr">Pendikspor - Batman P.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813144600 +0000" stop="20260813145900 +0000" channel="beinsports2.tr">
+  <programme start="20260814104500 +0000" stop="20260814105900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813150000 +0000" stop="20260813164600 +0000" channel="beinsports2.tr">
-    <title lang="tr">Boluspor - Manisa FK</title>
+  <programme start="20260814110000 +0000" stop="20260814124400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Igdır FK - F. Karagümrük</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813164700 +0000" stop="20260813170000 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Golleri</title>
+  <programme start="20260814124500 +0000" stop="20260814142900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bodrum FK - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813170100 +0000" stop="20260813184500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bandırmaspor - İstanbulspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813184600 +0000" stop="20260813185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260813190000 +0000" stop="20260813204400 +0000" channel="beinsports2.tr">
+  <programme start="20260814143000 +0000" stop="20260814161400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sivasspor - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260813204500 +0000" stop="20260813224500 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Golleri</title>
+  <programme start="20260814161500 +0000" stop="20260814180900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sarıyer - Muğlaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260814181000 +0000" stop="20260814182900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260814183000 +0000" stop="20260814203000 +0000" channel="beinsports2.tr">
+    <title lang="tr">E. Erokspor - Sarıyer</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260814044500 +0000" stop="20260814045900 +0000" channel="beinsports3.tr">
@@ -112,11 +96,11 @@
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260814110000 +0000" stop="20260814124400 +0000" channel="beinsports3.tr">
+  <programme start="20260814110000 +0000" stop="20260814124500 +0000" channel="beinsports3.tr">
     <title lang="tr">Brighton - Liverpool</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260814124500 +0000" stop="20260814125900 +0000" channel="beinsports3.tr">
+  <programme start="20260814124600 +0000" stop="20260814125900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
