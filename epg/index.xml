@@ -16,52 +16,48 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260823050000 +0000" stop="20260823064400 +0000" channel="beinsports2.tr">
+  <programme start="20260824040000 +0000" stop="20260824054400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Vanspor FK - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260824054500 +0000" stop="20260824072900 +0000" channel="beinsports2.tr">
+    <title lang="tr">F. Karagümrük - Bursaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260824073000 +0000" stop="20260824091400 +0000" channel="beinsports2.tr">
     <title lang="tr">Ümraniyespor - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823064500 +0000" stop="20260823082900 +0000" channel="beinsports2.tr">
+  <programme start="20260824091500 +0000" stop="20260824105900 +0000" channel="beinsports2.tr">
     <title lang="tr">Igdır FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823083000 +0000" stop="20260823101400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bodrum FK - Muğlaspor</title>
+  <programme start="20260824110000 +0000" stop="20260824124400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bandırmaspor - A. Keçiörengücü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823101500 +0000" stop="20260823115900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Antalyaspor - Pendikspor</title>
+  <programme start="20260824124500 +0000" stop="20260824142900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Boluspor - Mardin 1969</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823120000 +0000" stop="20260823122500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Marseille - Strasbourg</title>
+  <programme start="20260824143000 +0000" stop="20260824161400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sarıyer - Batman P.</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823122600 +0000" stop="20260823125300 +0000" channel="beinsports2.tr">
-    <title lang="tr">Lens - Auxerre</title>
+  <programme start="20260824161500 +0000" stop="20260824175900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Vanspor FK - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823125400 +0000" stop="20260823125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Önü</title>
+  <programme start="20260824180000 +0000" stop="20260824180900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823130000 +0000" stop="20260823145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Angers - Lille</title>
+  <programme start="20260824181000 +0000" stop="20260824182900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260823150000 +0000" stop="20260823160000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260823150100 +0000" stop="20260823155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260823160000 +0000" stop="20260823182900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Eyüpspor - Gaziantep FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260823183000 +0000" stop="20260823203000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Göztepe - Gençlerbirliği</title>
+  <programme start="20260824183000 +0000" stop="20260824203000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sivasspor - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260824044500 +0000" stop="20260824045900 +0000" channel="beinsports3.tr">
@@ -144,31 +140,31 @@
     <title lang="tr">Formula 1 Hollanda GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824093000 +0000" stop="20260824105800 +0000" channel="beinsports4.tr">
+  <programme start="20260824093000 +0000" stop="20260824105900 +0000" channel="beinsports4.tr">
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824105900 +0000" stop="20260824115800 +0000" channel="beinsports4.tr">
+  <programme start="20260824110000 +0000" stop="20260824115900 +0000" channel="beinsports4.tr">
     <title lang="tr">F1 Academy Hollanda</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824115900 +0000" stop="20260824125800 +0000" channel="beinsports4.tr">
+  <programme start="20260824120000 +0000" stop="20260824125900 +0000" channel="beinsports4.tr">
     <title lang="tr">F1 Academy Hollanda</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824125900 +0000" stop="20260824135800 +0000" channel="beinsports4.tr">
+  <programme start="20260824130000 +0000" stop="20260824135900 +0000" channel="beinsports4.tr">
     <title lang="tr">Porsche Super Cup</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824135900 +0000" stop="20260824145800 +0000" channel="beinsports4.tr">
+  <programme start="20260824140000 +0000" stop="20260824145900 +0000" channel="beinsports4.tr">
     <title lang="tr">Porsche Super Cup</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824145900 +0000" stop="20260824155800 +0000" channel="beinsports4.tr">
+  <programme start="20260824150000 +0000" stop="20260824155900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Hollanda GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260824155900 +0000" stop="20260824183800 +0000" channel="beinsports4.tr">
+  <programme start="20260824160000 +0000" stop="20260824183800 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Hollanda GP</title>
     <category lang="tr">Sports</category>
   </programme>
