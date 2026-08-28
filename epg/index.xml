@@ -16,72 +16,52 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260827044500 +0000" stop="20260827045900 +0000" channel="beinsports2.tr">
+  <programme start="20260828044500 +0000" stop="20260828045900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827050000 +0000" stop="20260827064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sarıyer - Batman P.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827064500 +0000" stop="20260827065900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827084400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Vanspor FK - İstanbulspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827084500 +0000" stop="20260827085900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827104400 +0000" channel="beinsports2.tr">
+  <programme start="20260828050000 +0000" stop="20260828064400 +0000" channel="beinsports2.tr">
     <title lang="tr">Sivasspor - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827104500 +0000" stop="20260827105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827110000 +0000" stop="20260827124400 +0000" channel="beinsports2.tr">
+  <programme start="20260828064500 +0000" stop="20260828082900 +0000" channel="beinsports2.tr">
     <title lang="tr">F. Karagümrük - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827124500 +0000" stop="20260827125900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827130000 +0000" stop="20260827144400 +0000" channel="beinsports2.tr">
+  <programme start="20260828083000 +0000" stop="20260828101400 +0000" channel="beinsports2.tr">
     <title lang="tr">Ümraniyespor - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827144500 +0000" stop="20260827145900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827164400 +0000" channel="beinsports2.tr">
+  <programme start="20260828101500 +0000" stop="20260828115900 +0000" channel="beinsports2.tr">
     <title lang="tr">Igdır FK - Kayserispor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827164500 +0000" stop="20260827165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827170000 +0000" stop="20260827184400 +0000" channel="beinsports2.tr">
+  <programme start="20260828120000 +0000" stop="20260828134400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bodrum FK - Muğlaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827184500 +0000" stop="20260827185900 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260827190000 +0000" stop="20260827204400 +0000" channel="beinsports2.tr">
+  <programme start="20260828134500 +0000" stop="20260828153900 +0000" channel="beinsports2.tr">
     <title lang="tr">Antalyaspor - Pendikspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260827204500 +0000" stop="20260827224500 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
+  <programme start="20260828154000 +0000" stop="20260828155900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828181000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Pendikspor - Bandırmaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260828181100 +0000" stop="20260828183000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260828183100 +0000" stop="20260828203000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Antalyaspor - Sarıyer</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260828203100 +0000" stop="20260828223100 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260828044500 +0000" stop="20260828045900 +0000" channel="beinsports3.tr">
@@ -120,39 +100,39 @@
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828130500 +0000" stop="20260828145000 +0000" channel="beinsports3.tr">
+  <programme start="20260828130500 +0000" stop="20260828144500 +0000" channel="beinsports3.tr">
     <title lang="tr">Everton - C. Palace</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828145100 +0000" stop="20260828150400 +0000" channel="beinsports3.tr">
+  <programme start="20260828144600 +0000" stop="20260828145900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828150500 +0000" stop="20260828165100 +0000" channel="beinsports3.tr">
+  <programme start="20260828150000 +0000" stop="20260828164400 +0000" channel="beinsports3.tr">
     <title lang="tr">Nott&#x27;m Forest - Leeds</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828165200 +0000" stop="20260828172100 +0000" channel="beinsports3.tr">
+  <programme start="20260828164500 +0000" stop="20260828171400 +0000" channel="beinsports3.tr">
     <title lang="tr">Ipswich - Sunderland</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828172200 +0000" stop="20260828175100 +0000" channel="beinsports3.tr">
+  <programme start="20260828171500 +0000" stop="20260828174400 +0000" channel="beinsports3.tr">
     <title lang="tr">Brentford - Tottenham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828175200 +0000" stop="20260828182100 +0000" channel="beinsports3.tr">
+  <programme start="20260828174500 +0000" stop="20260828181400 +0000" channel="beinsports3.tr">
     <title lang="tr">Man City - Bournemouth</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828182200 +0000" stop="20260828185600 +0000" channel="beinsports3.tr">
+  <programme start="20260828181500 +0000" stop="20260828184900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Preview</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828185700 +0000" stop="20260828190600 +0000" channel="beinsports3.tr">
+  <programme start="20260828185000 +0000" stop="20260828185900 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260828190700 +0000" stop="20260828210700 +0000" channel="beinsports3.tr">
+  <programme start="20260828190000 +0000" stop="20260828210000 +0000" channel="beinsports3.tr">
     <title lang="tr">C. Palace - Man City</title>
     <category lang="tr">Sports</category>
   </programme>
