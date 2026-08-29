@@ -16,46 +16,6 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260829044500 +0000" stop="20260829045900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Süper Lig Gol Kralı</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829050000 +0000" stop="20260829064400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Pendikspor - Bandırmaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829064500 +0000" stop="20260829082900 +0000" channel="beinsports2.tr">
-    <title lang="tr">A. Keçiörengücü - Ümraniyespor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829083000 +0000" stop="20260829101500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Antalyaspor - Sarıyer</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829101600 +0000" stop="20260829120000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Muğlaspor - Boluspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829120100 +0000" stop="20260829134400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Pendikspor - Bandırmaspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829134500 +0000" stop="20260829153900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Antalyaspor - Sarıyer</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829154000 +0000" stop="20260829155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829160000 +0000" stop="20260829182900 +0000" channel="beinsports2.tr">
-    <title lang="tr">İstanbulspor - F. Karagümrük</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260829183000 +0000" stop="20260829203000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Gaziantep FK - Ç.Rizespor</title>
-    <category lang="tr">Sports</category>
-  </programme>
   <programme start="20260829044500 +0000" stop="20260829062900 +0000" channel="beinsports3.tr">
     <title lang="tr">Arsenal - Coventry</title>
     <category lang="tr">Sports</category>
@@ -96,27 +56,31 @@
     <title lang="tr">Coventry - Hull City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829160100 +0000" stop="20260829161900 +0000" channel="beinsports3.tr">
+  <programme start="20260829160100 +0000" stop="20260829170100 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829162000 +0000" stop="20260829162900 +0000" channel="beinsports3.tr">
+  <programme start="20260829160200 +0000" stop="20260829162000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260829162100 +0000" stop="20260829163000 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829163000 +0000" stop="20260829183800 +0000" channel="beinsports3.tr">
+  <programme start="20260829163100 +0000" stop="20260829183900 +0000" channel="beinsports3.tr">
     <title lang="tr">Tottenham - Newcastle</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829183900 +0000" stop="20260829184400 +0000" channel="beinsports3.tr">
+  <programme start="20260829184000 +0000" stop="20260829184500 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829184500 +0000" stop="20260829204500 +0000" channel="beinsports3.tr">
+  <programme start="20260829184600 +0000" stop="20260829204600 +0000" channel="beinsports3.tr">
     <title lang="tr">Lyon - Le Havre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260829204600 +0000" stop="20260829224600 +0000" channel="beinsports3.tr">
+  <programme start="20260829204700 +0000" stop="20260829224700 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
