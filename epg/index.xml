@@ -16,120 +16,112 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20260904043000 +0000" stop="20260904061400 +0000" channel="beinsports2.tr">
-    <title lang="tr">F. Karagümrük - Kayserispor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904061500 +0000" stop="20260904075900 +0000" channel="beinsports2.tr">
+  <programme start="20260905041500 +0000" stop="20260905055900 +0000" channel="beinsports2.tr">
     <title lang="tr">Sivasspor - Mardin 1969</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904080000 +0000" stop="20260904094400 +0000" channel="beinsports2.tr">
+  <programme start="20260905060000 +0000" stop="20260905074400 +0000" channel="beinsports2.tr">
     <title lang="tr">Igdır FK - Manisa FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904094500 +0000" stop="20260904112900 +0000" channel="beinsports2.tr">
+  <programme start="20260905074500 +0000" stop="20260905092900 +0000" channel="beinsports2.tr">
     <title lang="tr">Bursaspor - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904113000 +0000" stop="20260904131400 +0000" channel="beinsports2.tr">
+  <programme start="20260905093000 +0000" stop="20260905111400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bodrum FK - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904131500 +0000" stop="20260904150100 +0000" channel="beinsports2.tr">
+  <programme start="20260905111500 +0000" stop="20260905125900 +0000" channel="beinsports2.tr">
     <title lang="tr">Bandırmaspor - Antalyaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904150200 +0000" stop="20260904165300 +0000" channel="beinsports2.tr">
-    <title lang="tr">Ümraniyespor - Muğlaspor</title>
+  <programme start="20260905130000 +0000" stop="20260905135900 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904165400 +0000" stop="20260904165900 +0000" channel="beinsports2.tr">
+  <programme start="20260905140000 +0000" stop="20260905163900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Erzurumspor FK - T.Konyaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905164000 +0000" stop="20260905165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905170000 +0000" stop="20260905185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">A. Keçiörengücü - Sarıyer</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905190000 +0000" stop="20260905191900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905192000 +0000" stop="20260905192400 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904170000 +0000" stop="20260904185800 +0000" channel="beinsports2.tr">
-    <title lang="tr">Lyon - Auxerre</title>
+  <programme start="20260905192500 +0000" stop="20260905212500 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sporting CP - Nacional</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904185900 +0000" stop="20260904190400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Önü</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904190500 +0000" stop="20260904210500 +0000" channel="beinsports2.tr">
-    <title lang="tr">PSG - Monaco</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904044500 +0000" stop="20260904045900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904050000 +0000" stop="20260904064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Fulham</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904064500 +0000" stop="20260904065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904070000 +0000" stop="20260904084400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Man Utd - Ipswich</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904084500 +0000" stop="20260904085900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904090000 +0000" stop="20260904104400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Aston Villa - Arsenal</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904104500 +0000" stop="20260904105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904110000 +0000" stop="20260904124400 +0000" channel="beinsports3.tr">
-    <title lang="tr">C. Palace - Man City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904124500 +0000" stop="20260904125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904130000 +0000" stop="20260904144400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Nott&#x27;m Forest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904144500 +0000" stop="20260904145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904150000 +0000" stop="20260904164400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Coventry - Hull City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904164500 +0000" stop="20260904171400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Bournemouth - Everton</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260904171500 +0000" stop="20260904174400 +0000" channel="beinsports3.tr">
+  <programme start="20260905050000 +0000" stop="20260905064400 +0000" channel="beinsports3.tr">
     <title lang="tr">Tottenham - Newcastle</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904174500 +0000" stop="20260904181400 +0000" channel="beinsports3.tr">
+  <programme start="20260905064500 +0000" stop="20260905082900 +0000" channel="beinsports3.tr">
     <title lang="tr">Leeds - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904181500 +0000" stop="20260904184900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Preview</title>
+  <programme start="20260905083000 +0000" stop="20260905084400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904185000 +0000" stop="20260904185900 +0000" channel="beinsports3.tr">
+  <programme start="20260905084500 +0000" stop="20260905102900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Ipswich - Liverpool</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905103000 +0000" stop="20260905111900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier Lig Hafta Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905112000 +0000" stop="20260905112900 +0000" channel="beinsports3.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260904190000 +0000" stop="20260904210000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Ipswich - Liverpool</title>
+  <programme start="20260905113000 +0000" stop="20260905133000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Newcastle - Bournemouth</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905133100 +0000" stop="20260905134900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Masterclass</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905135000 +0000" stop="20260905135900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905140000 +0000" stop="20260905160000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man City - Coventry</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905160100 +0000" stop="20260905161900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Masterclass</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905162000 +0000" stop="20260905162900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905163000 +0000" stop="20260905183800 +0000" channel="beinsports3.tr">
+    <title lang="tr">Hull City - Aston Villa</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905183900 +0000" stop="20260905184400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905184500 +0000" stop="20260905204500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Nice - Le Mans</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260905023000 +0000" stop="20260905033000 +0000" channel="beinsports4.tr">
@@ -168,87 +160,91 @@
     <title lang="tr">Formula 3 İtalya</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905082600 +0000" stop="20260905083900 +0000" channel="beinsports4.tr">
+  <programme start="20260905082600 +0000" stop="20260905083000 +0000" channel="beinsports4.tr">
     <title lang="tr">Porsche Super Cup Ispanya GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905084000 +0000" stop="20260905084400 +0000" channel="beinsports4.tr">
+  <programme start="20260905083100 +0000" stop="20260905084400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Porsche Super Cup Ispanya GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260905084500 +0000" stop="20260905084900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905084500 +0000" stop="20260905093900 +0000" channel="beinsports4.tr">
+  <programme start="20260905085000 +0000" stop="20260905094400 +0000" channel="beinsports4.tr">
     <title lang="tr">Porsche Super Cup</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905094000 +0000" stop="20260905095400 +0000" channel="beinsports4.tr">
+  <programme start="20260905094500 +0000" stop="20260905095900 +0000" channel="beinsports4.tr">
     <title lang="tr">DTM Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905095500 +0000" stop="20260905101900 +0000" channel="beinsports4.tr">
+  <programme start="20260905100000 +0000" stop="20260905102400 +0000" channel="beinsports4.tr">
     <title lang="tr">DTM Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905102000 +0000" stop="20260905102400 +0000" channel="beinsports4.tr">
+  <programme start="20260905102500 +0000" stop="20260905102900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905102500 +0000" stop="20260905113800 +0000" channel="beinsports4.tr">
+  <programme start="20260905103000 +0000" stop="20260905114300 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 İtalya GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905113900 +0000" stop="20260905115100 +0000" channel="beinsports4.tr">
+  <programme start="20260905114400 +0000" stop="20260905115600 +0000" channel="beinsports4.tr">
     <title lang="tr">Adac GT Masters Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905115200 +0000" stop="20260905120400 +0000" channel="beinsports4.tr">
+  <programme start="20260905115700 +0000" stop="20260905120900 +0000" channel="beinsports4.tr">
     <title lang="tr">Adac GT Masters Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905120500 +0000" stop="20260905120900 +0000" channel="beinsports4.tr">
+  <programme start="20260905121000 +0000" stop="20260905121400 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905121000 +0000" stop="20260905130900 +0000" channel="beinsports4.tr">
+  <programme start="20260905121500 +0000" stop="20260905131400 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 2 İtalya</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905131000 +0000" stop="20260905132400 +0000" channel="beinsports4.tr">
+  <programme start="20260905131500 +0000" stop="20260905132900 +0000" channel="beinsports4.tr">
     <title lang="tr">Adac GT4 Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905132500 +0000" stop="20260905134400 +0000" channel="beinsports4.tr">
+  <programme start="20260905133000 +0000" stop="20260905134900 +0000" channel="beinsports4.tr">
     <title lang="tr">Adac GT4 Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905134500 +0000" stop="20260905135400 +0000" channel="beinsports4.tr">
+  <programme start="20260905135000 +0000" stop="20260905135900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905135500 +0000" stop="20260905151100 +0000" channel="beinsports4.tr">
+  <programme start="20260905140000 +0000" stop="20260905151600 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 İtalya GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905151200 +0000" stop="20260905160900 +0000" channel="beinsports4.tr">
+  <programme start="20260905151700 +0000" stop="20260905161400 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 3 İtalya</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905161000 +0000" stop="20260905170900 +0000" channel="beinsports4.tr">
+  <programme start="20260905161500 +0000" stop="20260905171400 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 2 İtalya</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905171000 +0000" stop="20260905174900 +0000" channel="beinsports4.tr">
+  <programme start="20260905171500 +0000" stop="20260905175400 +0000" channel="beinsports4.tr">
     <title lang="tr">The History Of Gones</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905175000 +0000" stop="20260905175400 +0000" channel="beinsports4.tr">
+  <programme start="20260905175500 +0000" stop="20260905175900 +0000" channel="beinsports4.tr">
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905175500 +0000" stop="20260905195600 +0000" channel="beinsports4.tr">
+  <programme start="20260905180000 +0000" stop="20260905200000 +0000" channel="beinsports4.tr">
     <title lang="tr">Saint-Étienne - Montpellier</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260905195700 +0000" stop="20260905215700 +0000" channel="beinsports4.tr">
+  <programme start="20260905200100 +0000" stop="20260905220100 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 İtalya GP</title>
     <category lang="tr">Sports</category>
   </programme>
