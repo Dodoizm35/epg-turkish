@@ -56,8 +56,12 @@
     <title lang="tr">Sivasspor - Muğlaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260915144500 +0000" stop="20260915164400 +0000" channel="beinsports2.tr">
+  <programme start="20260915144500 +0000" stop="20260915145900 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915150000 +0000" stop="20260915164400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bursaspor - E. Erokspor</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260915164500 +0000" stop="20260915165900 +0000" channel="beinsports2.tr">
@@ -80,68 +84,124 @@
     <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914044500 +0000" stop="20260914045900 +0000" channel="beinsports3.tr">
+  <programme start="20260915044500 +0000" stop="20260915045900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914050000 +0000" stop="20260914064400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Aston Villa - Nott&#x27;m Forest</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260914064500 +0000" stop="20260914065900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260914070000 +0000" stop="20260914084400 +0000" channel="beinsports3.tr">
+  <programme start="20260915050000 +0000" stop="20260915064400 +0000" channel="beinsports3.tr">
     <title lang="tr">C. Palace - Ipswich</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914084500 +0000" stop="20260914085900 +0000" channel="beinsports3.tr">
+  <programme start="20260915064500 +0000" stop="20260915065900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League National Pride</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914090000 +0000" stop="20260914104400 +0000" channel="beinsports3.tr">
+  <programme start="20260915070000 +0000" stop="20260915084400 +0000" channel="beinsports3.tr">
     <title lang="tr">Bournemouth - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914104500 +0000" stop="20260914105900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
+  <programme start="20260915084500 +0000" stop="20260915085900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914110000 +0000" stop="20260914124400 +0000" channel="beinsports3.tr">
+  <programme start="20260915090000 +0000" stop="20260915104400 +0000" channel="beinsports3.tr">
     <title lang="tr">Tottenham - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914124500 +0000" stop="20260914125900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
+  <programme start="20260915104500 +0000" stop="20260915105900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914130000 +0000" stop="20260914144400 +0000" channel="beinsports3.tr">
+  <programme start="20260915110000 +0000" stop="20260915124400 +0000" channel="beinsports3.tr">
     <title lang="tr">Sunderland - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914144500 +0000" stop="20260914145900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
+  <programme start="20260915124500 +0000" stop="20260915125900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914150000 +0000" stop="20260914164400 +0000" channel="beinsports3.tr">
+  <programme start="20260915130000 +0000" stop="20260915144400 +0000" channel="beinsports3.tr">
     <title lang="tr">Coventry - Brighton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914164500 +0000" stop="20260914165900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League National Pride</title>
+  <programme start="20260915144500 +0000" stop="20260915154500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914170000 +0000" stop="20260914184900 +0000" channel="beinsports3.tr">
+  <programme start="20260915144500 +0000" stop="20260915145900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915150000 +0000" stop="20260915160000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds - Newcastle</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915150000 +0000" stop="20260915164400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Leeds - Newcastle</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915164500 +0000" stop="20260915174500 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915164500 +0000" stop="20260915165900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915170000 +0000" stop="20260915180000 +0000" channel="beinsports3.tr">
     <title lang="tr">Man Utd - Man City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914185000 +0000" stop="20260914185900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Maç Önü</title>
+  <programme start="20260915170000 +0000" stop="20260915172900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man Utd - Man City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260914190000 +0000" stop="20260914210000 +0000" channel="beinsports3.tr">
-    <title lang="tr">Leeds - Newcastle</title>
+  <programme start="20260915173000 +0000" stop="20260915183000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Hull City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915173000 +0000" stop="20260915175900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Hull City</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915180000 +0000" stop="20260915190000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915180000 +0000" stop="20260915182900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915183000 +0000" stop="20260915193000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Nott&#x27;m Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915183000 +0000" stop="20260915185900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Aston Villa - Nott&#x27;m Forest</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915190000 +0000" stop="20260915200000 +0000" channel="beinsports3.tr">
+    <title lang="tr">C. Palace - Ipswich</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915190000 +0000" stop="20260915192900 +0000" channel="beinsports3.tr">
+    <title lang="tr">C. Palace - Ipswich</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915193000 +0000" stop="20260915203000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915193000 +0000" stop="20260915195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915200000 +0000" stop="20260915210000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260915200000 +0000" stop="20260915220000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260915024500 +0000" stop="20260915025900 +0000" channel="beinsports4.tr">
