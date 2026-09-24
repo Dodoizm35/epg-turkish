@@ -80,7 +80,11 @@
     <title lang="tr">Batman P. - Bursaspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924204500 +0000" stop="20260924224500 +0000" channel="beinsports2.tr">
+  <programme start="20260924204500 +0000" stop="20260924204600 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924204700 +0000" stop="20260924224700 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
