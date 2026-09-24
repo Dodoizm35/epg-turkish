@@ -204,11 +204,15 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924083000 +0000" stop="20260924092400 +0000" channel="beinsports4.tr">
+  <programme start="20260924083000 +0000" stop="20260924092900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Azerbaycan GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924092500 +0000" stop="20260924095900 +0000" channel="beinsports4.tr">
+  <programme start="20260924093000 +0000" stop="20260924095400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Chasing The Dream</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924095500 +0000" stop="20260924095900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -221,51 +225,51 @@
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260924111500 +0000" stop="20260924112900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 İtalya GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924113000 +0000" stop="20260924115400 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 İspanya GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924113000 +0000" stop="20260924114400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 İtalya GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260924114500 +0000" stop="20260924115900 +0000" channel="beinsports4.tr">
+  <programme start="20260924115500 +0000" stop="20260924115900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924120000 +0000" stop="20260924131400 +0000" channel="beinsports4.tr">
+  <programme start="20260924120000 +0000" stop="20260924125900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Azerbaycan GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924130000 +0000" stop="20260924131400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 2 İspanya Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260924131500 +0000" stop="20260924132900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 Macaristan</title>
+    <title lang="tr">Formula 2 İspanya Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20260924133000 +0000" stop="20260924142900 +0000" channel="beinsports4.tr">
+    <title lang="tr">European Le Mans Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924162900 +0000" channel="beinsports4.tr">
+    <title lang="tr">DTM Esports Championship</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924172900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 2 Azerbaycan</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924154400 +0000" channel="beinsports4.tr">
+  <programme start="20260924173000 +0000" stop="20260924183200 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 2 Azerbaycan</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20260924183300 +0000" stop="20260924194400 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Azerbaycan GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20260924154500 +0000" stop="20260924164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 2 Azerbaycan</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260924164500 +0000" stop="20260924175900 +0000" channel="beinsports4.tr">
+  <programme start="20260924194500 +0000" stop="20260924214500 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Azerbaycan GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924194400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Angers - Troyes</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260924194500 +0000" stop="20260924204400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 2 Azerbaycan</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20260924204500 +0000" stop="20260924224500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 İtalya GP</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
