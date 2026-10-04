@@ -180,12 +180,16 @@
     <title lang="tr">Formula 1 Bahreyn GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261004131500 +0000" stop="20261004144300 +0000" channel="beinsports4.tr">
+  <programme start="20261004131500 +0000" stop="20261004142900 +0000" channel="beinsports4.tr">
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20261004143000 +0000" stop="20261004144300 +0000" channel="beinsports4.tr">
+    <title lang="tr">DTM Geniş Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20261004144400 +0000" stop="20261004145700 +0000" channel="beinsports4.tr">
-    <title lang="tr">Chasing The Dream</title>
+    <title lang="tr">DTM Geniş Özet</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261004145800 +0000" stop="20261004145900 +0000" channel="beinsports4.tr">
@@ -196,24 +200,16 @@
     <title lang="tr">Nimes - Aıx</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261004164500 +0000" stop="20261004175900 +0000" channel="beinsports4.tr">
-    <title lang="tr">FIA European Truck Racing</title>
+  <programme start="20261004164500 +0000" stop="20261004190000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Bahreyn GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261004180000 +0000" stop="20261004185900 +0000" channel="beinsports4.tr">
-    <title lang="tr">FIA European Truck Racing</title>
+  <programme start="20261004190100 +0000" stop="20261004202900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261004190000 +0000" stop="20261004194500 +0000" channel="beinsports4.tr">
-    <title lang="tr">FIA European Truck Racing</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261004194600 +0000" stop="20261004204400 +0000" channel="beinsports4.tr">
-    <title lang="tr">FIA European Truck Racing</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261004204500 +0000" stop="20261004224500 +0000" channel="beinsports4.tr">
-    <title lang="tr">Chasing The Dream</title>
+  <programme start="20261004203000 +0000" stop="20261004223000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
