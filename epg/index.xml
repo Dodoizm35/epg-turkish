@@ -48,11 +48,11 @@
     <title lang="tr">Manisa FK - İstanbulspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009124500 +0000" stop="20261009131400 +0000" channel="beinsports2.tr">
+  <programme start="20261009124500 +0000" stop="20261009131500 +0000" channel="beinsports2.tr">
     <title lang="tr">Konyaspor - Başakşehir</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009131500 +0000" stop="20261009134400 +0000" channel="beinsports2.tr">
+  <programme start="20261009131600 +0000" stop="20261009134400 +0000" channel="beinsports2.tr">
     <title lang="tr">TFF 1.Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -88,11 +88,11 @@
     <title lang="tr">Samsunspor - Trabzonspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009201500 +0000" stop="20261009204400 +0000" channel="beinsports2.tr">
+  <programme start="20261009201500 +0000" stop="20261009204500 +0000" channel="beinsports2.tr">
     <title lang="tr">Konyaspor - Başakşehir</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009204500 +0000" stop="20261009224500 +0000" channel="beinsports2.tr">
+  <programme start="20261009204600 +0000" stop="20261009224600 +0000" channel="beinsports2.tr">
     <title lang="tr">Alanyaspor - Erzurumspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -164,6 +164,10 @@
     <title lang="tr">Braga - Sporting CP</title>
     <category lang="tr">Sports</category>
   </programme>
+  <programme start="20261009024500 +0000" stop="20261009025900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20261009030000 +0000" stop="20261009044400 +0000" channel="beinsports4.tr">
     <title lang="tr">Toulouse - Le Havre</title>
     <category lang="tr">Sports</category>
@@ -180,32 +184,76 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009083000 +0000" stop="20261009095900 +0000" channel="beinsports4.tr">
+  <programme start="20261009083000 +0000" stop="20261009093000 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009100000 +0000" stop="20261009121900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Auxerre - Brest</title>
+  <programme start="20261009093100 +0000" stop="20261009094400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 İtalya GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009094500 +0000" stop="20261009095900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 İspanya GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009100000 +0000" stop="20261009101400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Azerbaycan GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009101500 +0000" stop="20261009102900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Bahreyn GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009103000 +0000" stop="20261009112900 +0000" channel="beinsports4.tr">
+    <title lang="tr">DTM Magazin</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009113000 +0000" stop="20261009115900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Porsche Sixt Carrera Cup</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009120000 +0000" stop="20261009121900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Chasing The Dream</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261009122000 +0000" stop="20261009122900 +0000" channel="beinsports4.tr">
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009123000 +0000" stop="20261009135900 +0000" channel="beinsports4.tr">
+  <programme start="20261009123000 +0000" stop="20261009131500 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009140000 +0000" stop="20261009145900 +0000" channel="beinsports4.tr">
+  <programme start="20261009131600 +0000" stop="20261009133000 +0000" channel="beinsports4.tr">
+    <title lang="tr">Chasing The Dream</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009133100 +0000" stop="20261009143200 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009150000 +0000" stop="20261009164400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Nice - Lille</title>
+  <programme start="20261009143300 +0000" stop="20261009151800 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261009164500 +0000" stop="20261009183800 +0000" channel="beinsports4.tr">
+  <programme start="20261009151900 +0000" stop="20261009153300 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Bahreyn GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009153400 +0000" stop="20261009171800 +0000" channel="beinsports4.tr">
     <title lang="tr">Marseille - PSG</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009171900 +0000" stop="20261009173100 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009173200 +0000" stop="20261009175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009180000 +0000" stop="20261009183800 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 1 Preview</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261009183900 +0000" stop="20261009184400 +0000" channel="beinsports4.tr">
@@ -214,6 +262,10 @@
   </programme>
   <programme start="20261009184500 +0000" stop="20261009204500 +0000" channel="beinsports4.tr">
     <title lang="tr">Lens - Lyon</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261009204600 +0000" stop="20261009224600 +0000" channel="beinsports4.tr">
+    <title lang="tr">Iconic Players</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
