@@ -132,23 +132,31 @@
     <title lang="tr">Iconic Players</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011030000 +0000" stop="20261011044400 +0000" channel="beinsports4.tr">
+  <programme start="20261011030000 +0000" stop="20261011035900 +0000" channel="beinsports4.tr">
     <title lang="tr">Maritimo - Porto</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011044500 +0000" stop="20261011062900 +0000" channel="beinsports4.tr">
+  <programme start="20261011040000 +0000" stop="20261011054400 +0000" channel="beinsports4.tr">
     <title lang="tr">Nantes - Reims</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011063000 +0000" stop="20261011081400 +0000" channel="beinsports4.tr">
+  <programme start="20261011054500 +0000" stop="20261011072900 +0000" channel="beinsports4.tr">
     <title lang="tr">PSG - Le Mans</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011081500 +0000" stop="20261011091400 +0000" channel="beinsports4.tr">
+  <programme start="20261011073000 +0000" stop="20261011074400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 İspanya GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261011074500 +0000" stop="20261011075900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Azerbaycan GP</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261011080000 +0000" stop="20261011090900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011091500 +0000" stop="20261011102900 +0000" channel="beinsports4.tr">
+  <programme start="20261011091000 +0000" stop="20261011102900 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -160,24 +168,16 @@
     <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011120000 +0000" stop="20261011142900 +0000" channel="beinsports4.tr">
+  <programme start="20261011120000 +0000" stop="20261011142500 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011143000 +0000" stop="20261011155900 +0000" channel="beinsports4.tr">
+  <programme start="20261011142600 +0000" stop="20261011155900 +0000" channel="beinsports4.tr">
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011160000 +0000" stop="20261011161400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 İtalya GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261011161500 +0000" stop="20261011162900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 2 İtalya Geniş Özet</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261011163000 +0000" stop="20261011165400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 İspanya GP</title>
+  <programme start="20261011160000 +0000" stop="20261011165400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ferrari Challenge Europe</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261011165500 +0000" stop="20261011165900 +0000" channel="beinsports4.tr">
@@ -188,11 +188,7 @@
     <title lang="tr">Benfica - Guimaraes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261011190000 +0000" stop="20261011191900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 Bahreyn GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261011192000 +0000" stop="20261011212000 +0000" channel="beinsports4.tr">
+  <programme start="20261011190000 +0000" stop="20261011210000 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Singapur GP</title>
     <category lang="tr">Sports</category>
   </programme>
