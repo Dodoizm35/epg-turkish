@@ -16,156 +16,168 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
-  <programme start="20261013040000 +0000" stop="20261013054400 +0000" channel="beinsports2.tr">
-    <title lang="tr">Boluspor - Antalyaspor</title>
+  <programme start="20261014044500 +0000" stop="20261014045900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013054500 +0000" stop="20261013073000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Igdır FK - Batman P.</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013073100 +0000" stop="20261013091500 +0000" channel="beinsports2.tr">
-    <title lang="tr">Kayserispor - Manisa FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013091600 +0000" stop="20261013105900 +0000" channel="beinsports2.tr">
-    <title lang="tr">İstanbulspor - E. Erokspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013110000 +0000" stop="20261013111400 +0000" channel="beinsports2.tr">
-    <title lang="tr">TFF 1.Lig Haftanın Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013111500 +0000" stop="20261013112900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013113000 +0000" stop="20261013133900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Bandırmaspor - Sivasspor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013134000 +0000" stop="20261013135900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013140000 +0000" stop="20261013155900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Sarıyer - Bodrum FK</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013160000 +0000" stop="20261013163900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Sonu</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013164000 +0000" stop="20261013165900 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Başlıyor</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013170000 +0000" stop="20261013185900 +0000" channel="beinsports2.tr">
+  <programme start="20261014050000 +0000" stop="20261014064400 +0000" channel="beinsports2.tr">
     <title lang="tr">Pendikspor - Vanspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013190000 +0000" stop="20261013193000 +0000" channel="beinsports2.tr">
-    <title lang="tr">Maç Sonu</title>
+  <programme start="20261014064500 +0000" stop="20261014065900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013193100 +0000" stop="20261013213100 +0000" channel="beinsports2.tr">
+  <programme start="20261014070000 +0000" stop="20261014084400 +0000" channel="beinsports2.tr">
     <title lang="tr">Bandırmaspor - Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013040000 +0000" stop="20261013054400 +0000" channel="beinsports3.tr">
-    <title lang="tr">Sunderland - Brighton</title>
+  <programme start="20261014084500 +0000" stop="20261014085900 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013054500 +0000" stop="20261013072900 +0000" channel="beinsports3.tr">
+  <programme start="20261014090000 +0000" stop="20261014104400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Sarıyer - Bodrum FK</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014104500 +0000" stop="20261014110900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Süper Lig Raporu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014111000 +0000" stop="20261014112900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014113000 +0000" stop="20261014133900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Batman P. - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014134000 +0000" stop="20261014135900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014155900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Ümraniyespor - Boluspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014162900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014164400 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1. Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014164500 +0000" stop="20261014165900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014185900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Antalyaspor - Kayserispor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014190000 +0000" stop="20261014204400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Batman P. - İstanbulspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014204500 +0000" stop="20261014224500 +0000" channel="beinsports2.tr">
+    <title lang="tr">TFF 1. Lig Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014054400 +0000" channel="beinsports3.tr">
     <title lang="tr">Ipswich - Fulham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013073000 +0000" stop="20261013091400 +0000" channel="beinsports3.tr">
+  <programme start="20261014054500 +0000" stop="20261014072900 +0000" channel="beinsports3.tr">
     <title lang="tr">Man Utd - Tottenham</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013091500 +0000" stop="20261013105900 +0000" channel="beinsports3.tr">
+  <programme start="20261014073000 +0000" stop="20261014091400 +0000" channel="beinsports3.tr">
     <title lang="tr">Hull City - Everton</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013110000 +0000" stop="20261013124500 +0000" channel="beinsports3.tr">
+  <programme start="20261014091500 +0000" stop="20261014105900 +0000" channel="beinsports3.tr">
     <title lang="tr">C. Palace - Nott&#x27;m Forest</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013124600 +0000" stop="20261013142900 +0000" channel="beinsports3.tr">
+  <programme start="20261014110000 +0000" stop="20261014124900 +0000" channel="beinsports3.tr">
     <title lang="tr">Liverpool - Man City</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013143000 +0000" stop="20261013161400 +0000" channel="beinsports3.tr">
+  <programme start="20261014125000 +0000" stop="20261014142900 +0000" channel="beinsports3.tr">
     <title lang="tr">Coventry - Newcastle</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013161500 +0000" stop="20261013175900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Liverpool - Man City</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013180000 +0000" stop="20261013194400 +0000" channel="beinsports3.tr">
+  <programme start="20261014143000 +0000" stop="20261014161400 +0000" channel="beinsports3.tr">
     <title lang="tr">Arsenal - Leeds</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013194500 +0000" stop="20261013195900 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Golleri</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013200000 +0000" stop="20261013202900 +0000" channel="beinsports3.tr">
+  <programme start="20261014161500 +0000" stop="20261014175900 +0000" channel="beinsports3.tr">
     <title lang="tr">Chelsea - Bournemouth</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013203000 +0000" stop="20261013223000 +0000" channel="beinsports3.tr">
+  <programme start="20261014180000 +0000" stop="20261014194400 +0000" channel="beinsports3.tr">
     <title lang="tr">Aston Villa - Brentford</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013021500 +0000" stop="20261013035900 +0000" channel="beinsports4.tr">
+  <programme start="20261014194500 +0000" stop="20261014195900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Premier League Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014200000 +0000" stop="20261014202900 +0000" channel="beinsports3.tr">
+    <title lang="tr">Sunderland - Brighton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014203000 +0000" stop="20261014223000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Ipswich - Fulham</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014021500 +0000" stop="20261014035900 +0000" channel="beinsports4.tr">
     <title lang="tr">Lens - Lyon</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013040000 +0000" stop="20261013054400 +0000" channel="beinsports4.tr">
-    <title lang="tr">PSG - Le Mans</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013054500 +0000" stop="20261013072900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Monaco - Toulouse</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013073000 +0000" stop="20261013091400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Lorient - Paris FC</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013091500 +0000" stop="20261013105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Braga - Sporting CP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261013110000 +0000" stop="20261013124400 +0000" channel="beinsports4.tr">
+  <programme start="20261014040000 +0000" stop="20261014054400 +0000" channel="beinsports4.tr">
     <title lang="tr">Lille - Le Havre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013124500 +0000" stop="20261013142900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Brest - Angers</title>
+  <programme start="20261014054500 +0000" stop="20261014072900 +0000" channel="beinsports4.tr">
+    <title lang="tr">PSG - Le Mans</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013143000 +0000" stop="20261013161400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Saint-Étienne - Rodez</title>
+  <programme start="20261014073000 +0000" stop="20261014091400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Monaco - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013161500 +0000" stop="20261013175900 +0000" channel="beinsports4.tr">
+  <programme start="20261014091500 +0000" stop="20261014105900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Maritimo - Porto</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014110000 +0000" stop="20261014124400 +0000" channel="beinsports4.tr">
     <title lang="tr">Lorient - Paris FC</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013180000 +0000" stop="20261013194400 +0000" channel="beinsports4.tr">
+  <programme start="20261014124500 +0000" stop="20261014142900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Brest - Angers</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014143000 +0000" stop="20261014161400 +0000" channel="beinsports4.tr">
     <title lang="tr">Nice - Strasbourg</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013194500 +0000" stop="20261013202900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Portekiz Ligi Maç Özetleri</title>
+  <programme start="20261014161500 +0000" stop="20261014175900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Rennes - Auxerre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261013203000 +0000" stop="20261013223000 +0000" channel="beinsports4.tr">
+  <programme start="20261014180000 +0000" stop="20261014194400 +0000" channel="beinsports4.tr">
+    <title lang="tr">Troyes - Marseille</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014194500 +0000" stop="20261014201400 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261014201500 +0000" stop="20261014221500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Portekiz Ligi Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
