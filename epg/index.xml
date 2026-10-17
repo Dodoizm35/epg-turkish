@@ -16,6 +16,62 @@
     <icon src="https://i.imgur.com/mMDwBQ4.png" />
   </channel>
 
+  <programme start="20261017040000 +0000" stop="20261017054400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Mardin 1969 - F. Karagümrük</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017054500 +0000" stop="20261017072900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Muğlaspor - Bursaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017073000 +0000" stop="20261017091300 +0000" channel="beinsports2.tr">
+    <title lang="tr">Manisa FK - E. Erokspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017091400 +0000" stop="20261017100400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Geçmişten Günümüze</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017100500 +0000" stop="20261017102900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017103000 +0000" stop="20261017123400 +0000" channel="beinsports2.tr">
+    <title lang="tr">Erzurumspor FK - Eyüpspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017123500 +0000" stop="20261017125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017130000 +0000" stop="20261017145900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Amed SF - T.Konyaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017150000 +0000" stop="20261017152900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017153000 +0000" stop="20261017154400 +0000" channel="beinsports2.tr">
+    <title lang="tr">1 Yıldız 10 Gol</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017154500 +0000" stop="20261017155900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017160000 +0000" stop="20261017175900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Bodrum FK - Bandırmaspor</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017180000 +0000" stop="20261017200000 +0000" channel="beinsports2.tr">
+    <title lang="tr">Red Star - Saint-Étienne</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261017200100 +0000" stop="20261017220100 +0000" channel="beinsports2.tr">
+    <title lang="tr">Geçmişten Günümüze</title>
+    <category lang="tr">Sports</category>
+  </programme>
   <programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="beinsports3.tr">
     <title lang="tr">Coventry - Newcastle</title>
     <category lang="tr">Sports</category>
