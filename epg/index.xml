@@ -176,12 +176,16 @@
     <title lang="tr">F1 Academy ABD</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261023194700 +0000" stop="20261023202900 +0000" channel="beinsports4.tr">
+  <programme start="20261023194700 +0000" stop="20261023202700 +0000" channel="beinsports4.tr">
     <title lang="tr">F1 Academy ABD</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261023203000 +0000" stop="20261023223000 +0000" channel="beinsports4.tr">
+  <programme start="20261023202800 +0000" stop="20261023205400 +0000" channel="beinsports4.tr">
     <title lang="tr">FIA European Truck Racing Özet</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261023205500 +0000" stop="20261023225500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Yarış Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
