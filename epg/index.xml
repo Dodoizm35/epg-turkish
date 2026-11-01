@@ -136,12 +136,28 @@
     <title lang="tr">Liverpool - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261101183000 +0000" stop="20261101185900 +0000" channel="beinsports3.tr">
+  <programme start="20261101183000 +0000" stop="20261101185800 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier Lig Hafta Sonu</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261101190000 +0000" stop="20261101193800 +0000" channel="beinsports3.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20261101185900 +0000" stop="20261101191400 +0000" channel="beinsports3.tr">
+    <title lang="tr">Chelsea - Man Utd</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261101191500 +0000" stop="20261101192100 +0000" channel="beinsports3.tr">
+    <title lang="tr">Man City - Brighton</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261101192200 +0000" stop="20261101192800 +0000" channel="beinsports3.tr">
+    <title lang="tr">Hull City - Ipswich</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261101192900 +0000" stop="20261101193100 +0000" channel="beinsports3.tr">
+    <title lang="tr">Bournemouth - Leeds</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261101193200 +0000" stop="20261101193800 +0000" channel="beinsports3.tr">
+    <title lang="tr">Liverpool - Arsenal</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261101193900 +0000" stop="20261101194400 +0000" channel="beinsports3.tr">
