@@ -144,8 +144,12 @@
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261103203000 +0000" stop="20261103223000 +0000" channel="beinsports4.tr">
+  <programme start="20261103203000 +0000" stop="20261103204400 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 2 Maç Özetleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261103204500 +0000" stop="20261103224500 +0000" channel="beinsports4.tr">
+    <title lang="tr">Portekiz Ligi Haftanın Golleri</title>
     <category lang="tr">Sports</category>
   </programme>
 </tv>
