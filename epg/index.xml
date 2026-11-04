@@ -148,11 +148,15 @@
     <title lang="tr">Lyon - Angers</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261104194500 +0000" stop="20261104201400 +0000" channel="beinsports4.tr">
+  <programme start="20261104194500 +0000" stop="20261104195900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261104200000 +0000" stop="20261104202900 +0000" channel="beinsports4.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261104201500 +0000" stop="20261104221500 +0000" channel="beinsports4.tr">
+  <programme start="20261104203000 +0000" stop="20261104223000 +0000" channel="beinsports4.tr">
     <title lang="tr">Portekiz Ligi Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
