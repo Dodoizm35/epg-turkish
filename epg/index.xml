@@ -44,8 +44,12 @@
     <title lang="tr">Ç.Rizespor - Erzurumspor FK</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108123000 +0000" stop="20261108125900 +0000" channel="beinsports2.tr">
+  <programme start="20261108123000 +0000" stop="20261108125100 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç Sonu</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261108125200 +0000" stop="20261108125900 +0000" channel="beinsports2.tr">
+    <title lang="tr">Maç Başlıyor</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261108130000 +0000" stop="20261108145900 +0000" channel="beinsports2.tr">
@@ -72,11 +76,11 @@
     <title lang="tr">Süper Lig Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108191500 +0000" stop="20261108192900 +0000" channel="beinsports2.tr">
+  <programme start="20261108191500 +0000" stop="20261108192700 +0000" channel="beinsports2.tr">
     <title lang="tr">1 Yıldız 10 Gol</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108193000 +0000" stop="20261108193800 +0000" channel="beinsports2.tr">
+  <programme start="20261108192800 +0000" stop="20261108193800 +0000" channel="beinsports2.tr">
     <title lang="tr">Ligue 1 Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -128,11 +132,11 @@
     <title lang="tr">Maç Önü</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108163000 +0000" stop="20261108182900 +0000" channel="beinsports3.tr">
+  <programme start="20261108163000 +0000" stop="20261108183000 +0000" channel="beinsports3.tr">
     <title lang="tr">Man Utd - Aston Villa</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108183000 +0000" stop="20261108185900 +0000" channel="beinsports3.tr">
+  <programme start="20261108183100 +0000" stop="20261108185900 +0000" channel="beinsports3.tr">
     <title lang="tr">Premier League Maç Özetleri</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -164,28 +168,20 @@
     <title lang="tr">Auxerre - Paris FC</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108083000 +0000" stop="20261108101400 +0000" channel="beinsports4.tr">
+  <programme start="20261108083000 +0000" stop="20261108085900 +0000" channel="beinsports4.tr">
     <title lang="tr">PSG - Troyes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108101500 +0000" stop="20261108102900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  <programme start="20261108090000 +0000" stop="20261108104400 +0000" channel="beinsports4.tr">
+    <title lang="tr">PSG - Troyes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261108103000 +0000" stop="20261108105900 +0000" channel="beinsports4.tr">
-    <title lang="tr">Ligue 1 Show</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108121300 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 Brezilya GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261108121400 +0000" stop="20261108133400 +0000" channel="beinsports4.tr">
-    <title lang="tr">Formula 1 Brezilya GP</title>
-    <category lang="tr">Sports</category>
-  </programme>
-  <programme start="20261108133500 +0000" stop="20261108134900 +0000" channel="beinsports4.tr">
+  <programme start="20261108104500 +0000" stop="20261108105900 +0000" channel="beinsports4.tr">
     <title lang="tr">Chasing The Dream</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261108110000 +0000" stop="20261108134900 +0000" channel="beinsports4.tr">
+    <title lang="tr">Formula 1 Brezilya GP</title>
     <category lang="tr">Sports</category>
   </programme>
   <programme start="20261108135000 +0000" stop="20261108135900 +0000" channel="beinsports4.tr">
