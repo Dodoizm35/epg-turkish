@@ -56,11 +56,11 @@
     <title lang="tr">Bursaspor - Sivasspor</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="beinsports2.tr">
+  <programme start="20261122180000 +0000" stop="20261122182900 +0000" channel="beinsports2.tr">
     <title lang="tr">Maç Sonu</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122183100 +0000" stop="20261122201400 +0000" channel="beinsports2.tr">
+  <programme start="20261122183000 +0000" stop="20261122201400 +0000" channel="beinsports2.tr">
     <title lang="tr">Batman P. - Muğlaspor</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -84,7 +84,11 @@
     <title lang="tr">Chelsea - Leeds</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122100000 +0000" stop="20261122114400 +0000" channel="beinsports3.tr">
+  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="beinsports3.tr">
+    <title lang="tr">Tottenham - Ipswich</title>
+    <category lang="tr">Sports</category>
+  </programme>
+  <programme start="20261122100100 +0000" stop="20261122114400 +0000" channel="beinsports3.tr">
     <title lang="tr">Tottenham - Ipswich</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -148,15 +152,15 @@
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122094400 +0000" channel="beinsports4.tr">
+  <programme start="20261122080000 +0000" stop="20261122094200 +0000" channel="beinsports4.tr">
     <title lang="tr">Lille - Lyon</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122094500 +0000" stop="20261122112900 +0000" channel="beinsports4.tr">
+  <programme start="20261122094300 +0000" stop="20261122113000 +0000" channel="beinsports4.tr">
     <title lang="tr">Monaco - Auxerre</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122113000 +0000" stop="20261122131400 +0000" channel="beinsports4.tr">
+  <programme start="20261122113100 +0000" stop="20261122131400 +0000" channel="beinsports4.tr">
     <title lang="tr">Lens - Toulouse</title>
     <category lang="tr">Sports</category>
   </programme>
@@ -180,11 +184,11 @@
     <title lang="tr">Lorient - Rennes</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122181700 +0000" stop="20261122204500 +0000" channel="beinsports4.tr">
+  <programme start="20261122181700 +0000" stop="20261122205000 +0000" channel="beinsports4.tr">
     <title lang="tr">Formula 1 Las Vegas GP</title>
     <category lang="tr">Sports</category>
   </programme>
-  <programme start="20261122204600 +0000" stop="20261122224600 +0000" channel="beinsports4.tr">
+  <programme start="20261122205100 +0000" stop="20261122225100 +0000" channel="beinsports4.tr">
     <title lang="tr">Finish Line</title>
     <category lang="tr">Sports</category>
   </programme>
